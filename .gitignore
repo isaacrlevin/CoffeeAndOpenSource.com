@@ -43,3 +43,5 @@ $RECYCLE.BIN/
 
 deploy-stage.bat
 deploy-stage.ps1
+
+resources/

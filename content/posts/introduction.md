@@ -2,6 +2,7 @@
 title: "Introducing Coffee & Open Source"
 date: 2020-06-22T09:24:21-07:00
 draft: false
+tags: ["welcome"]
 ---
 
 ## Hey Everyone!
