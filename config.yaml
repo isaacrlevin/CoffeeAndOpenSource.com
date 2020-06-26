@@ -95,7 +95,7 @@ params:
   pagNotFound:
     # option to specify the main picture of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/avataaars_404.png"
+    image: "/images/logo.png"
     # option to specify the title of the 404 page
     title: 404 Page Not Found :(
     # option to specify the subtitle of the 404 page
