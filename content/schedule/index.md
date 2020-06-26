@@ -11,6 +11,5 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|       |         |        |
-|       |         |        |
+|  [07/01/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [.NET Foundation](https://dotnetfoundation.org/)      | [Claire Novotny](https://twitter.com/clairernovotny)        |
 |       |         |        |
