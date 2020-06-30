@@ -41,7 +41,7 @@ params:
   customCss: ["css/site.css"]
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/logo.png"
+  favicon: "/images/logo_old.jpg"
   description: "Coffee & Open Source is your one-stop shop to learn about super fun things going on in the Open Source Community now."
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
