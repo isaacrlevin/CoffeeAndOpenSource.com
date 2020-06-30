@@ -41,7 +41,7 @@ params:
   customCss: ["css/site.css"]
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
-  favicon: "/images/logo.jpg"
+  favicon: "/images/logo.png"
   description: "Coffee & Open Source is your one-stop shop to learn about super fun things going on in the Open Source Community now."
   # parameter used to specify if you want to minify the imported js
   jsMinify: false
@@ -58,7 +58,7 @@ params:
   summary:
     # option to specify the default image in the summary list
     # the starting folder is configure in "assetDir" of this file
-    defaultImage : "/images/logo.jpg"
+    defaultImage : "/images/logo_old.jpg"
 
   # loading options
   loading:
@@ -75,7 +75,7 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/logo.jpg"
+    logo: "/images/logo_trans.png"
     # option to specify the font of the sidebar
     fontFamily: "Open Sans" # "Open Sans"
 
@@ -88,7 +88,7 @@ params:
   pagNotFound:
     # option to specify the main picture of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/logo.jpg"
+    image: "/images/logo.png"
     # option to specify the title of the 404 page
     title: 404 Page Not Found :(
     # option to specify the subtitle of the 404 page
@@ -108,7 +108,7 @@ params:
     # option to specify the subtitle in the homepage
     # subtitle: Personal website and blog
     # option to specify image in the homepage
-    image: "/images/logo.jpg" # worker.svg
+    image: "/images/logo.png" # worker.svg
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -116,7 +116,7 @@ params:
   footer:
     # option to specify the logo in the footer
     # the starting folder is configure in "assetDir" of this file
-    logo: "/images/logo.jpg"
+    logo: "/images/logo_trans.png"
     # option to specify your contact email in the footer
     # email:
     #   link: contact

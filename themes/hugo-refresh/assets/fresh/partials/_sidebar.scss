@@ -1,5 +1,5 @@
 /* ==========================================================================
-Sidebar Styles 
+Sidebar Styles
 ========================================================================== */
 
 //Sidebar animated icon trigger
@@ -26,15 +26,15 @@ Sidebar Styles
             fill: transparent;
             transition: stroke-dasharray 0.5s;
             &.path1 {
-                stroke-dashoffset: 5803.15px; 
+                stroke-dashoffset: 5803.15px;
                 stroke-dasharray: 2901.57px, 2981.57px, 240px;
             }
             &.path2 {
-                stroke-dashoffset: 800px; 
+                stroke-dashoffset: 800px;
                 stroke-dasharray: 400px, 480px, 240px;
             }
             &.path3 {
-                stroke-dashoffset: 6993.11px; 
+                stroke-dashoffset: 6993.11px;
                 stroke-dasharray: 3496.56px, 3576.56px, 240px;
             }
         }
@@ -69,7 +69,7 @@ Sidebar Styles
 
 //Sidebar
 .sidebar {
-    background: $dark-grey;
+    background: $blue-grey;
     width: 280px;
     height: 100%;
     position: fixed;
@@ -158,7 +158,7 @@ Sidebar Styles
                         transition: all .5s;
                         font-weight: 200 !important;
                         font-size: .8rem;
-                    } 
+                    }
                 }
             }
         }
