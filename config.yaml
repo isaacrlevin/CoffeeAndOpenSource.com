@@ -69,7 +69,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Open Sans"
+    fontFamily: "Cascadia Code"
 
   # sidebar options
   sidebar:
@@ -77,12 +77,12 @@ params:
     # the starting folder is configure in "assetDir" of this file
     logo: "/images/logo_trans.png"
     # option to specify the font of the sidebar
-    fontFamily: "Open Sans" # "Open Sans"
+    fontFamily: "Cascadia Code" # "Open Sans"
 
   # navbar options
   navbar:
     # option to specify the logo of the sidebar
-    fontFamily: "Open Sans"
+    fontFamily: "Cascadia Code"
 
   # 404 page options
   pagNotFound:
@@ -140,6 +140,9 @@ params:
     twitter:
        link: coffeeandoss
        title: Coffee&OSS
+    twitch:
+      link: isaacrlevin
+      title: Isaac Levin Twitch
     # option to specify your instagram username in the footer;
     # **uncomment** the below lines to show in footer
     # instagram:

@@ -2,13 +2,13 @@
 Classes to change the feel of bulma buttons
 ========================================================================== */
 
-// CTA buttons 
+// CTA buttons
 
 .button {
     cursor: pointer;
     transition: all 0.5s;
     &.cta {
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Cascadia Code', 'Open Sans', sans-serif;
         font-size: 1rem;
         font-weight: 600;
         padding: 26px 40px 26px 40px;
@@ -29,7 +29,7 @@ Classes to change the feel of bulma buttons
     &.signup-button {
         font-size: .9rem;
         font-weight: 600;
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Cascadia Code', 'Open Sans', sans-serif;
         padding: 24px 26px;
         width: 130px;
     }
@@ -52,7 +52,7 @@ Classes to change the feel of bulma buttons
         &.btn-outlined {
             border-color: $primary;
             color: $primary;
-            background-color: transparent; 
+            background-color: transparent;
             &:hover {
                 color: $white;
                 background-color: $primary;
@@ -75,7 +75,7 @@ Classes to change the feel of bulma buttons
         &.btn-outlined {
             border-color: $secondary;
             color: $secondary;
-            background-color: transparent; 
+            background-color: transparent;
             &:hover {
                 color: $white;
                 background-color: $secondary;
