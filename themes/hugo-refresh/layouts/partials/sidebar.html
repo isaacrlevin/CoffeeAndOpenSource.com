@@ -24,7 +24,7 @@
                 <tr>
                   <td class="">
                     <span class="icon"><i class="fa fa-cubes"></i></span>
-                    {{ i18n "allTags" }}
+                    {{  i18n "allTags" }}
                   </td>
                   <td class="has-text-right" >
                       {{/*  <div class="tag-number">{{- .Site.Taxonomies.tags.Alphabetical.Count -}}</div>  */}}
@@ -50,7 +50,7 @@
                     {{- else -}}
                       <span class="icon"><i class="fa fa-cube"></i></span>
                     {{- end -}}
-                      {{- .Page.Title -}}
+                      {{- humanize  .Page.Title -}}
                     </td>
                     <td class="has-text-right" >
                         <div class="tag-number">{{- .Count -}}</div>
