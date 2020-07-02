@@ -15,6 +15,7 @@ If you have interest, or have a recommendation for someone to be on the stream t
 |-------|---------|--------|
 |  [7/8/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Mastering Media with Ombi](https://ombi.io/)      | [Jamie Reese](https://www.twitter.com/tidusjar)        |
 |  [7/15/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [.NET Foundation](https://dotnetfoundation.org/)      | [Claire Novotny](https://twitter.com/clairernovotny)        |
+|  [7/29/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [.Open Sourcing a Pandemic](https://covidtracking.com/)      | [Kevin Miller](https://github.com/kevee)        |
 
 <br /><br /><br /><br />
 
