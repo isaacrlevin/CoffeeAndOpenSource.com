@@ -13,8 +13,9 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [7/22/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Educating the Next Wave of Engineers      | [Noelle Silver](https://twitter.com/NoelleSilver_)        |
-|  [7/29/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [.Open Sourcing a Pandemic](https://covidtracking.com/)      | [Kevin Miller](https://github.com/kevee)        |
+|  [7/29/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Open Sourcing a Pandemic](https://covidtracking.com/)      | [Kevin Miller](https://github.com/kevee)        |
+|  [8/05/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Open Source as a Job](https://www.dnnsoftware.com/)      | [Shaun Walker](https://twitter.com/sbwalker)        |
+|  [8/12/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Vets Who Code](https://vetswhocode.io/)      | [Jerome Hardaway](https://github.com/JeromeHardaway)        |
 
 <br /><br /><br /><br />
 
@@ -22,5 +23,6 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
+|  [7/22/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Educating the Next Wave of Engineers      | [Noelle Silver](https://twitter.com/NoelleSilver_)        |
 |  [7/15/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [.NET Foundation](https://dotnetfoundation.org/)      | [Claire Novotny](https://twitter.com/clairernovotny)        |
 |  [7/8/2020 9:00 AM](https://www.twitch.tv/videos/673621073)    |    [Mastering Media with Ombi](https://ombi.io/)      | [Jamie Reese](https://www.twitter.com/tidusjar)        |
