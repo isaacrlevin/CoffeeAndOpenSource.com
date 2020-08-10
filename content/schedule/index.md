@@ -13,9 +13,8 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [7/29/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Open Sourcing a Pandemic](https://covidtracking.com/)      | [Kevin Miller](https://github.com/kevee)        |
-|  [8/05/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Open Source as a Job](https://www.dnnsoftware.com/)      | [Shaun Walker](https://twitter.com/sbwalker)        |
-|  [8/12/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Vets Who Code](https://vetswhocode.io/)      | [Jerome Hardaway](https://github.com/JeromeHardaway)        |
+|  [8/12/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Vets Who Code](https://vetswhocode.io/)      | [Jerome Hardaway](https://twitter.com/JeromeHardaway)        |
+|  [8/26/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    OSS Burnout      | [Mordechai Zuber](https://twitter.com/mordzuber)        |
 
 <br /><br /><br /><br />
 

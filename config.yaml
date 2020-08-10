@@ -143,6 +143,9 @@ params:
     twitch:
       link: isaacrlevin
       title: Isaac Levin Twitch
+    discord:
+      link: zGPSsY
+      title: Coffee & Open Source
     # option to specify your instagram username in the footer;
     # **uncomment** the below lines to show in footer
     # instagram:

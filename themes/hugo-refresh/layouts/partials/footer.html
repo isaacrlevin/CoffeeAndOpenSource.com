@@ -62,7 +62,7 @@
             {{ if isset .Site.Params.footer.linkedin "link" }}
             <li>
               <a href="https://www.linkedin.com/{{ .Site.Params.footer.linkedin.link }}" target="_blank">
-                <span class="icon"><i class="fa fa-linkedin"></i></span>
+                <span class="icon"><i class="fab fa-linkedin"></i></span>
                 {{ if isset .Site.Params.footer.linkedin "title" }}
                   {{ .Site.Params.footer.linkedin.title }}
                 {{ else }}
@@ -74,7 +74,7 @@
             {{ if isset .Site.Params.footer.github "link" }}
             <li>
               <a href="https://github.com/{{ .Site.Params.footer.github.link }}" target="_blank">
-                <span class="icon"><i class="fa fa-github"></i></span>
+                <span class="icon"><i class="fab fa-github"></i></span>
                 {{ if isset .Site.Params.footer.github "title" }}
                   {{ .Site.Params.footer.github.title }}
                 {{ else }}
@@ -98,7 +98,7 @@
             {{ if isset .Site.Params.footer.facebook "link" }}
             <li>
               <a href="https://facebook.com/{{ .Site.Params.footer.facebook.link }}" target="_blank">
-                <span class="icon"><i class="fa fa-facebook"></i></span>
+                <span class="icon"><i class="fab fa-facebook"></i></span>
                 {{ if isset .Site.Params.footer.facebook "title" }}
                   {{ .Site.Params.footer.facebook.title }}
                 {{ else }}
@@ -110,7 +110,7 @@
             {{ if isset .Site.Params.footer.twitter "link" }}
             <li>
               <a href="https://twitter.com/{{ .Site.Params.footer.twitter.link }}" target="_blank">
-                <span class="icon"><i class="fa fa-twitter"></i></span>
+                <span class="icon"><i class="fab fa-twitter"></i></span>
                 {{ if isset .Site.Params.footer.twitter "title" }}
                   {{ .Site.Params.footer.twitter.title }}
                 {{ else }}
@@ -122,7 +122,7 @@
             {{ if isset .Site.Params.footer.twitch "link" }}
             <li>
               <a href="https://www.twitch.tv/{{ .Site.Params.footer.twitch.link }}" target="_blank">
-                <span class="icon"><i class="fa fa-twitch"></i></span>
+                <span class="icon"><i class="fab fa-twitch"></i></span>
                 {{ if isset .Site.Params.footer.twitch "title" }}
                   {{ .Site.Params.footer.twitch.title }}
                 {{ else }}
@@ -134,11 +134,23 @@
             {{ if isset .Site.Params.footer.instagram "link" }}
             <li>
               <a href="https://instagram.com/{{ .Site.Params.footer.instagram.link }}" target="_blank">
-                <span class="icon"><i class="fa fa-instagram"></i></span>
+                <span class="icon"><i class="fab fa-instagram"></i></span>
                 {{ if isset .Site.Params.footer.instagram "title" }}
                   {{ .Site.Params.footer.instagram.title }}
                 {{ else }}
                   Instagram
+                {{ end }}
+              </a>
+            </li>
+            {{ end }}
+            {{ if isset .Site.Params.footer.discord "link" }}
+            <li>
+              <a href="https://discord.gg/{{ .Site.Params.footer.discord.link }}" target="_blank">
+                <span class="icon"><i class="fab fa-discord"></i></span>
+                {{ if isset .Site.Params.footer.discord "title" }}
+                  {{ .Site.Params.footer.discord.title }}
+                {{ else }}
+                  Discord
                 {{ end }}
               </a>
             </li>
