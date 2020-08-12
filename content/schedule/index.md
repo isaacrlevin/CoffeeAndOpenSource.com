@@ -13,7 +13,6 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [8/12/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [Vets Who Code](https://vetswhocode.io/)      | [Jerome Hardaway](https://twitter.com/JeromeHardaway)        |
 |  [8/26/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    OSS Burnout      | [Mordechai Zuber](https://twitter.com/mordzuber)        |
 
 <br /><br /><br /><br />
@@ -22,6 +21,7 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [7/22/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Educating the Next Wave of Engineers      | [Noelle Silver](https://twitter.com/NoelleSilver_)        |
-|  [7/15/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    [.NET Foundation](https://dotnetfoundation.org/)      | [Claire Novotny](https://twitter.com/clairernovotny)        |
+|  [8/12/2020 9:00 AM](https://www.youtube.com/watch?v=sDe_5UcXbv8)    |    [Vets Who Code](https://vetswhocode.io/)      | [Jerome Hardaway](https://twitter.com/JeromeHardaway)        |
+|  [7/22/2020 9:00 AM](https://www.youtube.com/watch?v=yYruivtX9Ic)    |    Educating the Next Wave of Engineers      | [Noelle Silver](https://twitter.com/NoelleSilver_)        |
+|  [7/15/2020 9:00 AM](https://www.youtube.com/watch?v=3NI2HxbhFUw)    |    [.NET Foundation](https://dotnetfoundation.org/)      | [Claire Novotny](https://twitter.com/clairernovotny)        |
 |  [7/8/2020 9:00 AM](https://www.twitch.tv/videos/673621073)    |    [Mastering Media with Ombi](https://ombi.io/)      | [Jamie Reese](https://www.twitter.com/tidusjar)        |
