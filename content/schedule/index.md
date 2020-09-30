@@ -13,7 +13,8 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [9/30/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    DNN & Oqtane      | [Shaun Waker](https://twitter.com/sbwalker)        |
+|  [10/07/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Source at GitHub DevRel      | [Michelle Mannering](https://twitter.com/MishManners)        |
+|  [10/14/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Sourcing your House      | [Cam Soper](https://twitter.com/camsoper)        |
 
 
 <br /><br /><br /><br />
@@ -22,6 +23,7 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
+|  [9/30/2020 9:00 AM](https://www.youtube.com/watch?v=W64vG9eFYB0)    |    DNN & Oqtane      | [Shaun Waker](https://twitter.com/sbwalker)        |
 |  [9/16/2020 9:00 AM](https://www.youtube.com/watch?v=caHJ41wc418)    |    Ubuntu and WSL      | [Hayden Barnes](https://twitter.com/unixterminal)        |
 |  [9/2/2020 9:00 AM](https://www.youtube.com/watch?v=Dl_DkUMfpnI)    |    Go      | [Ian Taylor](https://twitter.com/ianlancetaylor)        |
 |  [8/26/2020 9:00 AM](https://www.youtube.com/watch?v=N_56KAyTkKI)    |    OSS Burnout      | [Mordechai Zuber](https://twitter.com/mordzuber)        |
