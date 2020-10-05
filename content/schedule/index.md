@@ -9,12 +9,13 @@ showInMenu: true
 
 If you have interest, or have a recommendation for someone to be on the stream to code or chat, head over to the [contact](/contact) page.
 
-## Upcoming Streams
+## Upcoming Streams (Times in PST)
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [10/07/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Source at GitHub DevRel      | [Michelle Mannering](https://twitter.com/MishManners)        |
+|  [10/07/2020 3:00 PM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Source at GitHub DevRel      | [Michelle Mannering](https://twitter.com/MishManners)        |
 |  [10/14/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Sourcing your House      | [Cam Soper](https://twitter.com/camsoper)        |
+|  [10/21/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Events in the Open      | [Jeff Strauss](https://twitter.com/jeffreystrauss)        |
 
 
 <br /><br /><br /><br />
