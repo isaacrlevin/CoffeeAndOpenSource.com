@@ -9,14 +9,18 @@ showInMenu: true
 
 If you have interest, or have a recommendation for someone to be on the stream to code or chat, head over to the [contact](/contact) page.
 
+<h4>{{< link title="Coffee & Open Source Interview Playlist" url="https://www.youtube.com/watch?v=3NI2HxbhFUw&list=PL_IEvQa-oTVuHpV04ox9jVQbUUQT5V3zm" >}}</h4>
+
 ## Upcoming Streams (Times in PST)
+
+
+<br />
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [10/07/2020 3:00 PM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Source at GitHub DevRel      | [Michelle Mannering](https://twitter.com/MishManners)        |
-|  [10/14/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Open Sourcing your House      | [Cam Soper](https://twitter.com/camsoper)        |
-|  [10/21/2020 9:00 AM](https://www.twitch.tv/isaacrlevin/schedule)    |    Events in the Open      | [Jeff Strauss](https://twitter.com/jeffreystrauss)        |
-
+|  {{< link title="10/14/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}}|  Open Sourcing your House                    | {{< link title="Cam Soper" url="https://twitter.com/camsoper" >}}               |
+|  {{< link title="10/21/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Events in the Open                          | {{< link title="Jeff Strauss" url="https://twitter.com/jeffreystrauss" >}}      |
+|  {{< link title="11/04/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Building Companies in an Open Source World  | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
 
 <br /><br /><br /><br />
 
@@ -24,11 +28,12 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  [9/30/2020 9:00 AM](https://www.youtube.com/watch?v=W64vG9eFYB0)    |    DNN & Oqtane      | [Shaun Waker](https://twitter.com/sbwalker)        |
-|  [9/16/2020 9:00 AM](https://www.youtube.com/watch?v=caHJ41wc418)    |    Ubuntu and WSL      | [Hayden Barnes](https://twitter.com/unixterminal)        |
-|  [9/2/2020 9:00 AM](https://www.youtube.com/watch?v=Dl_DkUMfpnI)    |    Go      | [Ian Taylor](https://twitter.com/ianlancetaylor)        |
-|  [8/26/2020 9:00 AM](https://www.youtube.com/watch?v=N_56KAyTkKI)    |    OSS Burnout      | [Mordechai Zuber](https://twitter.com/mordzuber)        |
-|  [8/12/2020 9:00 AM](https://www.youtube.com/watch?v=sDe_5UcXbv8)    |    [Vets Who Code](https://vetswhocode.io/)      | [Jerome Hardaway](https://twitter.com/JeromeHardaway)        |
-|  [7/22/2020 9:00 AM](https://www.youtube.com/watch?v=yYruivtX9Ic)    |    Educating the Next Wave of Engineers      | [Noelle Silver](https://twitter.com/NoelleSilver_)        |
-|  [7/15/2020 9:00 AM](https://www.youtube.com/watch?v=3NI2HxbhFUw)    |    [.NET Foundation](https://dotnetfoundation.org/)      | [Claire Novotny](https://twitter.com/clairernovotny)        |
-|  7/8/2020 9:00 AM   |    [Mastering Media with Ombi](https://ombi.io/)      | [Jamie Reese](https://www.twitter.com/tidusjar)        |
+|  {{< link title="10/07/2020 9:00 AM" url="https://www.youtube.com/watch?v=6grlJDGlB7k" >}} |  Open Source at GitHub DevRel                      | {{< link title="Michelle Mannering" url="https://twitter.com/MishManners" >}} |
+|  {{< link title="09/30/2020 9:00 AM" url="https://www.youtube.com/watch?v=W64vG9eFYB0" >}}  |  DNN & Oqtane                                      | {{< link title="Shaun Walker" url="https://twitter.com/sbwalker" >}}          |
+|  {{< link title="09/16/2020 9:00 AM" url="https://www.youtube.com/watch?v=caHJ41wc418" >}}  |  Ubuntu and WSL                                    | {{< link title="Hayden Barnes" url="https://twitter.com/unixterminal" >}}     |
+|  {{< link title="09/02/2020 9:00 AM" url="https://www.youtube.com/watch?v=Dl_DkUMfpnI" >}}   |  Go                                                | {{< link title="Ian Lance Taylor" url="https://twitter.com/ianlancetaylor" >}}|
+|  {{< link title="08/26/2020 9:00 AM" url="https://www.youtube.com/watch?v=N_56KAyTkKI" >}}  |  OSS Burnout                                       | {{< link title="Mordechai Zuber" url="https://twitter.com/mordzuber" >}}      |
+|  {{< link title="08/12/2020 9:00 AM" url="https://www.youtube.com/watch?v=sDe_5UcXbv8" >}}  |  {{< link title="Vets Who Code" url="https://vetswhocode.io" >}}          | {{< link title="Jerome Hardaway" url="https://twitter.com/JeromeHardaway" >}} |
+|  {{< link title="07/22/2020 9:00 AM" url="https://www.youtube.com/watch?v=yYruivtX9Ic" >}}  |  Educating the Next Wave of Engineers              | {{< link title="Noelle Silver" url="https://twitter.com/NoelleSilver_" >}}    |
+|  {{< link title="07/15/2020 9:00 AM" url="https://www.youtube.com/watch?v=3NI2HxbhFUw" >}}  |  {{< link title=".NET Foundation" url="https://dotnetfoundation.org/" >}}  | {{< link title="Claire Novotny" url="https://twitter.com/clairernovotny" >}}  |
+|  7/8/2020 9:00 AM                                                  |  {{< link title="Mastering Media with Ombi" url="https://ombi.io/" >}}    | {{< link title="Jamie Reese" url="https://www.twitter.com/tidusjar" >}}       |
