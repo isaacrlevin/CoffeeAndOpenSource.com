@@ -4,6 +4,11 @@
         "errorType": "NotFound",
         "serve": "/404.html",
         "statusCode": 404
-      }
+      },
+      {
+        "route": "/*,
+        "serve": "/",
+        "statusCode": 301
+      } 
     ]
   }
