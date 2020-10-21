@@ -1,15 +1,15 @@
 {
-    "platformErrorOverrides": [
-      {
-        "errorType": "NotFound",
-        "serve": "/404.html",
-        "statusCode": 404
-      }],
-    "routes": [
-      {
-        "route": "/*,
-        "serve": "/",
-        "statusCode": 301
-      } 
-    ]
-  }
+  "routes": [
+    {
+      "route": "/*",
+      "serve": "/"
+    }
+  ],
+  "platformErrorOverrides": [
+    {
+      "errorType": "NotFound",
+      "serve": "/404.html",
+      "statusCode": 404
+    }
+  ]
+}
