@@ -1,10 +1,4 @@
 {
-  "routes": [
-    {
-      "route": "/*",
-      "serve": "/"
-    }
-  ],
   "platformErrorOverrides": [
     {
       "errorType": "NotFound",
