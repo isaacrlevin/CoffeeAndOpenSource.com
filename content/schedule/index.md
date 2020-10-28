@@ -18,7 +18,6 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-
 |  {{< link title="11/04/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Building Companies in an Open Source World  | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
 |  {{< link title="11/18/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Open Sourcing Windows Terminal  | {{< link title="Kayla Cinnamon" url="https://twitter.com/cinnamon_msft" >}}               |
 |  {{< link title="12/02/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Live Streaming in the Open  | {{< link title="Jeff Fritz" url="https://twitter.com/csharpfritz" >}}               |
