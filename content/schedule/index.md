@@ -18,7 +18,7 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  {{< link title="11/18/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Open Sourcing Windows Terminal  | {{< link title="Kayla Cinnamon" url="https://twitter.com/cinnamon_msft" >}}               |
+
 |  {{< link title="12/02/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Live Streaming in the Open  | {{< link title="Jeff Fritz" url="https://twitter.com/csharpfritz" >}}               |
 |  {{< link title="12/09/2020 11:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Being OSS and Secure  | {{< link title="Michael Crump" url="https://twitter.com/mbcrump" >}}               |
 |  {{< link title="12/16/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Visual Studio Code  | {{< link title="Matt Bierner" url="https://twitter.com/mattbierner" >}}               |
@@ -30,6 +30,7 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
+|  {{< link title="11/18/2020 9:00 AM" url="https://youtu.be/9KLBfKMaZn8" >}} |  Open Sourcing Windows Terminal  | {{< link title="Kayla Cinnamon" url="https://twitter.com/cinnamon_msft" >}}               |
 |  {{< link title="10/28/2020 9:00 AM" url="https://www.youtube.com/watch?v=s44W5EkKdGs" >}} |  Events in the Open                          | {{< link title="Jeff Strauss" url="https://twitter.com/jeffreystrauss" >}}      |
 |  {{< link title="10/14/2020 9:00 AM" url="https://www.youtube.com/watch?v=Ia_vS6bQs1Q" >}}|  Open Sourcing your House                    | {{< link title="Cam Soper" url="https://twitter.com/camsoper" >}}               |
 |  {{< link title="10/07/2020 9:00 AM" url="https://www.youtube.com/watch?v=6grlJDGlB7k" >}} |  Open Source at GitHub DevRel                      | {{< link title="Michelle Mannering" url="https://twitter.com/MishManners" >}} |
