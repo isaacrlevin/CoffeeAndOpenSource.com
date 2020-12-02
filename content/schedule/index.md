@@ -21,6 +21,8 @@ If you have interest, or have a recommendation for someone to be on the stream t
 |  {{< link title="12/09/2020 11:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Being OSS and Secure  | {{< link title="Michael Crump" url="https://twitter.com/mbcrump" >}}               |
 |  {{< link title="12/16/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Visual Studio Code  | {{< link title="Matt Bierner" url="https://twitter.com/mattbierner" >}}               |
 |  {{< link title="1/06/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Building Companies in an Open Source World  | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
+|  {{< link title="1/13/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Open Source Organization  | {{< link title="Mark Collier" url="https://twitter.com/sparkycollier" >}}               |
+|  {{< link title="1/20/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  1st Contributions Website  | {{< link title="Roshan Jossey" url="https://twitter.com/sudo__bangbang" >}}               |
 
 <br /><br /><br /><br />
 
