@@ -18,8 +18,6 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  {{< link title="12/09/2020 11:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Being OSS and Secure  | {{< link title="Michael Crump" url="https://twitter.com/mbcrump" >}}               |
-|  {{< link title="12/16/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Visual Studio Code  | {{< link title="Matt Bierner" url="https://twitter.com/mattbierner" >}}               |
 |  {{< link title="1/06/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Building Companies in an Open Source World  | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
 |  {{< link title="1/13/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Open Source Organization  | {{< link title="Mark Collier" url="https://twitter.com/sparkycollier" >}}               |
 |  {{< link title="1/20/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  1st Contributions Website  | {{< link title="Roshan Jossey" url="https://twitter.com/sudo__bangbang" >}}               |
@@ -30,6 +28,8 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
+|  {{< link title="12/16/2020 9:00 AM" url="https://www.youtube.com/watch?v=_TCjGXKViW4" >}} |  Visual Studio Code  | {{< link title="Matt Bierner" url="https://twitter.com/mattbierner" >}}               |
+|  {{< link title="12/09/2020 11:00 AM" url="https://www.youtube.com/watch?v=fhXaiDsx2O0" >}} |  Being OSS and Secure  | {{< link title="Michael Crump" url="https://twitter.com/mbcrump" >}}               |
 |  {{< link title="12/02/2020 9:00 AM" url="https://www.youtube.com/watch?v=Ho9gpudxQg0" >}} |  Live Streaming in the Open  | {{< link title="Jeff Fritz" url="https://twitter.com/csharpfritz" >}}               |
 |  {{< link title="11/18/2020 9:00 AM" url="https://youtu.be/9KLBfKMaZn8" >}} |  Open Sourcing Windows Terminal  | {{< link title="Kayla Cinnamon" url="https://twitter.com/cinnamon_msft" >}}               |
 |  {{< link title="10/28/2020 9:00 AM" url="https://www.youtube.com/watch?v=s44W5EkKdGs" >}} |  Events in the Open                          | {{< link title="Jeff Strauss" url="https://twitter.com/jeffreystrauss" >}}      |
