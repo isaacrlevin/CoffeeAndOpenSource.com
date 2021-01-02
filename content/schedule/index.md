@@ -18,10 +18,9 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-|  {{< link title="1/06/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Building Companies in an Open Source World  | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
 |  {{< link title="1/13/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Open Source Organization  | {{< link title="Mark Collier" url="https://twitter.com/sparkycollier" >}}               |
 |  {{< link title="1/20/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  1st Contributions Website  | {{< link title="Roshan Jossey" url="https://twitter.com/sudo__bangbang" >}}               |
-
+|  {{< link title="1/27/2020 9:00 AM" url="https://www.twitch.tv/isaacrlevin/schedule" >}} |  Building Companies in an Open Source World  | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
 <br /><br /><br /><br />
 
 ## Past Streams
