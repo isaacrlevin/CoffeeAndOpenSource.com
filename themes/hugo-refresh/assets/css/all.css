@@ -4584,3 +4584,22 @@ readers do not read off random characters that represent icons */
 .fas {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }
+
+  .sidenav {
+    width: 25%;
+    position: fixed;
+    z-index: 1;
+    top: 400px;
+    right: 50px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2196F3;
+    display: block;
+  }

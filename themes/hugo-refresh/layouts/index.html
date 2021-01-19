@@ -9,9 +9,18 @@
         {{- $title      := index $homepage "title" -}}
         {{- $subtitle   := index $homepage "subtitle" -}}
         {{- $image      := index $homepage "image" -}}
+        <div class="sidenav">
+          <h3>Upcoming Streams</h3>
+          <a href="/schedule/">Roshan Jossey - <span class="formatdate">1/20/2021 9:00 AM</span></a>
+          <a href="/schedule/">Tracy Lee - <span class="formatdate">1/27/2021 11:00 AM</span></a>
+          <a href="/schedule/">Mislav Marohnić - <span class="formatdate">2/3/2021 9:00 AM</span></a>
+          <a href="/schedule/">Abel Wang - <span class="formatdate">2/10/2021 9:00 AM</span></a>
+          <a href="/schedule/">Mark Collier - <span class="formatdate">2/17/2021 9:00 AM</span></a>
+          <a href="/schedule/">Richard Campbell - <span class="formatdate">2/24/2021 9:00 AM</span></a>
+        </div>
         <!--
         <div class="hero-body">
-            <div class="container">
+            <div class="container" style="margin-right: 750px;">
                 <div class="columns is-vcentered">
                     <div class="column is-5 is-offset-1 landing-caption">
                         <h1 class="title is-1 is-bold is-spaced">
@@ -43,7 +52,7 @@
     {{/* Create a variable with that section to use in multiple places. */}}
     {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
     <section class="section is-medium">
-        <div class="container">
+        <div class="container" style="margin-right: 750px;">
           {{/*  <div class="columns">  */}}
             {{/*  <div class="column is-centered-tablet-portrait">  */}}
               <!-- <h1 class="title section-title">{{- .Page.Title -}}</h1>
