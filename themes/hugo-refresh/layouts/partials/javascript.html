@@ -110,3 +110,11 @@
     }
   });
 </script>  */}}
+
+<script>
+  $(".formatdate").map(function() {
+  var d = new Date(this.innerHTML);
+      return this.innerHTML = d.toLocaleString();
+  });
+
+  </script>
