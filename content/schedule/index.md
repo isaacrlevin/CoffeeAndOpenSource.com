@@ -18,7 +18,6 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 |  Date | Topic   | Guest  |
 |-------|---------|--------|
-
 |  <span class="formatdate">1/27/2021 11:00 AM</span> | {{< link title="Building Companies in an Open Source World" url="https://www.twitch.tv/isaacrlevin/schedule" >}} | {{< link title="Tracy Lee" url="https://twitter.com/ladyleet" >}}               |
 | <span class="formatdate">2/3/2021 9:00 AM</span>  |  {{< link title="GitHub Cli" url="https://www.twitch.tv/isaacrlevin/schedule" >}}   | {{< link title="Mislav Marohnic" url="https://twitter.com/mislav" >}}               |
 | <span class="formatdate">2/10/2021 9:00 AM</span>  |  {{< link title="DevOps and Open Source" url="https://www.twitch.tv/isaacrlevin/schedule" >}}   | {{< link title="Abel Wang" url="https://twitter.com/AbelSquidHead" >}}               |
