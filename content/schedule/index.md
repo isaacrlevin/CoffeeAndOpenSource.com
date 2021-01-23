@@ -11,6 +11,13 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 <h4>{{< link title="Coffee & Open Source Interview Playlist" url="https://www.youtube.com/watch?v=3NI2HxbhFUw&list=PL_IEvQa-oTVuHpV04ox9jVQbUUQT5V3zm" >}}</h4>
 
+{{ $urlPre := "https://coffeeandopensource.com" }}
+{{ $data := getJSON $urlPre "/api/GetSchedule" }}
+
+  {{ range first 5 $data }}
+      <span>{{ . }}</span>
+  {{ end }}
+
 ## Upcoming Streams
 
 
