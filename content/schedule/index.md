@@ -24,7 +24,8 @@ If you have interest, or have a recommendation for someone to be on the stream t
 | <span class="formatdate">2/10/2021 9:00 AM</span>  |  {{< link title="DevOps and Open Source" url="https://www.twitch.tv/isaacrlevin/schedule" >}}   | {{< link title="Abel Wang" url="https://twitter.com/AbelSquidHead" >}}               |
 | <span class="formatdate">2/17/2021 9:00 AM</span>  |  {{< link title="Open Source Organization" url="https://www.twitch.tv/isaacrlevin/schedule" >}}   | {{< link title="Mark Collier" url="https://twitter.com/sparkycollier" >}}               |
 | <span class="formatdate">2/24/2021 9:00 AM</span>  |  {{< link title="Humanitarian Toolbox" url="https://www.twitch.tv/isaacrlevin/schedule" >}}   | {{< link title="Richard Campbell" url="https://twitter.com/richcampbell" >}}               |
-| <span class="formatdate">3/03/2021 9:00 AM</span>  |  {{< link title="Talking OSS with Customers" url="https://www.twitch.tv/isaacrlevin/schedule" >}
+| <span class="formatdate">3/03/2021 9:00 AM</span>  |  {{< link title="Talking OSS with Customers" url="https://www.twitch.tv/isaacrlevin/schedule" >}}   | {{< link title="Sam Smith" url="https://twitter.com/samsmithnz" >}}               |
+<br /><br /><br /><br />
 
 ## Past Streams
 
