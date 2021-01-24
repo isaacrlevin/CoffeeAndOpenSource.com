@@ -27,7 +27,7 @@ jobs:
       - name: Add Connection String
         run: |
           $file = Get-Content -path "${{ github.workspace }}/api/Services/TableStorageService.cs"
-          $e = ${{ secrets.CONNECTIONSTRING }}
+          $e = "${{ secrets.CONNECTIONSTRING }}"
           $file = $file -replace "{CONNECTIONSTRING}", $e
           $file
           $file | Set-Content -Path "${{ github.workspace }}/api/Services/TableStorageService.cs"
