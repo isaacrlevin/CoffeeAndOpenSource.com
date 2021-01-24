@@ -21,12 +21,12 @@ namespace CoffeeAndOpenSource.Api.Services
             _configuration = configuration;
         }
 
-        public CloudStorageAccount CreateStorageAccountFromConnectionString(string storageConnectionString)
+        public CloudStorageAccount CreateStorageAccountFromConnectionString(string ConnectionString)
         {
             CloudStorageAccount storageAccount;
             try
             {
-                storageAccount = CloudStorageAccount.Parse(storageConnectionString);
+                storageAccount = CloudStorageAccount.Parse(ConnectionString);
             }
             catch (FormatException)
             {
@@ -44,9 +44,10 @@ namespace CoffeeAndOpenSource.Api.Services
 
         public async Task<CloudTable> CreateTableAsync(string tableName)
         {
-            string storageConnectionString = _configuration.GetValue<string>("AzureWebJobsStorage");
+            //string storageConnectionString = _configuration.GetValue<string>("AzureWebJobsStorage");
 
-            CloudStorageAccount storageAccount = CreateStorageAccountFromConnectionString(storageConnectionString);
+            // TODO, SUPER HACK - HAVE TO EDIT FILE DURING BUILD
+            CloudStorageAccount storageAccount = CreateStorageAccountFromConnectionString("{CONNECTIONSTRING}");
 
             CloudTableClient tableClient = storageAccount.CreateCloudTableClient(new TableClientConfiguration());
 
@@ -91,7 +92,7 @@ namespace CoffeeAndOpenSource.Api.Services
 
             var query = new TableQuery<ScheduleEntity>();
 
-            
+
             var results = table.ExecuteQuery<ScheduleEntity>(query).ToList();
 
             var ordered = results.GroupBy(grp => grp.PartitionKey)

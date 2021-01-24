@@ -24,6 +24,11 @@ jobs:
           hugo-version: "latest"  # Hugo version: latest OR x.y.z
           extended: true
 
+      - name: Add Connection String
+        run: |
+          $file = Get-Content -path "${{ github.workspace }}/api/Services/TableStorageService.cs"
+          $file = $file -replace '{CONNECTIONSTRING}', "${{ secrets.CONNECTIONSTRING }}"
+          $file | Set-Content -Path ${{ github.workspace }}/api/Services/TableStorageService.cs"
       - name: Build
         run: hugo
 
