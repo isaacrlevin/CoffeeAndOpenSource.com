@@ -5,7 +5,6 @@ draft: false
 hideLastModified: true
 showInMenu: true
 
-# no need for the "summary" parameter as it is not displayed in any previews
 ---
 <div style="float:left" >
 <img src="/images/profileimage.jpg" width="400px" style="margin:20px" />
