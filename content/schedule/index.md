@@ -12,11 +12,10 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 ## Upcoming Streams
 
-{{< schedule "upcoming" >}}
+
 
 
 <br />
 
 ## Past Streams
 
-{{< schedule "previous" >}}
