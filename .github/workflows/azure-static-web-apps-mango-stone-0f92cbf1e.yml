@@ -28,7 +28,7 @@ jobs:
         run: |
           $file = Get-Content -path "${{ github.workspace }}/api/Services/TableStorageService.cs"
           $file = $file -replace "(\`"{CONNECTIONSTRING}\`")", "(\`"${{ secrets.CONNECTIONSTRING }}\`")"
-          $echo
+          $file
           $file | Set-Content -Path "${{ github.workspace }}/api/Services/TableStorageService.cs"
         shell: pwsh
 
