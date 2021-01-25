@@ -44,10 +44,9 @@ namespace CoffeeAndOpenSource.Api.Services
 
         public async Task<CloudTable> CreateTableAsync(string tableName)
         {
-            //string storageConnectionString = _configuration.GetValue<string>("AzureWebJobsStorage");
+            string storageConnectionString = _configuration.GetValue<string>("StorageAccountString");
 
-            // TODO, SUPER HACK - HAVE TO EDIT FILE DURING BUILD
-            CloudStorageAccount storageAccount = CreateStorageAccountFromConnectionString("{CONNECTIONSTRING}");
+            CloudStorageAccount storageAccount = CreateStorageAccountFromConnectionString(storageConnectionString);
 
             CloudTableClient tableClient = storageAccount.CreateCloudTableClient(new TableClientConfiguration());
 

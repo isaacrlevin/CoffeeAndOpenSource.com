@@ -9,17 +9,10 @@
         {{- $title      := index $homepage "title" -}}
         {{- $subtitle   := index $homepage "subtitle" -}}
         {{- $image      := index $homepage "image" -}}
-        <div class="sidenav">
-          <h3>Upcoming Streams</h3>
-          <a href="/schedule/">Tracy Lee - <span class="formatdate">1/27/2021 11:00 AM</span></a>
-          <a href="/schedule/">Mislav Marohnić - <span class="formatdate">2/3/2021 9:00 AM</span></a>
-          <a href="/schedule/">Abel Wang - <span class="formatdate">2/10/2021 9:00 AM</span></a>
-          <a href="/schedule/">Mark Collier - <span class="formatdate">2/17/2021 9:00 AM</span></a>
-          <a href="/schedule/">Richard Campbell - <span class="formatdate">2/24/2021 9:00 AM</span></a>
-        </div>
-    {{ $dataJ := getJSON "https://coffeeandopensource.com/api/GetSchedule" }}
+
+    {{ $dataJ := getJSON "http://localhost:7071/api/GetSchedule" }}
     <section class="section is-medium">
-        <div class="container" style="margin-right: 750px;">
+        <div class="container">
               <figure class="image" style="margin-left: 20px;" >
                 {{- $img := resources.Get $image -}}
                 <img src="{{- $img.Permalink | relURL -}}"
@@ -45,12 +38,25 @@
                    </div>
               </div>
         </div>
+        <div class="sidenav">
+          <center><h2>Upcoming Streams</h2></center>
+          {{ $sortOrder := "asc"}}
+          {{ range sort $dataJ ".rowKey" $sortOrder  }}
+            {{ if not .isPublished }}
+              <a href="/schedule/"><span class="formatdate">{{ .dateTimeAsString }}</span> - {{ .guest }}</a>
+            {{ end}}
+          {{ end }}
+        </div>
     </section>
 
     {{- partial "footer.html" . -}}
 
     <!-- Back To Top Button -->
-    <div id="backtotop"><a href="#"></a></div>
+    <div id="backtotop">
+      <a href="#">
+        <i class="fas fa-angle-up" aria-hidden="true"></i>
+      </a>
+    </div>
 
     {{- partial "sidebar.html" . -}}
 

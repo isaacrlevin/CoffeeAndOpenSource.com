@@ -35,15 +35,10 @@
         {{ end }}
       </figure>
       <h3 class="title is-5 refresh-summary-title">
-        Streamed Interview
+        {{ .guest }}
       </h3>
       <p class="refresh-summary">
-          {{ .guest }} Recorded <span class="formatdate">{{ .dateTimeAsString }}</span> on Twitch
+           <span style="font-size: 15px;"><span class="formatdate">{{ .dateTimeAsString }}</span> on Twitch</span>
       </p>
-      <div class="action has-text-right">
-        <a href="posts/streams/{{ $dt }}-stream/" class="button is-primary">
-                {{ i18n "readMore" }}
-            </a>
-      </div>
     </div>
   </div>
