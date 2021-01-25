@@ -10,7 +10,7 @@
         {{- $subtitle   := index $homepage "subtitle" -}}
         {{- $image      := index $homepage "image" -}}
 
-    {{ $dataJ := getJSON "http://localhost:7071/api/GetSchedule" }}
+    {{ $dataJ := getJSON "https://www.coffeeandopensource.com/api/GetSchedule" }}
     <section class="section is-medium">
         <div class="container">
               <figure class="image" style="margin-left: 20px;" >
