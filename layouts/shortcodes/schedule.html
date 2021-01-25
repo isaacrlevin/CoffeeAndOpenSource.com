@@ -7,8 +7,7 @@
     </tr>
     </thead>
     <tbody>
-        {{ $urlPre := "https://coffeeandopensource.com" }}
-        {{ $dataJ := getJSON $urlPre "/api/GetSchedule" }}
+        {{ $dataJ := getJSON "https://coffeeandopensource.com/api/GetSchedule" }}
         {{ $sortOrder := "asc"}}
         {{if (eq ($.Get 0) "previous" )}}
         {{ $sortOrder = "desc"}}

@@ -1,0 +1,41 @@
+  {{- $articlesPerRow := .Site.Params.articlesPerRow -}}
+  {{- if (eq $articlesPerRow 2) -}}
+  <div class="column is-6">
+  {{- else if (eq $articlesPerRow 3) -}}
+  <div class="column is-4">
+  {{- else if (eq $articlesPerRow 4) -}}
+  <div class="column is-3">
+  {{- else if (eq $articlesPerRow 5) -}}
+  <div class="column is-one-fifth">
+  {{- else if (eq $articlesPerRow 6) -}}
+  <div class="column is-2">
+  {{- else -}}
+  <div class="column is-4">
+  {{- end -}}
+    <div class="box">
+      <figure class="image is-3by2">
+        {{- $image := "" -}}
+        {{- $imgWidth := 0 -}}
+        {{- $imgHeight := 0 -}}
+          {{- $i := "/images/logo_old.jpg" -}}
+          {{- $image = resources.Get $i -}}
+          {{- $imgWidth = $image.Width -}}
+          {{- $imgHeight = $image.Height -}}
+          {{- $dt := dateFormat "2006-01-02" .dateTimeUTC  -}}
+        <a href="posts/streams/{{ $dt }}-stream/">
+          <img src="{{- $image.Permalink | relURL -}}" alt="">
+        </a>
+      </figure>
+      <h3 class="title is-5 refresh-summary-title">
+        Streamed Interview
+      </h3>
+      <p class="refresh-summary">
+          {{ .guest }} Recorded <span class="formatdate">{{ .dateTimeAsString }}</span> on Twitch
+      </p>
+      <div class="action has-text-right">
+        <a href="posts/streams/{{ $dt }}-stream/" class="button is-primary">
+                {{ i18n "readMore" }}
+            </a>
+      </div>
+    </div>
+  </div>

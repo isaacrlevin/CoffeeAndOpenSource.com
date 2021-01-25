@@ -17,71 +17,33 @@
           <a href="/schedule/">Mark Collier - <span class="formatdate">2/17/2021 9:00 AM</span></a>
           <a href="/schedule/">Richard Campbell - <span class="formatdate">2/24/2021 9:00 AM</span></a>
         </div>
-        <!--
-        <div class="hero-body">
-            <div class="container" style="margin-right: 750px;">
-                <div class="columns is-vcentered">
-                    <div class="column is-5 is-offset-1 landing-caption">
-                        <h1 class="title is-1 is-bold is-spaced">
-                        {{- $title -}}
-                        </h1>
-                        {{- with $subtitle -}}
-                        <h2 class="subtitle is-5 is-muted">
-                        {{ . }}
-                        </h2>
-                        {{- end -}}
-                        {{/*  <p>
-                        <a class="button cta rounded primary-btn raised" href="{{- $buttonLink -}}">
-                            {{- $buttonText -}}
-                        </a>
-                        </p>  */}}
-                    </div>
-                    <div class="column is-5 is-offset-1">
-                        <figure class="image">
-                        {{- $img := resources.Get $image -}}
-                        <img src="{{- $img.Permalink | relURL -}}"
-                            style="width:{{- .Site.Params.homepage.imageWidth -}}" alt="Myself">
-                        </figure>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-    {{/* Create a variable with that section to use in multiple places. */}}
-    {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+    {{ $dataJ := getJSON "https://coffeeandopensource.com/api/GetSchedule" }}
     <section class="section is-medium">
         <div class="container" style="margin-right: 750px;">
-          {{/*  <div class="columns">  */}}
-            {{/*  <div class="column is-centered-tablet-portrait">  */}}
-              <!-- <h1 class="title section-title">{{- .Page.Title -}}</h1>
-              <h5 class="subtitle is-5 is-muted">{{- .Params.Subtitle -}}</h5> -->
               <figure class="image" style="margin-left: 20px;" >
                 {{- $img := resources.Get $image -}}
                 <img src="{{- $img.Permalink | relURL -}}"
                     style="width:{{- .Site.Params.homepage.imageWidth -}}" alt="Myself">
                 </figure>
-
               <div class="section is-small">
-                {{/*  <div class="container">  */}}
                   {{- $articlesPerRow := .Site.Params.articlesPerRow -}}
                   <div class="columns">
-                    {{/*  <div class="container">  */}}
-                    {{- range $index, $element := $section -}}
+                    {{- range $index, $element := (sort $dataJ ".rowKey" "desc") }}
+                    {{ $t := (time .dateTimeUTC) }}
+                    {{ $show := false}}
+                    {{ if ($t.Before now) }}
+                    {{ $show = true}}
+                    {{end}}
+                    {{ if $show}}
                         {{- if and (eq (mod $index $articlesPerRow) 0 ) (not (eq $index 0)) -}}
-                          {{/*  </div>  */}}
                           </div>
                           <div class="columns">
-                            {{/*  <div class="container">  */}}
                         {{- end -}}
-                        {{- partial "single/summary.html" . -}}
+                        {{- partial "dsummary.html" . -}}
                     {{- end -}}
-                    {{/*  </div>  */}}
-                  </div>
-                {{/*  </div>  */}}
+                    {{end}}
+                   </div>
               </div>
-            {{/*  </div>  */}}
-          {{/*  </div>  */}}
         </div>
     </section>
 
