@@ -14,6 +14,13 @@
   {{- end -}}
     <div class="box">
       <figure class="image is-3by2">
+        {{- $dt := dateFormat "2006-01-02" .dateTimeUTC  -}}
+
+         {{ if .youTubeVideoId }}
+        <a href="posts/streams/{{ $dt }}-stream/">
+          <img src="https://i.ytimg.com/vi_webp/{{ .youTubeVideoId }}/hqdefault.webp" alt="">
+        </a>
+        {{- else -}}
         {{- $image := "" -}}
         {{- $imgWidth := 0 -}}
         {{- $imgHeight := 0 -}}
@@ -21,10 +28,11 @@
           {{- $image = resources.Get $i -}}
           {{- $imgWidth = $image.Width -}}
           {{- $imgHeight = $image.Height -}}
-          {{- $dt := dateFormat "2006-01-02" .dateTimeUTC  -}}
+
         <a href="posts/streams/{{ $dt }}-stream/">
           <img src="{{- $image.Permalink | relURL -}}" alt="">
         </a>
+        {{ end }}
       </figure>
       <h3 class="title is-5 refresh-summary-title">
         Streamed Interview
