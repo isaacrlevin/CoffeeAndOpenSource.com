@@ -26,15 +26,6 @@ jobs:
           hugo-version: "latest"  # Hugo version: latest OR x.y.z
           extended: true
 
-      - name: Add Connection String
-        run: |
-          $file = Get-Content -path "${{ github.workspace }}/api/Services/TableStorageService.cs"
-          $e = "${{ secrets.CONNECTIONSTRING }}"
-          $file = $file -replace "{CONNECTIONSTRING}", $e
-          $file
-          $file | Set-Content -Path "${{ github.workspace }}/api/Services/TableStorageService.cs"
-        shell: pwsh
-
       - name: Build
         run: hugo
 
@@ -48,7 +39,7 @@ jobs:
           ###### Repository/Build Configurations - These values can be configured to match you app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: "/" # App source code path
-          api_location: "api" # Api source code path - optional
+          # api_location: "api" # Api source code path - optional
           app_artifact_location: "public" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
 
