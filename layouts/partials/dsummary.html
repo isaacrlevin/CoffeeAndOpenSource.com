@@ -14,11 +14,11 @@
   {{- end -}}
     <div class="box">
       <figure class="image is-3by2">
-        {{- $dt := dateFormat "2006-01-02" .dateTimeUTC  -}}
+        {{- $dt := dateFormat "2006-01-02" .DateTimeUTC  -}}
 
-         {{ if .youTubeVideoId }}
+         {{ if .YouTubeVideoId }}
         <a href="posts/streams/{{ $dt }}-stream/">
-          <img src="https://i.ytimg.com/vi_webp/{{ .youTubeVideoId }}/hqdefault.webp" alt="">
+          <img src="https://i.ytimg.com/vi_webp/{{ .YouTubeVideoId }}/hqdefault.webp" alt="">
         </a>
         {{- else -}}
         {{- $image := "" -}}
@@ -35,10 +35,10 @@
         {{ end }}
       </figure>
       <h3 class="title is-5 refresh-summary-title">
-        {{ .guest }}
+        {{ .Guest }}
       </h3>
       <p class="refresh-summary">
-           <span style="font-size: 15px;"><span class="formatdate">{{ .dateTimeAsString }}</span> on Twitch</span>
+           <span style="font-size: 15px;"><span class="formatdate">{{ .DateTimeAsString }}</span> on Twitch</span>
       </p>
     </div>
   </div>

@@ -7,13 +7,13 @@
     </tr>
     </thead>
     <tbody>
-        {{ $dataJ := getJSON "https://coffeeandopensource.com/api/GetSchedule" }}
+        {{ $dataJ := getJSON "/data/data.json" }}
         {{ $sortOrder := "asc"}}
         {{if (eq ($.Get 0) "previous" )}}
         {{ $sortOrder = "desc"}}
         {{end}}
-        {{ range sort $dataJ ".rowKey" $sortOrder  }}
-        {{ $t := (time .dateTimeUTC) }}
+        {{ range sort $dataJ ".RowKey" $sortOrder  }}
+        {{ $t := (time .DateTimeUTC) }}
         {{ $show := false}}
         {{ if and (eq ($.Get 0) "upcoming" ) ($t.After now) }}
         {{ $show = true}}
@@ -23,9 +23,9 @@
         {{end}}
         {{ if $show}}
   <tr>
-  <td><span class="formatdate">{{ .dateTimeAsString }}</span></td>
-  <td><a href="https://www.youtube.com/watch?v={{ .youTubeVideoId }}" target="_blank">{{ .topic }}</a></td>
-  <td><a href="https://twitter.com/{{ .guestHandle }}" target="_blank">{{ .guest }}</a></td>
+  <td><span class="formatdate">{{ .DateTimeAsString }}</span></td>
+  <td><a href="https://www.youtube.com/watch?v={{ .YouTubeVideoId }}" target="_blank">{{ .Topic }}</a></td>
+  <td><a href="https://twitter.com/{{ .GuestHandle }}" target="_blank">{{ .Guest }}</a></td>
 </tr>
 {{end}}
 {{ end }}

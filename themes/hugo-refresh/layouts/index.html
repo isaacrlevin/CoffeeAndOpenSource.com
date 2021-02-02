@@ -10,7 +10,7 @@
         {{- $subtitle   := index $homepage "subtitle" -}}
         {{- $image      := index $homepage "image" -}}
 
-    {{ $dataJ := getJSON "https://www.coffeeandopensource.com/api/GetSchedule" }}
+    {{ $dataJ := getJSON "/data/data.json" }}
     <section class="section is-medium">
         <div class="container">
               <figure class="image" style="margin-left: 20px;" >
@@ -21,8 +21,8 @@
               <div class="section is-small">
                   {{- $articlesPerRow := .Site.Params.articlesPerRow -}}
                   <div class="columns">
-                    {{- range $index, $element := (sort $dataJ ".rowKey" "desc") }}
-                    {{ $t := (time .dateTimeUTC) }}
+                    {{- range $index, $element := (sort $dataJ ".RowKey" "desc") }}
+                    {{ $t := (time .DateTimeUTC) }}
                     {{ $show := false}}
                     {{ if ($t.Before now) }}
                     {{ $show = true}}
@@ -41,9 +41,9 @@
         <div class="sidenav">
           <center><h2>Upcoming Streams</h2></center>
           {{ $sortOrder := "asc"}}
-          {{ range sort $dataJ ".rowKey" $sortOrder  }}
-            {{ if not .isPublished }}
-              <a href="/schedule/"><span class="formatdate">{{ .dateTimeAsString }}</span> - {{ .guest }}</a>
+          {{ range sort $dataJ ".RowKey" $sortOrder  }}
+            {{ if not .IsPublished }}
+              <a href="/schedule/"><span class="formatdate">{{ .DateTimeAsString }}</span> - {{ .Guest }}</a>
             {{ end}}
           {{ end }}
         </div>
