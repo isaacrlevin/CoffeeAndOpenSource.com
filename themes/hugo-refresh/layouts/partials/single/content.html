@@ -7,19 +7,70 @@
         <div class="divider"></div>
         {{/*  <section class="section content">  */}}
         <section class="section content has-text-justified">
-          <!-- <div class="content"> -->
+          {{ $url := urls.Parse .Permalink}}
+          {{ if eq $url.Path "/streams.html" }}
+          {{ $dataJ := getJSON "/data/data.json" }}
+          <h2>
+            <span id="guest"></span> - Recorded
+            <span id="dt" class="formatdate"></span> on Twitch</h2>
+          <br />
+          <br />
+          <center>
+          <iframe id="youtube" width="800" height="600" src="" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+          </center>
+            <script>
+              (function (document) {
+
+                function getParameterByName(name, url = window.location.href) {
+                  name = name.replace(/[\[\]]/g, '\\$&');
+                  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                      results = regex.exec(url);
+                  if (!results) return null;
+                  if (!results[2]) return '';
+                  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+              }
+
+              var dt = (getParameterByName("date"));
+              if (dt != null)
+              {
+                var data = {{ $dataJ }}
+                var stream;
+                data.forEach(da =>{
+                  if (da.RowKey == dt.replaceAll("-","").replace("/",""))
+                  {
+                    stream = da;
+                  }
+                });
+              if (stream != null)
+              {
+                var guest = document.getElementById("guest");
+                guest.innerHTML = stream.Guest;
+
+                var d = document.getElementById("dt");
+                d.innerHTML = stream.DateTimeAsString;
+
+                var yt = document.getElementById("youtube");
+                yt.src = "https://www.youtube.com/embed/" + stream.YouTubeVideoId;
+              }
+              else
+              {
+                document.location.href = "../schedule/";
+              }
+            }
+            else
+            {
+              document.location.href = "../schedule/";
+            }
+              })(document);
+            </script>
+          {{ else }}
             {{- .Content -}}
-          <!-- </div> -->
+          {{ end }}
         </section>
       </div>
     </div>
   </div>
-  <!-- <div class="container">
-    <div class="columns">
-      <div class="column">
-      </div>
-    </div>
-  </div> -->
   {{- if not .Params.hideLastModified -}}
   <div class="container">
     <div class="columns">

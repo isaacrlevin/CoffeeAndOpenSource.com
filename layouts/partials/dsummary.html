@@ -17,7 +17,7 @@
         {{- $dt := dateFormat "2006-01-02" .DateTimeUTC  -}}
 
          {{ if .YouTubeVideoId }}
-        <a href="posts/streams/{{ $dt }}-stream/">
+        <a href="streams.html?date={{ $dt }}/">
           <img src="https://i.ytimg.com/vi_webp/{{ .YouTubeVideoId }}/hqdefault.webp" alt="">
         </a>
         {{- else -}}
@@ -29,7 +29,7 @@
           {{- $imgWidth = $image.Width -}}
           {{- $imgHeight = $image.Height -}}
 
-        <a href="posts/streams/{{ $dt }}-stream/">
+        <a href="streams/?date={{ $dt }}">
           <img src="{{- $image.Permalink | relURL -}}" alt="">
         </a>
         {{ end }}

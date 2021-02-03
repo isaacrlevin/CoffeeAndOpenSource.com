@@ -21,14 +21,16 @@
               <div class="section is-small">
                   {{- $articlesPerRow := .Site.Params.articlesPerRow -}}
                   <div class="columns">
+                    {{ $art := -1 }}
                     {{- range $index, $element := (sort $dataJ ".RowKey" "desc") }}
                     {{ $t := (time .DateTimeUTC) }}
                     {{ $show := false}}
                     {{ if ($t.Before now) }}
                     {{ $show = true}}
+                    {{ $art = add $art 1 }}
                     {{end}}
                     {{ if $show}}
-                        {{- if and (eq (mod $index $articlesPerRow) 0 ) (not (eq $index 0)) -}}
+                        {{- if and (eq (mod $art $articlesPerRow) 0 ) (not (eq $index 0)) -}}
                           </div>
                           <div class="columns">
                         {{- end -}}
@@ -41,10 +43,8 @@
         <div class="sidenav">
           <center><h2>Upcoming Streams</h2></center>
           {{ $sortOrder := "asc"}}
-          {{ range sort $dataJ ".RowKey" $sortOrder  }}
-            {{ if not .IsPublished }}
+          {{ range first 5 (where ( sort $dataJ ".RowKey" $sortOrder ) "IsPublished" false) }}
               <a href="/schedule/"><span class="formatdate">{{ .DateTimeAsString }}</span> - {{ .Guest }}</a>
-            {{ end}}
           {{ end }}
         </div>
     </section>

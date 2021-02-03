@@ -20,6 +20,10 @@ DefaultContentLanguage: en
 
 disableKinds: ["sitemap","RSS"]
 
+uglyurls: true
+permalinks:
+  post: ":filename"
+
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true

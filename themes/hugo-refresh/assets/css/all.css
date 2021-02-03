@@ -6108,7 +6108,9 @@ readers do not read off random characters that represent icons */
   overflow-x: hidden;
   padding: 8px 0;
   bottom: 1300px;
-  height: 270px;
+  height: 300px;
+  display: block;
+  overflow: auto;
 }
 
 .sidenav a {
