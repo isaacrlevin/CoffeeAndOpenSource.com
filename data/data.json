@@ -163,9 +163,9 @@
     "Guest": "Mislav Marohnić",
     "GuestHandle": "mislav",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "GitHub Cli",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "iy_twFhYzKI"
   },
   {
     "PartitionKey": "mordechaizuber",
