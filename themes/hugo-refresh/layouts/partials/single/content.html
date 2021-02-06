@@ -16,8 +16,9 @@
           <br />
           <br />
           <center>
-          <iframe id="youtube" width="800" height="600" src="" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+          <iframe id="youtube" width="800" height="600" src="" frameborder="0"
+          allow="accelerometer;autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen=""></iframe>
           </center>
             <script>
               (function (document) {
@@ -37,15 +38,20 @@
                 var data = {{ $dataJ }}
                 var stream;
                 data.forEach(da =>{
-                  if (da.RowKey == dt.replaceAll("-","").replace("/",""))
+                  if (da.RowKey == dt.replace(/-/g,"").replace("/",""))
                   {
                     stream = da;
                   }
                 });
               if (stream != null)
               {
+                document.title = "Coffee & Open Source Interview - " + stream.Guest;
+
                 var guest = document.getElementById("guest");
                 guest.innerHTML = stream.Guest;
+
+                var t = document.getElementsByClassName("section-title")
+                t[0].innerHTML = "Coffee & Open Source Interview - " + stream.Guest;
 
                 var d = document.getElementById("dt");
                 d.innerHTML = stream.DateTimeAsString;
