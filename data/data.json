@@ -274,5 +274,17 @@
     "IsPublished": false,
     "Topic": "Being an Open Source Contributor",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "jeffblankenburg",
+    "RowKey": "20210407",
+    "DateTimeAsString": "4/07/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-04-07T17:00:00.000Z",
+    "Guest": "Jeff Bankenburg",
+    "GuestHandle": "jeffblankenburg",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Alexa and Open Source",
+    "YouTubeVideoId": ""
   }
 ]
