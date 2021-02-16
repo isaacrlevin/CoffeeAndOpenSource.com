@@ -24,7 +24,11 @@
         {{ if $show}}
   <tr>
   <td><span class="formatdate">{{ .DateTimeAsString }}</span></td>
+  {{ if ne .YouTubeVideoId ""  }}
   <td><a href="https://www.youtube.com/watch?v={{ .YouTubeVideoId }}" target="_blank">{{ .Topic }}</a></td>
+  {{ else }}
+  <td><a href="https://twitch.tv/isaacrlevin" target="_blank">{{ .Topic }}</a></td>
+  {{ end }}
   <td><a href="https://twitter.com/{{ .GuestHandle }}" target="_blank">{{ .Guest }}</a></td>
 </tr>
 {{end}}
