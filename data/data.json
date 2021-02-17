@@ -115,9 +115,9 @@
     "Guest": "Mark Collier",
     "GuestHandle": "sparkycollier",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Organization",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "aQ4AlljA4fU"
   },
   {
     "PartitionKey": "mattbierner",
@@ -309,6 +309,30 @@
     "GuestLink": "",
     "IsPublished": false,
     "Topic": "nukebuildnet",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "jeffwilcox",
+    "RowKey": "20210428",
+    "DateTimeAsString": "4/28/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-04-28T17:00:00.000Z",
+    "Guest": "Jeff Wilcox",
+    "GuestHandle": "jeffwilcox",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "OSS at Microsoft",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "briandouglas",
+    "RowKey": "20210505",
+    "DateTimeAsString": "5/05/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-05-05T17:00:00.000Z",
+    "Guest": "Brian Douglas",
+    "GuestHandle": "bdougieYO",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Sauced",
     "YouTubeVideoId": ""
   }
 ]
