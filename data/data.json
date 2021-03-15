@@ -334,5 +334,17 @@
     "IsPublished": false,
     "Topic": "Open Sauced",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "suzhinton",
+    "RowKey": "20210616",
+    "DateTimeAsString": "6/16/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-06-16T17:00:00.000Z",
+    "Guest": "Suz Hinton",
+    "GuestHandle": "noopkat",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Hardware Chat",
+    "YouTubeVideoId": ""
   }
 ]
