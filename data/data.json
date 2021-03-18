@@ -259,9 +259,9 @@
     "Guest": "Tracy Lee",
     "GuestHandle": "ladyleet",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Building Companies in an Open Source World",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "bdF7zqhdSSw"
   },
   {
     "PartitionKey": "sanketmakhija",
