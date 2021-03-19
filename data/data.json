@@ -358,5 +358,17 @@
     "IsPublished": false,
     "Topic": "Certifications/Blogs and Open Source",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "rlittlesii",
+    "RowKey": "20210526",
+    "DateTimeAsString": "5/26/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-05-26T17:00:00.000Z",
+    "Guest": "Rodney Littles II",
+    "GuestHandle": "@rlittlesii",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": ".NET, Open Source and Kung Fu",
+    "YouTubeVideoId": ""
   }
 ]
