@@ -346,5 +346,17 @@
     "IsPublished": false,
     "Topic": "Open Source Hardware Chat",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "gregorsuttie",
+    "RowKey": "20210519",
+    "DateTimeAsString": "5/19/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-05-19T17:00:00.000Z",
+    "Guest": "Gregor Suttie",
+    "GuestHandle": "@gregor_suttie",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Certifications/Blogs and Open Source",
+    "YouTubeVideoId": ""
   }
 ]
