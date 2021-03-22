@@ -119,6 +119,18 @@
               </a>
             </li>
             {{ end }}
+            {{ if isset .Site.Params.footer.youtube "link" }}
+            <li>
+              <a href="https://www.youtube.com/channel/{{ .Site.Params.footer.youtube.link }}" target="_blank">
+                <span class="icon"><i class="fab fa-youtube"></i></span>
+                {{ if isset .Site.Params.footer.youtube "title" }}
+                  {{ .Site.Params.footer.youtube.title }}
+                {{ else }}
+                YouYube
+                {{ end }}
+              </a>
+            </li>
+            {{ end }}
             {{ if isset .Site.Params.footer.discord "link" }}
             <li>
               <a href="https://discord.gg/{{ .Site.Params.footer.discord.link }}" target="_blank">

@@ -126,14 +126,14 @@ params:
     #   link: contact
     #   title: Contact
     # option to specify your linkedin profile in the footer
-    # linkedin:
-    #   link: your_linkedin_profile
-    #   title: My LinkedIn
+    linkedin:
+      link: isaacrobinlevin
+      title: LinkedIn
     # option to specify your facebook account in the footer;
     # **uncomment** the lines below to show in footer
-    # facebook:
-    #   link: your.username
-    #   title: Facebook
+    facebook:
+      link: levini
+      title: Facebook
     # option to specify your github account in the footer;
     # **uncomment** the below lines to show in footer
     github:
@@ -146,7 +146,10 @@ params:
        title: Coffee&OSS
     twitch:
       link: isaacrlevin
-      title: Isaac Levin Twitch
+      title: Twitch Channel
+    youtube:
+      link: UCNalR7W6RGI0jVS_ZeIEQzA
+      title: YouTube Channel
     discord:
       link: zGPSsY
       title: Coffee & Open Source
