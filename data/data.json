@@ -271,9 +271,9 @@
     "Guest": "Sanket Makhija",
     "GuestHandle": "sanket_dude",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being an Open Source Contributor",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "wpXYS66Tm-E"
   },
   {
     "PartitionKey": "jeffblankenburg",
