@@ -358,5 +358,17 @@
     "IsPublished": false,
     "Topic": ".NET, Open Source and Kung Fu",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "nityanarasimhan",
+    "RowKey": "20210609",
+    "DateTimeAsString": "6/09/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-06-09T17:00:00.000Z",
+    "Guest": "Nitya Narasimhan",
+    "GuestHandle": "@nitya",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source == Community",
+    "YouTubeVideoId": ""
   }
 ]
