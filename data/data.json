@@ -1,17 +1,5 @@
 [
   {
-    "PartitionKey": "abelwang",
-    "RowKey": "20210331",
-    "DateTimeAsString": "3/31/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-03-31T17:00:00.000Z",
-    "Guest": "Abel Wang",
-    "GuestHandle": "AbelSquidHead",
-    "GuestLink": "",
-    "IsPublished": false,
-    "Topic": "DevOps and Open Source",
-    "YouTubeVideoId": ""
-  },
-  {
     "PartitionKey": "camsoper",
     "RowKey": "20201014",
     "DateTimeAsString": "10/14/2020, 9:00:00 AM",
