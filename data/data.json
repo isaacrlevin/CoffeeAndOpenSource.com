@@ -370,5 +370,41 @@
     "IsPublished": false,
     "Topic": "Open Source == Community",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "paigebailey",
+    "RowKey": "20210623",
+    "DateTimeAsString": "6/23/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-06-23T17:00:00.000Z",
+    "Guest": "Paige Bailey",
+    "GuestHandle": "@DynamicWebPaige",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source AI",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "dendelimarsky",
+    "RowKey": "20210630",
+    "DateTimeAsString": "6/30/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-06-30T17:00:00.000Z",
+    "Guest": "Den Delimarsky",
+    "GuestHandle": "@DennisCode",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Learning in an Open Source World",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "katcosgrove",
+    "RowKey": "20210707",
+    "DateTimeAsString": "7/07/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-07-07T17:00:00.000Z",
+    "Guest": "Kat Cosgrove",
+    "GuestHandle": "@Dixie3Flatline",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Teaching the Next Generation of Open Source developers",
+    "YouTubeVideoId": ""
   }
 ]
