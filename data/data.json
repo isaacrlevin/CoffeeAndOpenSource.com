@@ -271,9 +271,9 @@
     "Guest": "Jeff Bankenburg",
     "GuestHandle": "jeffblankenburg",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Alexa and Open Source",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "0SNI8L43b5k"
   },
   {
     "PartitionKey": "jenlooper",
