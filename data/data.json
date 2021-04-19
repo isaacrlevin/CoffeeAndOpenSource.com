@@ -283,9 +283,9 @@
     "Guest": "Jen Looper",
     "GuestHandle": "jenlooper",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Front-End Foxes School",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "xM8J3C7HFs4"
   },
   {
     "PartitionKey": "matthiaskoch",
