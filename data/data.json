@@ -307,9 +307,9 @@
     "Guest": "Jeff Wilcox",
     "GuestHandle": "jeffwilcox",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "OSS at Microsoft",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "QJQjOcSk8P8"
   },
   {
     "PartitionKey": "briandouglas",
