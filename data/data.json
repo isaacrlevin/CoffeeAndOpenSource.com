@@ -319,9 +319,9 @@
     "Guest": "Brian Douglas",
     "GuestHandle": "bdougieYO",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Sauced",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "PsGdPKO8o7Y"
   },
   {
     "PartitionKey": "suzhinton",
