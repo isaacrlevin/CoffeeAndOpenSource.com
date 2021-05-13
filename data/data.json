@@ -211,9 +211,9 @@
     "Guest": "Sam Smith",
     "GuestHandle": "samsmithnz",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Talking OSS with Customers",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "_qpfqmwiXTg"
   },
   {
     "PartitionKey": "scottaddie",
