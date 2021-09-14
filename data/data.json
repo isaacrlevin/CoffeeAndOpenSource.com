@@ -336,18 +336,6 @@
     "YouTubeVideoId": ""
   },
   {
-    "PartitionKey": "rlittlesii",
-    "RowKey": "20210908",
-    "DateTimeAsString": "9/08/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-09-08T17:00:00.000Z",
-    "Guest": "Rodney Littles II",
-    "GuestHandle": "@rlittlesii",
-    "GuestLink": "",
-    "IsPublished": false,
-    "Topic": ".NET, Open Source and Kung Fu",
-    "YouTubeVideoId": ""
-  },
-  {
     "PartitionKey": "nityanarasimhan",
     "RowKey": "20211013",
     "DateTimeAsString": "10/13/2021, 9:00:00 AM",
