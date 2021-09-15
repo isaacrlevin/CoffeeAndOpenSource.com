@@ -367,9 +367,9 @@
     "Guest": "Den Delimarsky",
     "GuestHandle": "@DennisCode",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Learning in an Open Source World",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "MfslGKUJb5Y"
   },
   {
     "PartitionKey": "katcosgrove",
