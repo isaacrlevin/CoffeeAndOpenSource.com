@@ -373,9 +373,9 @@
   },
   {
     "PartitionKey": "katcosgrove",
-    "RowKey": "20210922",
-    "DateTimeAsString": "9/22/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-09-22T17:00:00.000Z",
+    "RowKey": "20210923",
+    "DateTimeAsString": "9/23/2021, 12:00:00 MM",
+    "DateTimeUTC": "2021-09-23T20:00:00.000Z",
     "Guest": "Kat Cosgrove",
     "GuestHandle": "@Dixie3Flatline",
     "GuestLink": "",
