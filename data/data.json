@@ -218,13 +218,13 @@
   {
     "PartitionKey": "scottaddie",
     "RowKey": "20210929",
-    "DateTimeAsString": "9/29/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-09-29T17:00:00.000Z",
+    "DateTimeAsString": "9/29/2021, 10:00:00 AM",
+    "DateTimeUTC": "2021-09-29T18:00:00.000Z",
     "Guest": "Scott Addie",
     "GuestHandle": "Scott_Addie",
     "GuestLink": "",
     "IsPublished": false,
-    "Topic": "Open Source Docs",
+    "Topic": "Helpind Developers use Azure",
     "YouTubeVideoId": ""
   },
   {
@@ -350,8 +350,8 @@
   {
     "PartitionKey": "paigebailey",
     "RowKey": "20211006",
-    "DateTimeAsString": "10/06/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-10-06T17:00:00.000Z",
+    "DateTimeAsString": "10/06/2021, 10:00:00 AM",
+    "DateTimeUTC": "2021-10-06T18:00:00.000Z",
     "Guest": "Paige Bailey",
     "GuestHandle": "@DynamicWebPaige",
     "GuestLink": "",
