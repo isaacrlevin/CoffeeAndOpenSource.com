@@ -338,8 +338,8 @@
   {
     "PartitionKey": "nityanarasimhan",
     "RowKey": "20211013",
-    "DateTimeAsString": "10/13/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-10-13T17:00:00.000Z",
+    "DateTimeAsString": "10/14/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-10-14T19:00:00.000Z",
     "Guest": "Nitya Narasimhan",
     "GuestHandle": "@nitya",
     "GuestLink": "",
@@ -350,8 +350,8 @@
   {
     "PartitionKey": "paigebailey",
     "RowKey": "20211006",
-    "DateTimeAsString": "10/06/2021, 10:00:00 AM",
-    "DateTimeUTC": "2021-10-06T18:00:00.000Z",
+    "DateTimeAsString": "10/06/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-10-06T19:00:00.000Z",
     "Guest": "Paige Bailey",
     "GuestHandle": "@DynamicWebPaige",
     "GuestLink": "",
@@ -379,8 +379,32 @@
     "Guest": "Kat Cosgrove",
     "GuestHandle": "@Dixie3Flatline",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Teaching the Next Generation of Open Source developers",
     "YouTubeVideoId": "mVCnSkZm36c"
+  },
+  {
+    "PartitionKey": "garyewanpark",
+    "RowKey": "20210923",
+    "DateTimeAsString": "11/03/2021, 11:00:00 PM",
+    "DateTimeUTC": "2021-11-03T19:00:00.000Z",
+    "Guest": "Gary Ewan Park",
+    "GuestHandle": "@gep13",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Having fun with Chocolatey",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "marieantons",
+    "RowKey": "20210923",
+    "DateTimeAsString": "11/10/2021, 10:00:00 PM",
+    "DateTimeUTC": "2021-11-10T18:00:00.000Z",
+    "Guest": "Marie Antons",
+    "GuestHandle": "@MarieAntons",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "DevOps in an OSS World",
+    "YouTubeVideoId": ""
   }
 ]
