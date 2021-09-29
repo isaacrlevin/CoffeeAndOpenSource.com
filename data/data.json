@@ -223,9 +223,9 @@
     "Guest": "Scott Addie",
     "GuestHandle": "Scott_Addie",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Docs",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "vvNmMM_7DNw"
   },
   {
     "PartitionKey": "shaunwalker",
