@@ -218,13 +218,13 @@
   {
     "PartitionKey": "scottaddie",
     "RowKey": "20210929",
-    "DateTimeAsString": "9/29/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-09-29T17:00:00.000Z",
+    "DateTimeAsString": "9/29/2021, 10:00:00 AM",
+    "DateTimeUTC": "2021-09-29T18:00:00.000Z",
     "Guest": "Scott Addie",
     "GuestHandle": "Scott_Addie",
     "GuestLink": "",
     "IsPublished": true,
-    "Topic": "Open Source Docs",
+    "Topic": "Helping Developers use Azure",
     "YouTubeVideoId": "vvNmMM_7DNw"
   },
   {
@@ -326,8 +326,8 @@
   {
     "PartitionKey": "suzhinton",
     "RowKey": "20211020",
-    "DateTimeAsString": "10/20/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-10-20T17:00:00.000Z",
+    "DateTimeAsString": "10/20/2021, 12:00:00 PM",
+    "DateTimeUTC": "2021-10-20T20:00:00.000Z",
     "Guest": "Suz Hinton",
     "GuestHandle": "noopkat",
     "GuestLink": "",
@@ -338,8 +338,8 @@
   {
     "PartitionKey": "nityanarasimhan",
     "RowKey": "20211013",
-    "DateTimeAsString": "10/13/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-10-13T17:00:00.000Z",
+    "DateTimeAsString": "10/14/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-10-14T19:00:00.000Z",
     "Guest": "Nitya Narasimhan",
     "GuestHandle": "@nitya",
     "GuestLink": "",
@@ -350,8 +350,8 @@
   {
     "PartitionKey": "paigebailey",
     "RowKey": "20211006",
-    "DateTimeAsString": "10/06/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-10-06T17:00:00.000Z",
+    "DateTimeAsString": "10/06/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-10-06T19:00:00.000Z",
     "Guest": "Paige Bailey",
     "GuestHandle": "@DynamicWebPaige",
     "GuestLink": "",
@@ -373,14 +373,38 @@
   },
   {
     "PartitionKey": "katcosgrove",
-    "RowKey": "20210922",
-    "DateTimeAsString": "9/22/2021, 9:00:00 AM",
-    "DateTimeUTC": "2021-09-22T17:00:00.000Z",
+    "RowKey": "20210923",
+    "DateTimeAsString": "9/23/2021, 12:00:00 PM",
+    "DateTimeUTC": "2021-09-23T20:00:00.000Z",
     "Guest": "Kat Cosgrove",
     "GuestHandle": "@Dixie3Flatline",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Teaching the Next Generation of Open Source developers",
+    "YouTubeVideoId": "mVCnSkZm36c"
+  },
+  {
+    "PartitionKey": "garyewanpark",
+    "RowKey": "20210923",
+    "DateTimeAsString": "11/03/2021, 11:00:00 PM",
+    "DateTimeUTC": "2021-11-03T19:00:00.000Z",
+    "Guest": "Gary Ewan Park",
+    "GuestHandle": "@gep13",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Having fun with Chocolatey",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "marieantons",
+    "RowKey": "20210923",
+    "DateTimeAsString": "11/10/2021, 10:00:00 PM",
+    "DateTimeUTC": "2021-11-10T18:00:00.000Z",
+    "Guest": "Marie Antons",
+    "GuestHandle": "@MarieAntons",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "DevOps in an OSS World",
     "YouTubeVideoId": ""
   }
 ]

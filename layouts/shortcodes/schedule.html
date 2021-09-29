@@ -12,7 +12,7 @@
         {{if (eq ($.Get 0) "previous" )}}
         {{ $sortOrder = "desc"}}
         {{end}}
-        {{ range sort $dataJ ".RowKey" $sortOrder  }}
+        {{ range sort $dataJ ".DateTimeUTC" $sortOrder  }}
         {{ $t := (time .DateTimeUTC) }}
         {{ $show := false}}
         {{ if and (eq ($.Get 0) "upcoming" ) ($t.After now) }}
@@ -23,7 +23,7 @@
         {{end}}
         {{ if $show}}
   <tr>
-  <td><span class="formatdate">{{ .DateTimeAsString }}</span></td>
+  <td><span class="formatdatetime">{{ .DateTimeAsString }}</span></td>
   {{ if ne .YouTubeVideoId ""  }}
   <td><a href="https://www.youtube.com/watch?v={{ .YouTubeVideoId }}" target="_blank">{{ .Topic }}</a></td>
   {{ else }}

@@ -114,6 +114,12 @@
 <script>
   $(".formatdate").map(function() {
   var d = new Date(this.innerHTML);
+      return this.innerHTML = (d.getMonth()+1)+'/'+d.getDate() + '/' + d.getFullYear(); 
+      //d.toLocaleString();
+  });
+
+  $(".formatdatetime").map(function() {
+  var d = new Date(this.innerHTML);
       return this.innerHTML = d.toLocaleString();
   });
 

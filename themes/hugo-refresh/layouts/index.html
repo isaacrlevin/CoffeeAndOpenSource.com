@@ -43,7 +43,7 @@
         <div class="sidenav">
           <center><h2>Upcoming Streams</h2></center>
           {{ $sortOrder := "asc"}}
-          {{ range first 5 (where ( sort $dataJ ".RowKey" $sortOrder ) "IsPublished" false) }}
+          {{ range first 5 (where ( sort $dataJ ".DateTimeUTC" $sortOrder ) "IsPublished" false) }}
               <a href="/schedule"><span class="formatdate">{{ .DateTimeAsString }}</span> - {{ .Guest }}</a>
           {{ end }}
         </div>
