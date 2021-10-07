@@ -355,9 +355,9 @@
     "Guest": "Paige Bailey",
     "GuestHandle": "@DynamicWebPaige",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source AI",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "C_kbgChIavw"
   },
   {
     "PartitionKey": "dendelimarsky",
