@@ -386,7 +386,7 @@
   {
     "PartitionKey": "garyewanpark",
     "RowKey": "20210923",
-    "DateTimeAsString": "11/03/2021, 11:00:00 PM",
+    "DateTimeAsString": "11/03/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-11-03T19:00:00.000Z",
     "Guest": "Gary Ewan Park",
     "GuestHandle": "@gep13",
@@ -398,13 +398,25 @@
   {
     "PartitionKey": "marieantons",
     "RowKey": "20210923",
-    "DateTimeAsString": "11/10/2021, 10:00:00 PM",
+    "DateTimeAsString": "11/10/2021, 10:00:00 AM",
     "DateTimeUTC": "2021-11-10T18:00:00.000Z",
     "Guest": "Marie Antons",
     "GuestHandle": "@MarieAntons",
     "GuestLink": "",
     "IsPublished": false,
     "Topic": "DevOps in an OSS World",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "philiplaureano",
+    "RowKey": "20211203",
+    "DateTimeAsString": "12/03/2021, 02:00:00 PM",
+    "DateTimeUTC": "2021-12-03T14:00:00.000Z",
+    "Guest": "Philip Laureano",
+    "GuestHandle": "@philiplaureano",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Having fun in OSS",
     "YouTubeVideoId": ""
   }
 ]
