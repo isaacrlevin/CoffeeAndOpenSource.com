@@ -15,7 +15,7 @@
         <!-- </div> -->
       </div>
 
-    <div class="column">
+    <!-- <div class="column">
         <div class="footer-column">
           <div class="footer-header">
               <h3>{{ i18n "website" }}</h3>
@@ -50,13 +50,13 @@
             </li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
       {{ if  (or (or (or (isset .Site.Params.footer "linkedin") (isset .Site.Params.footer "email")) (isset .Site.Params.footer "twitter")) (isset .Site.Params.footer "github")) }}
       <div class="column">
         <div class="footer-column">
           <div class="footer-header">
-              <h3>{{ i18n "contacts" }}</h3>
+              <h3>Social</h3>
           </div>
           <ul class="link-list">
             {{ if isset .Site.Params.footer.linkedin "link" }}
@@ -147,6 +147,40 @@
         </div>
       </div>
       {{ end }}
+
+      <div class="column">
+        <div class="footer-column">
+          <div class="footer-header">
+              <h3>Podcast</h3>
+          </div>
+          <ul class="link-list">
+            <li>
+              <a href="https://open.spotify.com/show/6ddVKXbZGtMz3y66D9QD0e" target="_blank">
+                <span class="icon"><i class="fab fa-spotify"></i></span>
+                  Spotify
+              </a>
+            </li>
+            <li>
+              <a href="https://podcasts.apple.com/us/podcast/coffee-and-open-source/id1589875016" target="_blank">
+                <span class="icon"><i class="fab fa-podcast"></i></span>
+                  Apple Podcasts
+              </a>
+            </li>
+            <li>
+              <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw" target="_blank">
+                <span class="icon"><i class="fab fa-podcast"></i></span>
+                  Google Podcasts
+              </a>
+            </li>
+            <li>
+              <a href="https://anchor.fm/s/63982f70/podcast/rss" target="_blank">
+                <span class="icon"><i class="fab fa-rss"></i></span>
+                  RSS Feed
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
 
       {{ if isset .Site.Params.footer "copyright" }}
       <div class="column">
