@@ -421,7 +421,7 @@
   },
   {
     "PartitionKey": "mattiaskarlsson",
-    "RowKey": "202112015",
+    "RowKey": "20211215",
     "DateTimeAsString": "12/15/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-12-15T11:00:00.000Z",
     "Guest": "Mattias Karlsson",
@@ -433,7 +433,7 @@
   },
   {
     "PartitionKey": "christosmatskas",
-    "RowKey": "202112015",
+    "RowKey": "20211222",
     "DateTimeAsString": "12/22/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-12-22T11:00:00.000Z",
     "Guest": "Christos Matskas",
@@ -441,6 +441,30 @@
     "GuestLink": "",
     "IsPublished": false,
     "Topic": "Connecting with Developers about Security",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "peterdetender",
+    "RowKey": "20211229",
+    "DateTimeAsString": "12/29/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-12-29T11:00:00.000Z",
+    "Guest": "Peter de Tender",
+    "GuestHandle": "@pdtit",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Learning through Certification",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "morganbell",
+    "RowKey": "20220126",
+    "DateTimeAsString": "01/26/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-01-26T11:00:00.000Z",
+    "Guest": "Morgan Bell",
+    "GuestHandle": "@livelovegeek",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Educating the Next Generation of Tech",
     "YouTubeVideoId": ""
   }
 ]
