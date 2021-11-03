@@ -391,9 +391,9 @@
     "Guest": "Gary Ewan Park",
     "GuestHandle": "@gep13",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Having fun with Chocolatey",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "jNJkD_fbOmg"
   },
   {
     "PartitionKey": "marieantons",
