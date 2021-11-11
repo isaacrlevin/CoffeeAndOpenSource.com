@@ -403,9 +403,9 @@
     "Guest": "Marie Antons",
     "GuestHandle": "@MarieAntons",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "DevOps in an OSS World",
-    "YouTubeVideoId": ""
+    "YouTubeVideoId": "0eNfKU5hY7Y"
   },
   {
     "PartitionKey": "philiplaureano",
