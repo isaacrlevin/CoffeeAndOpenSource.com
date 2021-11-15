@@ -466,5 +466,29 @@
     "IsPublished": false,
     "Topic": "Educating the Next Generation of Tech",
     "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "elahndanee",
+    "RowKey": "20220105",
+    "DateTimeAsString": "01/05/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-01-05T11:00:00.000Z",
+    "Guest": "Elahn Danee",
+    "GuestHandle": "@CodeThLightning",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Getting started in Tech",
+    "YouTubeVideoId": ""
+  },
+  {
+    "PartitionKey": "brianclark",
+    "RowKey": "20220105",
+    "DateTimeAsString": "01/12/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-01-12T11:00:00.000Z",
+    "Guest": "Brian Clark",
+    "GuestHandle": "@_clarkio",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Streaming fun tech things",
+    "YouTubeVideoId": ""
   }
 ]
