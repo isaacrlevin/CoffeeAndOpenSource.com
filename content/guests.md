@@ -1,0 +1,47 @@
+---
+title: Guests
+layout: guests
+guests_refs:
+- noelle-silver
+- claire-novotny
+- cam-soper
+- hayden-barnes
+- ian-lance-taylor
+- jeff-fritz
+- jeff-strauss
+- jerome-hardaway
+- kayla-cinnamon
+- mark-collier
+- matt-bierner
+- michael-crump
+- michelle-mannering
+- mislaz-marohnić
+- mordechai-zuber
+- richard-campbell
+- roshan-jossey
+- sam-smith
+- scott-addie
+- shaun-walker
+- tracy-lee
+- sanket-makhija
+- jeff-blankenburg
+- jen-looper
+- matthias-koch
+- jeff-wilcox
+- brian-douglas
+- suz-hinton
+- nitya-narasimhan
+- paige-bailey
+- den-delimarsky
+- kat-cosgrove
+- gary-ewan-park
+- marie-antons
+- philip-laureano
+- mattias-karlsson
+- christos-matskas
+- morgan-bell
+- elahn-danee
+- brian-clark
+- clark-sell
+- demetris-cheatham
+---

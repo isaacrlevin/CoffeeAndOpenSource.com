@@ -1,0 +1,26 @@
+{{/*
+  GetGuestPages
+  Retrieves the list of term pages for the `guests_refs` taxonomy.
+
+  @author @regisphilibert
+
+  @context Any (.)
+
+  @access private
+
+  @returns Collection of Pages
+
+  @example - Go Template
+            We don't need a context
+            We don't need a variant either as returned value is the same across build
+
+    {{ with partialCached "GetGuestPages" "GetGuestPages" }}
+      Guest name is {{ .Guest }}
+    {{ end }}
+*/}}
+{{ $guests := slice }}
+{{ range site.Taxonomies.guests_refs }}
+  {{ $guests = $guests | append .Page }}
+{{ end }}
+
+{{ return $guests }}

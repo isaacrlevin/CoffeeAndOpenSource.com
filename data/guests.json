@@ -1,0 +1,1028 @@
+{
+  "claire-novotny": {
+    "PartitionKey": "claire-novotny",
+    "RowKey": "20200715",
+    "DateTimeAsString": "7/15/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-07-15T16:00:00.000Z",
+    "Guest": "Claire Novotny",
+    "GuestHandle": "clairernovotny",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": ".NET Foundation",
+    "YouTubeVideoId": "3NI2HxbhFUw",
+    "GuestBio": "Claire Novotny is a Program Manager on the .NET team at Microsoft and a former Executive Director of the . She is passionate about reducing friction in the development process and creating modern software solutions to solve complex business challenges. Prior to joining Microsoft, Claire was a Regional Director and MVP, with a major focus on the open source .NET ecosystem. She has been writing code on the Microsoft platform since the days a 2400 baud modem was considered cutting-edge.<br /><br />Her prior experience ranges from building identity solutions for global organizations, developing real-time trading systems dealing with massive amounts of data to the complex data models of equity derivatives and the regulatory needs of Medicaid claims processing. She believes that technology is meaningless in a vacuum and strives to show how the bleeding-edge delivers superior value to the bottom line.",
+    "HaveAudio": false,
+    "SpotifyLink": "https://open.spotify.com/episode/5CbRYQS4PXD0o180hzj9pj",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ODRmYzZlYzctN2ExOC00NWIwLTg5YmQtMWI2YTYyYjJkNjVm?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/claire-novotny/id1589875016?i=1000538278673",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/clairernovotny"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/clairernovotny"
+      },
+      {
+        "GitHub": "https://github.com/clairernovotny"
+      },
+      {
+        "Blog": "https://claires.site/"
+      }
+    ]
+  },
+  "noelle-silver": {
+    "PartitionKey": "noelle-silver",
+    "RowKey": "20200722",
+    "DateTimeAsString": "7/22/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-07-22T16:00:00.000Z",
+    "Guest": "Noelle Silver",
+    "GuestHandle": "NoelleSilver_",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Educating the Next Wave of Engineers",
+    "YouTubeVideoId": "yYruivtX9Ic",
+    "GuestBio": "Noelle has been speaking professionally for 20+ years now and have given over 800 keynote presentations to audiences as large as 10,000.<br /><br />As an experienced speaker, Noelle and her team want to provide two key things for your next event…<br /><br />A great experience on stage — Noelle has presented to audiences both large and small in a variety of different settings and contexts. As a presenter, Noelle will use stories, empathy and humor to not only make a point but to keep your audience engaged and listening. They will leave with practical, actionable next steps to take with them beyond that session.<br /><br />A great experience off stage —We know as a conference planner, there are a lot of details you have to manage and juggle. The speaker should be the last of your concerns. We’ve worked with hundreds of event planners and are regularly told we make their lives easier and how grateful they are for our experience with the process.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1sPSjxxEnXpbjXJERmEnaz",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MGQxNmZmOTAtNDk0MC00OTYyLTk1YjAtYTQ2YzZlZmMwYTU3?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/noelle-silver/id1589875016?i=1000538278511",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/noellesilver"
+      }
+    ]
+  },
+  "jerome-hardaway": {
+    "PartitionKey": "jerome-hardaway",
+    "RowKey": "20200812",
+    "DateTimeAsString": "8/12/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-08-12T16:00:00.000Z",
+    "Guest": "Jerome Hardaway",
+    "GuestHandle": "JeromeHardaway",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Vets Who Code",
+    "YouTubeVideoId": "sDe_5UcXbv8",
+    "GuestBio": "Jerome Hardaway is a Senior Software Engineer at Microsoft and The Executive Developer of Vets Who Code. Having served in the Air Force as Security Forces then transitioned into software engineering, he is focused on helping underrepresented members in the veteran community learn and break into tech. He has received numerous awards and honors due to his work but the most rewarding part to him is easing the point of entry so that others have easier paths into tech than he did.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3WqQD9IXr8N0suGbom0D2S",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NGE3YjlhNTktYWM5MC00MzdkLWI0ODktNTViN2YwZDI2ZTM0?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jerome-hardaway/id1589875016?i=1000538278697",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/JeromeHardaway"
+      },
+      {
+        "Vets Who Code": "https://vetswhocode.io/"
+      }
+    ]
+  },
+  "mordechai-zuber": {
+    "PartitionKey": "mordechai-zuber",
+    "RowKey": "20200826",
+    "DateTimeAsString": "8/26/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-08-26T16:00:00.000Z",
+    "Guest": "Mordechai Zuber",
+    "GuestHandle": "mordzuber",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "OSS Burnout",
+    "YouTubeVideoId": "N_56KAyTkKI",
+    "GuestBio": "Mordechai Zuber is a software developer based in Israel.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/40HreNkV5UR2LbQoj27ILa",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/OTA0ZTVhODUtN2Q4Yi00YmRlLWE3ZTktMDg2MTNhZmM4Mjgx?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/mordechai-zuber/id1589875016?i=1000538278574",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mordzuber"
+      }
+    ]
+  },
+  "ian-lance-taylor": {
+    "PartitionKey": "ian-lance-taylor",
+    "RowKey": "20200902",
+    "DateTimeAsString": "9/2/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-09-02T16:00:00.000Z",
+    "Guest": "Ian Lance Taylor",
+    "GuestHandle": "ianlancetaylor",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Go",
+    "YouTubeVideoId": "Dl_DkUMfpnI",
+    "GuestBio": "Ian Lance Taylor has been writing free software since 1990. He is the main author of Taylor UUCP, the gold linker, and the Go frontend to GCC. He is a member of the GCC steering committee. He joined Google in 2006, and since 2008 has been working on the Go programming language.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3j21uayfXcBCpGBvYSuDsd",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZmFhYzAxMTctNzVmMC00ODNmLWI4MjktMjJlOTI5ZTU5N2I3?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/ian-taylor/id1589875016?i=1000538278535",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ianlancetaylor"
+      }
+    ]
+  },
+  "hayden-barnes": {
+    "PartitionKey": "hayden-barnes",
+    "RowKey": "20200916",
+    "DateTimeAsString": "9/16/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-09-16T16:00:00.000Z",
+    "Guest": "Hayden Barnes",
+    "GuestHandle": "unixterminal",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Ubuntu and WSL",
+    "YouTubeVideoId": "caHJ41wc418",
+    "GuestBio": "Hayden Barnes is a Senior Mgr. for Windows, Docs & Internal DevOps at Rancher Labs. He is a Microsoft MVP and former Engineering Manager for Ubuntu on WSL & founder Pengwin Linux.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0KZvjsEiA3OQMfNCmyVXz2",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZGI1MzBjMWEtN2U4ZS00MTMzLTlkNjktYzI2YWNkZmQ2MDEz?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/hayden-barnes/id1589875016?i=1000538359807",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/unixterminal"
+      },
+      {
+        "Blog": "https://boxofcables.dev/"
+      }
+    ]
+  },
+  "shaun-walker": {
+    "PartitionKey": "shaun-walker",
+    "RowKey": "20200930",
+    "DateTimeAsString": "9/30/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-09-30T16:00:00.000Z",
+    "Guest": "Shaun Walker",
+    "GuestHandle": "sbwalker",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "DNN & Oqtane",
+    "YouTubeVideoId": "W64vG9eFYB0",
+    "GuestBio": "Shaun Walker has 25+ years professional experience in architecting and implementing enterprise software solutions for private and public organizations. Shaun is the original creator of Oqtane and DotNetNuke, web application frameworks which have cultivated the largest and most successful Open Source community projects native to the Microsoft platform. He was one of the original founders of DNN Corp, a commercial software company providing products, services, and technical support for DotNetNuke, which raised 3 rounds of venture capital from top tier Silicon Valley investors. Based on his significant community contributions he has been recognized as a Microsoft Most Valuable Professional (MVP) as well as an ASPInsider for over 10 consecutive years. He was recognized by Business In Vancouver as a leading entrepreneur in their Forty Under 40 business awards, was a founding member of the Board of Directors of the Outercurve Foundation, and is currently the Chair of the Project Committee for Microsoft's .NET Foundation. Shaun is currently a Technical Director and Enterprise Guildmaster at Cognizant Softvision.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2cf7MOIXIWYiNE9Teu2uTP",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Y2M1MDU1ODAtZDEyOC00OThhLTk2MWUtMzc0YzU1NWJjNzg1?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/shaun-walker/id1589875016?i=1000538360622",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/sbwalker"
+      },
+      {
+        "Blog": "https://www.siliqon.com/"
+      }
+    ]
+  },
+  "michelle-mannering": {
+    "PartitionKey": "michelle-mannering",
+    "RowKey": "20201007",
+    "DateTimeAsString": "10/7/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-10-07T16:00:00.000Z",
+    "Guest": "Michelle Mannering",
+    "GuestHandle": "MishManners",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Source at GitHub DevRel",
+    "YouTubeVideoId": "6grlJDGlB7k",
+    "GuestBio": "Known as the “Hackathon Queen” I work as the Developer Community Manager for GitHub. Everyday I get to engage with the vibrant developer community. As part of the DevRel team, we’re here to listen to the community, understand them, and provide people with the tools and resources to succeed at open source. Coding and development aren’t always just about writing lines of code 👩🏼‍💻 One of my favourite focus areas of DevOps is collaboration. You’ll find me talking about this a lot as it can really shape the end result of your product or service. I’ve been lucky enough to collaborate with amazing teams throughout all my jobs and to promote this through my various hackathons and speaking engagements.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/MishManners"
+      },
+      {
+        "GitHub": "https://mishmanners.info/"
+      }
+    ]
+  },
+  "cam-soper": {
+    "PartitionKey": "cam-soper",
+    "RowKey": "20201014",
+    "DateTimeAsString": "10/14/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-10-14T16:00:00.000Z",
+    "Guest": "Cam Soper",
+    "GuestHandle": "camsoper",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Sourcing Your House",
+    "YouTubeVideoId": "Ia_vS6bQs1Q",
+    "GuestBio": "Cam Soper is a .NET content developer at Microsoft. He is a Geek, gamer, musician, speaker. His interests include Home automation, robot BBQ, and he is a 3D printer enthusiast.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7L85XJNzkIpMkULkI0VIS9",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Mjc1ODZlOTAtYTdhOS00YjVmLTk2N2YtNWE0YTVjNjFiMmI4?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/cam-soper/id1589875016?i=1000538361612",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/camsoper"
+      },
+      {
+        "GitHub": "https://github.com/camsoper"
+      }
+    ]
+  },
+  "jeff-strauss": {
+    "PartitionKey": "jeff-strauss",
+    "RowKey": "20201028",
+    "DateTimeAsString": "10/28/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-10-28T16:00:00.000Z",
+    "Guest": "Jeff Strauss",
+    "GuestHandle": "jeffreystrauss",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Events in the Open",
+    "YouTubeVideoId": "s44W5EkKdGs",
+    "GuestBio": "Jeff is a technical advisor, an executive consultant, and an attorney. As a solution architect on the Multicloud team at World Wide Technology—and with his unique experiences that combine tech and business—he maintains a passion for solving problems with inspired solutions, improving life through technology.<br /><br />A dedicated member of the developer community, Jeff has been a director of the .NET Foundation and a Microsoft MVP, and travels internationally to speak on technical, business, and community-oriented topics. He serves as a lead organizer for the Kansas City Developer Conference, #MetaConference, and Dev Around The Sun.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0Mi8LTCBt6lb83jJnHT6as",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NDExMWI2MDEtNjQ5ZC00OGE2LWI5ZjUtNmE4YjFmYjE5ODYz?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeff-strauss/id1589875016?i=1000538363412",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jeffreystrauss"
+      },
+      {
+        "KCDC Site": "https://www.kcdc.info/"
+      }
+    ]
+  },
+  "kayla-cinnamon": {
+    "PartitionKey": "kayla-cinnamon",
+    "RowKey": "20201118",
+    "DateTimeAsString": "11/18/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-11-18T17:00:00.000Z",
+    "Guest": "Kayla Cinnamon",
+    "GuestHandle": "cinnamon_msft",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Sourcing Windows Terminal",
+    "YouTubeVideoId": "9KLBfKMaZn8",
+    "GuestBio": "Kayla is a program manager at Microsoft. Her current projects include Windows Terminal, Windows Console, and Cascadia Code",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/05rYtXob3lzJj5MbcLG6YQ",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/N2QwOWNiMmMtMGIzMC00ODhlLTg4YzQtNjA2NDNjY2I2NDNj?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/kayla-cinnamon/id1589875016?i=1000538363376",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/cinnamon_msft"
+      }
+    ]
+  },
+  "michael-crump": {
+    "PartitionKey": "michael-crump",
+    "RowKey": "20201209",
+    "DateTimeAsString": "12/9/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-12-09T17:00:00.000Z",
+    "Guest": "Michael Crump",
+    "GuestHandle": "mbcrump",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Being OSS and Secure",
+    "YouTubeVideoId": "fhXaiDsx2O0",
+    "GuestBio": "Michael Crump works at Microsoft and is a coder, blogger and speaker of various software development topics. He has a passion for a wide range of technology stacks that involve desktop and mobile.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mbcrump"
+      },
+      {
+        "Twitch": "https://www.twitch.tv/mbcrump"
+      }
+    ]
+  },
+  "jeff-fritz": {
+    "PartitionKey": "jeff-fritz",
+    "RowKey": "20201202",
+    "DateTimeAsString": "12/2/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-12-02T17:00:00.000Z",
+    "Guest": "Jeff Fritz",
+    "GuestHandle": "csharpfritz",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Live Streaming in the Open",
+    "YouTubeVideoId": "Ho9gpudxQg0",
+    "GuestBio": "Jeffrey T. Fritz – or simply “Fritz” is a Program Manager for Microsoft on the ASP.NET and .NET Community Outreach teams.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6u3p5NHQyi7GkHLZ6cpTNu",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NjI5Y2NmYzktNWMwNy00OWI4LWE2YTctYmY5MzQwYzVmNmE3?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeff-fritz/id1589875016?i=1000538364487",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/csharpfritz"
+      }
+    ]
+  },
+  "matt-bierner": {
+    "PartitionKey": "matt-bierner",
+    "RowKey": "20201216",
+    "DateTimeAsString": "12/16/2020, 9:00:00 AM",
+    "DateTimeUTC": "2020-12-16T17:00:00.000Z",
+    "Guest": "Matt Bierner",
+    "GuestHandle": "mattbierner",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Visual Studio Code",
+    "YouTubeVideoId": "_TCjGXKViW4",
+    "GuestBio": "Matt is a software engineer on the Visual Studio Code team at Microsoft",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6RdaVTxCoCEKazAVlmRTGJ",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZDk3M2UyOTMtYTcyYy00M2Y4LThjNGMtNTAwZWI0OTU4YjAw?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/matt-bierner/id1589875016?i=1000538365275",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mattbierner"
+      }
+    ]
+  },
+  "roshan-jossey": {
+    "PartitionKey": "roshan-jossey",
+    "RowKey": "20210120",
+    "DateTimeAsString": "1/20/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-01-20T17:00:00.000Z",
+    "Guest": "Roshan Jossey",
+    "GuestHandle": "sudo__bangbang",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "1st Contributions Website",
+    "YouTubeVideoId": "3BrxQaTRoQo",
+    "GuestBio": "Roshan is the creator of 1stContribution",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2AtCluJj3X67fIce6jb1X7",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZTY5MzUxZTQtMDZhMS00N2Y0LWI4NmQtYWUzN2VlMTI0ZWY5?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/roshan-jossey/id1589875016?i=1000538365147",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/sudo__bangbang"
+      }
+    ]
+  },
+  "mislaz-marohnić": {
+    "PartitionKey": "mislav-marohnić",
+    "RowKey": "20210203",
+    "DateTimeAsString": "2/3/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-02-03T17:00:00.000Z",
+    "Guest": "Mislav Marohnić",
+    "GuestHandle": "mislav",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "GitHub Cli",
+    "YouTubeVideoId": "iy_twFhYzKI",
+    "GuestBio": "Mislav is the Product Manager for the GitHub Cli at GitHub. He currently lives in the Netherlands. ",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0ua9SdMCwIXxN7TMFdK0dR",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NWQ3ZmFlMmYtZmFlYi00Y2NkLWI1MmMtZmRiNzkyMWYwMTli?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/mislav-marohni%C4%87/id1589875016?i=1000538719985",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mislav"
+      }
+    ]
+  },
+  "mark-collier": {
+    "PartitionKey": "mark-collier",
+    "RowKey": "20210217",
+    "DateTimeAsString": "2/17/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-02-17T17:00:00.000Z",
+    "Guest": "Mark Collier",
+    "GuestHandle": "sparkycollier",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Source Organization",
+    "YouTubeVideoId": "aQ4AlljA4fU",
+    "GuestBio": "Mark is a technology executive with a passion for building new businesses by focusing on developing the ecosystems around them, most recently founding the OpenStack open source cloud platform and leading the Marketing & Business Development efforts to make OpenStack the ubiquitous cloud platform.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3HQ2jp6KRuUROZleUW9Nqz",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Y2ZmMTFmMmItZTk1YS00ZmMxLWExZWMtMzg1MWNhOWQxMGEy?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/mark-collier/id1589875016?i=1000538720132",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/sparkycollier"
+      },
+      {
+        "Blog": "https://markcollier.me/"
+      }
+    ]
+  },
+  "richard-campbell": {
+    "PartitionKey": "richard-campbell",
+    "RowKey": "20210224",
+    "DateTimeAsString": "2/24/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-02-24T17:00:00.000Z",
+    "Guest": "Richard Campbell",
+    "GuestHandle": "richcampbell",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Humanitarian Toolbox",
+    "YouTubeVideoId": "N5Gyz9r7cbk",
+    "GuestBio": "Richard is a public speaker, father, and consultant currently living in Coquitlam, British Columbia, Canada. His interests range from technology to entrepreneurship. He is also interested in programming, volunteering, and web development.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4lCQVFsA7XIKYZymDu5ZxB",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YjJkZTM4OGItZjBlZi00M2Y1LTkwZGMtZTM5ODNkZmM2ZDU0?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/richard-campbell/id1589875016?i=1000538720489",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/richcampbell"
+      },
+      {
+        "About Me": "https://about.me/richard.campbell"
+      }
+    ]
+  },
+  "tracy-lee": {
+    "PartitionKey": "tracy-lee",
+    "RowKey": "20210317",
+    "DateTimeAsString": "3/17/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-03-17T17:00:00.000Z",
+    "Guest": "Tracy Lee",
+    "GuestHandle": "ladyleet",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Building Companies in an Open Source World",
+    "YouTubeVideoId": "bdF7zqhdSSw",
+    "GuestBio": "Tracy Lee is a serial entrepreneur and Google Developer Expert who loves to build companies and communities. She is the co-founder of This Dot Media and This Dot Labs. Her most recent love is coding in Angular, React, and Ember.<br /><br />In her free time, she runs Venture Hacked with the mission to help create relationships between startups and investors.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2x43RDEVj7MJNzMiTc5NPu",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NjE0NTFiMDgtZTY5Mi00YTE5LTkxYjYtYzQyY2Y2ZTY3NjA3?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/tracy-lee/id1589875016?i=1000538721097",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ladyleet"
+      },
+      {
+        "This Dot Labs": "https://www.thisdot.co/"
+      }
+    ]
+  },
+  "sanket-makhija": {
+    "PartitionKey": "sanket-makhija",
+    "RowKey": "20210324",
+    "DateTimeAsString": "3/24/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-03-24T17:00:00.000Z",
+    "Guest": "Sanket Makhija",
+    "GuestHandle": "sanket_dude",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Being an Open Source Contributor",
+    "YouTubeVideoId": "wpXYS66Tm-E",
+    "GuestBio": "Sanket is the creator Building Json-API. He is a Full Stack Developer who understands marketing and the power of SEO.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [   ]
+  },
+  "jeff-blankenburg": {
+    "PartitionKey": "jeff-blankenburg",
+    "RowKey": "20210407",
+    "DateTimeAsString": "4/07/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-04-07T17:00:00.000Z",
+    "Guest": "Jeff Bankenburg",
+    "GuestHandle": "jeffblankenburg",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Alexa and Open Source",
+    "YouTubeVideoId": "0SNI8L43b5k",
+    "GuestBio": "Jeff is currently an Alexa Evangelist role for Amazon, and is the author of Migrating to Windows Phone, and several '31 Days..'. series on his website covering Windows Phone and Windows 8 development. He also serves as an organizer for the Stir Trek conference. ",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5rcqJqP9Dnc9tlXB69uCbF",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZWM2OTEwMWUtNTVkOC00ZjkwLTg2NTAtZmY5ZDIwMjA4ODIw?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeff-blankenburg/id1589875016?i=1000538721427",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/jeffblankenburg"
+      }
+    ]
+  },
+  "jen-looper": {
+    "PartitionKey": "jen-looper",
+    "RowKey": "20210414",
+    "DateTimeAsString": "4/14/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-04-14T17:00:00.000Z",
+    "Guest": "Jen Looper",
+    "GuestHandle": "jenlooper",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Front-End Foxes School",
+    "YouTubeVideoId": "xM8J3C7HFs4",
+    "GuestBio": "Jen is a Google Developer Expert and a Principal Cloud Developer Advocate Lead at Microsoft with over 20 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. She is a multilingual multiculturalist with a passion for hardware hacking, mobile apps, Vue.js, machine learning and discovering new things every day. She is also the founder of Front-End Foxes, an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1wvW2dzV0pUEEMDks175ca",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YThmMzg4ZTMtODBiNy00ZWE0LWI0NjgtYTI3MjAzNDFhMTUz?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jen-looper/id1589875016?i=1000538721990",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jenlooper"
+      },
+      {
+        "Blog": "https://www.jenlooper.com/"
+      }
+    ]
+  },
+  "matthias-koch": {
+    "PartitionKey": "matthias-koch",
+    "RowKey": "20210421",
+    "DateTimeAsString": "4/21/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-04-21T17:00:00.000Z",
+    "Guest": "Matthias Koch",
+    "GuestHandle": "matkoch87",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "nukebuildnet",
+    "YouTubeVideoId": "8TWCqDLLJpY",
+    "GuestBio": "Matthias is a passionate C# developer and likes to talk about build automation, productivity, testing, and tooling in general. Much of his spare time he devotes to his very own open source projects, including . He is working at  as developer advocate in the .NET department. That includes showing how awesome  and  are to work with. However, he is also very interested in everything around  and .",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7m57EvtVVy4ksBiMEPU5zd",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Nzg4OTM1ODctMTNlZS00OTdmLTkyODYtZjUwNzA5NjM2NzM3?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/matthias-koch/id1589875016?i=1000538722852",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/matkoch87"
+      }
+    ]
+  },
+  "jeff-wilcox": {
+    "PartitionKey": "jeff-wilcox",
+    "RowKey": "20210428",
+    "DateTimeAsString": "4/28/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-04-28T17:00:00.000Z",
+    "Guest": "Jeff Wilcox",
+    "GuestHandle": "jeffwilcox",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "OSS at Microsoft",
+    "YouTubeVideoId": "QJQjOcSk8P8",
+    "GuestBio": "Jeff Wilcox is a software engineer at Microsoft, currently working in the Open Source Programs Office. Jeff specializes in cross-platform software development and helping Microsoft better embrace open source technologies at scale.<br/><br/>Previously, Jeff worked as an architect and development manager on the Azure team, as well as all the core Microsoft developer platforms spanning desktop and browser client to the phone and server-side apps.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3c0LjwcHpKqEOh2zsBqlkC",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MmY3ZWViYjEtYjM0NC00ZjNkLThlYzEtZWE4ZjY1ZGI5MGU4?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeff-wilcox/id1589875016?i=1000538722887",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jeffwilcox"
+      }
+    ]
+  },
+  "brian-douglas": {
+    "PartitionKey": "brian-douglas",
+    "RowKey": "20210505",
+    "DateTimeAsString": "5/05/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-05-05T17:00:00.000Z",
+    "Guest": "Brian Douglas",
+    "GuestHandle": "bdougieYO",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Sauced",
+    "YouTubeVideoId": "PsGdPKO8o7Y",
+    "GuestBio": "Brian Douglas is a Developer Advocate at GitHub where he works on increasing use of the GitHub’s platform specific features (Ask him about GitHub Actions!) through technical content distributed on the internet. In addition to that, Brian has a passion open source and loves mentoring new contributors.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1tqPiATRh8GA0hfNoVTGfb",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NmE3Mzg3ZjktNGY4Ni00ZTk3LThmODktNDMyMDk5MWE3ZTAw?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/brian-douglas/id1589875016?i=1000538723396",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/bdougieYO"
+      },
+      {
+        "Polywork": "https://b.dougie.dev/"
+      }
+    ]
+  },
+  "sam-smith": {
+    "PartitionKey": "sam-smith",
+    "RowKey": "20210512",
+    "DateTimeAsString": "5/12/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-05-12T17:00:00.000Z",
+    "Guest": "Sam Smith",
+    "GuestHandle": "samsmithnz",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Talking OSS with Customers",
+    "YouTubeVideoId": "_qpfqmwiXTg",
+    "GuestBio": "Sam Smith is a Customer Success Architect at GitHub, where he helps customers accelerate their DevOps journeys. He is primarily interested in developer productivity with DevOps and GitHub. He is also interested in .NET, Azure PaaS, and game development with Unity3d.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1a1vIaGZMwP3KLuqNCXCPV",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZGQ2ZGEzZWQtMzAxMi00ZTUxLTgzYjUtMjI0NTM1OWE4YjQ4?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/sam-smith/id1589875016?i=1000538723429",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/samsmithnz"
+      },
+      {
+        "GitHub": "https://github.com/samsmithnz"
+      }
+    ]
+  },
+  "den-delimarsky": {
+    "PartitionKey": "den-delimarsky",
+    "RowKey": "20210915",
+    "DateTimeAsString": "9/15/2021, 9:00:00 AM",
+    "DateTimeUTC": "2021-09-15T17:00:00.000Z",
+    "Guest": "Den Delimarsky",
+    "GuestHandle": "@DennisCode",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Learning in an Open Source World",
+    "YouTubeVideoId": "MfslGKUJb5Y",
+    "GuestBio": "Den is an engineer who is currently working on helping scale the developer relations organization as a Principal Program Manager at Microsoft. He previously helped build the cloud at AWS, was the first product manager on docs.microsoft.com, and helped deliver the groups feature in Microsoft Outlook.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3ySrZxr47kwNSVW2cdko7A",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MjNhYTBkYTctMTVkMy00NzFmLTgxNmEtODk4NzZmMzdiODUw?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/den-delimarsky/id1589875016?i=1000538723852",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/DennisCode"
+      },
+      {
+        "Blog": "https://den.dev/"
+      }
+    ]
+  },
+  "kat-cosgrove": {
+    "PartitionKey": "kat-cosgrove",
+    "RowKey": "20210923",
+    "DateTimeAsString": "9/23/2021, 12:00:00 PM",
+    "DateTimeUTC": "2021-09-23T20:00:00.000Z",
+    "Guest": "Kat Cosgrove",
+    "GuestHandle": "@Dixie3Flatline",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Teaching the Next Generation of Open Source developers",
+    "YouTubeVideoId": "mVCnSkZm36c",
+    "GuestBio": "Kat Cosgrove is a Developer Advocate, a CNCF Ambassador, and an actual cyborg. Her professional background has run the gamut from bartender, to video store clerk, to teacher, to software developer. She credits this wide-ranging experience for her success as a speaker, developer, and advocate. Her specialty is approachable 101-level content for junior developers or anyone else who considers themselves a newbie, with a particular focus on DevOps.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/69DPqmsq5Qbwmxp5WYQOgW",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MDhhOGUwN2YtMmJiMy00NzMxLWJiZTQtNzdhMWRmYjZmY2Qx?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/kat-cosgrove/id1589875016?i=1000538723878",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/katcosgrove"
+      }
+    ]
+  },
+  "scott-addie": {
+    "PartitionKey": "scott-addie",
+    "RowKey": "20210929",
+    "DateTimeAsString": "9/29/2021, 10:00:00 AM",
+    "DateTimeUTC": "2021-09-29T18:00:00.000Z",
+    "Guest": "Scott Addie",
+    "GuestHandle": "Scott_Addie",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Helping Developers use Azure",
+    "YouTubeVideoId": "vvNmMM_7DNw",
+    "GuestBio": "Scott Addie is an international speaker, a .NET Foundation member, an open-source contributor, and a developer advocate of the web and cloud. Scott has reached masses of developers through blog posts, articles, courses, and speaking engagements at user groups, code camps, and conferences across the globe. Scott is a former Telerik Developer Network author, Progress Developer Expert, and Microsoft MVP. In his day job, Scott focuses on developer experience as a Program Manager on Microsoft's Azure SDK team. He's also a founding member and co-host of The .NET Docs Show live stream at dotnetdocs.dev.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/Scott_Addie"
+      }
+    ]
+  },
+  "paige-bailey": {
+    "PartitionKey": "paige-bailey",
+    "RowKey": "20211006",
+    "DateTimeAsString": "10/06/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-10-06T19:00:00.000Z",
+    "Guest": "Paige Bailey",
+    "GuestHandle": "@DynamicWebPaige",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Source AI",
+    "YouTubeVideoId": "C_kbgChIavw",
+    "GuestBio": "Paige is a product manager at GitHub focusing on Machine Learning and developer productivity.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/DynamicWebPaige"
+      },
+      {
+        "GitHub": "https://github.com/dynamicwebpaige"
+      }
+    ]
+  },
+  "nitya-narasimhan": {
+    "PartitionKey": "nitya-narasimhan",
+    "RowKey": "20211013",
+    "DateTimeAsString": "10/14/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-10-14T19:00:00.000Z",
+    "Guest": "Nitya Narasimhan",
+    "GuestHandle": "@nitya",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Source == Community",
+    "YouTubeVideoId": "2t2eRDTQgRA",
+    "GuestBio": "Nitya has spent over two decades in tech spanning research, academic, startups, communities, and now advocacy. She is the creator of SketchTheDocs, a visualization guide for technology concepts",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6CkRcmHmd3xgHlcW39p35T",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZGI1YmNiZWUtOGY1ZS00ZGQ5LWIzZTEtZGY1Zjc2OGMxMjE3?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/nitya-narasimhan/id1589875016?i=1000538724549",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/nitya"
+      }
+    ]
+  },
+  "suz-hinton": {
+    "PartitionKey": "suz-hinton",
+    "RowKey": "20211020",
+    "DateTimeAsString": "10/20/2021, 12:00:00 PM",
+    "DateTimeUTC": "2021-10-20T20:00:00.000Z",
+    "Guest": "Suz Hinton",
+    "GuestHandle": "noopkat",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Open Source Hardware Chat",
+    "YouTubeVideoId": "fidozIAp57M",
+    "GuestBio": "Suz Hinton is a senior software developer and open source maintainer who has been working in software for over 15 years. She currently works on developer tools and API experience at Stripe. Suz is a strong advocate for privacy, security, accessibility, and prioritizing the user experience in everything she does.  In her spare time, she enjoys maintaining OSS, creating 3D artworks, messing with hardware / IoT, and reading books.  ",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4NlLKO7d9DNkoLazg3ej4U",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MDQ1MmYyYjctNWJmZi00ZDM5LWI1ZDEtZjIzMmJjMmFjNGJj?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/suz-hinton/id1589875016?i=1000539220601",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/noopkat"
+      }
+    ]
+  },
+  "gary-ewan-park": {
+    "PartitionKey": "gary-ewan-park",
+    "RowKey": "20211103",
+    "DateTimeAsString": "11/03/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-11-03T19:00:00.000Z",
+    "Guest": "Gary Ewan Park",
+    "GuestHandle": "@gep13",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Having fun with Chocolatey",
+    "YouTubeVideoId": "jNJkD_fbOmg",
+    "GuestBio": "Gary Ewan Park has over 10 years experience working as a developer on technologies such as ASP.NET, Windows Forms, WPF, SharePoint, Silverlight, and many others. Throughout his career, Gary has always looked to see how things can be automated, using the mantra that if you do the same thing more than twice, it is time for automation. In 2017 he was awarded a Microsoft MVP in Developer Technologies. His day job has him working for Chocolatey Software, Inc.<br /><br />In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, Boxstarter, Cake, Cake-Contrib, GitVersion, and GitReleaseManager.<br /><br />Gary is a founding member of the Aberdeen Developers .NET User Group, that holds monthly sessions on any topic related to the Microsoft .NET Technology Stack.  ",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7Hq5cRWhMzdkNuBJDsFVFy",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YzkzMTg5MTgtZjY1YS00Y2ExLTlkMWItNGQyMWVlMmQ0YWJj?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/gary-ewan-park/id1589875016?i=1000540661678",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/gep13"
+      },
+      {
+        "Blog": "https://www.gep13.co.uk/"
+      }
+    ]
+  },
+  "marie-antons": {
+    "PartitionKey": "marie-antons",
+    "RowKey": "20211110",
+    "DateTimeAsString": "11/10/2021, 10:00:00 AM",
+    "DateTimeUTC": "2021-11-10T18:00:00.000Z",
+    "Guest": "Marie Antons",
+    "GuestHandle": "@MarieAntons",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "DevOps in an OSS World",
+    "YouTubeVideoId": "0eNfKU5hY7Y",
+    "GuestBio": "Marie Antons is a Community Engineer and mentor. She transitioned from the culinary industry to software in 2020 and has never looked back.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0CVXTqQXcbowYprDZI4ifo",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NDQ2NzM1NTYtZDgwZS00ZjEyLWFhNDktZjgxY2JjNTcxOGU5?sa=X&ved=0CAUQkfYCahcKEwiYjfqHqdf0AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/marie-antons/id1589875016?i=1000541387456",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/MarieAntons"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/marieantons/"
+      }
+    ]
+  },
+  "philip-laureano": {
+    "PartitionKey": "philip-laureano",
+    "RowKey": "20211203",
+    "DateTimeAsString": "12/03/2021, 02:00:00 PM",
+    "DateTimeUTC": "2021-12-03T14:00:00.000Z",
+    "Guest": "Philip Laureano",
+    "GuestHandle": "@philiplaureano",
+    "GuestLink": "",
+    "IsPublished": true,
+    "Topic": "Having fun in OSS",
+    "YouTubeVideoId": "MFG_EMtREKU",
+    "GuestBio": "Philip Laureano has been a frequent conference speaker, living in Australia and grew up in California. His love of OSS took him halfway around the world, back in the early days of .NET",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/43GAahVkadCgezovdXlXux",
+    "GPLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/philip-laureano/id1589875016?i=1000544468421",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/philiplaureano"
+      },
+      {
+        "GitHub": "https://github.com/philiplaureano"
+      }
+    ]
+  },
+  "mattias-karlsson": {
+    "PartitionKey": "mattias-karlsson",
+    "RowKey": "20211215",
+    "DateTimeAsString": "12/15/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-12-15T11:00:00.000Z",
+    "Guest": "Mattias Karlsson",
+    "GuestHandle": "@devlead",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Maintaining Open Source Projects",
+    "YouTubeVideoId": "",
+    "GuestBio": "Mattias occasionally speaks and blogs about open-source, DevOps, .NET and Azure. He is a .NET and DevOps user group and conference organizer and maintains thirty or so OSS projects, contributes to a few more, consumes and benefits from many more. He is a .NET Foundation individual, project and board member, a business owner & employer and foremost father of two & husband of one.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/devlead"
+      },
+      {
+        "Blog": "https://www.devlead.se/"
+      }
+    ]
+  },
+  "christos-matskas": {
+    "PartitionKey": "christos-matskas",
+    "RowKey": "20211222",
+    "DateTimeAsString": "12/22/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-12-22T11:00:00.000Z",
+    "Guest": "Christos Matskas",
+    "GuestHandle": "@ChristosMatskas",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Connecting with Developers about Security",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ChristosMatskas"
+      }
+    ]
+  },
+  "peter-de-tender": {
+    "PartitionKey": "peter-de-tender",
+    "RowKey": "20211229",
+    "DateTimeAsString": "12/29/2021, 11:00:00 AM",
+    "DateTimeUTC": "2021-12-29T11:00:00.000Z",
+    "Guest": "Peter de Tender",
+    "GuestHandle": "@pdtit",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Learning through Certification",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/pdtit"
+      },
+      {
+        "Blog": "https://www.007ffflearning.com/"
+      }
+    ]
+  },
+  "elahn-danee": {
+    "PartitionKey": "elahn-danee",
+    "RowKey": "20220105",
+    "DateTimeAsString": "01/05/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-01-05T11:00:00.000Z",
+    "Guest": "Elahn Danee",
+    "GuestHandle": "@CodeThLightning",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Getting started in Tech",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/CodeThLightning"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UCZpg20byiIpKa1cJc1hEpTg"
+      }
+    ]
+  },
+  "brian-clark": {
+    "PartitionKey": "brian-clark",
+    "RowKey": "20220105",
+    "DateTimeAsString": "01/12/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-01-12T11:00:00.000Z",
+    "Guest": "Brian Clark",
+    "GuestHandle": "@_clarkio",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Streaming fun tech things",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/_clarkio"
+      }
+    ]
+  },
+  "morgan-bell": {
+    "PartitionKey": "morgan-bell",
+    "RowKey": "20220126",
+    "DateTimeAsString": "01/26/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-01-26T11:00:00.000Z",
+    "Guest": "Morgan Bell",
+    "GuestHandle": "@livelovegeek",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Educating the Next Generation of Tech",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/livelovegeek"
+      },
+      {
+        "Instagram": "https://www.instagram.com/livelovegeek/"
+      }
+    ]
+  },
+  "clark-sell": {
+    "PartitionKey": "clark-sell",
+    "RowKey": "20220209",
+    "DateTimeAsString": "02/09/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-02-09T11:00:00.000Z",
+    "Guest": "Clark Sell",
+    "GuestHandle": "@livelovegeek",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Buidling Communities with That.us",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/csell5"
+      },
+      {
+        "Unspecified.io": "https://unspecified.io/"
+      },
+      {
+        "That.us": "https://that.us/"
+      }
+      ]
+    },
+    "demetris-cheatham": {
+      "PartitionKey": "demetris-cheatham",
+      "RowKey": "20220316",
+      "DateTimeAsString": "03/16/2022, 11:00:00 AM",
+      "DateTimeUTC": "2022-03-16T11:00:00.000Z",
+      "Guest": "Demetris Cheatham",
+      "GuestHandle": "@dwcheatham",
+      "GuestLink": "",
+      "IsPublished": false,
+      "Topic": "Adding Inclusiveness to Open Source",
+      "YouTubeVideoId": "",
+      "GuestBio": "",
+      "HaveAudio": false,
+      "SpotifyLink": "",
+      "GPLink": "",
+      "APLink": "",
+      "Socials": [
+        {
+          "Twitter": "https://twitter.com/dwcheatham"
+        },
+        {
+          "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
+        }
+        ]
+      }
+}

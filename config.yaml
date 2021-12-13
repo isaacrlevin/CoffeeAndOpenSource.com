@@ -23,6 +23,7 @@ disableKinds: ["sitemap","RSS"]
 uglyurls: true
 permalinks:
   post: ":filename"
+  guests_refs: /guest/:title
 
 # Option to specify that all links will be open in a new tab.
 blackfriday:
@@ -30,6 +31,7 @@ blackfriday:
   plainIDAnchors: true
 
 Taxonomies:
+  guest_ref: guests_refs
   tag: "tags"
 
 markup:

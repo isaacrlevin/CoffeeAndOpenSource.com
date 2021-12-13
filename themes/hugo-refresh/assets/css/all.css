@@ -6182,3 +6182,183 @@ readers do not read off random characters that represent icons */
     display: none;
   }
 }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  padding-top: 55px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+main {
+  margin: auto;
+  padding: 25px;
+  flex: 1 0 auto;
+  max-width: 750px;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  text-align: left;
+}
+
+audio {
+  width: 100%;
+}
+
+.content > ul {
+  text-align: left;
+}
+
+/* Homepage */
+
+.intro {
+  transform: translateY(22vh);
+}
+
+.intro > h1 {
+  color: #212121;
+  font-size: 28px;
+}
+
+.intro > h2 {
+  color: #757575;
+  font-size: 20px;
+}
+
+footer > p {
+  text-align: center;
+}
+
+i {
+  padding-left: 12px;
+}
+
+.podcast-links {
+  padding-top: 24px;
+}
+
+.landing-logo {
+  width: 43%;
+}
+
+/* Page content */
+
+.post-header
+{
+  margin-top: 100px;
+}
+
+.post-header > h1 {
+  font-size: 28px !important;
+}
+
+.post-header > h2 {
+  font-size: 20px !important;
+}
+
+.content {
+  padding-top: 20px;
+}
+
+.content > p {
+  font-size: 18px;
+}
+
+.content > ul {
+  font-size: 18px;
+}
+
+.content > ol {
+  font-size: 18px
+}
+
+.content > p > a {
+  text-decoration: underline;
+}
+
+.content > p > a img {
+  border: 0px none;
+}
+
+.content > h2 {
+  font-size: 20px !important;
+}
+
+
+/* Profile picture */
+
+.profile {
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+}
+
+/* Colored links */
+
+a:link, a:visited {
+  color: #004777;
+}
+
+a.icon:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #002a47 !important;
+}
+
+/* Copyright message */
+
+.copyright {
+  margin: 15px 0;
+}
+
+/* Paginator */
+
+.pages {
+  padding: 15px 0;
+}
+
+.pages-icon {
+  padding: 0 15px;
+}
+
+/* List item for posts/projects */
+
+.item {
+  padding: 10px 0;
+  text-align: left;
+}
+
+.item > h5 {
+  font-size: 18px;
+}
+
+.item-tag {
+  background-color: #004777;
+}
+
+/* Navigation icons */
+
+.navbar-icon {
+  font-size: 125%;
+  display: inline-block !important;
+}
+
+/* Colored borders at top/bottom of page */
+
+.navbar.navbar-default {
+  border-top: var(--border-width) solid #004777;
+}
+
+footer {
+  border-bottom: var(--border-width) solid #004777;
+}

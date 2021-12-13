@@ -7,7 +7,7 @@
     </tr>
     </thead>
     <tbody>
-        {{ $dataJ := getJSON "/data/data.json" }}
+        {{ $dataJ := getJSON "/data/guests.json" }}
         {{ $sortOrder := "asc"}}
         {{if (eq ($.Get 0) "previous" )}}
         {{ $sortOrder = "desc"}}
@@ -25,7 +25,7 @@
   <tr>
   <td><span class="formatdatetime">{{ .DateTimeAsString }}</span></td>
   {{ if ne .YouTubeVideoId ""  }}
-  <td><a href="https://www.youtube.com/watch?v={{ .YouTubeVideoId }}" target="_blank">{{ .Topic }}</a></td>
+  <td><a href="/guest/{{ .PartitionKey }}.html">{{ .Topic }}</a></td>
   {{ else }}
   <td><a href="https://twitch.tv/isaacrlevin" target="_blank">{{ .Topic }}</a></td>
   {{ end }}

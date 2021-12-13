@@ -15,43 +15,6 @@
         <!-- </div> -->
       </div>
 
-    <!-- <div class="column">
-        <div class="footer-column">
-          <div class="footer-header">
-              <h3>{{ i18n "website" }}</h3>
-          </div>
-          <ul class="link-list">
-            {{- if or (eq $home "footer") (eq $home "menu+footer") -}}
-            <li>
-              <a href="{{ "/" | relLangURL }}"><span class="icon"><i class="fa fa-home"></i></span>
-                {{- if .Site.Params.homepage.linkText -}}
-                  {{- printf " %s" .Site.Params.homepage.linkText -}}
-                {{- else -}}
-                  {{ printf " %s" (i18n "homepage") }}
-                {{- end -}}
-              </a>
-            </li>
-            {{- end -}}
-            <li>
-                {{- with .Site.GetPage "/credits/index" -}}
-                <a href="{{- .RelPermalink -}}">
-                  <span class="icon"><i class="fa fa-cube"></i></span>
-                  {{ i18n "credits" }}
-                </a>
-                {{- end -}}
-              </li>
-            <li>
-              {{- with .Site.GetPage "tags" -}}
-              <a href="{{- .RelPermalink -}}">
-                <span class="icon"><i class="fa fa-tag"></i></span>
-                {{ i18n "allTags" }}
-              </a>
-              {{- end -}}
-            </li>
-          </ul>
-        </div>
-      </div> -->
-
       {{ if  (or (or (or (isset .Site.Params.footer "linkedin") (isset .Site.Params.footer "email")) (isset .Site.Params.footer "twitter")) (isset .Site.Params.footer "github")) }}
       <div class="column">
         <div class="footer-column">

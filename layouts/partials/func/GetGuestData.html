@@ -1,0 +1,27 @@
+{{/*
+  GetGuestData
+  Retrieves the data of a guest given a key
+
+  @author @regisphilibert
+
+  @context String
+
+  @access private
+
+  @returns Map
+    String (.name)
+    String (.spotted)
+    String (.svg)
+
+  @example - Go Template
+            Variant is the lone parameter
+    {{ with partialCached "GetGuestData" "gus-vinyl" "gus-vinyl" }}
+      Guest name is {{ .name }}
+    {{ end }}
+*/}}
+{{ $guest := dict }}
+{{ with index site.Data.guests . }}
+  {{ $guest = . }}
+{{ end }}
+
+{{ return $guest }}

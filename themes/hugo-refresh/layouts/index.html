@@ -3,40 +3,34 @@
      <section class="hero is-fullheight is-default is-bold">
 
         {{- partial "navbar.html" . -}}
-        {{- partial "navbar-clone.html" . -}}
 
         {{- $homepage   := .Site.Params.homepage -}}
         {{- $title      := index $homepage "title" -}}
         {{- $subtitle   := index $homepage "subtitle" -}}
         {{- $image      := index $homepage "image" -}}
 
-    {{ $dataJ := getJSON "/data/data.json" }}
-    <section class="section is-medium">
+        {{ $dataJ := getJSON "/data/guests.json" }}
+        <section class="section is-medium">
         <div class="container">
-              <figure class="image" style="margin-left: 20px;" >
-                {{- $img := resources.Get $image -}}
-                <img src="{{- $img.Permalink | relURL -}}"
-                    style="width:{{- .Site.Params.homepage.imageWidth -}}" alt="Myself">
-                </figure>
-              <div class="section is-small">
+                <div class="section is-small">
                   {{- $articlesPerRow := .Site.Params.articlesPerRow -}}
                   <div class="columns">
                     {{ $art := -1 }}
                     {{- range $index, $element := (sort $dataJ ".RowKey" "desc") }}
-                    {{ $t := (time .DateTimeUTC) }}
-                    {{ $show := false}}
-                    {{ if ($t.Before now) }}
-                    {{ $show = true}}
-                    {{ $art = add $art 1 }}
-                    {{end}}
-                    {{ if $show}}
-                        {{- if and (eq (mod $art $articlesPerRow) 0 ) (not (eq $index 0)) -}}
-                          </div>
-                          <div class="columns">
-                        {{- end -}}
-                        {{- partial "dsummary.html" . -}}
-                    {{- end -}}
-                    {{end}}
+                        {{ $t := (time .DateTimeUTC) }}
+                        {{ $show := false}}
+                        {{ if ($t.Before now) }}
+                          {{ $show = true}}
+                          {{ $art = add $art 1 }}
+                        {{end}}
+                        {{ if $show}}
+                          {{- if and (eq (mod $art $articlesPerRow) 0 ) (not (eq $index 0)) -}}
+                            </div>
+                            <div class="columns">
+                          {{- end -}}
+                          {{- partial "guest.html" . -}}
+                      {{end}}
+                    {{ end }}
                    </div>
               </div>
         </div>
@@ -44,7 +38,7 @@
           <center><h2>Upcoming Streams</h2></center>
           {{ $sortOrder := "asc"}}
           {{ range first 5 (where ( sort $dataJ ".DateTimeUTC" $sortOrder ) "IsPublished" false) }}
-              <a href="/schedule"><span class="formatdate">{{ .DateTimeAsString }}</span> - {{ .Guest }}</a>
+              <a href="/schedule.html"><span class="formatdate">{{ .DateTimeAsString }}</span> - {{ .Guest }}</a>
           {{ end }}
         </div>
     </section>
@@ -57,7 +51,4 @@
         <i class="fas fa-angle-up" aria-hidden="true"></i>
       </a>
     </div>
-
-    {{- partial "sidebar.html" . -}}
-
 {{- end -}}

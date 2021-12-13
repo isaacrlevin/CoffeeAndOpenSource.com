@@ -5,7 +5,6 @@
 {{- $image      := index $page404 "image" }}
 <section class="hero is-fullheight is-default is-bold">
   {{/* partial "navbar.html" . */}}
-  {{/* partial "navbar-clone.html" . */}}
   <div class="hero-body">
       <div class="container">
         <div class="columns is-vcentered">
@@ -22,14 +21,14 @@
           <div class="column is-5 is-offset-1">
             <figure class="image">
                 {{- $img := resources.Get $image -}}
-                <img src="{{- $img.Permalink | relURL -}}" 
+                <img src="{{- $img.Permalink | relURL -}}"
                      style="width:{{- .Site.Params.pagNotFound.imageWidth -}}" alt="Myself">
             </figure>
           </div>
         </div>
       </div>
     </div>
-  
+
   {{/* partial "hero-footer.html" . */}}
 </section>
 {{- end -}}
