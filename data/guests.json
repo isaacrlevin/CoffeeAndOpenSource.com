@@ -877,9 +877,9 @@
   },
   "peter-de-tender": {
     "PartitionKey": "peter-de-tender",
-    "RowKey": "20211229",
-    "DateTimeAsString": "12/29/2021, 11:00:00 AM",
-    "DateTimeUTC": "2021-12-29T11:00:00.000Z",
+    "RowKey": "20220216",
+    "DateTimeAsString": "02/16/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-02-16T11:00:00.000Z",
     "Guest": "Peter de Tender",
     "GuestHandle": "@pdtit",
     "GuestLink": "",
