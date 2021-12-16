@@ -11,13 +11,7 @@
     <link rel="icon" href="{{- $img.Permalink | relURL -}}">
     {{- partial "meta.html" . -}}
 
-    <title>{{- block "title" . -}}
-    {{- if .IsHome -}}
-    {{- .Site.Title -}}
-    {{- else -}}
-    {{- .Site.Title -}}{{- " - " -}}{{- .Page.Title -}}
-    {{- end -}}
-    {{- end -}}</title>
+
 
 
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

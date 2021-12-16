@@ -2,41 +2,37 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
-{{- if .Page.IsPage -}}
+{{ $guest := index site.Data.guests .Page.Title }}
 
     <meta property="og:url"  content="{{- .Permalink -}}" />
     <meta property="og:type" content="article" />
-
-    {{- $title := replace .Title '"' ' ' -}} 
+    {{- $title := replace .Title '"' ' ' -}}
+    {{ if $guest.Guest}}
+    <meta property="og:title" content="{{- $guest.Guest -}}" />
+    {{else}}
     <meta property="og:title" content="{{- $title -}}" />
-    {{- if .Params.summary -}}
-        {{- $summary := replace .Params.summary '"' ' ' -}}
-        <meta property="og:description" content="{{- $summary -}}" />
+    {{end}}
+    {{- if $guest.GuestBio -}}
+    <meta property="og:description" content="{{ $guest.GuestBio }}" />
     {{- else -}}
-        <meta property="og:description" content="" />
+    <meta property="og:description" content="{{ $title }}" />
     {{- end -}}
 
-    {{- $image := "" -}}
-    {{- $imgWidthDefault := 375 -}}
-    {{- $imgHeightDefault := 250 -}}
-    {{- if .Params.summaryImage -}} 
-        {{- $image = .Page.Resources.GetMatch .Params.summaryImage -}}
-        {{- .Scratch.Set "image" ($image.Resize "600x") -}}
-        {{- $image = .Scratch.Get "image" -}}
-    {{- else -}}
-        {{- $image = resources.Get .Site.Params.summary.defaultImage -}}
-        {{- .Scratch.Set "image" ($image.Resize "600x") -}}
-        {{- $image = .Scratch.Get "image" -}}
-    {{- end -}}
+    {{if $guest.YouTubeVideoId}}
+    <meta property="og:image" content="https://i.ytimg.com/vi/{{ $guest.YouTubeVideoId }}/maxresdefault_live.jpg" />
+{{else}}
+<meta property="og:image" content="https://www.coffeeandopensource.com/images/logo.png" />
+{{end }}
 
-    <!-- <meta property="og:locale"      content="" /> -->
-    {{- if .Page.Params.keepImageRatio -}}
-        <meta property="og:image:width"  content="{{- $image.Width -}}" />
-        <meta property="og:image:height" content="{{- $image.Height -}}" />
-    {{- else -}}
-        <meta property="og:image:width"  content="{{- $imgWidthDefault -}}" />
-        <meta property="og:image:height" content="{{- $imgHeightDefault -}}" />
-    {{- end -}}
-    <meta property="og:image" content="{{- $image.Permalink -}}" />
-
-{{- end -}}
+    <title>
+        {{- if .IsHome -}}
+        {{- .Site.Title -}}
+        {{- else -}}
+        {{- .Site.Title -}}{{- " - " -}}
+        {{ if $guest.Guest}}
+        {{- $guest.Guest -}}
+        {{else}}
+        {{- $title -}}
+        {{- end -}}
+        {{- end -}}
+        </title>
