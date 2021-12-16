@@ -836,20 +836,23 @@
     "Guest": "Mattias Karlsson",
     "GuestHandle": "@devlead",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Maintaining Open Source Projects",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "T0StzYHdOjI",
     "GuestBio": "Mattias occasionally speaks and blogs about open-source, DevOps, .NET and Azure. He is a .NET and DevOps user group and conference organizer and maintains thirty or so OSS projects, contributes to a few more, consumes and benefits from many more. He is a .NET Foundation individual, project and board member, a business owner & employer and foremost father of two & husband of one.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1sheZLyt9SWwK7rZxhwhre",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/mattias-karlsson/id1589875016?i=1000545102920",
     "Socials": [
       {
         "Twitter": "https://twitter.com/devlead"
       },
       {
         "Blog": "https://www.devlead.se/"
+      },
+      {
+        "GitHub": "https://github.com/devlead"
       }
     ]
   },
