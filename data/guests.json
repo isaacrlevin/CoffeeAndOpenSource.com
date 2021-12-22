@@ -864,17 +864,17 @@
     "Guest": "Christos Matskas",
     "GuestHandle": "@ChristosMatskas",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Connecting with Developers about Security",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "YouTubeVideoId": "om5PCyEDSMs",
+    "GuestBio": "Christos Matskas is a Program Manager at Microsoft focusing on Security and Identity, focusing specifically on the developer experience for Azure Active Directory. He has been a developer for over 15 years focusing on Microsoft technology. He is passionate about engaging with development communities and can be found on Twitter, GitHub, and Twitch talking about all sorts of tech topics. ",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/579GHA3Rg5Dtx5pdPRmZTr",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/christos-matskas/id1589875016?i=1000545852485",
     "Socials": [
       {
-        "Twitter": "https://twitter.com/ChristosMatskas"
+        "LinkTree": "https://linktr.ee/cmatskas"
       }
     ]
   },
