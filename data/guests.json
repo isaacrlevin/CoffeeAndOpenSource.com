@@ -911,14 +911,14 @@
     "Guest": "Elahn Danee",
     "GuestHandle": "@CodeThLightning",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Getting started in Tech",
-    "YouTubeVideoId": "",
-    "GuestBio": "Elahn's bio in her words<br /><br />My journey as a self-taught developer started August 9, 2020. Since then, I am grateful to say that I've gained an  awesome community of developer friends around the globe! I have also started my own book club called .NET Book Study, as well as my own YouTube channel 'Elahn Danee Codes'.<br /><br />My mission is to 1. Continue learning how to code as a self self-taught C# developer; 2. Create content that teaches and encourages .NET newcomers; and 3. Cultivate an online community, in which .NET newcomers feel supported and empowered. ",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "Je7FpGsOsbw",
+    "GuestBio": "Elahn's bio in her words<br /><br />My journey as a self-taught developer started August 9, 2020. Since then, I am grateful to say that I've gained an  awesome community of developer friends around the globe! I have also started my own book club called .NET Book Study, as well as my own YouTube channel 'Elahn Danee Codes'.<br /><br />My mission is to 1. Continue learning how to code as a self self-taught C# developer; 2. Create content that teaches and encourages .NET newcomers; and 3. Cultivate an online community, in which .NET newcomers feel supported and empowered.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4PW1SifDTdR20lGlRrWGUy",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MmRlNTgwNmEtNDgxNi00ZWYxLWI3ZjMtNGEyZGJmMjgyY2Ji?sa=X&ved=0CAUQkfYCahcKEwi4sPOe0af1AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/elahn-danee/id1589875016?i=1000547033902",
     "Socials": [
       {
         "Twitter": "https://twitter.com/CodeThLightning"
