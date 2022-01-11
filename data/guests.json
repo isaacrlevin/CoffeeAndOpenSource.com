@@ -878,31 +878,6 @@
       }
     ]
   },
-  "peter-de-tender": {
-    "PartitionKey": "peter-de-tender",
-    "RowKey": "20220216",
-    "DateTimeAsString": "02/16/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-02-16T11:00:00.000Z",
-    "Guest": "Peter de Tender",
-    "GuestHandle": "@pdtit",
-    "GuestLink": "",
-    "IsPublished": false,
-    "Topic": "Learning through Certification",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "Socials": [
-      {
-        "Twitter": "https://twitter.com/pdtit"
-      },
-      {
-        "Blog": "https://www.007ffflearning.com/"
-      }
-    ]
-  },
   "elahn-danee": {
     "PartitionKey": "elahn-danee",
     "RowKey": "20220105",
