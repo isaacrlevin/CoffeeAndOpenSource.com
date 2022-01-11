@@ -42,6 +42,7 @@ guests_refs:
 - morgan-bell
 - elahn-danee
 - brian-clark
+- kelsey-hightower
 - clark-sell
 - demetris-cheatham
 ---

@@ -472,7 +472,7 @@
     "SpotifyLink": "",
     "GPLink": "",
     "APLink": "",
-    "Socials": [   ]
+    "Socials": []
   },
   "jeff-blankenburg": {
     "PartitionKey": "jeff-blankenburg",
@@ -975,6 +975,28 @@
       }
     ]
   },
+  "kelsey-hightower": {
+    "PartitionKey": "kelsey-hightower",
+    "RowKey": "20220202",
+    "DateTimeAsString": "02/02/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-02-02T11:00:00.000Z",
+    "Guest": "Kelsey Hightower",
+    "GuestHandle": "@kelseyhightower",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Storytelling on the edge of tech",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/kelseyhightower"
+      }
+    ]
+  },
   "clark-sell": {
     "PartitionKey": "clark-sell",
     "RowKey": "20220209",
@@ -1001,31 +1023,31 @@
       {
         "That.us": "https://that.us/"
       }
-      ]
-    },
-    "demetris-cheatham": {
-      "PartitionKey": "demetris-cheatham",
-      "RowKey": "20220316",
-      "DateTimeAsString": "03/16/2022, 11:00:00 AM",
-      "DateTimeUTC": "2022-03-16T11:00:00.000Z",
-      "Guest": "Demetris Cheatham",
-      "GuestHandle": "@dwcheatham",
-      "GuestLink": "",
-      "IsPublished": false,
-      "Topic": "Adding Inclusiveness to Open Source",
-      "YouTubeVideoId": "",
-      "GuestBio": "",
-      "HaveAudio": false,
-      "SpotifyLink": "",
-      "GPLink": "",
-      "APLink": "",
-      "Socials": [
-        {
-          "Twitter": "https://twitter.com/dwcheatham"
-        },
-        {
-          "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
-        }
-        ]
+    ]
+  },
+  "demetris-cheatham": {
+    "PartitionKey": "demetris-cheatham",
+    "RowKey": "20220316",
+    "DateTimeAsString": "03/16/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-03-16T11:00:00.000Z",
+    "Guest": "Demetris Cheatham",
+    "GuestHandle": "@dwcheatham",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Adding Inclusiveness to Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/dwcheatham"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
       }
+    ]
+  }
 }
