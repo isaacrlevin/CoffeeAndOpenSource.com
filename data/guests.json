@@ -1,7 +1,7 @@
 {
   "claire-novotny": {
     "PartitionKey": "claire-novotny",
-    "RowKey": "20200715",
+    "RowKey": 20200715,
     "DateTimeAsString": "7/15/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-07-15T16:00:00.000Z",
     "Guest": "Claire Novotny",
@@ -32,7 +32,7 @@
   },
   "noelle-silver": {
     "PartitionKey": "noelle-silver",
-    "RowKey": "20200722",
+    "RowKey": 20200722,
     "DateTimeAsString": "7/22/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-07-22T16:00:00.000Z",
     "Guest": "Noelle Silver",
@@ -54,7 +54,7 @@
   },
   "jerome-hardaway": {
     "PartitionKey": "jerome-hardaway",
-    "RowKey": "20200812",
+    "RowKey": 20200812,
     "DateTimeAsString": "8/12/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-08-12T16:00:00.000Z",
     "Guest": "Jerome Hardaway",
@@ -79,7 +79,7 @@
   },
   "mordechai-zuber": {
     "PartitionKey": "mordechai-zuber",
-    "RowKey": "20200826",
+    "RowKey": 20200826,
     "DateTimeAsString": "8/26/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-08-26T16:00:00.000Z",
     "Guest": "Mordechai Zuber",
@@ -101,7 +101,7 @@
   },
   "ian-lance-taylor": {
     "PartitionKey": "ian-lance-taylor",
-    "RowKey": "20200902",
+    "RowKey": 20200902,
     "DateTimeAsString": "9/2/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-09-02T16:00:00.000Z",
     "Guest": "Ian Lance Taylor",
@@ -123,7 +123,7 @@
   },
   "hayden-barnes": {
     "PartitionKey": "hayden-barnes",
-    "RowKey": "20200916",
+    "RowKey": 20200916,
     "DateTimeAsString": "9/16/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-09-16T16:00:00.000Z",
     "Guest": "Hayden Barnes",
@@ -148,7 +148,7 @@
   },
   "shaun-walker": {
     "PartitionKey": "shaun-walker",
-    "RowKey": "20200930",
+    "RowKey": 20200930,
     "DateTimeAsString": "9/30/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-09-30T16:00:00.000Z",
     "Guest": "Shaun Walker",
@@ -173,7 +173,7 @@
   },
   "michelle-mannering": {
     "PartitionKey": "michelle-mannering",
-    "RowKey": "20201007",
+    "RowKey": 20201007,
     "DateTimeAsString": "10/7/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-10-07T16:00:00.000Z",
     "Guest": "Michelle Mannering",
@@ -198,7 +198,7 @@
   },
   "cam-soper": {
     "PartitionKey": "cam-soper",
-    "RowKey": "20201014",
+    "RowKey": 20201014,
     "DateTimeAsString": "10/14/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-10-14T16:00:00.000Z",
     "Guest": "Cam Soper",
@@ -223,7 +223,7 @@
   },
   "jeff-strauss": {
     "PartitionKey": "jeff-strauss",
-    "RowKey": "20201028",
+    "RowKey": 20201028,
     "DateTimeAsString": "10/28/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-10-28T16:00:00.000Z",
     "Guest": "Jeff Strauss",
@@ -248,7 +248,7 @@
   },
   "kayla-cinnamon": {
     "PartitionKey": "kayla-cinnamon",
-    "RowKey": "20201118",
+    "RowKey": 20201118,
     "DateTimeAsString": "11/18/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-11-18T17:00:00.000Z",
     "Guest": "Kayla Cinnamon",
@@ -270,7 +270,7 @@
   },
   "michael-crump": {
     "PartitionKey": "michael-crump",
-    "RowKey": "20201209",
+    "RowKey": 20201209,
     "DateTimeAsString": "12/9/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-12-09T17:00:00.000Z",
     "Guest": "Michael Crump",
@@ -295,7 +295,7 @@
   },
   "jeff-fritz": {
     "PartitionKey": "jeff-fritz",
-    "RowKey": "20201202",
+    "RowKey": 20201202,
     "DateTimeAsString": "12/2/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-12-02T17:00:00.000Z",
     "Guest": "Jeff Fritz",
@@ -317,7 +317,7 @@
   },
   "matt-bierner": {
     "PartitionKey": "matt-bierner",
-    "RowKey": "20201216",
+    "RowKey": 20201216,
     "DateTimeAsString": "12/16/2020, 9:00:00 AM",
     "DateTimeUTC": "2020-12-16T17:00:00.000Z",
     "Guest": "Matt Bierner",
@@ -339,7 +339,7 @@
   },
   "roshan-jossey": {
     "PartitionKey": "roshan-jossey",
-    "RowKey": "20210120",
+    "RowKey": 20210120,
     "DateTimeAsString": "1/20/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-01-20T17:00:00.000Z",
     "Guest": "Roshan Jossey",
@@ -361,7 +361,7 @@
   },
   "mislaz-marohnić": {
     "PartitionKey": "mislav-marohnić",
-    "RowKey": "20210203",
+    "RowKey": 20210203,
     "DateTimeAsString": "2/3/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-02-03T17:00:00.000Z",
     "Guest": "Mislav Marohnić",
@@ -383,7 +383,7 @@
   },
   "mark-collier": {
     "PartitionKey": "mark-collier",
-    "RowKey": "20210217",
+    "RowKey": 20210217,
     "DateTimeAsString": "2/17/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-02-17T17:00:00.000Z",
     "Guest": "Mark Collier",
@@ -408,7 +408,7 @@
   },
   "richard-campbell": {
     "PartitionKey": "richard-campbell",
-    "RowKey": "20210224",
+    "RowKey": 20210224,
     "DateTimeAsString": "2/24/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-02-24T17:00:00.000Z",
     "Guest": "Richard Campbell",
@@ -433,7 +433,7 @@
   },
   "tracy-lee": {
     "PartitionKey": "tracy-lee",
-    "RowKey": "20210317",
+    "RowKey": 20210317,
     "DateTimeAsString": "3/17/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-03-17T17:00:00.000Z",
     "Guest": "Tracy Lee",
@@ -458,7 +458,7 @@
   },
   "sanket-makhija": {
     "PartitionKey": "sanket-makhija",
-    "RowKey": "20210324",
+    "RowKey": 20210324,
     "DateTimeAsString": "3/24/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-03-24T17:00:00.000Z",
     "Guest": "Sanket Makhija",
@@ -476,7 +476,7 @@
   },
   "jeff-blankenburg": {
     "PartitionKey": "jeff-blankenburg",
-    "RowKey": "20210407",
+    "RowKey": 20210407,
     "DateTimeAsString": "4/07/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-04-07T17:00:00.000Z",
     "Guest": "Jeff Bankenburg",
@@ -498,7 +498,7 @@
   },
   "jen-looper": {
     "PartitionKey": "jen-looper",
-    "RowKey": "20210414",
+    "RowKey": 20210414,
     "DateTimeAsString": "4/14/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-04-14T17:00:00.000Z",
     "Guest": "Jen Looper",
@@ -523,7 +523,7 @@
   },
   "matthias-koch": {
     "PartitionKey": "matthias-koch",
-    "RowKey": "20210421",
+    "RowKey": 20210421,
     "DateTimeAsString": "4/21/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-04-21T17:00:00.000Z",
     "Guest": "Matthias Koch",
@@ -545,7 +545,7 @@
   },
   "jeff-wilcox": {
     "PartitionKey": "jeff-wilcox",
-    "RowKey": "20210428",
+    "RowKey": 20210428,
     "DateTimeAsString": "4/28/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-04-28T17:00:00.000Z",
     "Guest": "Jeff Wilcox",
@@ -567,7 +567,7 @@
   },
   "brian-douglas": {
     "PartitionKey": "brian-douglas",
-    "RowKey": "20210505",
+    "RowKey": 20210505,
     "DateTimeAsString": "5/05/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-05-05T17:00:00.000Z",
     "Guest": "Brian Douglas",
@@ -592,7 +592,7 @@
   },
   "sam-smith": {
     "PartitionKey": "sam-smith",
-    "RowKey": "20210512",
+    "RowKey": 20210512,
     "DateTimeAsString": "5/12/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-05-12T17:00:00.000Z",
     "Guest": "Sam Smith",
@@ -617,7 +617,7 @@
   },
   "den-delimarsky": {
     "PartitionKey": "den-delimarsky",
-    "RowKey": "20210915",
+    "RowKey": 20210915,
     "DateTimeAsString": "9/15/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-09-15T17:00:00.000Z",
     "Guest": "Den Delimarsky",
@@ -642,7 +642,7 @@
   },
   "kat-cosgrove": {
     "PartitionKey": "kat-cosgrove",
-    "RowKey": "20210923",
+    "RowKey": 20210923,
     "DateTimeAsString": "9/23/2021, 12:00:00 PM",
     "DateTimeUTC": "2021-09-23T20:00:00.000Z",
     "Guest": "Kat Cosgrove",
@@ -664,7 +664,7 @@
   },
   "scott-addie": {
     "PartitionKey": "scott-addie",
-    "RowKey": "20210929",
+    "RowKey": 20210929,
     "DateTimeAsString": "9/29/2021, 10:00:00 AM",
     "DateTimeUTC": "2021-09-29T18:00:00.000Z",
     "Guest": "Scott Addie",
@@ -686,7 +686,7 @@
   },
   "paige-bailey": {
     "PartitionKey": "paige-bailey",
-    "RowKey": "20211006",
+    "RowKey": 20211006,
     "DateTimeAsString": "10/06/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-10-06T19:00:00.000Z",
     "Guest": "Paige Bailey",
@@ -711,7 +711,7 @@
   },
   "nitya-narasimhan": {
     "PartitionKey": "nitya-narasimhan",
-    "RowKey": "20211013",
+    "RowKey": 20211013,
     "DateTimeAsString": "10/14/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-10-14T19:00:00.000Z",
     "Guest": "Nitya Narasimhan",
@@ -733,7 +733,7 @@
   },
   "suz-hinton": {
     "PartitionKey": "suz-hinton",
-    "RowKey": "20211020",
+    "RowKey": 20211020,
     "DateTimeAsString": "10/20/2021, 12:00:00 PM",
     "DateTimeUTC": "2021-10-20T20:00:00.000Z",
     "Guest": "Suz Hinton",
@@ -755,7 +755,7 @@
   },
   "gary-ewan-park": {
     "PartitionKey": "gary-ewan-park",
-    "RowKey": "20211103",
+    "RowKey": 20211103,
     "DateTimeAsString": "11/03/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-11-03T19:00:00.000Z",
     "Guest": "Gary Ewan Park",
@@ -780,7 +780,7 @@
   },
   "marie-antons": {
     "PartitionKey": "marie-antons",
-    "RowKey": "20211110",
+    "RowKey": 20211110,
     "DateTimeAsString": "11/10/2021, 10:00:00 AM",
     "DateTimeUTC": "2021-11-10T18:00:00.000Z",
     "Guest": "Marie Antons",
@@ -805,7 +805,7 @@
   },
   "philip-laureano": {
     "PartitionKey": "philip-laureano",
-    "RowKey": "20211203",
+    "RowKey": 20211203,
     "DateTimeAsString": "12/03/2021, 02:00:00 PM",
     "DateTimeUTC": "2021-12-03T14:00:00.000Z",
     "Guest": "Philip Laureano",
@@ -830,7 +830,7 @@
   },
   "mattias-karlsson": {
     "PartitionKey": "mattias-karlsson",
-    "RowKey": "20211215",
+    "RowKey": 20211215,
     "DateTimeAsString": "12/15/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-12-15T11:00:00.000Z",
     "Guest": "Mattias Karlsson",
@@ -858,7 +858,7 @@
   },
   "christos-matskas": {
     "PartitionKey": "christos-matskas",
-    "RowKey": "20211222",
+    "RowKey": 20211222,
     "DateTimeAsString": "12/22/2021, 11:00:00 AM",
     "DateTimeUTC": "2021-12-22T11:00:00.000Z",
     "Guest": "Christos Matskas",
@@ -880,7 +880,7 @@
   },
   "elahn-danee": {
     "PartitionKey": "elahn-danee",
-    "RowKey": "20220105",
+    "RowKey": 20220105,
     "DateTimeAsString": "01/05/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-01-05T11:00:00.000Z",
     "Guest": "Elahn Danee",
@@ -905,20 +905,20 @@
   },
   "brian-clark": {
     "PartitionKey": "brian-clark",
-    "RowKey": "20220105",
+    "RowKey": 20220105,
     "DateTimeAsString": "01/12/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-01-12T11:00:00.000Z",
     "Guest": "Brian Clark",
     "GuestHandle": "@_clarkio",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Streaming fun tech things",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "YouTubeVideoId": "OJiXhLHtt9E",
+    "GuestBio": "Brian is a developer who has been building and architecting software for all different types of purposes and applications. His initial focus was on ASP.NET, C#/.NET, SQL and WPF, but he has since shifted to technologies such as Swift, Ionic, Angular and Node.js (basically JavaScript). Brian is an author of several courses on Pluralsight and co-authored the Angular Security Guide documentation. He has presented many talks at public and private conferences as well as at local code camps covering topics such as secure application development practices and getting started in Open Source Software. You can best get in touch with him on Twitter, GitHub or at clarkio.com.<br /><br />Brian also hosts regular live code stream sessions on Twitch. There you’ll find him working on the various GitHub projects you see below. He also shares how he prepares for upcoming talks, tips and tricks on the latest features found in VS Code and views behind the scenes of conferences as an attendee.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4KUmjtvg5fntgq7hPvVnNF",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/brian-clark/id1589875016?i=1000547714133",
     "Socials": [
       {
         "Linktree": "https://linktr.ee/_clarkio"
@@ -927,7 +927,7 @@
   },
   "morgan-bell": {
     "PartitionKey": "morgan-bell",
-    "RowKey": "20220126",
+    "RowKey": 20220126,
     "DateTimeAsString": "01/26/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-01-26T11:00:00.000Z",
     "Guest": "Morgan Bell",
@@ -952,7 +952,7 @@
   },
   "kelsey-hightower": {
     "PartitionKey": "kelsey-hightower",
-    "RowKey": "20220202",
+    "RowKey": 20220202,
     "DateTimeAsString": "02/02/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-02-02T11:00:00.000Z",
     "Guest": "Kelsey Hightower",
@@ -974,7 +974,7 @@
   },
   "clark-sell": {
     "PartitionKey": "clark-sell",
-    "RowKey": "20220209",
+    "RowKey": 20220209,
     "DateTimeAsString": "02/09/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-02-09T11:00:00.000Z",
     "Guest": "Clark Sell",
@@ -1002,7 +1002,7 @@
   },
   "demetris-cheatham": {
     "PartitionKey": "demetris-cheatham",
-    "RowKey": "20220316",
+    "RowKey": 20220316,
     "DateTimeAsString": "03/16/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-03-16T11:00:00.000Z",
     "Guest": "Demetris Cheatham",
