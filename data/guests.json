@@ -917,7 +917,7 @@
     "GuestBio": "Brian is a developer who has been building and architecting software for all different types of purposes and applications. His initial focus was on ASP.NET, C#/.NET, SQL and WPF, but he has since shifted to technologies such as Swift, Ionic, Angular and Node.js (basically JavaScript). Brian is an author of several courses on Pluralsight and co-authored the Angular Security Guide documentation. He has presented many talks at public and private conferences as well as at local code camps covering topics such as secure application development practices and getting started in Open Source Software. You can best get in touch with him on Twitter, GitHub or at clarkio.com.<br /><br />Brian also hosts regular live code stream sessions on Twitch. There you’ll find him working on the various GitHub projects you see below. He also shares how he prepares for upcoming talks, tips and tricks on the latest features found in VS Code and views behind the scenes of conferences as an attendee.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/4KUmjtvg5fntgq7hPvVnNF",
-    "GPLink": "",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MzcyM2EwZGQtYzZlYi00Mjg2LThkNzItZWNhNDhkMTJkNjNm?sa=X&ved=0CAUQkfYCahcKEwjQt5nQjbL1AhUAAAAAHQAAAAAQAQ",
     "APLink": "https://podcasts.apple.com/us/podcast/brian-clark/id1589875016?i=1000547714133",
     "Socials": [
       {
@@ -997,6 +997,31 @@
       },
       {
         "That.us": "https://that.us/"
+      }
+    ]
+  },
+  "james-quick": {
+    "PartitionKey": "james-quick",
+    "RowKey": 20220223,
+    "DateTimeAsString": "02/23/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-02-23T11:00:00.000Z",
+    "Guest": "James Quick",
+    "GuestHandle": "@jamesqquick",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Teaching Developers Through Contne",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/csell5"
+      },
+      {
+        "Website": "https://www.jamesqquick.com/"
       }
     ]
   },

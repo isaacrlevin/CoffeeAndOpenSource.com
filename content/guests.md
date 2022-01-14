@@ -44,5 +44,6 @@ guests_refs:
 - brian-clark
 - kelsey-hightower
 - clark-sell
+- james-quick
 - demetris-cheatham
 ---
