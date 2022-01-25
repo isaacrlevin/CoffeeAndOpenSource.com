@@ -1025,6 +1025,28 @@
       }
     ]
   },
+  "ram-iyengar": {
+    "PartitionKey": "ram-iyengar",
+    "RowKey": 20220301,
+    "DateTimeAsString": "03/01/2022, 10:00:00 AM",
+    "DateTimeUTC": "2022-03-01T10:00:00.000Z",
+    "Guest": "Ram Iyengar",
+    "GuestHandle": "@ramiyengar",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Developing for Cloud-Native Applications with Cloud Foundry",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ramiyengar"
+      }
+    ]
+  },
   "demetris-cheatham": {
     "PartitionKey": "demetris-cheatham",
     "RowKey": 20220316,
