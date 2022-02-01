@@ -1047,6 +1047,28 @@
       }
     ]
   },
+  "cecil-phillip": {
+    "PartitionKey": "cecil-phillip",
+    "RowKey": 20220310,
+    "DateTimeAsString": "03/10/2022, 12:00:00 PM",
+    "DateTimeUTC": "2022-03-10T12:00:00.000Z",
+    "Guest": "Cecil Phillip",
+    "GuestHandle": "@cecilphillip",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building for Developers at Stripe",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/cecilphillip"
+      }
+    ]
+  },
   "demetris-cheatham": {
     "PartitionKey": "demetris-cheatham",
     "RowKey": 20220316,

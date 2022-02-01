@@ -45,5 +45,7 @@ guests_refs:
 - kelsey-hightower
 - clark-sell
 - james-quick
+- ram-iyengar
+- cecil-phillip
 - demetris-cheatham
 ---
