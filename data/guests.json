@@ -1143,5 +1143,30 @@
         "Blog": "https://commsninja.wordpress.com/about/"
       }
     ]
+  },
+  "sarah-lean": {
+    "PartitionKey": "sarah-lean",
+    "RowKey": 20220420,
+    "DateTimeAsString": "04/20/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-04-20T11:00:00.000Z",
+    "Guest": "Sarah Lean",
+    "GuestHandle": "@TechieLass",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Telling Stories with DevOps",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/techieLass"
+      },
+      {
+        "LinkTree": "https://linktr.ee/techielass"
+      }
+    ]
   }
 }
