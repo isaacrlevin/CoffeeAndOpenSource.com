@@ -1094,6 +1094,31 @@
       }
     ]
   },
+  "martin-woodward": {
+    "PartitionKey": "martin-woodward",
+    "RowKey": 20220330,
+    "DateTimeAsString": "03/30/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-03-30T11:00:00.000Z",
+    "Guest": "Martin Woodward",
+    "GuestHandle": "@martinwoodward",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "DevRel at GitHub",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/martinwoodward"
+      },
+      {
+        "Blog": "http://www.woodwardweb.com/"
+      }
+    ]
+  },
   "amy-lewis": {
     "PartitionKey": "amy-lewis",
     "RowKey": 20220413,
