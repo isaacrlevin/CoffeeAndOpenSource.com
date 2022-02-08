@@ -1093,5 +1093,30 @@
         "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
       }
     ]
+  },
+  "amy-lewis": {
+    "PartitionKey": "amy-lewis",
+    "RowKey": 20220413,
+    "DateTimeAsString": "04/13/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-04-13T11:00:00.000Z",
+    "Guest": "Amy Lewis",
+    "GuestHandle": "@CommsNinja",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building Communities",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/dwcheatham"
+      },
+      {
+        "Blog": "https://commsninja.wordpress.com/about/"
+      }
+    ]
   }
 }
