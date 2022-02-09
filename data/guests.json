@@ -980,14 +980,14 @@
     "Guest": "Clark Sell",
     "GuestHandle": "@livelovegeek",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Buidling Communities with That.us",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "jQdt4ffnsL8",
     "GuestBio": "Clark is a community builder, living somewhere along the IL/WI border. He is married to his best friend, amazing wife, business partner, and they share the joys of raising two kids.<br /><br />He is a historically trained software developer, architect, product manager, and has managed to fool companies such as Allstate, Microsoft, Telerik to let this crazy passionate, entrepreneurial, see no boundaries of a person work for them. He and his wife have founded two companies THAT Conference and Unspecified.<br /><br />He fell backward into software development because computers help people scale. It's his love for people, his love for helping one another, that's led him to a life of building products that build communities. It's his mission to create software that connects people in a more profound and meaningful way.<br /><br />Today, THAT Conference is one of the largest Family Friendly Technology Conferences. During the pandemic, thye created a SAAS platform to connect geeks across the globe. Unspecified is their boutique software development company. They take their extensive enterprise application skills and help small businesses build software to better their business.<br /><br />Regardless of titles, he will always call himself a practitioner.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/70qaE1pwIahiNbx4Rr6Qqz",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/clark-sell/id1589875016?i=1000550609096",
     "Socials": [
       {
         "Twitter": "https://twitter.com/csell5"
