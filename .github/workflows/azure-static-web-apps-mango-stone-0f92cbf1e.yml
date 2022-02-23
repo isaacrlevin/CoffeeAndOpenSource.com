@@ -1,8 +1,7 @@
 name: Azure Static Web Apps CI/CD
 
 on:
-  schedule:
-    - cron:  '0 1 * * *'
+
   push:
     branches:
       - main
@@ -20,7 +19,7 @@ jobs:
 
       - name: Get Commit Info
         run: |
-          $commit=${{ github.event.commits[0].message }}
+          $commit="${{ github.event.commits[0].message }}"
           $split=$commit.Split("|")
           $function=$split[0]
           $handle=$split[1]
