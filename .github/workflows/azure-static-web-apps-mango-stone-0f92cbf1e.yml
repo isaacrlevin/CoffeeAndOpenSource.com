@@ -20,9 +20,9 @@ jobs:
       - name: Get Commit Info
         run: |
           commit="${{ github.event.commits[0].message }}"
-          function==$(awk 'BEGIN{FS=OFS="|"} {print $1}' <<< ${commit})
-          handle==$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
-          link==$(awk 'BEGIN{FS=OFS="|"} {print $3}' <<< ${commit})
+          function=$(awk 'BEGIN{FS=OFS="|"} {print $1}' <<< ${commit})
+          handle=$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
+          link=$(awk 'BEGIN{FS=OFS="|"} {print $3}' <<< ${commit})
           echo "HANDLE=$handle" >> $GITHUB_ENV
           echo "LINK=$link" >> $GITHUB_ENV
         
