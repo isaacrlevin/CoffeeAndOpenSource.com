@@ -18,6 +18,17 @@ jobs:
     name: Build and Deploy Job
     steps:
 
+      - name: Get Commit Info
+        run: |
+          $commit=${{ github.event.commits[0].message }}
+          $split=$commit.Split("|")
+          $function=$split[0]
+          $handle=$split[1]
+          $link=$split[2]
+          echo "HANDLE=$handle" >> $GITHUB_ENV
+          echo "LINK=$link" >> $GITHUB_ENV
+        shell: pwsh
+
       - uses: actions/checkout@v2
 
       - name: Setup Hugo
