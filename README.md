@@ -1,2 +1,1 @@
 # CoffeeAndOpenSource.com
-
