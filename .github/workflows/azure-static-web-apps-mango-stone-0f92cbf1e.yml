@@ -27,6 +27,11 @@ jobs:
           echo "HANDLE=$handle" >> $GITHUB_ENV
           echo "LINK=$link" >> $GITHUB_ENV
         shell: pwsh
+        
+      - name: Show Commit Info
+        run: |
+          echo Handle: "${{ env.HANDLE}}
+          echo Link: "${{ env.LINK}}
 
       - uses: actions/checkout@v2
 
