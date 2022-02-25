@@ -1,8 +1,7 @@
 name: Azure Static Web Apps CI/CD
 
 on:
-  schedule:
-    - cron:  '0 1 * * *'
+
   push:
     branches:
       - main
@@ -17,6 +16,21 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
+
+      - name: Get Commit Info
+        run: |
+          commit="${{ github.event.commits[0].message }}"
+          function=$(awk 'BEGIN{FS=OFS="|"} {print $1}' <<< ${commit})
+          handle=$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
+          link=$(awk 'BEGIN{FS=OFS="|"} {print $3}' <<< ${commit})
+          echo "FUNCTION=$function" >> $GITHUB_ENV
+          echo "HANDLE=$handle" >> $GITHUB_ENV
+          echo "LINK=$link" >> $GITHUB_ENV
+        
+      - name: Show Commit Info
+        run: |
+          echo "Handle: ${{ env.HANDLE}}"
+          echo "Link: ${{ env.LINK}}"
 
       - uses: actions/checkout@v2
 
@@ -42,6 +56,16 @@ jobs:
           # api_location: "api" # Api source code path - optional
           app_artifact_location: "public" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
+          
+      - uses: ethomson/send-tweet-action@v1
+        name: Send Tweet
+        if: env.FUNCTION == 'PUBLISH'      
+        with:
+          status: "Had a great time chatting with ${{ env.HANDLE }} on @CoffeeAndOSS today about all kinds of #tech topics. Video is live on @youtube and podcast is available wherever you find them. Take a look/listen and thanks! ${{ env.LINK }}"
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
