@@ -15,7 +15,7 @@
             We don't need a variant either as returned value is the same across build
 
     {{ with partialCached "GetGuestPages" "GetGuestPages" }}
-      Guest name is {{ .Guest }}
+      Guest name is {{ .GuestName }}
     {{ end }}
 */}}
 {{ $guests := slice }}

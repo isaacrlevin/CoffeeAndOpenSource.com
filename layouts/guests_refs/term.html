@@ -13,7 +13,7 @@
     <main>
       <div class="post-header">
         <h1>
-          {{ .Guest }}
+          {{ .GuestName }}
           <br />
           {{ if .IsPublished}}
           Recorded on
@@ -45,14 +45,14 @@
         You can also listen to the audio directly:
       </p>
       <audio controls="">
-        <source src="https://podcasts.coffeeandopensource.com/interviews/{{ replace .Guest " " "-" }}.mp3">
+        <source src="https://podcasts.coffeeandopensource.com/interviews/{{ replace .GuestName " " "-" }}.mp3">
       </audio>
       {{ end }}
       <br />
       <br />
       {{ if .Socials }}
       <p>
-          You can find {{ .Guest }} on the following sites:
+          You can find {{ .GuestName }} on the following sites:
         </p>
         <ul>
         {{ range $value := .Socials }}

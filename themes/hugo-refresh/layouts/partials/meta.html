@@ -29,8 +29,8 @@
         {{- .Site.Title -}}
         {{- else -}}
         {{- .Site.Title -}}{{- " - " -}}
-        {{ if $guest.Guest}}
-        {{- $guest.Guest -}}
+        {{ if $guest.GuestName }}
+        {{- $guest.GuestName -}}
         {{else}}
         {{- $title -}}
         {{- end -}}
