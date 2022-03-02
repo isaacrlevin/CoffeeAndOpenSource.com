@@ -47,6 +47,7 @@ guests_refs:
 - james-q-quick
 - ram-iyengar
 - cecil-phillip
+- ty-smith
 - demetris-cheatham
 - martin-woodward
 - amy-lewis

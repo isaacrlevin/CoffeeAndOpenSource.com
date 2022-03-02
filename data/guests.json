@@ -1014,7 +1014,7 @@
     "GuestBio": "James is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a Staff Developer Advocate at PlanetScale with years of experience in Content Creation, Advocacy, and Software Development. In his spare time, he runs a YouTube channel, plays co-ed soccer with his wife, spends time with his dogs, and can solve a Rubik's cube in under a minute.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/7ldErzNRIkJPlUxqyurc1L",
-    "GPLink": "",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/OTdlNzU5YmEtY2M4ZC00NDgwLTk5NjQtNWYxNDU2MzFhMjE5?sa=X&ved=0CAUQkfYCahcKEwiQ0YqTvqj2AhUAAAAAHQAAAAAQAQ",
     "APLink": "https://podcasts.apple.com/us/podcast/james-q-quick/id1589875016?i=1000552044264",
     "Socials": [
       {
@@ -1091,6 +1091,28 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
+      }
+    ]
+  },
+  "ty-smith": {
+    "PartitionKey": "ty-smith",
+    "RowKey": 20220323,
+    "DateTimeAsString": "03/23/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-03-10T11:00:00.000Z",
+    "GuestName": "Ty Smith",
+    "GuestHandle": "@tsmith",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source at Uber",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/cecilphillip"
       }
     ]
   },
