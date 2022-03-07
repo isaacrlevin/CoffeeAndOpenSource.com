@@ -1098,7 +1098,7 @@
     "PartitionKey": "ty-smith",
     "RowKey": 20220323,
     "DateTimeAsString": "03/23/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-03-10T11:00:00.000Z",
+    "DateTimeUTC": "2022-03-23T11:00:00.000Z",
     "GuestName": "Ty Smith",
     "GuestHandle": "@tsmith",
     "GuestLink": "",
