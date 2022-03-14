@@ -1074,9 +1074,9 @@
   },
   "demetris-cheatham": {
     "PartitionKey": "demetris-cheatham",
-    "RowKey": 20220316,
-    "DateTimeAsString": "03/16/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-03-16T11:00:00.000Z",
+    "RowKey": 20220317,
+    "DateTimeAsString": "03/17/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-03-17T11:00:00.000Z",
     "GuestName": "Demetris Cheatham",
     "GuestHandle": "@dwcheatham",
     "GuestLink": "",
