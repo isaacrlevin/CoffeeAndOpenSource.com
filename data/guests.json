@@ -1080,20 +1080,23 @@
     "GuestName": "Demetris Cheatham",
     "GuestHandle": "@dwcheatham",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Adding Inclusiveness to Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "YouTubeVideoId": "KsYQeiumn-s",
+    "GuestBio": "Demetris Cheatham is the Senior Director of Diversity, Inclusion and Belonging at GitHub. She is responsible for leading the company’s long-term strategy across four pillars: People, Platform, Policy, and Philanthropy. Her work includes aligning diversity, inclusion and belonging to the company’s global expansion, growth and business strategy, and plan for the future footprint of its workforce.<br /><br />Prior to joining GitHub, Demetris was the Global Diversity and Inclusion Lead for Red Hat where she was responsible for implementing the diversity and inclusion strategy for the company and its 15,000+ employees located around the world. Demetris also previously served as the Chief of Staff to the Chair Pro Tempore (Vice Chair) of the Council of the District of Columbia and the Committee on Business and Economic Development which had oversight of government agencies with a collective budget of over $2.6B.<br /><br />Demetris started her career as a Technology Analyst at Goldman Sachs in New York and was later selected as the first woman and youngest Executive Director to lead the National Bar Association, the nation’s oldest and largest international network of over 65,000 predominantly African-American attorneys and judges.<br /><br />Demetris is a lecturer at North Carolina State University’s Poole College of Management where she teaches Introduction to Entrepreneurship. She is also a member of the Board of Trustees and Executive Committee at Ravenscroft School and Chair of the Diversity and Inclusion Committee.<br /><br />Demetris was recognized as a National Business Journal Influencers: Rising Star, received the 2019 Triangle Business Journal’s 40 Under 40 Leadership Award and was awarded the Mayor’s Award for Commitment to Community. She was previously named to the Power 100 List for Black Lawyers in America.<br /><br />Demetris earned a B.S. in Computer Science with honors from North Carolina A&T State University and a JD/MBA from the University of Maryland Francis King Carey School of Law and the University of Maryland Robert F. Smith School of Business, respectively. She is a licensed attorney in the State of Maryland and a certified Executive Coach. Demetris lives in North Carolina with her husband, Cornelius, and daughter Zahra Joy.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2Jgq2N2xHAkks9o4cXLKJA",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/demetris-cheatham/id1589875016?i=1000554412384",
     "Socials": [
       {
         "Twitter": "https://twitter.com/dwcheatham"
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
+      },
+      {
+        "All in Open Source" : "https://allinopensource.org/"
       }
     ]
   },
