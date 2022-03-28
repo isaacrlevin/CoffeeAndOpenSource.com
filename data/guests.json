@@ -1096,7 +1096,7 @@
         "LinkedIn": "https://www.linkedin.com/in/dwcheatham/"
       },
       {
-        "All in Open Source" : "https://allinopensource.org/"
+        "All in Open Source": "https://allinopensource.org/"
       }
     ]
   },
@@ -1222,6 +1222,31 @@
       },
       {
         "Blog": "https://kjaymiller.com/"
+      }
+    ]
+  },
+  "isaac-schlueter": {
+    "PartitionKey": "isaac-schlueter",
+    "RowKey": 20220511,
+    "DateTimeAsString": "05/11/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-05-11T11:00:00.000Z",
+    "GuestName": "Isaac Z. Schlueter",
+    "GuestHandle": "@izs",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Frameworks",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/izs"
+      },
+      {
+        "Blog": "https://izs.me/"
       }
     ]
   }
