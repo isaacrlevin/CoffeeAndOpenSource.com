@@ -1133,14 +1133,14 @@
     "GuestName": "Martin Woodward",
     "GuestHandle": "@martinwoodward",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "DevRel at GitHub",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "YouTubeVideoId": "jMVHQrOYyYE",
+    "GuestBio": "Martin is the Director of Developer Relations at GitHub where he helps developers and open source communities to create delightful things. Prior to that he was part of the team at Microsoft building the tooling for DevOps teams inside and outside the company where he helped change how the company built software, by helping them change how they work with open source communities and how they talk with developers.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1i6R3fy3Rmv8XDiy6unxHh",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/martin-woodward/id1589875016?i=1000555749800",
     "Socials": [
       {
         "Twitter": "https://twitter.com/martinwoodward"
