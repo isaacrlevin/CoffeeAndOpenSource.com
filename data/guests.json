@@ -1158,20 +1158,26 @@
     "GuestName": "Amy Lewis",
     "GuestHandle": "@CommsNinja",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Building Communities",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "YouTubeVideoId": "vVOfkRAV6rA",
+    "GuestBio": "Amy Lewis is a Community Advocate by choice and Senior Director, Office of the CTO at Dick’s Sporting Goods by trade. Better known as @CommsNinja, Amy is a former co-host of the Geek Whisperers and Speaking in Tech podcasts, creator and former host of the video series TechConfessions, PopUpTechTalks, and Engineers Unplugged. She uses old-school tools (whiteboards and bacon) and new-school platforms to engage technologists from around the globe. When not on the clock, this soccer mom is a left-footed striker.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7aHSihMmvF9brjWf9oUpoA",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/amy-lewis/id1589875016?i=1000557524415",
     "Socials": [
       {
-        "Twitter": "https://twitter.com/dwcheatham"
+        "Twitter": "https://twitter.com/CommsNinja"
       },
       {
         "Blog": "https://commsninja.wordpress.com/about/"
+      },
+      {
+        "The Geek Whisperers Twitter": "https://twitter.com/Geek_Whisperers"
+      },
+      {
+        "The Nerd Herd Twitter": "https://twitter.com/Nerd_Herd_Pod"
       }
     ]
   },
@@ -1261,7 +1267,7 @@
     "IsPublished": false,
     "Topic": "Open Source and Browsers",
     "YouTubeVideoId": "",
-    "GuestBio": "",
+    "GuestBio": "Eric Lawrence has been working on the web in one way or another for over two decades now, including over fifteen years as a Program Manager at Microsoft. He created the Fiddler Web Debugger and a variety of other tools. After Fiddler was acquired, he spent three years working on it full-time, then spent two years helping bring HTTPS everywhere as a member of the Chrome Security team. In 2018, Eric returned to Microsoft to again work on networking and the web platform for the Microsoft Edge team.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "GPLink": "",
