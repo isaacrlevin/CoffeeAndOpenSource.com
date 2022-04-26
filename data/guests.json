@@ -1260,7 +1260,7 @@
     ]
   },
   "eric-lawrence": {
-    "PartitionKey": "Eric-Lawrence",
+    "PartitionKey": "eric-lawrence",
     "RowKey": 20220601,
     "DateTimeAsString": "06/01/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-06-01T11:00:00.000Z",
@@ -1280,7 +1280,32 @@
         "Twitter": "https://twitter.com/ericlaw"
       },
       {
-        "Blog": "https://textslashplain.com//"
+        "Blog": "https://textslashplain.com/"
+      }
+    ]
+  },
+  "david-pine": {
+    "PartitionKey": "david-pine",
+    "RowKey": 20220608,
+    "DateTimeAsString": "06/08/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-06-08T11:00:00.000Z",
+    "GuestName": "David Pine",
+    "GuestHandle": "@davidpine7",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building Content in an Open Source World",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/davidpine7"
+      },
+      {
+        "Blog": "https://davidpine.net/"
       }
     ]
   }
