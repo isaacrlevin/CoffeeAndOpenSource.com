@@ -1033,13 +1033,13 @@
     "GuestName": "Ram Iyengar",
     "GuestHandle": "@ramiyengar",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Developing for Cloud-Native Applications with Cloud Foundry",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "3cEdywppCF8",
     "GuestBio": "Ram Iyengar is an engineer by practice and an educator at heart. He was (cf) pushed into technology evangelism along his journey as a developer and hasn’t looked back since! He enjoys helping engineering teams around the world discover new and creative ways to work. He is a proponent of community-first product development.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2YUGwwWc83JcJIQDvTdU9J",
+    "GPLink": "https://podcasts.apple.com/us/podcast/ram-iyengar/id1589875016?i=1000559620185",
     "APLink": "",
     "Socials": [
       {
