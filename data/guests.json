@@ -1039,8 +1039,8 @@
     "GuestBio": "Ram Iyengar is an engineer by practice and an educator at heart. He was (cf) pushed into technology evangelism along his journey as a developer and hasn’t looked back since! He enjoys helping engineering teams around the world discover new and creative ways to work. He is a proponent of community-first product development.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/2YUGwwWc83JcJIQDvTdU9J",
-    "GPLink": "https://podcasts.apple.com/us/podcast/ram-iyengar/id1589875016?i=1000559620185",
-    "APLink": "",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZDQ4MDY4NWUtNTA5Yi00MjBmLWEwNzEtZWM0NTMwMjBmZWU0?sa=X&ved=0CAUQkfYCahcKEwiQ3_CBrMv3AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/ram-iyengar/id1589875016?i=1000559620185",
     "Socials": [
       {
         "Twitter": "https://twitter.com/ramiyengar"
@@ -1086,7 +1086,7 @@
     "GuestBio": "Demetris Cheatham is the Senior Director of Diversity, Inclusion and Belonging at GitHub. She is responsible for leading the company’s long-term strategy across four pillars: People, Platform, Policy, and Philanthropy. Her work includes aligning diversity, inclusion and belonging to the company’s global expansion, growth and business strategy, and plan for the future footprint of its workforce.<br /><br />Prior to joining GitHub, Demetris was the Global Diversity and Inclusion Lead for Red Hat where she was responsible for implementing the diversity and inclusion strategy for the company and its 15,000+ employees located around the world. Demetris also previously served as the Chief of Staff to the Chair Pro Tempore (Vice Chair) of the Council of the District of Columbia and the Committee on Business and Economic Development which had oversight of government agencies with a collective budget of over $2.6B.<br /><br />Demetris started her career as a Technology Analyst at Goldman Sachs in New York and was later selected as the first woman and youngest Executive Director to lead the National Bar Association, the nation’s oldest and largest international network of over 65,000 predominantly African-American attorneys and judges.<br /><br />Demetris is a lecturer at North Carolina State University’s Poole College of Management where she teaches Introduction to Entrepreneurship. She is also a member of the Board of Trustees and Executive Committee at Ravenscroft School and Chair of the Diversity and Inclusion Committee.<br /><br />Demetris was recognized as a National Business Journal Influencers: Rising Star, received the 2019 Triangle Business Journal’s 40 Under 40 Leadership Award and was awarded the Mayor’s Award for Commitment to Community. She was previously named to the Power 100 List for Black Lawyers in America.<br /><br />Demetris earned a B.S. in Computer Science with honors from North Carolina A&T State University and a JD/MBA from the University of Maryland Francis King Carey School of Law and the University of Maryland Robert F. Smith School of Business, respectively. She is a licensed attorney in the State of Maryland and a certified Executive Coach. Demetris lives in North Carolina with her husband, Cornelius, and daughter Zahra Joy.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/2Jgq2N2xHAkks9o4cXLKJA",
-    "GPLink": "",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Yjk1Y2M1MmQtNWM5OS00N2UyLWEzYjgtYzBjMDgxMGY3NWQ4?sa=X&ved=0CAUQkfYCahcKEwiQ3_CBrMv3AhUAAAAAHQAAAAAQYw",
     "APLink": "https://podcasts.apple.com/us/podcast/demetris-cheatham/id1589875016?i=1000554412384",
     "Socials": [
       {
@@ -1236,9 +1236,9 @@
   },
   "isaac-schlueter": {
     "PartitionKey": "isaac-schlueter",
-    "RowKey": 20220511,
-    "DateTimeAsString": "05/11/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-05-11T11:00:00.000Z",
+    "RowKey": 20220615,
+    "DateTimeAsString": "06/15/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-06-15T11:00:00.000Z",
     "GuestName": "Isaac Z. Schlueter",
     "GuestHandle": "@izs",
     "GuestLink": "",
@@ -1286,9 +1286,9 @@
   },
   "david-pine": {
     "PartitionKey": "david-pine",
-    "RowKey": 20220608,
-    "DateTimeAsString": "06/08/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-06-08T11:00:00.000Z",
+    "RowKey": 20220607,
+    "DateTimeAsString": "06/07/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-06-07T11:00:00.000Z",
     "GuestName": "David Pine",
     "GuestHandle": "@davidpine7",
     "GuestLink": "",
