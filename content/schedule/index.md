@@ -12,6 +12,8 @@ If you have interest, or have a recommendation for someone to be on the stream t
 
 ## Upcoming Streams
 
+<a href="https://coffeeopensourcescheduler.azurewebsites.net/api/GetSchedule">Download Calendar ICS</a>
+
 {{< schedule "upcoming" >}}
 
 
