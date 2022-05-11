@@ -6099,16 +6099,9 @@ readers do not read off random characters that represent icons */
 }
 
 .sidenav {
-  width: 25%;
-  position: fixed;
-  z-index: 1;
-  top: 400px;
-  right: 50px;
-  background: #eee;
+
   overflow-x: hidden;
   padding: 8px 0;
-  bottom: 1300px;
-  height: 300px;
   display: block;
   overflow: auto;
 }
@@ -6177,9 +6170,6 @@ readers do not read off random characters that represent icons */
   .container {
     margin-left: 10px;
     max-width: 500px;
-  }
-  .sidenav {
-    display: none;
   }
 }
 
