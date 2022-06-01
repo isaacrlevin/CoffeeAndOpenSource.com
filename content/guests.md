@@ -53,4 +53,7 @@ guests_refs:
 - amy-lewis
 - sarah-lean
 - jay-miller
+- eric-lawrence
+- david-pine
+- isaac-schlueter
 ---

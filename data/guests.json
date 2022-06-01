@@ -1250,6 +1250,7 @@
     "SpotifyLink": "",
     "GPLink": "",
     "APLink": "",
+    "AmazonLink": "",
     "Socials": [
       {
         "Twitter": "https://twitter.com/izs"
@@ -1267,20 +1268,29 @@
     "GuestName": "Eric Lawrence",
     "GuestHandle": "@ericlaw",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source and Browsers",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "pKUU3VTzZuM",
     "GuestBio": "Eric Lawrence has been working on the web in one way or another for over two decades now, including over fifteen years as a Program Manager at Microsoft. He created the Fiddler Web Debugger and a variety of other tools. After Fiddler was acquired, he spent three years working on it full-time, then spent two years helping bring HTTPS everywhere as a member of the Chrome Security team. In 2018, Eric returned to Microsoft to again work on networking and the web platform for the Microsoft Edge team.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://anchor.fm/coffeandopensource/episodes/Eric-Lawrence-e1jcjcl",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/eric-lawrence/id1589875016?i=1000564882806",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c2867aad-964b-4445-8c67-379500dd678d/coffee-and-open-source-eric-lawrence",
     "Socials": [
       {
         "Twitter": "https://twitter.com/ericlaw"
       },
       {
         "Blog": "https://textslashplain.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Simply Making Simple Fixes Simple for Chromium":"https://textslashplain.com/2020/10/27/simply-making-simple-fixes-simple-for-chromium/"
+      },
+      {
+        "Demystifying Browsers":"https://textslashplain.com/2020/02/09/demystifying-browsers/"
       }
     ]
   },
@@ -1300,6 +1310,7 @@
     "SpotifyLink": "",
     "GPLink": "",
     "APLink": "",
+    "AmazonLink": "",
     "Socials": [
       {
         "Twitter": "https://twitter.com/davidpine7"
