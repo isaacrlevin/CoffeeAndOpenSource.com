@@ -1319,5 +1319,31 @@
         "Blog": "https://davidpine.net/"
       }
     ]
+  },
+  "chris-ayers": {
+    "PartitionKey": "chris-ayers",
+    "RowKey": 20220720,
+    "DateTimeAsString": "07/20/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-07-20T11:00:00.000Z",
+    "GuestName": "Chris Ayers",
+    "GuestHandle": "@Chris_L_Ayers",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Fast Tracking folks to the Cloud",
+    "YouTubeVideoId": "",
+    "GuestBio": "Chris is a Senior Customer Engineer on the Fast Track for Azure team at Microsoft. He has a focus in modern applications built with DevOps, microservices, containers, Single Page Apps, RESTful APIs, and cloud technologies following agile practices. In his free time, Chris is a speaker at numerous meetups, an avid reader and a gamer.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/Chris_L_Ayers"
+      },
+      {
+        "Blog": "https://chrislayers.com/"
+      }
+    ]
   }
 }
