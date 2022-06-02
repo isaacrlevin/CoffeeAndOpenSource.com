@@ -1345,5 +1345,31 @@
         "Blog": "https://chrislayers.com/"
       }
     ]
+  },
+  "mark-eisenberg": {
+    "PartitionKey": "mark-eisenberg",
+    "RowKey": 20220713,
+    "DateTimeAsString": "07/13/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-07-13T11:00:00.000Z",
+    "GuestName": "Mark Eisenberg",
+    "GuestHandle": "@CloudBizAndTech",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source and the Enterprise",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/CloudBizAndTech"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/mheisenberg/"
+      }
+    ]
   }
 }
