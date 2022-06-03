@@ -1287,10 +1287,10 @@
     ],
     "Links": [
       {
-        "Simply Making Simple Fixes Simple for Chromium":"https://textslashplain.com/2020/10/27/simply-making-simple-fixes-simple-for-chromium/"
+        "Simply Making Simple Fixes Simple for Chromium": "https://textslashplain.com/2020/10/27/simply-making-simple-fixes-simple-for-chromium/"
       },
       {
-        "Demystifying Browsers":"https://textslashplain.com/2020/02/09/demystifying-browsers/"
+        "Demystifying Browsers": "https://textslashplain.com/2020/02/09/demystifying-browsers/"
       }
     ]
   },
@@ -1305,7 +1305,7 @@
     "IsPublished": false,
     "Topic": "Building Content in an Open Source World",
     "YouTubeVideoId": "",
-    "GuestBio": "",
+    "GuestBio": "David Pine works in Developer Relations at Microsoft, focusing on .NET and Azure developer content. He is recognized as a Google Developer Expert in Web Technologies, and is Twilio Champion. David focuses on the developer community, actively seeking opportunities to share knowledge through speaking engagements around the world. David advocates for open-source, the .NET Foundation, C#, TypeScript, SignalR, Reactive Extensions, Azure and .NET. He's a founding member and co-host of The .NET Docs Show Twitch stream, part of the .NET Live TV family of streaming shows.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "GPLink": "",
@@ -1317,6 +1317,20 @@
       },
       {
         "Blog": "https://davidpine.net/"
+      },
+      {
+        "GitHub": "https://github.com/IEvangelist"
+      }
+    ],
+    "Links": [
+      {
+        "Speaking Engagements": "https://davidpine.net/speaking"
+      },
+      {
+        "The .NET Docs Show": "https://dotnetdocs.dev/"
+      },
+      {
+        "David's Book": "https://www.oreilly.com/library/view/learning-blazor/9781098113230/"
       }
     ]
   },
@@ -1369,6 +1383,32 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/mheisenberg/"
+      }
+    ]
+  },
+  "joe-beda": {
+    "PartitionKey": "joe-beda",
+    "RowKey": 20220810,
+    "DateTimeAsString": "08/10/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-08-10T11:00:00.000Z",
+    "GuestName": "Joe Beda",
+    "GuestHandle": "@jbeda",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building Open Source Tools for Everyone",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jbeda"
+      },
+      {
+        "Blog": "https://www.eightypercent.net/"
       }
     ]
   }
