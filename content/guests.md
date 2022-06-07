@@ -56,4 +56,7 @@ guests_refs:
 - eric-lawrence
 - david-pine
 - isaac-schlueter
+- chris-ayers
+- mark-eisenberg
+- joe-beda
 ---
