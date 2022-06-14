@@ -1362,9 +1362,9 @@
   },
   "mark-eisenberg": {
     "PartitionKey": "mark-eisenberg",
-    "RowKey": 20220713,
-    "DateTimeAsString": "07/13/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-07-13T11:00:00.000Z",
+    "RowKey": 20220824,
+    "DateTimeAsString": "08/24/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-08-24T11:00:00.000Z",
     "GuestName": "Mark Eisenberg",
     "GuestHandle": "@CloudBizAndTech",
     "GuestLink": "",
