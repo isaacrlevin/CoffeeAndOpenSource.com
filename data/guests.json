@@ -1234,23 +1234,23 @@
       }
     ]
   },
-  "isaac-schlueter": {
-    "PartitionKey": "isaac-schlueter",
+  "isaac-z-schlueter": {
+    "PartitionKey": "isaac-z-schlueter",
     "RowKey": 20220615,
     "DateTimeAsString": "06/15/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-06-15T11:00:00.000Z",
     "GuestName": "Isaac Z. Schlueter",
     "GuestHandle": "@izs",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Frameworks",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "qNx4LpABHiE",
+    "GuestBio": "Isaac is the npm inventor, founder npm, Inc, former Node BDFL and cofounder of Tier.run",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6VUlepz0SigIanTcKb3TOv",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YTQ5Nzk0ZGUtODcxNC00MjFhLWI0ZmItMWQzZDMwMGM0NGQ3?sa=X&ved=0CAUQkfYCahcKEwjI35LYtLD4AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/isaac-z-schlueter/id1589875016?i=1000566558768",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/b62ddf2e-eb62-490c-9ec6-c817c2b37f87/coffee-and-open-source-isaac-z-schlueter",
     "Socials": [
       {
         "Twitter": "https://twitter.com/izs"
