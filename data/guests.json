@@ -1342,15 +1342,15 @@
     "GuestName": "Chris Ayers",
     "GuestHandle": "@Chris_L_Ayers",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Fast Tracking folks to the Cloud",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "kbBEwcBXsCM",
     "GuestBio": "Chris is a Senior Customer Engineer on the Fast Track for Azure team at Microsoft. He has a focus in modern applications built with DevOps, microservices, containers, Single Page Apps, RESTful APIs, and cloud technologies following agile practices. In his free time, Chris is a speaker at numerous meetups, an avid reader and a gamer.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1M0npxMUqNnQsmfj2dUjMT",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NDIwZGIyOTYtODIyOC00NDEwLTg3ZDktMzc2ZWJkZmY3MTA1?sa=X&ved=0CAUQkfYCahcKEwjg99zhuoj5AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/chris-ayers/id1589875016?i=1000570635219",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/98238b38-8b70-4eb3-b398-fc4b744d7e88/coffee-and-open-source-chris-ayers",
     "Socials": [
       {
         "Twitter": "https://twitter.com/Chris_L_Ayers"
