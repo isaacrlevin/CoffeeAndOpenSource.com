@@ -60,4 +60,6 @@ guests_refs:
 - mark-eisenberg
 - joe-beda
 - andy-piper
+- chris-ayers
+- ricardo-sueiras
 ---
