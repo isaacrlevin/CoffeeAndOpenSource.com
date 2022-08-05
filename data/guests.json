@@ -1467,6 +1467,37 @@
       }
     ]
   },
+  "andy-piper": {
+    "PartitionKey": "andy-piper",
+    "RowKey": 20220831,
+    "DateTimeAsString": "08/31/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-08-31T11:00:00.000Z",
+    "GuestName": "Andy Piper",
+    "GuestHandle": "@andypiper",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Twitter Developer Community",
+    "YouTubeVideoId": "",
+    "GuestBio": "Andy is a Developer Relations professional at Twitter. <br />Prior to joining Twitter in 2014, Andy was Developer Advocate for Cloud Foundry, the OSS Platform-as-a-Service, at VMware/Pivotal. Earlier, he spent 10 years at IBM; and 4 years at the UK Post Office, where he helped the company navigate the challenges of Y2K. Andy has over 20 years of experience with Linux, and with contributing to Open Source projects. He was a leading member of the MQTT Open Source community for five year, and took an active role in building the developer ecosystem. He has 20+ years of experience as a coder, and in collaborating with and supporting developer communities.<br />Andy earned an M.A. in Modern History from Brasenose College, Oxford. He is @andypiper on Twitter.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/andypiper"
+      },
+      {
+        "Blog": "https://andypiper.co.uk/"
+      }
+    ],
+    "Links": [
+      {
+        "Andy Piper's links": "https://andypiper.me/"
+      }
+    ]
+  },
   "andres-pineda": {
     "PartitionKey": "andres-pineda",
     "RowKey": 20220907,
