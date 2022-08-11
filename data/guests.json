@@ -1394,15 +1394,15 @@
     "GuestName": "Joe Beda",
     "GuestHandle": "@jbeda",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Building Open Source Tools for Everyone",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "ZOXfGGeBVr0",
+    "GuestBio": "Joe Beda is a technologist with a history of working across many parts of our industry from web browsers to real time communication systems to cloud computing.  He started his career at Microsoft working on Internet Explorer and client platforms before moving on to Google. During his tenure at Google he started Google Compute Engine and helped start Kubernetes. He then co-founded Heptio and, after 2 years, sold it to VMware. Joe was at VMware for several years helping to create the Tanzu suite of products.<br /><br />Joe holds a B.S. from Harvey Mudd College and lives in Seattle, Washington with his wife Rachel (a medical doctor and also an HMC alum) and their two daughters.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3t8QAeLlAWxxsCgOY2c1Rn",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZjZhNmYwZGEtOGFlNi00MzUyLTgyNGItNmM4MmRmOTQ4YmFh?sa=X&ved=0CAUQkfYCahcKEwiAoNe_8b_5AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/joe-beda/id1589875016?i=1000575812964",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/798418a4-fe77-446b-951a-db531255e32f/coffee-and-open-source-joe-beda",
     "Socials": [
       {
         "Twitter": "https://twitter.com/jbeda"
