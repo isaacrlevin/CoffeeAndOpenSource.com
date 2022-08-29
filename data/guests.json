@@ -1543,5 +1543,37 @@
         "Twitter": "https://twitter.com/gblock"
       }
     ]
+  },
+  "scott-hanselman": {
+    "PartitionKey": "scott-hanselman",
+    "RowKey": 20221019,
+    "DateTimeAsString": "10/19/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-10-19T11:00:00.000Z",
+    "GuestName": "Scott Hanselman",
+    "GuestHandle": "@shanselman",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source in an Inclusive Way",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/shanselman"
+      },
+      {
+        "Blog": "https://www.hanselman.com/blog/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/user/shanselman"
+      },
+      {
+        "Hanselminutes": "https://www.hanselminutes.com/"
+      }
+    ]
   }
 }

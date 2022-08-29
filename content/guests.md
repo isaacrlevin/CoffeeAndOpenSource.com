@@ -65,4 +65,5 @@ guests_refs:
 - andres-pineda
 - georgia-n
 - glenn-block
+- scott-hanselman
 ---
