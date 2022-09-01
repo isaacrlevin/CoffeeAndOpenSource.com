@@ -1475,15 +1475,15 @@
     "GuestName": "Andy Piper",
     "GuestHandle": "@andypiper",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Twitter Developer Community",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "ShidBof9Za4",
     "GuestBio": "Andy is a Developer Relations professional at Twitter. <br />Prior to joining Twitter in 2014, Andy was Developer Advocate for Cloud Foundry, the OSS Platform-as-a-Service, at VMware/Pivotal. Earlier, he spent 10 years at IBM; and 4 years at the UK Post Office, where he helped the company navigate the challenges of Y2K. Andy has over 20 years of experience with Linux, and with contributing to Open Source projects. He was a leading member of the MQTT Open Source community for five year, and took an active role in building the developer ecosystem. He has 20+ years of experience as a coder, and in collaborating with and supporting developer communities.<br />Andy earned an M.A. in Modern History from Brasenose College, Oxford. He is @andypiper on Twitter.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4Fmc1uYnGlCLpbLesGOC3L",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NzIxYmMwZDQtOTRmZi00ZTA0LWIyNTctNzRjMDA4ODYwYTQy?sa=X&ved=0CAUQkfYCahcKEwj4jbH_0fL5AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/andy-piper/id1589875016?i=1000577983956",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/87655de1-ce86-4ce7-a797-b50539cbcf31/coffee-and-open-source-andy-piper",
     "Socials": [
       {
         "Twitter": "https://twitter.com/andypiper"
@@ -1495,6 +1495,9 @@
     "Links": [
       {
         "Andy Piper's links": "https://andypiper.me/"
+      },
+      {
+        "Games At Work Dot Biz Podcast": "https://gamesatwork.biz"
       }
     ]
   },
