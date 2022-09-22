@@ -1509,15 +1509,15 @@
     "GuestName": "Andres Pineda",
     "GuestHandle": "@ajpinedam",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Having fun in the Developer Community",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "9rfaC7em6bE",
+    "GuestBio": "Andres is a community-driven tech enthusiast with a practical background in building extraordinary UX for Mobile and Web Applications. He has a particular passion for OSS, A11y and community collaboration.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1GpXnhwlGa2uXewoMHElgE",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NDIzNjI2MzEtNTgzZi00MjJkLTk1MzQtMzE5NDhmZWY0YTFm?sa=X&ved=0CAUQkfYCahcKEwjwjszc-qb6AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/andres-pineda/id1589875016?i=1000580238907",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c2e5aa77-be69-4ffa-959f-a1c05309c43d/coffee-and-open-source-andres-pineda",
     "Socials": [
       {
         "Twitter": "https://twitter.com/ajpinedam"
