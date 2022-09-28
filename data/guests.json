@@ -1443,27 +1443,41 @@
   },
   "ricardo-sueiras": {
     "PartitionKey": "ricardo-sueiras",
-    "RowKey": 20220907,
+    "RowKey": 20220928,
     "DateTimeAsString": "09/28/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-09-28T11:00:00.000Z",
     "GuestName": "Ricardo Sueiras",
     "GuestHandle": "@094459",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source @ AWS",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "Z1xM968fbKg",
+    "GuestBio": "Ricardo is a principal developer advocate at Amazon Web Services; he works with builders, technology leaders and enterprise executives to help them transform their businesses.<br /><br />Prior to joining AWS Ricardo worked for one of the largest professional services firms.<br /><br />He has over twenty years of experience leading open source, emerging technology and innovation programmes. He has been working with cloud technologies since 2008.<br /><br />Ricardo is passionate about cloud, innovation and open source and is excited about how cloud accelerates and amplifies customers’ ability to innovate.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2wuavuSSEFEVAF8YD9IR0P",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/OTY5OGU4NzUtZWFmMS00NDA3LTk1MzgtOWQ1ZDViYTJmMDNh?sa=X&ved=0CAUQkfYCahcKEwjw-_mA1bj6AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/ricardo-sueiras/id1589875016?i=1000580960816",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/dec2bc7a-473f-4a3b-ac4e-701717bcf246/coffee-and-open-source-ricardo-sueiras",
     "Socials": [
       {
         "Twitter": "https://twitter.com/094459"
       },
       {
         "Blog": "https://blog.beachgeek.co.uk/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/ricardosueiras/"
+      },
+      {
+        "GitHub": "https://github.com/094459"
+      }
+    ],
+    "Links": [
+      {
+        "AWS open source news": "https://dev.to/aws/aws-open-source-news-and-updates-128-13lg"
+      },
+      {
+        "Build on AWS": "https://www.youtube.com/c/BuildOnAWS/videos"
       }
     ]
   },
