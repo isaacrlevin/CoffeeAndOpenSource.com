@@ -1592,5 +1592,62 @@
         "Hanselminutes": "https://www.hanselminutes.com/"
       }
     ]
+  },
+  "jason-lengstorf": {
+    "PartitionKey": "jason-lengstorf",
+    "RowKey": 20221117,
+    "DateTimeAsString": "11/17/2022, 4:00:00 PM",
+    "DateTimeUTC": "2022-11-17T16:00:00.000Z",
+    "GuestName": "Jason Lengstorf",
+    "GuestHandle": "@jlengstorf",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building a Better Developer Experience",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jlengstorf"
+      },
+      {
+        "Blog": "https://www.jason.af/"
+      }
+    ],
+    "Links": [
+      {
+        "Learn with Jason": "https://www.learnwithjason.dev/"
+      }
+    ]
+  },
+  "dylan-beattie": {
+    "PartitionKey": "dylan-beattie",
+    "RowKey": 20221213,
+    "DateTimeAsString": "12/13/2022, 11:00:00 PM",
+    "DateTimeUTC": "2022-12-13T11:00:00.000Z",
+    "GuestName": "Dylan Beattie",
+    "GuestHandle": "@dylanbeattie",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Rock stars and Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/dylanbeattie"
+      },
+      {
+        "Blog": "https://dylanbeattie.net/"
+      }
+    ]
   }
 }

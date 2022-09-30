@@ -66,4 +66,6 @@ guests_refs:
 - georgia-n
 - glenn-block
 - scott-hanselman
+- jason-lengstorf
+- dylan-beattie
 ---
