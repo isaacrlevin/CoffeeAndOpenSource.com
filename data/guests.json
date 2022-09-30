@@ -1627,7 +1627,7 @@
   "dylan-beattie": {
     "PartitionKey": "dylan-beattie",
     "RowKey": 20221213,
-    "DateTimeAsString": "12/13/2022, 11:00:00 PM",
+    "DateTimeAsString": "12/13/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-12-13T11:00:00.000Z",
     "GuestName": "Dylan Beattie",
     "GuestHandle": "@dylanbeattie",
