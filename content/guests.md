@@ -68,4 +68,6 @@ guests_refs:
 - scott-hanselman
 - jason-lengstorf
 - dylan-beattie
+- matt-stratton
+- liz-fong-jones
 ---

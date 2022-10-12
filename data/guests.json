@@ -1368,15 +1368,15 @@
     "GuestName": "Mark Eisenberg",
     "GuestHandle": "@CloudBizAndTech",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source and the Enterprise",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "Uszb76bDJFU",
+    "GuestBio": "Mark is a cloud solution architect at Microsoft focused on cloud native architectures and DevOps. He has seen a lot of tech come and go but the current crop has intrigued him like nothing that has come before. The windmill at which he chooses to tilt are the technology practices of traditional enterprises. He is oddly optimistic on the prospects for real change.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6mGY8AFCk1seKv4vImamdl",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Y2QzZjAzMDItZGE4ZC00ZDRiLTk2MGItMzZlZjFjMWVhYmI5?sa=X&ved=0CAUQkfYCahcKEwjg2JPg3Nv6AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/mark-eisenberg/id1589875016?i=1000582461522",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/2f25d1ae-ae6f-47c1-8cc6-1504d39ae36d/coffee-and-open-source-mark-eisenberg",
     "Socials": [
       {
         "Twitter": "https://twitter.com/CloudBizAndTech"
@@ -1593,6 +1593,58 @@
       },
       {
         "Hanselminutes": "https://www.hanselminutes.com/"
+      }
+    ]
+  },
+  "matt-stratton": {
+    "PartitionKey": "matt-stratton",
+    "RowKey": 20221101,
+    "DateTimeAsString": "11/01/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-11-01T11:00:00.000Z",
+    "GuestName": "Matt Stratton",
+    "GuestHandle": "@mattstratton",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being all in with Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mattstratton"
+      },
+      {
+        "Polywork": "https://matty.wtf/"
+      }
+    ]
+  },
+  "liz-fong-jones": {
+    "PartitionKey": "liz-fong-jones",
+    "RowKey": 20221115,
+    "DateTimeAsString": "11/15/2022, 2:00:00 PM",
+    "DateTimeUTC": "2022-11-15T14:00:00.000Z",
+    "GuestName": "Liz Fong-Jones",
+    "GuestHandle": "@lizthegrey",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Telemetry and Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/lizthegrey"
+      },
+      {
+        "Blog": "https://www.lizthegrey.com/"
       }
     ]
   },
