@@ -1572,15 +1572,15 @@
     "GuestName": "Scott Hanselman",
     "GuestHandle": "@shanselman",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source in an Inclusive Way",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "AcXcjNSQWdA",
+    "GuestBio": "Scott has been a developer for 30 years and has been blogging at https://hanselman.com for 20 years! He works in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon. Scott has been podcasting for over 800 episodes of http://hanselminutes.com over 15 years and 700 episodes of http://www.azurefriday.com. He's written a number of technical books and spoken in person to over one million developers worldwide! He's also on TikTok, which was very likely a huge mistake.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7iz1YJwg5QHaJ27XnxpIcA",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YzA4NDg5MGUtZTY4Ni00OTU4LWIwMWItYjI5NmY0NWJhODk2?sa=X&ved=0CAUQkfYCahcKEwiwh8CWtO36AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/scott-hanselman/id1589875016?i=1000583234553",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/4678af1e-e68f-4e34-84e8-903be1581772/coffee-and-open-source-scott-hanselman",
     "Socials": [
       {
         "Twitter": "https://twitter.com/shanselman"
@@ -1590,7 +1590,9 @@
       },
       {
         "YouTube": "https://www.youtube.com/user/shanselman"
-      },
+      }
+    ],
+    "Links": [
       {
         "Hanselminutes": "https://www.hanselminutes.com/"
       }
