@@ -1598,29 +1598,37 @@
       }
     ]
   },
-  "matt-stratton": {
-    "PartitionKey": "matt-stratton",
+  "matty-stratton": {
+    "PartitionKey": "matty-stratton",
     "RowKey": 20221101,
     "DateTimeAsString": "11/01/2022, 11:00:00 AM",
     "DateTimeUTC": "2022-11-01T11:00:00.000Z",
-    "GuestName": "Matt Stratton",
+    "GuestName": "Matty Stratton",
     "GuestHandle": "@mattstratton",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being all in with Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "-ObvWefGHFY",
+    "GuestBio": "Matty Stratton is the Director of Developer Relations at Aiven, a well-known member of the DevOps community, founder and co-host of the popular Arrested DevOps podcast, and the global chair of the DevOpsDays set of conferences.<br /><br />Matty has over 20 years of experience in IT operations and is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from DEVOPS to KUBECTL.<br /><br />He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Diet Coke.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0PJ46j5UgXNUW5i8N3198G",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MzViNWU0NmMtZDVmMS00MTRjLWE1YTQtNjAxN2U3MjRjM2E0?sa=X&ved=0CAUQkfYCahcKEwiorYar7o37AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/matty-stratton/id1589875016?i=1000584699139",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/b45b61b4-35e6-4727-8896-c1e76f820676/coffee-and-open-source-matty-stratton",
     "Socials": [
       {
         "Twitter": "https://twitter.com/mattstratton"
       },
       {
         "Polywork": "https://matty.wtf/"
+      }
+    ],
+    "Links": [
+      {
+        "Arrested DevOps Podcast": "https://www.arresteddevops.com/"
+      },
+      {
+        "DevOpsDays": "https://devopsdays.org/"
       }
     ]
   },
