@@ -1658,6 +1658,38 @@
       }
     ]
   },
+  "kris-nova": {
+    "PartitionKey": "kris-nova",
+    "RowKey": 20221115,
+    "DateTimeAsString": "11/22/2022, 11:00:00 AM",
+    "DateTimeUTC": "2022-11-22T11:00:00.000Z",
+    "GuestName": "Kris Nóva",
+    "GuestHandle": "@krisnova",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Influence with Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/krisnova"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@nova"
+      },
+      {
+        "Blog": "https://nivenly.com/"
+      },
+      {
+        "GitHub":"https://github.com/krisnova"
+      }
+    ]
+  },
   "jason-lengstorf": {
     "PartitionKey": "jason-lengstorf",
     "RowKey": 20230104,

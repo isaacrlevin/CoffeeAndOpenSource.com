@@ -70,4 +70,5 @@ guests_refs:
 - dylan-beattie
 - matty-stratton
 - liz-fong-jones
+- kris-nova
 ---
