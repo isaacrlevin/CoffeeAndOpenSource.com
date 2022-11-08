@@ -1746,5 +1746,45 @@
         "Blog": "https://dylanbeattie.net/"
       }
     ]
+  },
+  "jenn-junod": {
+    "PartitionKey": "jenn-junod",
+    "RowKey": 20230110,
+    "DateTimeAsString": "01/10/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-01-10T11:00:00.000Z",
+    "GuestName": "Jenn Junod",
+    "GuestHandle": "@JennJunod",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being a Developcado",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/JennJunod"
+      },
+      {
+        "Blog": "https://teachjenntech.com/"
+      },
+      {
+        "GitHub": "https://github.com/jennjunod"
+      },
+      {
+        "Twitch": "https://www.twitch.tv/jennjunod"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UCOYqYy7ebj5j63TbdGB-Lcg"
+      }
+    ],
+    "Links": [
+      {
+        "Sh!t You Don't Want to Talk About Podcast": "https://www.shit2talkabout.com/"
+      }
+    ]
   }
 }
