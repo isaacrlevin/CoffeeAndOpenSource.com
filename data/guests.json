@@ -1640,21 +1640,32 @@
     "GuestName": "Liz Fong-Jones",
     "GuestHandle": "@lizthegrey",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Telemetry and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "7YzQHjg9tgg",
+    "GuestBio": "Liz is a developer advocate, labor and ethics organizer, and Site Reliability Engineer (SRE) with 18+ years of experience. She is currently the Field CTO at Honeycomb, and previously was an SRE working on products ranging from the Google Cloud Load Balancer to Google Flights.<br /><br />She lives in Vancouver, BC with her wife Elly, partners, and a Samoyed/Golden Retriever mix, and in Sydney, NSW. She plays classical piano, leads an EVE Online alliance, and advocates for transgender rights.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0W7evj7PP497lB8i2zv6k0",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NzQ2NDc0Y2YtMDkxZi00YmYwLWEzZWQtNGY5MDE1N2RhYjFi?sa=X&ved=0CAUQkfYCahcKEwjY77PXurH7AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/liz-fong-jones/id1589875016?i=1000586341327",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/7ae0439e-2960-4be9-8161-b7c1c47e964c/coffee-and-open-source-liz-fong-jones",
     "Socials": [
       {
         "Twitter": "https://twitter.com/lizthegrey"
       },
       {
         "Blog": "https://www.lizthegrey.com/"
+      },
+      {
+        "Cohost": "https://cohost.org/lizthegrey"
+      }
+    ],
+    "Links": [
+      {
+        "Honeycomb's O'Reilly Book Observability Engineering": "https://info.honeycomb.io/observability-engineering-oreilly-book-2022"
+      },
+      {
+        "OpenTelemetry": "https://opentelemetry.io/"
       }
     ]
   },
