@@ -1731,9 +1731,9 @@
   },
   "dylan-beattie": {
     "PartitionKey": "dylan-beattie",
-    "RowKey": 20221213,
-    "DateTimeAsString": "12/13/2022, 11:00:00 AM",
-    "DateTimeUTC": "2022-12-13T11:00:00.000Z",
+    "RowKey": 20230214,
+    "DateTimeAsString": "02/14/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-02-14T11:00:00.000Z",
     "GuestName": "Dylan Beattie",
     "GuestHandle": "https://twitter.com/dylanbeattie",
     "GuestLink": "",
