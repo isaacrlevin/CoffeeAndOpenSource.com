@@ -1694,7 +1694,7 @@
         "Blog": "https://nivenly.com/"
       },
       {
-        "GitHub":"https://github.com/krisnova"
+        "GitHub": "https://github.com/krisnova"
       }
     ]
   },
@@ -1770,7 +1770,7 @@
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/2RdS66FUI6taXjsyq3cFy8",
     "GPLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/jenn-junod/id1589875016?i=1000593603477",
     "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/e2846639-6f55-4020-b46b-fa1e16412cfa/coffee-and-open-source-jenn-junod",
     "Socials": [
       {
@@ -1821,6 +1821,32 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/heathermdowning/"
+      }
+    ]
+  },
+  "diana-pham": {
+    "PartitionKey": "diana-pham",
+    "RowKey": 20230321,
+    "DateTimeAsString": "03/21/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-03-21T11:00:00.000Z",
+    "GuestName": "Diana Pham",
+    "GuestHandle": "https://twitter.com/dianasoyster",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source and Developer Advocacy",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/dianasoyster"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/hidianapham/"
       }
     ]
   }
