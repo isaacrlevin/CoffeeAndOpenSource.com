@@ -72,4 +72,6 @@ guests_refs:
 - liz-fong-jones
 - kris-nova
 - jenn-junod
+- heather-downing
+- diana-pham
 ---
