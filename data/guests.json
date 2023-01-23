@@ -1849,5 +1849,31 @@
         "LinkedIn": "https://www.linkedin.com/in/hidianapham/"
       }
     ]
+  },
+  "dejan-miličić": {
+    "PartitionKey": "dejan-miličić",
+    "RowKey": 20230307,
+    "DateTimeAsString": "03/07/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-03-07T11:00:00.000Z",
+    "GuestName": "Dejan Miličić",
+    "GuestHandle": "https://twitter.com/dejanmilicic",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Databases",
+    "YouTubeVideoId": "",
+    "GuestBio": "Dejan Miličić is an enthusiastic consultant and developer advocate at RavenDB with more than 20 years of experience as a professional software developer in designing, writing, and maintaining applications. Dejan is passionate about Open Source, RavenDB, Software Architecture, and Software Professionalism, supporting the Software Crafting Serbia community via workshops and meetups. He is an active proponent of knowledge sharing, professional ethics, and the usage of Type Driven Development and Functional techniques to reduce complexity, increase expressiveness, and improve the correctness of software.<br /><br />In his spare time, Dejan works on open-source projects, mentors startups in various development phases, and participates in Startup Accelerator programs supporting entrepreneurs through on-site and off-site consultations.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/dejanmilicic"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/dejanmilicic/"
+      }
+    ]
   }
 }
