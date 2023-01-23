@@ -1875,5 +1875,45 @@
         "LinkedIn": "https://www.linkedin.com/in/dejanmilicic/"
       }
     ]
+  },
+  "bekah-hawrot-weigel": {
+    "PartitionKey": "bekah-hawrot-weigel",
+    "RowKey": 20230328,
+    "DateTimeAsString": "03/28/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-03-28T11:00:00.000Z",
+    "GuestName": "Bekah Hawrot Weigel",
+    "GuestHandle": "https://twitter.com/BekahHW",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Virtual Coffee",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/BekahHW"
+      },
+      {
+        "Blog": "https://bekahhw.github.io/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/bekah-hawrot-weigel"
+      },
+      {
+        "GitHub": "https://github.com/BekahHW"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@bekahhw"
+      }
+    ],
+    "Links": [
+      {
+        "Virtual Coffee": "https://virtualcoffee.io/"
+      }
+    ]
   }
 }
