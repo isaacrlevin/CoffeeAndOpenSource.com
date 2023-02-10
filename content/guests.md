@@ -77,4 +77,5 @@ guests_refs:
 - dejan-miličić
 - bekah-hawrot-weigel
 - nikil-nandagopal
+- chris-klug
 ---
