@@ -1671,9 +1671,9 @@
   },
   "kris-nova": {
     "PartitionKey": "kris-nova",
-    "RowKey": 20221115,
-    "DateTimeAsString": "02/21/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-02-21T11:00:00.000Z",
+    "RowKey": 20230228,
+    "DateTimeAsString": "02/28/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-02-28T11:00:00.000Z",
     "GuestName": "Kris Nóva",
     "GuestHandle": "https://hachyderm.io/@nova",
     "GuestLink": "",
@@ -1797,9 +1797,9 @@
   },
   "heather-downing": {
     "PartitionKey": "heather-downing",
-    "RowKey": 20230228,
-    "DateTimeAsString": "02/28/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-02-28T11:00:00.000Z",
+    "RowKey": 20230221,
+    "DateTimeAsString": "02/21/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-02-21T11:00:00.000Z",
     "GuestName": "Heather Downing",
     "GuestHandle": "https://twitter.com/quorralyne",
     "GuestLink": "",
@@ -1953,6 +1953,35 @@
       },
       {
         "appsmith_ YouTube": "https://www.youtube.com/c/Appsmith"
+      }
+    ]
+  },
+  "chris-klug": {
+    "PartitionKey": "chris-klug",
+    "RowKey": 20230411,
+    "DateTimeAsString": "04/11/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-04-11T11:00:00.000Z",
+    "GuestName": "Chris Klug",
+    "GuestHandle": "https://twitter.com/ZeroKoll",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Maintaining Mental Health in Tech",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ZeroKoll"
+      },
+      {
+        "Blog": "https://www.fearofoblivion.com/"
+      },
+      {
+        "GitHub": "https://github.com/chrisklug"
       }
     ]
   }
