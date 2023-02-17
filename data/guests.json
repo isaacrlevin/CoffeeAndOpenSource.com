@@ -1984,5 +1984,39 @@
         "GitHub": "https://github.com/chrisklug"
       }
     ]
+  },
+  "carl-tashian": {
+    "PartitionKey": "carl-tashian",
+    "RowKey": 20230418,
+    "DateTimeAsString": "04/18/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-04-18T11:00:00.000Z",
+    "GuestName": "Carl Tashian",
+    "GuestHandle": "https://tech.lgbt/@tashian",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "The Power of Side Projects",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Mastodon": "https://tech.lgbt/@tashian"
+      },
+      {
+        "Blog": "https://tashian.com/"
+      },
+      {
+        "GitHub": "https://github.com/tashian"
+      }
+    ],
+    "Links": [
+      {
+        "Smallstep": "https://smallstep.com/"
+      }
+    ]
   }
 }
