@@ -78,4 +78,6 @@ guests_refs:
 - bekah-hawrot-weigel
 - nikil-nandagopal
 - chris-klug
+- carl-tashian
+- chris-odell
 ---

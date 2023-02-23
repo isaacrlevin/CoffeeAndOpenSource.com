@@ -2018,5 +2018,31 @@
         "Smallstep": "https://smallstep.com/"
       }
     ]
+  },
+  "chris-odell": {
+    "PartitionKey": "chris-odell",
+    "RowKey": 202300509,
+    "DateTimeAsString": "05/09/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-05-09T11:00:00.000Z",
+    "GuestName": "Chris O'Dell",
+    "GuestHandle": "https://twitter.com/ChrisAnnODell",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Growing the Developer Experience",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ChrisAnnODell"
+      },
+      {
+        "Speaker Deck": "https://speakerdeck.com/chrisann"
+      }
+    ]
   }
 }
