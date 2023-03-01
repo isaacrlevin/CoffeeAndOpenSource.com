@@ -1677,21 +1677,21 @@
     "GuestName": "Kris Nóva",
     "GuestHandle": "https://hachyderm.io/@nova",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Influence with Open Source",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "P7lKx9BlIDU",
     "GuestBio": "Kris Nóva is an author, engineer, public speaker and transgender activist best known for her work on Aurae, Linux, and Kubernetes.<br /><br />She specializes in Linux kernel security, distributed systems, infrastructure management, and open source software engineering. In 2022 she authored Hacking Capitalism an independently published book about modeling the tech industry as a system. In 2017 she co-authored Cloud Native Infrastructure published by O’Reilly Media with Justin Garrison.<br /><br />Nóva is well known for her open source work. She has created many successful open source projects and has contributed to projects like Linux, Kubernetes, Rust, Go, etc. A popular public speaker, she is best known for her Kubernetes clusterfuck talks.<br /><br />Today she works as a principal engineer at GitHub focusing on infrastructure platform engineering.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5jPZ3aJLoPSqKpucsyGZwk",
     "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/kris-n%C3%B3va/id1589875016?i=1000602193366",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/5db276af-c49f-48cc-beaf-b5cb146de33a/coffee-and-open-source-kris-n%C3%B3va",
     "Socials": [
       {
         "Mastodon": "https://hachyderm.io/@nova"
       },
       {
-        "Blog": "https://nivenly.com/"
+        "Nivenly": "https://nivenly.org/"
       },
       {
         "GitHub": "https://github.com/krisnova"
