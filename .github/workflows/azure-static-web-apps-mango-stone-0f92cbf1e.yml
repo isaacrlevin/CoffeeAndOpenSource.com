@@ -21,15 +21,18 @@ jobs:
         run: |
           commit="${{ github.event.commits[0].message }}"
           function=$(awk 'BEGIN{FS=OFS="|"} {print $1}' <<< ${commit})
-          handle=$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
-          link=$(awk 'BEGIN{FS=OFS="|"} {print $3}' <<< ${commit})
+          link=$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
+          twitter=$(awk 'BEGIN{FS=OFS="|"} {print $3}' <<< ${commit})
+          mastodon=$(awk 'BEGIN{FS=OFS="|"} {print $4}' <<< ${commit})
           echo "FUNCTION=$function" >> $GITHUB_ENV
-          echo "HANDLE=$handle" >> $GITHUB_ENV
+          echo "TWITTER=$twitter" >> $GITHUB_ENV
+          echo "MASTODON=$mastodon" >> $GITHUB_ENV
           echo "LINK=$link" >> $GITHUB_ENV
-        
+
       - name: Show Commit Info
         run: |
-          echo "Handle: ${{ env.HANDLE}}"
+          echo "Twitter: ${{ env.twitter}}"
+          echo "Mastodon: ${{ env.twitter}}"
           echo "Link: ${{ env.LINK}}"
 
       - uses: actions/checkout@v2
@@ -56,16 +59,27 @@ jobs:
           # api_location: "api" # Api source code path - optional
           app_artifact_location: "public" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
-          
+
       - uses: ethomson/send-tweet-action@v1
         name: Send Tweet
-        if: env.FUNCTION == 'PUBLISH'      
+        if: env.FUNCTION == 'PUBLISH' && env.TWITTER != ''
         with:
-          status: "Had a great time chatting with ${{ env.HANDLE }} on @CoffeeAndOSS today about all kinds of #tech topics. Video is live on @youtube and podcast is available wherever you find them. Take a look/listen and thanks! ${{ env.LINK }}"
+          status: "Had a great time chatting with ${{ env.TWITTER }} on @CoffeeAndOSS today about all kinds of #tech topics. Video is live on @youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/${{ env.LINK }}.html"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
           access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+
+      - name: Send toot to Mastodon
+        id: mastodon
+        if: env.FUNCTION == 'PUBLISH' && env.MASTODON != ''
+        uses: cbrgm/mastodon-github-action@v1
+        with:
+          message: "Had a great time chatting with ${{ env.MASTODON }} on @CoffeeAndOSS@mastodon.social today about all kinds of #tech topics. Video is live on youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/${{ env.LINK }}.html"
+          visibility: "public" # default: public
+        env:
+          MASTODON_URL: "https://fosstodon.org/" # https://example.social
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
