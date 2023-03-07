@@ -64,7 +64,7 @@ jobs:
         name: Send Tweet
         if: env.FUNCTION == 'PUBLISH' && env.TWITTER != ''
         with:
-          status: "Had a great time chatting with ${{ env.TWITTER }} on @CoffeeAndOSS today about all kinds of #tech topics. Video is live on @youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/${{ env.LINK }}.html"
+          status: "Had a great time chatting with ${{ env.TWITTER }} on @CoffeeAndOSS today about all kinds of #tech topics. Video is live on @youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/guest/${{ env.LINK }}.html"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
           access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
@@ -75,7 +75,7 @@ jobs:
         if: env.FUNCTION == 'PUBLISH' && env.MASTODON != ''
         uses: cbrgm/mastodon-github-action@v1
         with:
-          message: "Had a great time chatting with ${{ env.MASTODON }} on @CoffeeAndOSS@mastodon.social today about all kinds of #tech topics. Video is live on youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/${{ env.LINK }}.html"
+          message: "Had a great time chatting with ${{ env.MASTODON }} on @CoffeeAndOSS@mastodon.social today about all kinds of #tech topics. Video is live on youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/guest/${{ env.LINK }}.html"
           visibility: "public" # default: public
         env:
           MASTODON_URL: "https://fosstodon.org/" # https://example.social
