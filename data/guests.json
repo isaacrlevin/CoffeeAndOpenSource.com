@@ -1832,21 +1832,27 @@
     "GuestName": "Diana Pham",
     "GuestHandle": "https://twitter.com/dianasoyster",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source and Developer Advocacy",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "YouTubeVideoId": "VaeEMH3xw4w",
+    "GuestBio": "Diana Pham is a Developer Advocate at Vonage, where she helps developers and companies see the potential in communication APIs. She holds a MS in Computer Science degree from Northeastern University, and regularly talks about communications APIs, DevRel and oysters.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2xCCskTc5WXWULO5ggRzq3",
     "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/coffee-and-open-source/id1589875016",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/24d7f1f4-ce43-4c11-8e34-702aa641f09b/coffee-and-open-source-diana-pham",
     "Socials": [
       {
         "Twitter": "https://twitter.com/dianasoyster"
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/hidianapham/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@DevDiana"
+      },
+      {
+        "Instagram": "https://www.instagram.com/cacheflights_/"
       }
     ]
   },
@@ -1864,7 +1870,7 @@
     "GuestBio": "Dejan Miličić is an enthusiastic consultant and developer advocate at RavenDB with more than 20 years of experience as a professional software developer in designing, writing, and maintaining applications. Dejan is passionate about Open Source, RavenDB, Software Architecture, and Software Professionalism, supporting the Software Crafting Serbia community via workshops and meetups. He is an active proponent of knowledge sharing, professional ethics, and the usage of Type Driven Development and Functional techniques to reduce complexity, increase expressiveness, and improve the correctness of software.<br /><br />In his spare time, Dejan works on open-source projects, mentors startups in various development phases, and participates in Startup Accelerator programs supporting entrepreneurs through on-site and off-site consultations.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/5huwBlF2mLPl9A50JkSAy6",
-    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/N2M3NDBlMjgtYmI1Yy00YzQzLTk2MjEtYzA1ZjYzY2Q5ZDlm?sa=X&ved=0CAUQkfYCahcKEwiguP6D98_9AhUAAAAAHQAAAAAQAQ",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/N2M3NDBlMjgtYmI1Yy00YzQzLTk2MjEtYzA1ZjYzY2Q5ZDlm?sa=X&ved=0CAUQkfYCahcKEwjI-ZPx4e39AhUAAAAAHQAAAAAQAQ",
     "APLink": "https://podcasts.apple.com/us/podcast/dejan-mili%C4%8Di%C4%87/id1589875016?i=1000603194195",
     "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/bec2f2ca-2c57-4f3c-9a34-5bbd8c96b33b/coffee-and-open-source-dejan-mili%C4%8Di%C4%87",
     "Socials": [
