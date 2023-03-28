@@ -1838,7 +1838,7 @@
     "GuestBio": "Diana Pham is a Developer Advocate at Vonage, where she helps developers and companies see the potential in communication APIs. She holds a MS in Computer Science degree from Northeastern University, and regularly talks about communications APIs, DevRel and oysters.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/2xCCskTc5WXWULO5ggRzq3",
-    "GPLink": "",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NGUwNzZmOGUtZDEyMC00ZDQyLTlmZDEtMWY1ZTY5NjFkOTBl?sa=X&ved=0CAcQkfYCahgKEwi4oqry4P_9AhUAAAAAHQAAAAAQiAE",
     "APLink": "https://podcasts.apple.com/us/podcast/coffee-and-open-source/id1589875016",
     "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/24d7f1f4-ce43-4c11-8e34-702aa641f09b/coffee-and-open-source-diana-pham",
     "Socials": [
@@ -1890,20 +1890,20 @@
   "bekah-hawrot-weigel": {
     "PartitionKey": "bekah-hawrot-weigel",
     "RowKey": 20230328,
-    "DateTimeAsString": "03/28/2023, 11:00:00 AM",
+    "DateTimeAsString": "03/28/2023, 10:00:00 AM",
     "DateTimeUTC": "2023-03-28T11:00:00.000Z",
     "GuestName": "Bekah Hawrot Weigel",
     "GuestHandle": "https://twitter.com/BekahHW",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Virtual Coffee",
-    "YouTubeVideoId": "",
-    "GuestBio": "Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then has spent time as a frontend developer, started the Virtual Coffee developer community, and has continued to mom her four kids. She currently co-hosts the Virtual Coffee podcast, tries to work on her postpartum wellness OSS project, and lifts heavy things in her free time. In 2022, she officially joined the DevRel world as the Technical Community Building for Deepgram.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "hSI5KUZbrec",
+    "GuestBio": "Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then has spent time as a frontend developer, started the Virtual Coffee developer community, spent time in DevRel and has continued to mom her four kids. She currently co-hosts the Virtual Coffee podcast, tries to work on her postpartum wellness OSS project, and lifts heavy things in her free time.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2KREVFCrpUlC3ueD80kcL9",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YjQ0NTU1MWQtYzJmZC00NWQxLTg5ODUtNmExZTgxNWFkM2Rj?sa=X&ved=0CAUQkfYCahcKEwi4oqry4P_9AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/bekah-hawrot-weigel/id1589875016?i=1000606363796",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/6df2b6d4-4a67-4d99-96ed-7967541f6c56/coffee-and-open-source-bekah-hawrot-weigel",
     "Socials": [
       {
         "Twitter": "https://twitter.com/BekahHW"
@@ -2053,6 +2053,75 @@
       },
       {
         "Speaker Deck": "https://speakerdeck.com/chrisann"
+      }
+    ]
+  },
+  "vlad-alonescu": {
+    "PartitionKey": "vlad-alonescu",
+    "RowKey": 202300530,
+    "DateTimeAsString": "05/30/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-05-30T11:00:00.000Z",
+    "GuestName": "Chris O'Dell",
+    "GuestHandle": "https://twitter.com/VladAIonescu",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building a Company on Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/VladAIonescu"
+      },
+      {
+        "Blog": "https://vladaionescu.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Earthly": "https://earthly.dev/"
+      }
+    ]
+  },
+  "lizzie-siegle": {
+    "PartitionKey": "lizzie-siegle",
+    "RowKey": 202300530,
+    "DateTimeAsString": "05/30/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-05-30T11:00:00.000Z",
+    "GuestName": "Lizzie Siegle",
+    "GuestHandle": "https://twitter.com/lizziepika",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Having fun in DevRel",
+    "YouTubeVideoId": "",
+    "GuestBio": "Lizzie serves developers in the Bay Area and beyond on Twilio's developer evangelism team and holds a Bachelor's degree in Computer Science from Bryn Mawr. She likes Swift, JavaScript, and working with AI, but has been seen writing Python and Haskell as well. When not organizing or attending hackathons and meetups, she enjoys tennis, ping pong, and all things Disney.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/lizziepika"
+      },
+      {
+        "Website": "https://www.lizziesiegle.xyz/"
+      },
+      {
+        "Newsletter": "https://lizziepika.substack.com/"
+      },
+      {
+        "GitHub": "https://github.com/elizabethsiegle"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/elsiegle/"
+      },
+      {
+        "Twitch": "https://www.twitch.tv/lizziepikachu"
       }
     ]
   }
