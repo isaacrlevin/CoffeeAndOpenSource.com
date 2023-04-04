@@ -1935,15 +1935,15 @@
     "GuestName": "Nikil Nandagopal",
     "GuestHandle": "https://twitter.com/NikilNandagopal",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Low Code with appsmith_",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "fb0q_NWj4sY",
     "GuestBio": "Throughout his career, Nikhil Nandagopal has always looked for a better way to do things: he’s built out a logistics operation for the largest e-commerce company in India (a direct competitor to Amazon), helped build up a travel company with over 5 million users, and even worked to scale a food delivery service from 50 meal deliveries a day to over 50,000.<br /><br />Now, his focus is on internal tools. From developer to product manager to entrepreneur (twice!), Nikhil's experience lends itself to both sides of the internal tool development conversation. Engineers need helpful internal software, but hate actually sitting down and making it for themselves. And businesses must use tools if they want to scale properly.<br /><br />Nikhil wanted to find a way to turn the arduous work of app-making into a streamlined process that would only cost engineers hours instead of months. So he teamed up with Arpit Mohan and Abhishek Nayak to create Appsmith, a program built to put easily customizable tools directly into developers’ hands. What started as a small open-source project has become a program that is used daily by over 10,000 teams, employs people in eight different countries, and has raised over $50 Million in capital. With a project built by engineers, for engineers, Nikhil is helping companies work better and dream bigger.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1ED2LRX7Pndog9ag6k7rAI",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/M2QzYjlhZDYtNzkzNS00Mjk0LTgyNGEtMzNkMTI4MzYxYWQ0?sa=X&ved=0CAUQkfYCahcKEwioqLSW_5D-AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/nikil-nandagopal/id1589875016?i=1000607413946",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/9509c2d0-3005-47a8-a4cf-1c139c06e667/coffee-and-open-source-nikil-nandagopal",
     "Socials": [
       {
         "Twitter": "https://twitter.com/NikilNandagopal"
