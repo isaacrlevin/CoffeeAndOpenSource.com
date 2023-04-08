@@ -2089,9 +2089,9 @@
   },
   "lizzie-siegle": {
     "PartitionKey": "lizzie-siegle",
-    "RowKey": 20230607,
-    "DateTimeAsString": "06/07/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-06-07T11:00:00.000Z",
+    "RowKey": 20230606,
+    "DateTimeAsString": "06/06/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-06-06T11:00:00.000Z",
     "GuestName": "Lizzie Siegle",
     "GuestHandle": "https://twitter.com/lizziepika",
     "GuestLink": "",
