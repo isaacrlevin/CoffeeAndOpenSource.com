@@ -1797,9 +1797,9 @@
   },
   "heather-downing": {
     "PartitionKey": "heather-downing",
-    "RowKey": 20230502,
-    "DateTimeAsString": "05/02/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-05-02T11:00:00.000Z",
+    "RowKey": 20230620,
+    "DateTimeAsString": "06/20/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-06-20T11:00:00.000Z",
     "GuestName": "Heather Downing",
     "GuestHandle": "https://twitter.com/quorralyne",
     "GuestLink": "",
@@ -2122,6 +2122,41 @@
       },
       {
         "Twitch": "https://www.twitch.tv/lizziepikachu"
+      }
+    ]
+  },
+  "bryan-hogan": {
+    "PartitionKey": "bryan-hogan",
+    "RowKey": 20230516,
+    "DateTimeAsString": "05/16/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-05-16T11:00:00.000Z",
+    "GuestName": "Bryan Hogan",
+    "GuestHandle": "https://twitter.com/bryanjhogan",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Getting into Blogging",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/bryanjhogan"
+      },
+      {
+        "Blog": "https://nodogmablog.bryanhogan.net/"
+      },
+      {
+        "Podcast": "https://nodogmapodcast.bryanhogan.net/"
+      },
+      {
+        "GitHub": "https://github.com/bryanjhogan"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/bryanjhogan"
       }
     ]
   }
