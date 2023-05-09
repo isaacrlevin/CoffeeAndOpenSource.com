@@ -45,7 +45,7 @@
         You can also listen to the audio directly:
       </p>
       <audio controls="">
-        <source src="https://podcasts.coffeeandopensource.com/interviews/{{ replace .GuestName " " "-" }}.mp3">
+        <source src="https://podcasts.coffeeandopensource.com/interviews/{{ replace (replace .GuestName " " "-") "'" "" }}.mp3">
       </audio>
       <br /><br />
       {{ end }}
