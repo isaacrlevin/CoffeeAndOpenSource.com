@@ -2043,10 +2043,10 @@
     "YouTubeVideoId": "nstlWrerG-Y",
     "GuestBio": "Chris has spent over 15 years as a backend engineer, primarily working on distributed systems and cloud based services, including a large microservices platform. She has also led teams developing internal build and deployment tooling with the goal of improving the developer’s experience. Chris currently works at Stack Overflow helping to empower the world to develop technology through collective knowledge.<br /><br />Chris is also a conference speaker on the topics of Continuous Delivery and development practices. She is a contributor to the book Build Quality In and co-authored the book Continuous Delivery with Windows and .NET.",
     "HaveAudio": true,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "SpotifyLink": "https://open.spotify.com/episode/7eH9TrSMJ2ZCdU1jWcknCD",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MjZhMjg2NDQtY2Y2My00MTViLTgwY2MtMWUzYjFkN2M3NWNm?sa=X&ved=0CAUQkfYCahcKEwiIo_2orOn-AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/chris-odell/id1589875016?i=1000612386871",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/96f8b4e7-62e1-42ff-ac06-c537582c2e16/coffee-and-open-source-chris-o'dell",
     "Socials": [
       {
         "Twitter": "https://twitter.com/ChrisAnnODell"
