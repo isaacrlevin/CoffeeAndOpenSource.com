@@ -2159,5 +2159,43 @@
         "LinkedIn": "https://www.linkedin.com/in/bryanjhogan"
       }
     ]
+  },
+  "linda-haviv": {
+    "PartitionKey": "linda-haviv",
+    "RowKey": 2023006276,
+    "DateTimeAsString": "06/27/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-06-27T11:00:00.000Z",
+    "GuestName": "Linda Haviv",
+    "GuestHandle": "https://twitter.com/lindavivah",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "New Ways to Create Content",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/lindavivah"
+      },
+      {
+        "Website": "https://lindavivah.com/"
+      },
+      {
+        "Podcast": "https://nodogmapodcast.bryanhogan.net/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/LindaVivah"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/lindahaviv/"
+      },
+      {
+        "Blog": "https://medium.com/@LindaVivah"
+      }
+    ]
   }
 }
