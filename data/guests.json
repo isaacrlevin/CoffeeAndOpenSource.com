@@ -2032,7 +2032,7 @@
   },
   "chris-odell": {
     "PartitionKey": "chris-odell",
-    "RowKey": 202300509,
+    "RowKey": 20230509,
     "DateTimeAsString": "05/09/2023, 11:00:00 AM",
     "DateTimeUTC": "2023-05-09T11:00:00.000Z",
     "GuestName": "Chris O'Dell",
