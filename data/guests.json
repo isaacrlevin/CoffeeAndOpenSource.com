@@ -2133,15 +2133,15 @@
     "GuestName": "Bryan Hogan",
     "GuestHandle": "https://twitter.com/bryanjhogan",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Getting into Blogging",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "9nsw5ElyZGU",
+    "GuestBio": "Bryan Hogan has been working in the tech industry for 20 years, most of which has been spent in the C# .NET world. He hosts a podcast, interviewing people in the tech industry from around the world and writes a blog. Bryan lives in the Boston area where is he is involved in the tech community through local events and his podcast.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6MZoflMCKJ4qGoHJFbE3NP",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MmNiMmE5NDctZGVhNy00NzU4LThmMGEtYTYxOGE1MTcyMDIw?sa=X&ved=0CAUQkfYCahcKEwiQrZXz5fr-AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/bryan-hogan/id1589875016?i=1000613287209",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/4a253ded-a5be-4ba6-afce-ceabc77f6385/coffee-and-open-source-bryan-hogan",
     "Socials": [
       {
         "Twitter": "https://twitter.com/bryanjhogan"
@@ -2150,13 +2150,15 @@
         "Blog": "https://nodogmablog.bryanhogan.net/"
       },
       {
-        "Podcast": "https://nodogmapodcast.bryanhogan.net/"
-      },
-      {
         "GitHub": "https://github.com/bryanjhogan"
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/bryanjhogan"
+      }
+    ],
+    "Links": [
+      {
+        "No Dogma Podcast": "https://nodogmapodcast.bryanhogan.net/"
       }
     ]
   },
