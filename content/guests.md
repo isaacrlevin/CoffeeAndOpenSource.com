@@ -81,4 +81,7 @@ guests_refs:
 - carl-tashian
 - chris-odell
 - bryan-hogan
+- linda-haviv
+- lizzie-siegle
+- vlad-alonescu
 ---
