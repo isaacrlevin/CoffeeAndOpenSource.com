@@ -80,4 +80,5 @@ guests_refs:
 - chris-klug
 - carl-tashian
 - chris-odell
+- bryan-hogan
 ---
