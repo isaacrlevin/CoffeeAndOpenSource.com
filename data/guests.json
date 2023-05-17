@@ -2058,7 +2058,7 @@
   },
   "vlad-alonescu": {
     "PartitionKey": "vlad-alonescu",
-    "RowKey": 202300530,
+    "RowKey": 20230530,
     "DateTimeAsString": "05/30/2023, 11:00:00 AM",
     "DateTimeUTC": "2023-05-30T11:00:00.000Z",
     "GuestName": "Vlad Aloonescu",
@@ -2164,7 +2164,7 @@
   },
   "linda-haviv": {
     "PartitionKey": "linda-haviv",
-    "RowKey": 2023006276,
+    "RowKey": 20230627,
     "DateTimeAsString": "06/27/2023, 11:00:00 AM",
     "DateTimeUTC": "2023-06-27T11:00:00.000Z",
     "GuestName": "Linda Haviv",
@@ -2197,6 +2197,32 @@
       },
       {
         "Blog": "https://medium.com/@LindaVivah"
+      }
+    ]
+  },
+  "tim-banks": {
+    "PartitionKey": "tim-banks",
+    "RowKey": 20230711,
+    "DateTimeAsString": "07/11/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-07-11T11:00:00.000Z",
+    "GuestName": "Tim Banks",
+    "GuestHandle": "https://twitter.com/elchefe",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being a VibeOps Engineer",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/elchefe"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/timjb/"
       }
     ]
   }
