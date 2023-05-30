@@ -83,6 +83,6 @@ guests_refs:
 - bryan-hogan
 - linda-haviv
 - lizzie-siegle
-- vlad-alonescu
+- vlad-ionescu
 - tim-banks
 ---
