@@ -2095,15 +2095,15 @@
     "GuestName": "Lizzie Siegle",
     "GuestHandle": "https://twitter.com/lizziepika",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Having fun in DevRel",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "AXIIh7tuVEc",
     "GuestBio": "Lizzie serves developers in the Bay Area and beyond on Twilio's developer evangelism team and holds a Bachelor's degree in Computer Science from Bryn Mawr. She likes Swift, JavaScript, and working with AI, but has been seen writing Python and Haskell as well. When not organizing or attending hackathons and meetups, she enjoys tennis, ping pong, and all things Disney.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3XywilekpYendhS1hIj18Q",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Yjc4OTI5ZmQtZjdkZi00N2YxLTllYjctYzFmNTlkODE2MzEz?sa=X&ved=0CAUQkfYCahcKEwjYzPSKua__AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/lizzie-siegle/id1589875016?i=1000615915315",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c3da4269-79fc-4574-9621-73686024094b/coffee-and-open-source-lizzie-siegle",
     "Socials": [
       {
         "Twitter": "https://twitter.com/lizziepika"
