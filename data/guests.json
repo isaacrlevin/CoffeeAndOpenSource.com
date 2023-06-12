@@ -2256,5 +2256,36 @@
         "Alyssa's Book": "https://alyssa.link/book"
       }
     ]
+  },
+  "phil-haack": {
+    "PartitionKey": "phil-haack",
+    "RowKey": 20230808,
+    "DateTimeAsString": "08/08/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-08-08T11:00:00.000Z",
+    "GuestName": "Phil Haack",
+    "GuestHandle": "https://twitter.com/haacked",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Abbot and Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/haacked"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@haacked"
+      }
+    ],
+    "Links": [
+      {
+        "Abbot": "https://ab.bot/"
+      }
+    ]
   }
 }
