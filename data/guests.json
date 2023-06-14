@@ -1975,15 +1975,15 @@
     "GuestName": "Carl Tashian",
     "GuestHandle": "https://tech.lgbt/@tashian",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "The Power of Side Projects",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "8QMtWlcF84E",
+    "GuestBio": "Carl Tashian is an engineer, writer, exec coach, and startup all-rounder. He's currently an Offroad Engineer at Smallstep. He co-founded and built the engineering team at Trove, and he wrote the code that opens your Zipcar. He lives in San Francisco with his wife Siobhan and he loves to play the modular synthesizer.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6Dxg0jmcBaM03uUWo4FDFA",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YzQwNzYyY2ItODI2MS00YmUxLTgyZWEtNTYyNDNjZTk0Yjc3?sa=X&ved=0CAUQkfYCahcKEwjg_YnissH_AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/carl-tashian/id1589875016?i=1000616913196",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c1b622a3-c7db-40b0-a507-389dbcad2866/coffee-and-open-source-carl-tashian",
     "Socials": [
       {
         "Mastodon": "https://tech.lgbt/@tashian"
@@ -1993,6 +1993,9 @@
       },
       {
         "GitHub": "https://github.com/tashian"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/tashian/"
       }
     ],
     "Links": [
