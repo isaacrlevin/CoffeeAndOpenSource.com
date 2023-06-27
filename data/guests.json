@@ -2144,15 +2144,15 @@
     "GuestName": "Linda Haviv",
     "GuestHandle": "https://twitter.com/lindavivah",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "New Ways to Create Content",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "6ubgjbaLXYI",
+    "GuestBio": "Linda is a Developer Advocate at Amazon Web Services (AWS) based out of NYC. You can find her building in the cloud, sometimes 'Singing as a Service', and connecting with the tech community. She frequently share tips & 'Techtorials' about cloud computing and coding on TikTok & Instagram (@LindaVivah).",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/61JPhg74pTwbjJ89yd3opz",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NjMyYWJkMWMtMmZiNC00ZDEwLWFmMDUtMmYzOWQ1NTg1ZDhl?sa=X&ved=0CAUQkfYCahcKEwjYkqSDqeT_AhUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/linda-haviv/id1589875016?i=1000618538617",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/f49a738b-2e1a-4bab-8e6b-783f3801cae8/coffee-and-open-source-linda-haviv",
     "Socials": [
       {
         "Twitter": "https://twitter.com/lindavivah"
@@ -2168,6 +2168,9 @@
       },
       {
         "Blog": "https://medium.com/@LindaVivah"
+      },
+      {
+        "Instagram": "https://www.instagram.com/lindavivah/"
       }
     ]
   },
@@ -2175,7 +2178,7 @@
     "PartitionKey": "tim-banks",
     "RowKey": 20230711,
     "DateTimeAsString": "07/11/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-07-11T11:00:00.000Z",
+    "DateTimeUTC": "2023-07-11T18:00:00.000Z",
     "GuestName": "Tim Banks",
     "GuestHandle": "https://twitter.com/elchefe",
     "GuestLink": "",
@@ -2201,7 +2204,7 @@
     "PartitionKey": "alyssa-miller",
     "RowKey": 20230801,
     "DateTimeAsString": "08/01/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-08-01T11:00:00.000Z",
+    "DateTimeUTC": "2023-08-01T18:00:00.000Z",
     "GuestName": "Alyssa Miller",
     "GuestHandle": "https://twitter.com/AlyssaM_InfoSec",
     "GuestLink": "",
@@ -2232,7 +2235,7 @@
     "PartitionKey": "phil-haack",
     "RowKey": 20230808,
     "DateTimeAsString": "08/08/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-08-08T11:00:00.000Z",
+    "DateTimeUTC": "2023-08-08T18:00:00.000Z",
     "GuestName": "Phil Haack",
     "GuestHandle": "https://twitter.com/haacked",
     "GuestLink": "",
