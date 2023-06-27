@@ -2140,7 +2140,7 @@
     "PartitionKey": "linda-haviv",
     "RowKey": 20230627,
     "DateTimeAsString": "06/27/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-06-27T11:00:00.000Z",
+    "DateTimeUTC": "2023-06-27T18:00:00.000Z",
     "GuestName": "Linda Haviv",
     "GuestHandle": "https://twitter.com/lindavivah",
     "GuestLink": "",
@@ -2159,9 +2159,6 @@
       },
       {
         "Website": "https://lindavivah.com/"
-      },
-      {
-        "Podcast": "https://nodogmapodcast.bryanhogan.net/"
       },
       {
         "YouTube": "https://www.youtube.com/LindaVivah"
