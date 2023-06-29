@@ -98,7 +98,7 @@ jobs:
         id: linkedIn
         uses: fjogeleit/http-request-action@v1
         with:
-          url: "https://prod-94.eastus.logic.azure.com:443/workflows/f175f5c740a1443a8e4f5e99bb56844e/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=j2Gp6FpX-hATuPKEGD8tWBF9nUnvaIAckH5aGFihXmU"
+          url: ${{ secrets.LinkedInUrl }}
           method: POST
           contentType: "application/json"
           data: '{"url": "https://www.coffeeandopensource.com/guest/${{ env.LINK }}.html", "message": "Had a great time chatting with ${{ env.NAME }} on Coffee and OSS about all kinds of #tech topics. Video is live on YouTube and podcast is available wherever you find them. Take a look/listen and thanks!"}'
