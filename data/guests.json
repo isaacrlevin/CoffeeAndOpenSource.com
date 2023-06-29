@@ -2176,9 +2176,9 @@
   },
   "tim-banks": {
     "PartitionKey": "tim-banks",
-    "RowKey": 20230711,
-    "DateTimeAsString": "07/11/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-07-11T18:00:00.000Z",
+    "RowKey": 20230713,
+    "DateTimeAsString": "07/13/2023, 03:00:00 PM",
+    "DateTimeUTC": "2023-07-13T23:00:00.000Z",
     "GuestName": "Tim Banks",
     "GuestHandle": "https://twitter.com/elchefe",
     "GuestLink": "",
