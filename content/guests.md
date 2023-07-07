@@ -87,4 +87,5 @@ guests_refs:
 - alyssa-miller
 - phil-haack
 - ramiro-berrelleza
+- kris-moore
 ---

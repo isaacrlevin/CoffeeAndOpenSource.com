@@ -2273,7 +2273,7 @@
     "IsPublished": false,
     "Topic": "Unleash the Modern Development Experience",
     "YouTubeVideoId": "",
-    "GuestBio": "",
+    "GuestBio": "Ramiro Berrelleza is the CEO and Co-founder of Okteto, the leading platform for Development Experience Automation. With over 20 years of experience in engineering, Ramiro is a seasoned professional with a passion for building developer tooling.A visionary, Ramiro is always looking for ways to improve the software development process. He firmly believes that building modern applications is a team sport and understands the importance of removing friction from the development process. He is also a passionate advocate for building a more inclusive tech industry. With Ramiro at the helm, Okteto is well-positioned to continue to grow and shape the way companies architect development experience for their teams.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "GPLink": "",
@@ -2290,6 +2290,37 @@
     "Links": [
       {
         "Okteto": "https://www.okteto.com/"
+      }
+    ]
+  },
+  "kris-moore": {
+    "PartitionKey": "kris-moore",
+    "RowKey": 20230829,
+    "DateTimeAsString": "08/29/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-08-29T18:00:00.000Z",
+    "GuestName": "Kris Moore",
+    "GuestHandle": "https://twitter.com/kmooresays",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source in the World of Storage",
+    "YouTubeVideoId": "",
+    "GuestBio": "Kris Moore is the Vice President of Engineering for iXsystems. Kris is an experienced executive with a demonstrated history of working in the computer software industry and is closely involved in the TrueNAS Open Storage community. He holds strong information technology skills and expertise in Shell scripting, C++, operating systems, FreeBSD, and system administration. He started learning about open source in the 90’s where he was involved in developing web services using a very early version of FreeBSD. From that experience, he learned the basics of shell interface and how to check his e-mail without a GUI by using the “pine” command, which according to him, “was very uber-l33t” at the time. During his college years, Kris played around with other Unix and Linux platforms (caldera Linux, SuSE), however when he needed to do serious work, such as setting up a web or file server, he always fell back to his FreeBSD roots. To this day, he still prefers FreeBSD because it offers a greater degree of stability than other operating systems.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/kmooresays"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/kris-moore-24b9612/"
+      }
+    ],
+    "Links": [
+      {
+        "iXsystems": "https://www.ixsystems.com/"
       }
     ]
   }
