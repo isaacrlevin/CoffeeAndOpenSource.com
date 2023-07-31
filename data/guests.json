@@ -2323,5 +2323,36 @@
         "iXsystems": "https://www.ixsystems.com/"
       }
     ]
+  },
+  "josh-goldberg": {
+    "PartitionKey": "josh-goldberg",
+    "RowKey": 20230912,
+    "DateTimeAsString": "09/12/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-09-12T18:00:00.000Z",
+    "GuestName": "Josh Goldberg",
+    "GuestHandle": "https://twitter.com/JoshuaKGoldberg",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being a full-time Open Source Developer",
+    "YouTubeVideoId": "",
+    "GuestBio": "Josh Goldberg is an independent full time open source developer. He works on projects in the TypeScript ecosystem, most notably typescript-eslint: the tooling that enables ESLint and Prettier to run on TypeScript code. Josh is also the author of the O’Reilly Learning TypeScript book, a Microsoft MVP for developer technologies, and an active conference speaker. His personal projects range from static analysis to meta-languages to recreating retro games in the browser. Also cats.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/JoshuaKGoldberg"
+      },
+      {
+        "Blog": "https://www.joshuakgoldberg.com/blog/"
+      }
+    ],
+    "Links": [
+      {
+        "Josh's Book": "https://www.learningtypescript.com/"
+      }
+    ]
   }
 }

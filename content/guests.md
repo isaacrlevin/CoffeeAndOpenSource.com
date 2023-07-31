@@ -88,4 +88,5 @@ guests_refs:
 - phil-haack
 - ramiro-berrelleza
 - kris-moore
+- josh-goldberg
 ---
