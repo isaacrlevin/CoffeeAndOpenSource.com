@@ -2208,15 +2208,15 @@
     "GuestName": "Alyssa Miller",
     "GuestHandle": "https://twitter.com/AlyssaM_InfoSec",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Cybersecurity and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "_auQk58t6xI",
+    "GuestBio": "Alyssa Miller is a hacker who, in her pre-teens, bought her first computer and hacked her way into a paid dial-up community platform. She grew up in hacker culture, finding her hacker family in IRC channels during her adolescent years. While IT was not her original career plan, she ended up working as a developer and later a penetration tester in the financial services industry. As she moved into consulting, her focus on defending technology systems and personal privacy grew to the point where she was advising fortune 100 companies on how to build comprehensive security programs.<br /><br />Alyssa is now the CISO at New York based Epiq Global. Still very much a hacker to this day, she’s built on that identity to grow her career. She is an internationally recognized public speaker and author of “Cybersecurity Career Guide”. She’s an advocate for helping others make a career out of their passion for hacking and security in general. She’s also a proponent for the open sharing of ideas and perspectives on improving our technologically connected world.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1nbLIeyAQRkGITZD52wz67",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZDkyZDBiMDMtMzA4NC00NDllLTkyNjUtZDY0YTU0YmJmNTBk?sa=X&ved=0CAUQkfYCahcKEwjg4omYqLyAAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/alyssa-miller/id1589875016?i=1000623094582",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/26e4813f-c6be-4f40-85e4-73b231450e56/coffee-and-open-source-alyssa-miller",
     "Socials": [
       {
         "Twitter": "https://twitter.com/AlyssaM_InfoSec"
