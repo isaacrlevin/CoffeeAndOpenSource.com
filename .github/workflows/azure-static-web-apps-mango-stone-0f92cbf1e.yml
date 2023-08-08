@@ -40,13 +40,13 @@ jobs:
           echo "Link: ${{ env.LINK}}"
 
       - name: Check Twitter Handle
-        if: env.TWITTER != ''
+        if: env.TWITTER == ''
         run: |
           echo "TWITTER=${{ env.NAME }}" >> $GITHUB_ENV
           echo "Twitter is ${{ env.TWITTER }}"
 
       - name: Check Mastodon Handle
-        if: env.MASTODON != ''
+        if: env.MASTODON == ''
         run: |
           echo "MASTODON=${{ env.NAME }}" >> $GITHUB_ENV
           echo "Mastodon is ${{ env.MASTODON }}"
