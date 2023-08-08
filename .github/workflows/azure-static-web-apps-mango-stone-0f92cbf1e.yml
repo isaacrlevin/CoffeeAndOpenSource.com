@@ -72,7 +72,7 @@ jobs:
           app_location: "/" # App source code path
           app_artifact_location: "public" # Built app content directory - optional
 
-      - uses: ethomson/send-tweet-action@v1
+      - uses: smapiot/send-tweet-v2-action@v1
         name: Send Tweet
         if: env.FUNCTION == 'PUBLISH' && always()
         with:
