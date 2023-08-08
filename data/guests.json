@@ -2239,21 +2239,24 @@
     "GuestName": "Phil Haack",
     "GuestHandle": "https://twitter.com/haacked",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Abbot and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "B_XIZcHbkSg",
+    "GuestBio": "Phil Haack is a co-founder and CTO of A Serious Business, Inc. building serious products for serious people. Very serious. We are the creators of Abbot, a Copilot for Customer Success automation.<br /><br />Phil has over twenty years of experience in the software industry. Prior to A Serious Business, Inc., he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.<br /><br />Prior to GitHub, he was a Senior Program Manager at Microsoft responsible for shipping http://ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and ushered in Microsoft's Open Source era.<br /><br />Phil is a co-author of GitHub for Dummies as well as the popular Professional http://ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks, Hanselminutes, Herding Code, and The Official jQuery Podcast.<br /><br />You can find him sharing his thoughts at https://haacked.com or on Twitter https://twitter.com/haacked or Threads https://threads.net/@haacked.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2MKj3aQ6baFeoMm4eWZP64",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MzYxZWU1YWMtZGZiZi00MTY5LTk1MDItYTEyMzliMmMwOGNi?sa=X&ved=0CAUQkfYCahcKEwjo7uP09M2AAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/phil-haack/id1589875016?i=1000623848189",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/b136132a-4730-4bc3-820b-fd6fb4796f0d/coffee-and-open-source-phil-haack",
     "Socials": [
       {
         "Twitter": "https://twitter.com/haacked"
       },
       {
         "Mastodon": "https://hachyderm.io/@haacked"
+      },
+      {
+        "Threads": "https://www.threads.net/@haacked"
       }
     ],
     "Links": [
