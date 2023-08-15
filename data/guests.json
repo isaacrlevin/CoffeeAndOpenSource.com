@@ -2273,15 +2273,15 @@
     "GuestName": "Ramiro Berrelleza",
     "GuestHandle": "https://twitter.com/rberrelleza",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Unleash the Modern Development Experience",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "pqDLeUS8Uxk",
     "GuestBio": "Ramiro Berrelleza is the CEO and Co-founder of Okteto, the leading platform for Development Experience Automation. With over 20 years of experience in engineering, Ramiro is a seasoned professional with a passion for building developer tooling.A visionary, Ramiro is always looking for ways to improve the software development process. He firmly believes that building modern applications is a team sport and understands the importance of removing friction from the development process. He is also a passionate advocate for building a more inclusive tech industry. With Ramiro at the helm, Okteto is well-positioned to continue to grow and shape the way companies architect development experience for their teams.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0ICQtcHNqzrow58jTW4Mmd",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/Yjg0ZGI2MTYtY2JlNS00MzdjLTg3MTktNGRjODk0OGI5YTU1?sa=X&ved=0CAUQkfYCahcKEwiA0MCwud-AAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/ramiro-berrelleza/id1589875016?i=1000624564718",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/30e3d856-397c-45d7-bf93-82ebf6933b7a/coffee-and-open-source-ramiro-berrelleza",
     "Socials": [
       {
         "Twitter": "https://twitter.com/rberrelleza"
