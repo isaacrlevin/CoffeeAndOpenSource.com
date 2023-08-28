@@ -2360,9 +2360,9 @@
   },
   "corey-weathers": {
     "PartitionKey": "corey-weathers",
-    "RowKey": 20230926,
-    "DateTimeAsString": "09/26/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-09-26T18:00:00.000Z",
+    "RowKey": 20230927,
+    "DateTimeAsString": "09/27/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-09-27T18:00:00.000Z",
     "GuestName": "Corey Weathers",
     "GuestHandle": "https://twitter.com/coreylweathers",
     "GuestLink": "",
