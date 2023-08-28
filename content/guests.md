@@ -89,4 +89,5 @@ guests_refs:
 - ramiro-berrelleza
 - kris-moore
 - josh-goldberg
+- corey-weathers
 ---
