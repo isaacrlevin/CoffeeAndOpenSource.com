@@ -2304,15 +2304,15 @@
     "GuestName": "Kris Moore",
     "GuestHandle": "https://twitter.com/kmooresays",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source in the World of Storage",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "4vLiuPEHZkk",
     "GuestBio": "Kris Moore is the Vice President of Engineering for iXsystems. Kris is an experienced executive with a demonstrated history of working in the computer software industry and is closely involved in the TrueNAS Open Storage community. He holds strong information technology skills and expertise in Shell scripting, C++, operating systems, FreeBSD, and system administration. He started learning about open source in the 90’s where he was involved in developing web services using a very early version of FreeBSD. From that experience, he learned the basics of shell interface and how to check his e-mail without a GUI by using the “pine” command, which according to him, “was very uber-l33t” at the time. During his college years, Kris played around with other Unix and Linux platforms (caldera Linux, SuSE), however when he needed to do serious work, such as setting up a web or file server, he always fell back to his FreeBSD roots. To this day, he still prefers FreeBSD because it offers a greater degree of stability than other operating systems.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4gJnbJdCH2BCAJPzMsNfYG",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NTYzZGZjNjAtOTAzMS00Yjk4LTgxZDEtMmNkNDgyZDQwOTVh?sa=X&ved=0CAUQkfYCahcKEwjgwf2t54KBAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/kris-moore/id1589875016?i=1000626126692",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/300b6747-ea32-441d-9900-f7ed47cdf5ea/coffee-and-open-source-kris-moore",
     "Socials": [
       {
         "Twitter": "https://twitter.com/kmooresays"
@@ -2324,6 +2324,9 @@
     "Links": [
       {
         "iXsystems": "https://www.ixsystems.com/"
+      },
+      {
+        "TrueNAS": "https://www.truenas.com/"
       }
     ]
   },
