@@ -2182,15 +2182,15 @@
     "GuestName": "Tim Banks",
     "GuestHandle": "https://twitter.com/elchefe",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being a VibeOps Engineer",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "-BIO3t2AF-E",
     "GuestBio": "Tim's tech career spans over 25 years through various sectors. Tim's initial journey into tech started in avionics in the US Marine Corps and then into various government contracting roles. After moving to the private sector, Tim worked both in large corporate environments and in small startups, honing his skills in systems administration, automation, architecture, and operations for large cloud-based datastores.<br /><br />Today, Tim leverages his years in operations, DevOps, and Site Reliability Engineering to advise and consult with the open source and cloud computing communities in his current role. Tim is also a competitive Brazilian Jiu-Jitsu practitioner. He is the 2-time American National and is the 5-time Pan American Brazilian Jiu-Jitsu champion in his division.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4c0I7I30gVGGDQ8RJtLXmw",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MzkyZWUxMTctNTg0Ny00ZWY3LTg5NjEtNzkzMzk5MTI4Njlh?sa=X&ved=0CAUQkfYCahcKEwjAzKCh7KWBAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/tim-banks/id1589875016?i=1000627644908",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/106abd54-8e8b-47b9-b01e-41277b6699e4/coffee-and-open-source-tim-banks",
     "Socials": [
       {
         "Twitter": "https://twitter.com/elchefe"
