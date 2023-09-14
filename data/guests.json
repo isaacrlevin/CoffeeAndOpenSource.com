@@ -2386,5 +2386,40 @@
         "LinkedIn": "https://www.linkedin.com/in/coreylweathers"
       }
     ]
+  },
+  "sarah-guthals": {
+    "PartitionKey": "sarah-guthals",
+    "RowKey": 20231017,
+    "DateTimeAsString": "10/17/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-10-17T18:00:00.000Z",
+    "GuestName": "Sarah Guthals",
+    "GuestHandle": "https://twitter.com/drguthals",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Telemetry is Life",
+    "YouTubeVideoId": "",
+    "GuestBio": "Sarah Guthals is the Director of Developer Relations at Sentry. With a Ph.D. in Computer Science from UC San Diego, her passion is to design content, software, and companies that focus on engaging developers in learning new skills, technologies, and tools to improve their developer workflow.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/drguthals"
+      },
+      {
+        "Mastodon": "https://mstdn.social/@drguthals"
+      },
+      {
+        "Blog": "https://www.guthals.com/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UCgvODZ135iGUbhqE9bSjVSg"
+      },
+      {
+        "Polywork": "https://www.polywork.com/drguthals"
+      }
+    ]
   }
 }
