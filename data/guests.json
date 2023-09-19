@@ -2338,15 +2338,15 @@
     "GuestName": "Josh Goldberg",
     "GuestHandle": "https://twitter.com/JoshuaKGoldberg",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being a full-time Open Source Developer",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "TLmTjgJ-5NU",
     "GuestBio": "Josh Goldberg is an independent full time open source developer. He works on projects in the TypeScript ecosystem, most notably typescript-eslint: the tooling that enables ESLint and Prettier to run on TypeScript code. Josh is also the author of the O’Reilly Learning TypeScript book, a Microsoft MVP for developer technologies, and an active conference speaker. His personal projects range from static analysis to meta-languages to recreating retro games in the browser. Also cats.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4zMOXGAnIjDcDPAGrqs96T",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MWI1YzcxZWQtZDhlZS00NzExLWIxODctNDJmNjdkNjE3NmY4?sa=X&ved=0CAUQkfYCahcKEwjohNfk27eBAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/josh-goldberg/id1589875016?i=1000628489152",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/76957bad-cfed-4faf-a8a5-5f16700947e9/coffee-and-open-source-josh-goldberg",
     "Socials": [
       {
         "Twitter": "https://twitter.com/JoshuaKGoldberg"
