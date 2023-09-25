@@ -2421,5 +2421,34 @@
         "Polywork": "https://www.polywork.com/drguthals"
       }
     ]
+  },
+  "christina-morillo": {
+    "PartitionKey": "christina-morillo",
+    "RowKey": 20231023,
+    "DateTimeAsString": "10/23/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-10-23T18:00:00.000Z",
+    "GuestName": "christina Morillo",
+    "GuestHandle": "https://twitter.com/divinetechygirl",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Infosec Can be Fun",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/drguthals"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/christinamorillo"
+      },
+      {
+        "Links": "https://bio.site/christinamorillo"
+      }
+    ]
   }
 }
