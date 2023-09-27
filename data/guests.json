@@ -2369,21 +2369,29 @@
     "GuestName": "Corey Weathers",
     "GuestHandle": "https://twitter.com/coreylweathers",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Identity and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "LkN4M8ZDx6o",
+    "GuestBio": "Corey Weathers is a software developer who loves using technology to make the impossible possible! In his current role as a Developer Evangelist, Corey serves the interests and needs of the Microsoft developer community as well as underrepresented groups in technology. His passion lies in solving human problems through technology.<br /><br />Prior to Auth0, Corey has worked in a variety of software development and program management roles at Howard University, the Internal Revenue Service, and Microsoft before transitioning to application development consulting. His focus on building the customer focused solutions led him to lead performance engineering for Intapp, a Silicon Valley based software firm building software -based application for the legal and financial service industries. After spending time supporting customers, Corey pivoted his focus to empowering developers to build software applications, supporting them in building<br /><br />Corey holds a Bachelor of Science degree in Systems & Computer Science from Howard University, and a Master of Business Administration degree from the Haas School of Business at the University of California, Berkeley. He currently lives with his wife and two children in State College, Pennsylvania",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4ncpwQPsb3LnaoqMvAcPBE",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YmQ2NjhkOTAtODM5OS00NmI4LTgxZjUtMDkxNGM2OTc5YjA1?sa=X&ved=0CAUQkfYCahcKEwj4q_GszMuBAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/corey-weathers/id1589875016?i=1000629429900",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/06eabe54-bc4b-4314-aa63-798d24d9edbf/coffee-and-open-source-corey-weathers",
     "Socials": [
       {
         "Twitter": "https://twitter.com/coreylweathers"
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/coreylweathers"
+      }
+    ],
+    "Links": [
+      {
+        "Okta Online": "https://www.okta.com/oktane/online/"
+      },
+      {
+        "Oktane Conference": "https://www.okta.com/oktane/"
       }
     ]
   },
@@ -2427,7 +2435,7 @@
     "RowKey": 20231024,
     "DateTimeAsString": "10/24/2023, 11:00:00 AM",
     "DateTimeUTC": "2023-10-24T18:00:00.000Z",
-    "GuestName": "christina Morillo",
+    "GuestName": "Christina Morillo",
     "GuestHandle": "https://twitter.com/divinetechygirl",
     "GuestLink": "",
     "IsPublished": false,
