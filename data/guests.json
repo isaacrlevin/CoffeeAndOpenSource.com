@@ -2489,5 +2489,33 @@
         "Experts Live Europe": "https://www.expertslive.eu/"
       }
     ]
+  },
+  "carl-franklin": {
+    "PartitionKey": "carl-franklin",
+    "RowKey": 20231031,
+    "DateTimeAsString": "10/31/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-10-31T18:00:00.000Z",
+    "GuestName": "Carl Franklin",
+    "GuestHandle": "@carlfranklin@techhub.social",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source .NET with Blazor",
+    "YouTubeVideoId": "",
+    "GuestBio": "Carl Franklin is Executive Vice President of App vNext, a software development firm focused on modern methodologies and technologies. Carl is a 20+ year veteran of the software industry, co-host and founder of .NET Rocks!, the first and most widely listened to podcast for .NET developers, a Microsoft MVP for Developer Technologies, and Senior Executive of Pwop Studios, a full-service audio and video production/post-production studio located in Southeastern Connecticut.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Mastodon": "@carlfranklin@techhub.social"
+      }
+    ],
+    "Links": [
+      {
+        ".NET Rocks": "https://www.dotnetrocks.com/"
+      }
+    ]
   }
 }

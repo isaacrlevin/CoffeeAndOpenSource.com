@@ -92,4 +92,6 @@ guests_refs:
 - corey-weathers
 - sarah-guthals
 - christina-morillo
+- isidora-maurer
+- carl-franklin
 ---
