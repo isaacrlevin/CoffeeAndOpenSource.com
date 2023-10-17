@@ -2403,15 +2403,15 @@
     "GuestName": "Sarah Guthals",
     "GuestHandle": "https://twitter.com/drguthals",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Telemetry is Life",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "8cf_REtzv1E",
     "GuestBio": "Sarah Guthals is the Director of Developer Relations at Sentry. With a Ph.D. in Computer Science from UC San Diego, her passion is to design content, software, and companies that focus on engaging developers in learning new skills, technologies, and tools to improve their developer workflow.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/57CsvHDJVJeM1FzCMpojyC",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/OTIwNzg0YjEtZjQxMS00ODg2LWJiYTgtYWRlMTY1MTA2ZjIz?sa=X&ved=0CAUQkfYCahcKEwjYi_TS_v2BAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/sarah-guthals/id1589875016?i=1000631648936",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/3d385b00-0d1b-4d66-8cbc-c5e0d4b14476/coffee-and-open-source-sarah-guthals",
     "Socials": [
       {
         "Twitter": "https://twitter.com/drguthals"
