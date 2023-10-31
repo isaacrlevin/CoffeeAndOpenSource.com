@@ -2430,35 +2430,6 @@
       }
     ]
   },
-  "christina-morillo": {
-    "PartitionKey": "christina-morillo",
-    "RowKey": 20231024,
-    "DateTimeAsString": "10/24/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-10-24T11:00:00.000Z",
-    "GuestName": "Christina Morillo",
-    "GuestHandle": "https://twitter.com/divinetechygirl",
-    "GuestLink": "",
-    "IsPublished": false,
-    "Topic": "Infosec Can be Fun",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "Twitter": "https://twitter.com/drguthals"
-      },
-      {
-        "LinkedIn": "https://www.linkedin.com/in/christinamorillo"
-      },
-      {
-        "Links": "https://bio.site/christinamorillo"
-      }
-    ]
-  },
   "isidora-maurer": {
     "PartitionKey": "isidora-maurer",
     "RowKey": 20231114,
