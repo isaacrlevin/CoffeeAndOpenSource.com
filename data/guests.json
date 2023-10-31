@@ -2498,15 +2498,15 @@
     "GuestName": "Carl Franklin",
     "GuestHandle": "@carlfranklin@techhub.social",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source .NET with Blazor",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "F8ukXP6JABA",
     "GuestBio": "Carl Franklin is Executive Vice President of App vNext, a software development firm focused on modern methodologies and technologies. Carl is a 20+ year veteran of the software industry, co-host and founder of .NET Rocks!, the first and most widely listened to podcast for .NET developers, a Microsoft MVP for Developer Technologies, and Senior Executive of Pwop Studios, a full-service audio and video production/post-production studio located in Southeastern Connecticut.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5ynG0RaD6GGeqHBy78y7hc",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NTY4MjQ5YTUtZDEzOS00MzJlLWExNzctOGVjMjQyYTQ2MDky?sa=X&ved=0CAUQkfYCahcKEwiw6KiTiaGCAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/carl-franklin/id1589875016?i=1000633269162",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/492c298c-b54f-4e72-a35a-97dfee21a61f/coffee-and-open-source-carl-franklin",
     "Socials": [
       {
         "Mastodon": "@carlfranklin@techhub.social"

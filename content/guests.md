@@ -91,7 +91,6 @@ guests_refs:
 - josh-goldberg
 - corey-weathers
 - sarah-guthals
-- christina-morillo
 - isidora-maurer
 - carl-franklin
 - rob-conery
