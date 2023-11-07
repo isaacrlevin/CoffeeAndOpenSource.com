@@ -2460,9 +2460,9 @@
   },
   "rob-conery": {
     "PartitionKey": "rob-conery",
-    "RowKey": 20231107,
-    "DateTimeAsString": "11/07/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-11-07T11:00:00.000Z",
+    "RowKey": 20231128,
+    "DateTimeAsString": "11/28/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-11-28T11:00:00.000Z",
     "GuestName": "Rob Conery",
     "GuestHandle": "@robconery",
     "GuestLink": "",
@@ -2498,6 +2498,43 @@
       },
       {
         "The Imposter's Handbook: 2nd Edition": "https://sales.bigmachine.io/imposter-second"
+      }
+    ]
+  },
+  "james-south": {
+    "PartitionKey": "james-south",
+    "RowKey": 20231121,
+    "DateTimeAsString": "11/21/2023, 1:00:00 PM",
+    "DateTimeUTC": "2023-11-21T13:00:00.000Z",
+    "GuestName": "James South",
+    "GuestHandle": "@James_M_South",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Running an Open Source Business",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "GitHub": "https://github.com/JimBobSquarePants"
+      },
+      {
+        "Twitter": "@James_M_South"
+      },
+      {
+        "Mastodon": "https://mastodon.social/@james_jackson_south"
+      }
+    ],
+    "Links": [
+      {
+        "Six Labors": "https://sixlabors.com/"
+      },
+      {
+        "ImageSharp": "https://github.com/SixLabors/ImageSharp"
       }
     ]
   }
