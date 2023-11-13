@@ -93,5 +93,5 @@ guests_refs:
 - sarah-guthals
 - carl-franklin
 - rob-conery
-- james-south
+- james-jackson-south
 ---

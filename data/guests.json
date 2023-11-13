@@ -2501,18 +2501,18 @@
       }
     ]
   },
-  "james-south": {
-    "PartitionKey": "james-south",
+  "james-jackson-south": {
+    "PartitionKey": "james-jackson--south",
     "RowKey": 20231121,
     "DateTimeAsString": "11/21/2023, 1:00:00 PM",
     "DateTimeUTC": "2023-11-21T13:00:00.000Z",
-    "GuestName": "James South",
+    "GuestName": "James Jackson-South",
     "GuestHandle": "@James_M_South",
     "GuestLink": "",
     "IsPublished": false,
     "Topic": "Running an Open Source Business",
     "YouTubeVideoId": "",
-    "GuestBio": "",
+    "GuestBio": "James Jackson-South is the brains? behind ImageSharp, the cutting-edge image processing library that has become indispensable in the modern .NET developer's toolkit.<br /><br />His contribution to the open-source community through ImageSharp has revolutionized the way developers handle image processing, offering a powerful and flexible API that caters to a myriad of image-related tasks.<br /><br />With a passion for clean code and innovative problem-solving, James continues to lead and inspire, pushing the boundaries of digital image manipulation.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "GPLink": "",
