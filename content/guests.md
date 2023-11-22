@@ -94,4 +94,6 @@ guests_refs:
 - carl-franklin
 - rob-conery
 - james-jackson-south
+- brit-meyers
+- jim-bennett
 ---

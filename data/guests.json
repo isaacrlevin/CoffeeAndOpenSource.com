@@ -2480,7 +2480,7 @@
         "Website": "https://robconery.com/"
       },
       {
-        "Twitter": "@robconery"
+        "Twitter": "https://twitter.com/robconery"
       },
       {
         "YouTube": "https://www.youtube.com/@big-machine"
@@ -2502,28 +2502,28 @@
     ]
   },
   "james-jackson-south": {
-    "PartitionKey": "james-jackson--south",
+    "PartitionKey": "james-jackson-south",
     "RowKey": 20231121,
     "DateTimeAsString": "11/21/2023, 1:00:00 PM",
     "DateTimeUTC": "2023-11-21T13:00:00.000Z",
     "GuestName": "James Jackson-South",
     "GuestHandle": "@James_M_South",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Running an Open Source Business",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "8YnPNTe1QkA",
     "GuestBio": "James Jackson-South is the brains? behind ImageSharp, the cutting-edge image processing library that has become indispensable in the modern .NET developer's toolkit.<br /><br />His contribution to the open-source community through ImageSharp has revolutionized the way developers handle image processing, offering a powerful and flexible API that caters to a myriad of image-related tasks.<br /><br />With a passion for clean code and innovative problem-solving, James continues to lead and inspire, pushing the boundaries of digital image manipulation.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5e4vW9liPCGxyjXpnXBq1n",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/YWIxZTMzMGYtZTU1OS00NDQ1LTg0YTYtNjMwMjFkNWIzMDk1?sa=X&ved=0CAUQkfYCahcKEwiA1P7DsNaCAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/james-jackson-south/id1589875016?i=1000635615165",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/09de3c3f-edc7-46f8-b8c6-c4c115378277/coffee-and-open-source-james-jackson-south",
     "Socials": [
       {
         "GitHub": "https://github.com/JimBobSquarePants"
       },
       {
-        "Twitter": "@James_M_South"
+        "Twitter": "https://twitter.com/James_M_South"
       },
       {
         "Mastodon": "https://mastodon.social/@james_jackson_south"
@@ -2535,6 +2535,77 @@
       },
       {
         "ImageSharp": "https://github.com/SixLabors/ImageSharp"
+      }
+    ]
+  },
+  "brit-meyers": {
+    "PartitionKey": "brit-meyers",
+    "RowKey": 20231205,
+    "DateTimeAsString": "12/05/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-12-05T11:00:00.000Z",
+    "GuestName": "Brit Meyers",
+    "GuestHandle": "https://www.linkedin.com/in/britpmyers/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Removing DevOps papercuts",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/britpmyers/"
+      }
+    ],
+    "Links": [
+      {
+        "System Initiative": "https://www.systeminit.com/"
+      }
+    ]
+  },
+  "jim-bennett": {
+    "PartitionKey": "jim-bennett",
+    "RowKey": 20231205,
+    "DateTimeAsString": "12/12/2023, 11:00:00 AM",
+    "DateTimeUTC": "2023-12-12T11:00:00.000Z",
+    "GuestName": "Jim Bennett",
+    "GuestHandle": "@jimbobbennett",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Removing DevOps papercuts",
+    "YouTubeVideoId": "",
+    "GuestBio": "Jim is a Principal Developer Advocate at liblab focusing on skilling and inspiring developers, especially helping API developers deliver high-quality SDKs. He’s British, so sounds way smarter than he actually is, and lives in the Pacific North West of the USA. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written books on mobile development and IoT.<br /><br />He also hates and is allergic to cats, but has a 10-year-old who loves cats, so he has 2 cats.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jimbobbennett"
+      },
+      {
+        "LinkedIn": "https://linkedin.com/in/JimBobBennett"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@JimBobBennett"
+      },
+      {
+        "GitHub": "https://github.com/JimBobBennett"
+      },
+      {
+        "Blog": "https://jimbobbennett.dev/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@jimbobbennett"
+      }
+    ],
+    "Links": [
+      {
+        "liblab": "https://liblab.com/"
       }
     ]
   }

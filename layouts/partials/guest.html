@@ -29,7 +29,7 @@
         {{- $imgWidth = $image.Width -}}
         {{- $imgHeight = $image.Height -}}
 
-      <a href="streams/?date={{ $dt }}">
+      <a href="guest/{{ $.PartitionKey }}.html">
         <img src="{{- $image.Permalink | relURL -}}" alt="">
       </a>
       {{ end }}
