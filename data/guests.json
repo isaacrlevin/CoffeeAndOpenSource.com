@@ -2466,15 +2466,15 @@
     "GuestName": "Rob Conery",
     "GuestHandle": "@robconery",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Overcoming Imposter Syndrome",
-    "YouTubeVideoId": "",
-    "GuestBio": "My name is Rob Conery and I help developers of all sorts learn what’s new with technology. I work at Microsoft as a Developer Advocate and I am fortunate to get invited to speak at global conferences from time to time. I have been working in the technology field full time since 1998 as a DBA and then a web developer. My original focus was the Microsoft ASP.NET stack, building tools like Subsonicand the first Micro-ORM: Massive. In addition I co-founded Tekpub.com (acquired byPluralsight) with James Avery and co-host This Developer’s Life with my friend, Scott Hanselman. I currently create videos for Pluralsight and build open source things as I can.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "NP6HTVSlnQ8",
+    "GuestBio": "My name is Rob Conery and I help developers of all sorts learn what’s new with technology. I work at Microsoft as a Developer Advocate and I am fortunate to get invited to speak at global conferences from time to time. I have been working in the technology field full time since 1998 as a DBA and then a web developer. My original focus was the Microsoft ASP.NET stack, building tools like Subsonic and the first Micro-ORM: Massive. In addition I co-founded Tekpub.com (acquired by Pluralsight) with James Avery and co-host This Developer’s Life with my friend, Scott Hanselman. I currently create videos for Pluralsight and build open source things as I can.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5Dp4tHinkj7FqqJ403V4qs",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MzRmMmVlYTItNjcxNC00ODQwLTgwMWEtMDE2Yjk2ZjI5NmI3?sa=X&ved=0CAUQkfYCahcKEwiAzM6a3-eCAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/rob-conery/id1589875016?i=1000636839752",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/8aab462b-9fe1-44ae-a49d-7e50276f679f/coffee-and-open-source-rob-conery",
     "Socials": [
       {
         "Website": "https://robconery.com/"
