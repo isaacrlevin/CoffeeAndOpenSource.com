@@ -2540,9 +2540,9 @@
   },
   "brit-meyers": {
     "PartitionKey": "brit-meyers",
-    "RowKey": 20231205,
-    "DateTimeAsString": "12/05/2023, 11:00:00 AM",
-    "DateTimeUTC": "2023-12-05T11:00:00.000Z",
+    "RowKey": 20240116,
+    "DateTimeAsString": "01/16/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-01-16T11:00:00.000Z",
     "GuestName": "Brit Meyers",
     "GuestHandle": "https://www.linkedin.com/in/britpmyers/",
     "GuestLink": "",
