@@ -2574,15 +2574,15 @@
     "GuestName": "Jim Bennett",
     "GuestHandle": "@jimbobbennett",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source SDKs!!!",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "NFumJv3f2JY",
     "GuestBio": "Jim is a Principal Developer Advocate at liblab focusing on skilling and inspiring developers, especially helping API developers deliver high-quality SDKs. He’s British, so sounds way smarter than he actually is, and lives in the Pacific North West of the USA. In the past he’s lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written books on mobile development and IoT.<br /><br />He also hates and is allergic to cats, but has a 10-year-old who loves cats, so he has 2 cats.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0Y1PIyR9KMJvOO9hZNZ1WA",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ODgwYjE2OGEtZDNmNC00NDdmLTgwYjgtOGFjM2U4NjVjOTdh?sa=X&ved=0CAUQkfYCahcKEwjo5e-EwJyDAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jim-bennett/id1589875016?i=1000639138290",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/d30e212b-3e0a-4d7f-b853-4d7afbd68140/coffee-and-open-source-jim-bennett",
     "Socials": [
       {
         "Twitter": "https://twitter.com/jimbobbennett"
