@@ -2643,5 +2643,37 @@
         "LinkedIn": "https://www.linkedin.com/in/angiejones/"
       }
     ]
+  },
+  "brian-ketelson": {
+    "PartitionKey": "brian-ketelson",
+    "RowKey": 20240123,
+    "DateTimeAsString": "01/23/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-01-23T11:00:00.000Z",
+    "GuestName": "Brian Ketelson",
+    "GuestHandle": "@bketelsen",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "WASM, Linux and Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "Angie Jones is the Global Vice President of Developer Relations for TBD, Block’s new business unit focused on decentralized technologies. She is an award-winning teacher and international keynote speaker who shares her wealth of knowledge at software companies and conferences all over the world. As a Master Inventor, Angie is known for her innovative and out-of-the-box thinking style which has resulted in more than 25 patented inventions in the areas of metaverses, collaboration software, social networking, smarter planet, and software development processes.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Website": "https://brian.dev/"
+      },
+      {
+        "Twitter": "https://twitter.com/bketelsen"
+      },
+      {
+        "GitHub": "https://github.com/bketelsen"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/brianketelsen/"
+      }
+    ]
   }
 }
