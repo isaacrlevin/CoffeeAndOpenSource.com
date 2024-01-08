@@ -98,4 +98,5 @@ guests_refs:
 - jim-bennett
 - angie-jones
 - brian-ketelson
+- stephanie-stimac
 ---

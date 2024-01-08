@@ -2655,7 +2655,7 @@
     "IsPublished": false,
     "Topic": "WASM, Linux and Open Source",
     "YouTubeVideoId": "",
-    "GuestBio": "Angie Jones is the Global Vice President of Developer Relations for TBD, Block’s new business unit focused on decentralized technologies. She is an award-winning teacher and international keynote speaker who shares her wealth of knowledge at software companies and conferences all over the world. As a Master Inventor, Angie is known for her innovative and out-of-the-box thinking style which has resulted in more than 25 patented inventions in the areas of metaverses, collaboration software, social networking, smarter planet, and software development processes.",
+    "GuestBio": "",
     "HaveAudio": false,
     "SpotifyLink": "",
     "GPLink": "",
@@ -2673,6 +2673,32 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/brianketelsen/"
+      }
+    ]
+  },
+    "stephanie-stimac": {
+    "PartitionKey": "stephanie-stimac",
+    "RowKey": 20240220,
+    "DateTimeAsString": "02/20/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-02-20T11:00:00.000Z",
+    "GuestName": "Stephanie Stimac",
+    "GuestHandle": "@seaotta",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Web Tools, Developer Experience and Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Links": "https://seaotta.dev/"
+      },
+      {
+        "Twitter": "https://twitter.com/seaotta"
       }
     ]
   }
