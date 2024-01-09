@@ -14,8 +14,6 @@
 {{- end -}}
   <div class="box">
     <figure class="image is-3by2">
-      {{- $dt := dateFormat "2006-01-02" .DateTimeUTC  -}}
-
        {{ if .YouTubeVideoId }}
       <a href="guest/{{ $.PartitionKey }}.html">
         <img src="https://i.ytimg.com/vi_webp/{{ .YouTubeVideoId }}/hqdefault.webp" alt="">
