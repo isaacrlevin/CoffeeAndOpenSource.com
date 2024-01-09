@@ -2617,15 +2617,15 @@
     "GuestName": "Angie Jones",
     "GuestHandle": "@techgirl1908",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Decentralized Open Source",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "nc3mJ-grqKY",
     "GuestBio": "Angie Jones is the Global Vice President of Developer Relations for TBD, Block’s new business unit focused on decentralized technologies. She is an award-winning teacher and international keynote speaker who shares her wealth of knowledge at software companies and conferences all over the world. As a Master Inventor, Angie is known for her innovative and out-of-the-box thinking style which has resulted in more than 25 patented inventions in the areas of metaverses, collaboration software, social networking, smarter planet, and software development processes.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0CAL3tBjNpoaMMeV2AVJNY",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ZTRjYjAzMWMtY2JhNS00OWY2LTkzOTctNTRlZTliOWRmZWE3?sa=X&ved=0CAUQkfYCahcKEwjo97DesNGDAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/angie-jones/id1589875016?i=1000641082462",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/17e7e435-076f-4c46-8a55-05165f7ccdf9/coffee-and-open-source-angie-jones",
     "Socials": [
       {
         "Website": "https://angiejones.tech/"

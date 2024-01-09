@@ -129,48 +129,42 @@
       </div>
     </main>
     <div style="display: none;">
-      {{ if .GuestBio }}
-      <p>
-        {{ safeHTML .GuestBio }}
-      </p>
-      {{ end }}
-      {{ if .Socials }}
-      <p>
-          You can find {{ .GuestName }} on the following sites:
-        </p>
-        <ul>
-        {{ range $value := .Socials }}
-          {{ range $elem_key, $elem_val := $value }}
-            <li>
-              <a href="{{ $elem_val }}" target="_blank">{{ $elem_key }}</a>
-            </li>
-          {{ end }}
-        {{ end }}
-      </ul>
-      {{ end }}
-      {{ if .Links }}
-      <p>
-          Here are some links provided by {{ .GuestName }}:
-        </p>
-        <ul>
+{{ if .GuestBio }}{{safeHTML .GuestBio }}{{ end }}
+<br />{{ if .Socials }}
+You can find {{ .GuestName }} on the following sites:<ul>{{ range $value := .Socials }}{{ range $elem_key, $elem_val := $value }}
+  <li>
+    <a href="{{ $elem_val }}" target="_blank">{{ $elem_key }}</a>
+  </li>{{ end }}{{ end }}
+</ul>{{ end }}{{ if .Links }}
+Here are some links provided by {{ .GuestName }}:<ul>
         {{ range $value := .Links }}
           {{ range $elem_key, $elem_val := $value }}
-            <li>
-              <a href="{{ $elem_val }}" target="_blank">{{ $elem_key }}</a>
+  <li>
+    <a href="{{ $elem_val }}" target="_blank">{{ $elem_key }}</a>
             </li>
           {{ end }}
         {{ end }}
       </ul>
       {{ end }}
-<p>PLEASE SUBSCRIBE TO THE PODCAST</p>
-<ul>
- <li>Spotify: ⁠<a href="http://isaacl.dev/podcast-spotify⁠" target="_blank" rel="noopener noreferer">http://isaacl.dev/podcast-spotify⁠</a></li>
-  <li>Apple Podcasts: ⁠<a href="http://isaacl.dev/podcast-apple⁠" target="_blank" rel="noopener noreferer">http://isaacl.dev/podcast-apple⁠</a></li>
-  <li>Google Podcasts: ⁠<a href="http://isaacl.dev/podcast-google⁠" target="_blank" rel="noopener noreferer">http://isaacl.dev/podcast-google⁠</a></li>
-  <li>RSS: ⁠<a href="http://isaacl.dev/podcast-rss⁠" target="_blank" rel="noopener noreferer">http://isaacl.dev/podcast-rss⁠</a></li>
+PLEASE SUBSCRIBE TO THE PODCAST<ul>
+  <li>
+    <a href="http://isaacl.dev/podcast-spotify" target="_blank" rel="noopener noreferer">Spotify</a>
+  </li>
+  <li>
+    <a href="http://isaacl.dev/podcast-apple" target="_blank" rel="noopener noreferer">Apple Podcasts</a>
+  </li>
+  <li>
+    <a href="http://isaacl.dev/podcast-google" target="_blank" rel="noopener noreferer">Google Podcasts</a>
+  </li>
+  <li>
+    <a href="http://isaacl.dev/podcast-amazon" target="_blank" rel="noopener noreferer">Amazon Music</a>
+  </li>
+  <li>
+    <a href="http://isaacl.dev/podcast-rss" target="_blank" rel="noopener noreferer">RSS Feed</a>
+  </li>
 </ul>
-<p>You can check out more episodes of Coffee and Open Source on ⁠<a href="https://www.coffeeandopensource.com⁠" target="_blank" rel="noopener noreferer">https://www.coffeeandopensource.com⁠</a></p>
-<p>Coffee and Open Source is hosted by Isaac Levin (⁠<a href="https://twitter.com/isaacrlevin⁠" target="_blank" rel="noopener noreferer">https://twitter.com/isaacrlevin⁠</a>)</p>
+<p>You can check out more episodes of Coffee and Open Source on <a href="https://www.coffeeandopensource.com" target="_blank" rel="noopener noreferer">https://www.coffeeandopensource.com</a></p>
+<p>Coffee and Open Source is hosted by <a href="https://twitter.com/isaacrlevin" target="_blank" rel="noopener noreferer">Isaac Levin</a></p>
 </div>
 {{end }}
     {{- partial "footer.html" . -}}
