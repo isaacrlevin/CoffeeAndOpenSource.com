@@ -2732,5 +2732,42 @@
         "Experts Live Europe": "https://www.expertslive.eu/"
       }
     ]
+  },
+  "martin-zikmund": {
+    "PartitionKey": "martin-zikmund",
+    "RowKey": 20240206,
+    "DateTimeAsString": "02/06/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-02-06T19:00:00.000Z",
+    "GuestName": "Martin Zikmund",
+    "GuestHandle": "https://twitter.com/mzikmunddev",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Uno Platform",
+    "YouTubeVideoId": "",
+    "GuestBio": "Martin is an open-source software developer and Microsoft Developer Technologies MVP. He specializes in cross-platform application development and loves the Microsoft technology stack. He enjoys sharing his knowledge with other developers at conferences and on-line. In spare time he enjoys sport climbing/bouldering, gaming on Xbox, reading, geocaching and building LEGO as an avid AFOL.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mzikmunddev"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/mzikmund/"
+      },
+      {
+        "Website": "https://mzikmund.dev/blog"
+      }
+    ],
+    "Links": [
+      {
+        "Uno Platform": "https://platform.uno/"
+      },
+      {
+        "Uno GitHub Repo": "https://github.com/unoplatform/uno"
+      }
+    ]
   }
 }
