@@ -2702,37 +2702,6 @@
       }
     ]
   },
-  "isidora-maurer": {
-    "PartitionKey": "isidora-maurer",
-    "RowKey": 20240131,
-    "DateTimeAsString": "01/31/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-01-31T19:00:00.000Z",
-    "GuestName": "Isidora Maurer",
-    "GuestHandle": "https://twitter.com/IsidoraKatanic",
-    "GuestLink": "",
-    "IsPublished": false,
-    "Topic": "Head in the Cloud Heart in the Community",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "Twitter": "https://twitter.com/IsidoraKatanic"
-      },
-      {
-        "YouTube": "https://www.youtube.com/c/HeadintheCloudHeartintheCommunity"
-      }
-    ],
-    "Links": [
-      {
-        "Experts Live Europe": "https://www.expertslive.eu/"
-      }
-    ]
-  },
   "martin-zikmund": {
     "PartitionKey": "martin-zikmund",
     "RowKey": 20240206,
