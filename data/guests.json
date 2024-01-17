@@ -2546,15 +2546,15 @@
     "GuestName": "Brit Meyers",
     "GuestHandle": "https://www.linkedin.com/in/britpmyers/",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Removing DevOps papercuts",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "uLX9ApjVjGw",
+    "GuestBio": "Brit is a technology leader with over a decade of experience scaling high-performing engineering teams. Prior to System Initiative, she was a member of the executive team at Hyland Software where she led global engineering teams responsible for building multiple cloud product lines. Brit was most recently Head of Cloud Engineering at Firebolt Analytics, where she was responsible for designing and executing the strategic direction of DevOps at Firebolt. Brit recently completed her Executive MBA from the University of Michigan.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5Ezf5893DgQT5Gz3w6115B",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NmNkOWI1YzUtMDMzNi00YmFhLWI2YTUtN2M0OWFiZTU2NmM5?sa=X&ved=0CAUQkfYCahcKEwiIsPH2j-ODAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/brit-meyers/id1589875016?i=1000641887677",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/05f9347d-44ff-434e-add8-d94241122378/coffee-and-open-source-brit-meyers",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/britpmyers/"
@@ -2563,6 +2563,9 @@
     "Links": [
       {
         "System Initiative": "https://www.systeminit.com/"
+      },
+      {
+        "Systems Initiative GitHub": "https://github.com/systeminit/si"
       }
     ]
   },
