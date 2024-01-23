@@ -2647,23 +2647,23 @@
       }
     ]
   },
-  "brian-ketelson": {
-    "PartitionKey": "brian-ketelson",
+  "brian-ketelsen": {
+    "PartitionKey": "brian-ketelsen",
     "RowKey": 20240123,
     "DateTimeAsString": "01/23/2024, 11:00:00 AM",
     "DateTimeUTC": "2024-01-23T19:00:00.000Z",
-    "GuestName": "Brian Ketelson",
+    "GuestName": "Brian Ketelsen",
     "GuestHandle": "@bketelsen",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "WASM, Linux and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "fTMeeMex2As",
+    "GuestBio": "Here is Brian in their own words<br /><br />👋 Howdy! Thanks for stopping by. I’m Brian and I’ve been doing technology things since acoustic modem couplers were a thing. I love Open Source and exploring different programming languages. Some highlights about me and my activities:<br /><br />Army Veteran: Bradley Fighting Vehicle Gunner, Infantry, 1st Armored Division.<br /><br />Father of five with 21 years difference between oldest and youngest child.<br /><br />Co-founded GopherCon the largest conference for Go developers.<br /><br />Co-authored Go In Action for Manning Publishing.<br /><br />Co-wrote Skynet and SkyDNS with Erik St. Martin, which was eventually morphed into the DNS service discovery that powers Kubernetes.<br /><br />Contributed to the largest projects that power the Internet. Go, Kubernetes, Etcd, and so many more.<br /><br />I love Open Source, learning in public, and sharing what I learn with others.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4h5ufiVRdy56JXoEVIA1hm",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/NzI5ODliZGEtMTEzZS00NzUzLWJiOGQtMGUyY2JkODg4MmUy?sa=X&ved=0CAUQkfYCahcKEwjohJKPs_SDAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/brian-ketelsen/id1589875016?i=1000642693041",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/036ecd45-1353-4306-857c-e58d2a9f0a45/coffee-and-open-source-brian-ketelsen",
     "Socials": [
       {
         "Website": "https://brian.dev/"
@@ -2676,6 +2676,17 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/brianketelsen/"
+      }
+    ],
+    "Links": [
+      {
+        "Project Bluefin": "https://projectbluefin.io"
+      },
+      {
+        "Fleek": "https://getfleek.dev/"
+      },
+      {
+        "Blincus": "https://blincus.dev/"
       }
     ]
   },

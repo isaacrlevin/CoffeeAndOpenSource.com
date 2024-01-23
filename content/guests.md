@@ -97,7 +97,7 @@ guests_refs:
 - brit-meyers
 - jim-bennett
 - angie-jones
-- brian-ketelson
+- brian-ketelsen
 - stephanie-stimac
 - martin-zikmund
 ---
