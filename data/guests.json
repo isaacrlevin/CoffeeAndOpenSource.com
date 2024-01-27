@@ -2752,5 +2752,95 @@
         "Uno GitHub Repo": "https://github.com/unoplatform/uno"
       }
     ]
+  },
+  "jeremy-miller": {
+    "PartitionKey": "jeremy-miller",
+    "RowKey": 20240227,
+    "DateTimeAsString": "02/27/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-02-27T19:00:00.000Z",
+    "GuestName": "Jeremy Miller",
+    "GuestHandle": "https://twitter.com/jeremydmiller",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Running #OSS Businesses",
+    "GuestBio": "My name is Jeremy Miller and I am a Developer and Software Architect in Austin, TX.<br /><br />I started my career as a “real” engineer and got into software development writing automation tooling for my engineering group. This being the late 90’s, it was easy to transition into the early project automation groups where I got to be part of several initiatives to automate large construction project workflows. I was able to turn that experience into a real programming job at a Fortune 500 company. After a couple years of slogging through old style waterfall development, I discovered Agile Software Development and have mostly stayed in that world ever since.<br /><br />I was at the forefront of early Agile usage in .Net and for better or worse was one of the main folks behind the short-lived ALT.Net movement. I’ve also been very active in .Net OSS development starting with the old StructureMap library and on to many other projects since. I’m currently the lead developer on the Marten project.<br /><br />Since then I’ve swung between product shops and consulting companies before starting with MedeAnalytics this year heading up their new software architecture team.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jeremydmiller"
+      },
+      {
+        "Website": "https://jeremydmiller.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Critter Stack": "https://github.com/JasperFx"
+      }
+    ]
+  },
+  "justin-garrison": {
+    "PartitionKey": "justin-garrison",
+    "RowKey": 20240305,
+    "DateTimeAsString": "03/05/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-03-05T19:00:00.000Z",
+    "GuestName": "Justin Garrison",
+    "GuestHandle": "https://twitter.com/rothgar",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source and the Cloud",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/rothgar"
+      },
+      {
+        "Website": "https://justingarrison.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Critter Stack": "https://github.com/JasperFx"
+      }
+    ]
+  },
+  "jeremy-sinclair": {
+    "PartitionKey": "jeremy-sinclair",
+    "RowKey": 20240312,
+    "DateTimeAsString": "03/12/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-03-12T19:00:00.000Z",
+    "GuestName": "Jeremy Sinclair",
+    "GuestHandle": "https://twitter.com/sinclairinat0r",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being all over Open Source",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/sinclairinat0r"
+      },
+      {
+        "Website": "https://sinclairinat0r.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Critter Stack": "https://github.com/JasperFx"
+      }
+    ]
   }
 }

@@ -100,4 +100,7 @@ guests_refs:
 - brian-ketelsen
 - stephanie-stimac
 - martin-zikmund
+- jeremy-miller
+- justin-garrison
+- jeremy-sinclair
 ---
