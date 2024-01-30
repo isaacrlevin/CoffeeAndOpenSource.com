@@ -2718,9 +2718,9 @@
   },
   "martin-zikmund": {
     "PartitionKey": "martin-zikmund",
-    "RowKey": 20240206,
-    "DateTimeAsString": "02/06/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-02-06T19:00:00.000Z",
+    "RowKey": 20240319,
+    "DateTimeAsString": "03/19/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-03-19T19:00:00.000Z",
     "GuestName": "Martin Zikmund",
     "GuestHandle": "https://twitter.com/mzikmunddev",
     "GuestLink": "",
@@ -2840,6 +2840,37 @@
     "Links": [
       {
         "Critter Stack": "https://github.com/JasperFx"
+      }
+    ]
+  },
+  "anjuan-simmons": {
+    "PartitionKey": "anjuan-simmons",
+    "RowKey": 20240419,
+    "DateTimeAsString": "04/19/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-04-19T19:00:00.000Z",
+    "GuestName": "Anjuan Simmons",
+    "GuestHandle": "https://twitter.com/anjuan",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being a Technology Translator",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/anjuan"
+      },
+      {
+        "Website": "https://anjuansimmons.com/"
+      },
+      {
+        "GitHub": "https://github.com/anjuan"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/anjuan/"
       }
     ]
   }
