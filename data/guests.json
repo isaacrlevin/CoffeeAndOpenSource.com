@@ -2698,21 +2698,29 @@
     "GuestName": "Stephanie Stimac",
     "GuestHandle": "@seaotta",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Web Tools, Developer Experience and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "YouTubeVideoId": "YEplterQDw4",
+    "GuestBio": "Stephanie Stimac is a designer and product manager with over 14 years of experience, specializing in developer experiences and tooling. She has worked with startups to design and build websites with a focus on clean and simple user experience. Stephanie worked on the Microsoft Edge team for six years designing DevTools, shipping browser features, and leading DevRel, and as a Senior PM at RapidAPI, leading API Client tooling, giving her a deep understanding of developers, their pain points and developer user experience.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6BVuU9A0vYGFjkhkAYOvXd",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/OTRmYTI1OGQtMjQ2NS00NWYxLTk5MDMtYWFmNjQyNDM0MDY5?sa=X&ved=0CAUQkfYCahcKEwiA4_e0k7uEAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/stephanie-stimac/id1589875016?i=1000646052387",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/088b2eca-f753-471f-b515-6a2bc17bfef0/coffee-and-open-source-stephanie-stimac",
     "Socials": [
       {
         "Links": "https://seaotta.dev/"
       },
       {
         "Twitter": "https://twitter.com/seaotta"
+      },
+      {
+        "Website": "https://stephaniestimac.com"
+      }
+    ],
+    "Links": [
+      {
+        "Design for Developers Book": "https://www.manning.com/books/design-for-developers"
       }
     ]
   },
