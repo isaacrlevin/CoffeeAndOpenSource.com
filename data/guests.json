@@ -2769,14 +2769,15 @@
     "GuestName": "Jeremy Miller",
     "GuestHandle": "https://twitter.com/jeremydmiller",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Running #OSS Businesses",
+    "YouTubeVideoId": "0Nj1T-7eumg",
     "GuestBio": "My name is Jeremy Miller and I am a Developer and Software Architect in Austin, TX.<br /><br />I started my career as a “real” engineer and got into software development writing automation tooling for my engineering group. This being the late 90’s, it was easy to transition into the early project automation groups where I got to be part of several initiatives to automate large construction project workflows. I was able to turn that experience into a real programming job at a Fortune 500 company. After a couple years of slogging through old style waterfall development, I discovered Agile Software Development and have mostly stayed in that world ever since.<br /><br />I was at the forefront of early Agile usage in .Net and for better or worse was one of the main folks behind the short-lived ALT.Net movement. I’ve also been very active in .Net OSS development starting with the old StructureMap library and on to many other projects since. I’m currently the lead developer on the Marten project.<br /><br />Since then I’ve swung between product shops and consulting companies before starting with MedeAnalytics this year heading up their new software architecture team.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7bWKB7Gbn57mmVZ2hG8Hgp",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/OTc5MTYyNjctODhlYy00OTllLWExZjQtMzRmNzI0Mjk4MWY4?sa=X&ved=0CAUQkfYCahcKEwiYr-72xcyEAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeremy-miller/id1589875016?i=1000647290702",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/ebe75d0d-ceca-40ec-a69c-198d47e1583b/coffee-and-open-source-jeremy-miller",
     "Socials": [
       {
         "Twitter": "https://twitter.com/jeremydmiller"
