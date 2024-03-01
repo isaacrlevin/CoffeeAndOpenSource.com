@@ -2824,9 +2824,9 @@
   },
   "jeremy-sinclair": {
     "PartitionKey": "jeremy-sinclair",
-    "RowKey": 20240312,
-    "DateTimeAsString": "03/12/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-03-12T19:00:00.000Z",
+    "RowKey": 20240402,
+    "DateTimeAsString": "04/02/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-04-02T19:00:00.000Z",
     "GuestName": "Jeremy Sinclair",
     "GuestHandle": "https://twitter.com/sinclairinat0r",
     "GuestLink": "",
@@ -2880,6 +2880,37 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/anjuan/"
+      }
+    ]
+  },
+  "rizel-scarlett": {
+    "PartitionKey": "rizel-scarlett",
+    "RowKey": 20240326,
+    "DateTimeAsString": "03/26/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-03-26T19:00:00.000Z",
+    "GuestName": "Rizèl Scarlett",
+    "GuestHandle": "https://twitter.com/blackgirlbytes",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Educating the Next Generation of Tech",
+    "GuestBio": "Rizel Scarlett is a Staff Developer Advocate at TBD, Block's newest business unit. With a diverse background spanning GitHub, startups, and non-profit organizations, Rizel has cultivated a passion for utilizing emerging technologies to champion equity within the tech industry. She moonlights as an Advisor at G{Code} House, an organization aimed at teaching women of color and non-binary people of color to code. Rizel believes in leveraging vulnerability, honesty, and kindness as means to educate early-career developers.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/blackgirlbytes"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@blackgirlbytes"
+      },
+      {
+        "GitHub": "https://github.com/blackgirlbytes"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/rizel-bobb-semple/"
       }
     ]
   }
