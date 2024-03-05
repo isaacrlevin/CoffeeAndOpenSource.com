@@ -2800,25 +2800,21 @@
     "GuestName": "Justin Garrison",
     "GuestHandle": "https://twitter.com/rothgar",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
+    "YouTubeVideoId": "UqvlFBh5I3A",
     "Topic": "Open Source and the Cloud",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Justin is a developer who’s helped create Oscar winning movies at Disney Animation, built infrastructure for Disney+, and worked on EKS at AWS. He is now the Director of Developer Relations at Sidero Labs and host of the Ship it! podcast",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5rswQLrtQGR8OrYc2S7cCm",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/ODM1YzM0OTMtN2JhMy00YmVmLWFmZmQtM2UyZGY1ZmQ0NmU4?sa=X&ved=0CAUQkfYCahcKEwiImqHXhN6EAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/justin-garrison/id1589875016?i=1000648124546",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a4b461eb-1869-4514-9c13-5f9ac746f77c/coffee-and-open-source-justin-garrison",
     "Socials": [
       {
         "Twitter": "https://twitter.com/rothgar"
       },
       {
         "Website": "https://justingarrison.com/"
-      }
-    ],
-    "Links": [
-      {
-        "Critter Stack": "https://github.com/JasperFx"
       }
     ]
   },
