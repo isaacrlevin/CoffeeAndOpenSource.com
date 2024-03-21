@@ -2820,9 +2820,9 @@
   },
   "jeremy-sinclair": {
     "PartitionKey": "jeremy-sinclair",
-    "RowKey": 20240402,
-    "DateTimeAsString": "04/02/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-04-02T19:00:00.000Z",
+    "RowKey": 20240423,
+    "DateTimeAsString": "04/23/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-04-23T19:00:00.000Z",
     "GuestName": "Jeremy Sinclair",
     "GuestHandle": "https://twitter.com/sinclairinat0r",
     "GuestLink": "",
