@@ -2690,7 +2690,7 @@
       }
     ]
   },
-    "stephanie-stimac": {
+  "stephanie-stimac": {
     "PartitionKey": "stephanie-stimac",
     "RowKey": 20240220,
     "DateTimeAsString": "02/20/2024, 11:00:00 AM",
@@ -2907,6 +2907,54 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/rizel-bobb-semple/"
+      }
+    ]
+  },
+  "marc-duiker": {
+    "PartitionKey": "marc-duiker",
+    "RowKey": 20240416,
+    "DateTimeAsString": "04/16/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-04-16T19:00:00.000Z",
+    "GuestName": "Marc Duiker",
+    "GuestHandle": "https://twitter.com/marcduiker",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "OSS with Dapr",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/marcduiker"
+      },
+      {
+        "Website": "https://marcduiker.dev/"
+      },
+      {
+        "Dev.to": "https://dev.to/marcduiker"
+      },
+      {
+        "Mastodon": "https://mstdn.social/@marcduiker"
+      },
+      {
+        "GitHub": "https://github.com/marcduiker"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/mduiker/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@marcduiker"
+      }
+    ],
+    "Links": [
+      {
+        "Dapr": "https://github.com/JasperFx"
+      },
+      {
+        "Marc's Pixel Art": "https://www.bonfire.com/store/pixelart/"
       }
     ]
   }
