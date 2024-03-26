@@ -106,4 +106,5 @@ guests_refs:
 - anjuan-simmons
 - rizel-scarlett
 - marc-duiker
+- eric-lippert
 ---

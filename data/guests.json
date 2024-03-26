@@ -2887,14 +2887,15 @@
     "GuestName": "Rizèl Scarlett",
     "GuestHandle": "https://twitter.com/blackgirlbytes",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
+    "YouTubeVideoId": "sIInQkco49I",
     "Topic": "Educating the Next Generation of Tech",
     "GuestBio": "Rizel Scarlett is a Staff Developer Advocate at TBD, Block's newest business unit. With a diverse background spanning GitHub, startups, and non-profit organizations, Rizel has cultivated a passion for utilizing emerging technologies to champion equity within the tech industry. She moonlights as an Advisor at G{Code} House, an organization aimed at teaching women of color and non-binary people of color to code. Rizel believes in leveraging vulnerability, honesty, and kindness as means to educate early-career developers.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1rnEuHgSh85aDxYdMTPDp5",
+    "GPLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk4MmY3MC9wb2RjYXN0L3Jzcw/episode/MWY3MTlkZWQtNmU2ZC00NTNiLTljMzctNDdlMDg4Mzc2NjZk?sa=X&ved=0CAUQkfYCahcKEwiw-trh3JKFAxUAAAAAHQAAAAAQAQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/riz%C3%A8l-scarlett/id1589875016?i=1000650530535",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/98ebb6a3-4d7d-40a2-bd26-4d20e01e6c16/coffee-and-open-source-riz%C3%A8l-scarlett",
     "Socials": [
       {
         "Twitter": "https://twitter.com/blackgirlbytes"
@@ -2955,6 +2956,35 @@
       },
       {
         "Marc's Pixel Art": "https://www.bonfire.com/store/pixelart/"
+      }
+    ]
+  },
+  "eric-lippert": {
+    "PartitionKey": "eric-lippert",
+    "RowKey": 20240507,
+    "DateTimeAsString": "05/07/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-05-07T19:00:00.000Z",
+    "GuestName": "Eric Lippert",
+    "GuestHandle": "https://twitter.com/ericlippert",
+    "GuestLink": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "",
+    "Topic": "The Art of Designing Language",
+    "GuestBio": "",
+    "HaveAudio": true,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/ericlippert"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@ericlippert"
+      },
+      {
+        "Blog": "https://ericlippert.com/"
       }
     ]
   }
