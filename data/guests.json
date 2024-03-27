@@ -2913,9 +2913,9 @@
   },
   "marc-duiker": {
     "PartitionKey": "marc-duiker",
-    "RowKey": 20240416,
-    "DateTimeAsString": "04/16/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-04-16T19:00:00.000Z",
+    "RowKey": 20240514,
+    "DateTimeAsString": "05/14/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-05-14T19:00:00.000Z",
     "GuestName": "Marc Duiker",
     "GuestHandle": "https://twitter.com/marcduiker",
     "GuestLink": "",
