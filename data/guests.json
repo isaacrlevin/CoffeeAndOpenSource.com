@@ -2822,7 +2822,7 @@
     "PartitionKey": "jeremy-sinclair",
     "RowKey": 20240423,
     "DateTimeAsString": "04/23/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-04-23T19:00:00.000Z",
+    "DateTimeUTC": "2024-04-23T18:00:00.000Z",
     "GuestName": "Jeremy Sinclair",
     "GuestHandle": "https://twitter.com/sinclairinat0r",
     "GuestLink": "",
@@ -2830,8 +2830,8 @@
     "Topic": "Being all over Open Source",
     "GuestBio": "",
     "HaveAudio": false,
+    "YouTubeVideoId": "",
     "SpotifyLink": "",
-    "GPLink": "",
     "APLink": "",
     "AmazonLink": "",
     "Socials": [
@@ -2841,29 +2841,24 @@
       {
         "Website": "https://sinclairinat0r.com/"
       }
-    ],
-    "Links": [
-      {
-        "Critter Stack": "https://github.com/JasperFx"
-      }
     ]
   },
   "anjuan-simmons": {
     "PartitionKey": "anjuan-simmons",
     "RowKey": 20240409,
     "DateTimeAsString": "04/09/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-04-09T19:00:00.000Z",
+    "DateTimeUTC": "2024-04-09T18:00:00.000Z",
     "GuestName": "Anjuan Simmons",
     "GuestHandle": "https://twitter.com/anjuan",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
+    "YouTubeVideoId": "u9Rc3OVtYho",
     "Topic": "Being a Technology Translator",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Anjuan Simmons has led software development teams for over two decades, and he excels at shipping features that customers love while also managing healthy teams. He’s delivered software for large global management consulting companies like Accenture and Deloitte as well as a number of startups. Anjuan’s approach to leading teams combines the rigor of large corporations with the scrappy style of new ventures. He is currently a Staff Engineering Manager at GitHub.<br /><br />Anjuan is an energetic and informative speaker who presents at conferences, universities, and corporations around the world on topics including leadership, effective software development practices, careers in technology, and inclusion.<br /><br />Anjuan has an undergraduate degree in electrical engineering from the University of Texas at Austin and an MBA from Texas A&M University. He lives in Houston, Texas.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4H7d5UNrKDb6MCTfkMD73k",
+    "APLink": "https://podcasts.apple.com/us/podcast/anjuan-simmons/id1589875016?i=1000651941702",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/66936796-b4e7-4293-a414-f7291adaee58/coffee-and-open-source-anjuan-simmons",
     "Socials": [
       {
         "Twitter": "https://twitter.com/anjuan"
@@ -2915,16 +2910,16 @@
     "PartitionKey": "marc-duiker",
     "RowKey": 20240514,
     "DateTimeAsString": "05/14/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-05-14T19:00:00.000Z",
+    "DateTimeUTC": "2024-05-14T18:00:00.000Z",
     "GuestName": "Marc Duiker",
     "GuestHandle": "https://twitter.com/marcduiker",
     "GuestLink": "",
     "IsPublished": false,
+    "YouTubeVideoId": "",
     "Topic": "OSS with Dapr",
     "GuestBio": "",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
     "APLink": "",
     "AmazonLink": "",
     "Socials": [
@@ -2963,7 +2958,7 @@
     "PartitionKey": "eric-lippert",
     "RowKey": 20240507,
     "DateTimeAsString": "05/07/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-05-07T19:00:00.000Z",
+    "DateTimeUTC": "2024-05-07T18:00:00.000Z",
     "GuestName": "Eric Lippert",
     "GuestHandle": "https://twitter.com/ericlippert",
     "GuestLink": "",
@@ -2973,7 +2968,6 @@
     "GuestBio": "",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
     "APLink": "",
     "AmazonLink": "",
     "Socials": [
@@ -2985,6 +2979,82 @@
       },
       {
         "Blog": "https://ericlippert.com/"
+      }
+    ]
+  },
+  "joe-guadagno": {
+    "PartitionKey": "joe-guadagno",
+    "RowKey": 20240528,
+    "DateTimeAsString": "05/28/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-05-28T18:00:00.000Z",
+    "GuestName": "Joe Guadagno",
+    "GuestHandle": "https://twitter.com/jguadagno",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "The Art of Designing Language",
+    "GuestBio": "Joe Guadagno is a currently Vice President of IT for RT². He has been writing software for over 20 years, has been an active member of the .NET community, serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years. He has spoken through the United States and international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer, Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Twitter at @jguadagno, Facebook at JosephGuadagnoNet, and on his blog at https://www.josephguadagno.net.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/jguadagno"
+      },
+      {
+        "Website": "https://www.josephguadagno.net/"
+      },
+      {
+        "Mastodon": "https://techhub.social/@Jguadagno"
+      },
+      {
+        "GitHub": "https://github.com/jguadagno"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/josephguadagno/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@jguadagno"
+      }
+    ]
+  },
+  "laura-bell": {
+    "PartitionKey": "laura-bell",
+    "RowKey": 20240514,
+    "DateTimeAsString": "05/14/2024, 2:00:00 PM",
+    "DateTimeUTC": "2024-05-14T21:00:00.000Z",
+    "GuestName": "Laura Bell Main",
+    "GuestHandle": "https://twitter.com/lady_nerd",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "The Security of Open Source",
+    "GuestBio": "Laura Bell Main is a global leader in developing secure software.<br /><br />With over twenty years of experience in software development and cyber security, she is the co-author of 'Agile Application Security' (O’Reilly Media)  and 'Security for Everyone' (Holloway). Her work has been featured in many international publications, including  WIRED and MIT Tech Review.<br /><br />She is an experienced keynote and conference speaker, presenting at BlackHat USA, RenderATL, and leading international software development and cyber security conferences.<br /><br />As the CEO of SafeStack, a leading secure development education platform, she helps software development leaders worldwide engage their entire team in building secure software.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/lady_nerd"
+      },
+      {
+        "Website": "https://www.laurabellmain.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/lauradbell/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UC362_Rj5kWlwG0rmJINMYDQ"
+      },
+      {
+        "GitHub": "https://github.com/ladynerd"
+      }
+    ],
+    "Links": [
+      {
+        "SafeStack": "https://safestack.io/"
       }
     ]
   }

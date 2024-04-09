@@ -78,7 +78,7 @@
       </ul>
       {{ end }}
       <br />
-      {{ if or (.SpotifyLink) (.GPLink) (.APLink) (.AmazonLink) }}
+      {{ if or (.SpotifyLink) (.YouTubeVideoId) (.APLink) (.AmazonLink) }}
         <p>
           The interview is also available as a podcast, available almost anywhere you can listen to one.
         </p>
@@ -92,10 +92,10 @@
           </figure>
           </a>
         {{ end }}
-        {{ if .GPLink }}
-        <a href="{{ .GPLink}}" target="_blank">
+        {{ if .YouTubeVideoId }}
+        <a href="https://music.youtube.com/podcast/{{ .YouTubeVideoId}}" target="_blank">
           <figure>
-            <img src="/images/google-podcasts.png" width="200px">
+            <img src="/images/youtube-music.png" width="200px">
           </figure>
         </a>
         {{ end }}
@@ -154,7 +154,7 @@ PLEASE SUBSCRIBE TO THE PODCAST<ul>
     <a href="http://isaacl.dev/podcast-apple" target="_blank" rel="noopener noreferer">Apple Podcasts</a>
   </li>
   <li>
-    <a href="http://isaacl.dev/podcast-google" target="_blank" rel="noopener noreferer">Google Podcasts</a>
+    <a href="http://isaacl.dev/podcast-youtube" target="_blank" rel="noopener noreferer">YouTube Music</a>
   </li>
   <li>
     <a href="http://isaacl.dev/podcast-amazon" target="_blank" rel="noopener noreferer">Amazon Music</a>

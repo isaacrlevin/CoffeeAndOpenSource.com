@@ -107,4 +107,6 @@ guests_refs:
 - rizel-scarlett
 - marc-duiker
 - eric-lippert
+- joe-guadagno
+- laura-bell
 ---
