@@ -2826,14 +2826,14 @@
     "GuestName": "Jeremy Sinclair",
     "GuestHandle": "https://twitter.com/sinclairinat0r",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being all over Open Source",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "YouTubeVideoId": "",
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Jeremy is a Windows Developer MVP, Avalonia MVP, and Arm Ambassador who mostly focuses on all things Windows on Arm. He is a member of the .NET Foundation Project Committee and is also a member of the selection committee for .NET on AWS FOSS Fund.<br /><br />He enjoys making contributions to OSS to help move projects forward and to ensure that Arm support is a first-class citizen.",
+    "HaveAudio": true,
+    "YouTubeVideoId": "89kZBGKnGMA",
+    "SpotifyLink": "https://open.spotify.com/episode/1RtDCjw2mYa3DQ480HKcoB",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeremy-sinclair/id1589875016?i=1000653374006",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/6ee49011-26d0-44c5-8af7-ee0599939aef/coffee-and-open-source-jeremy-sinclair",
     "Socials": [
       {
         "Twitter": "https://twitter.com/sinclairinat0r"
