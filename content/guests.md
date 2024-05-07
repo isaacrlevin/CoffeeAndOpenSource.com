@@ -109,4 +109,5 @@ guests_refs:
 - eric-lippert
 - joe-guadagno
 - laura-bell
+- zach-wasserman
 ---

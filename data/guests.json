@@ -2962,14 +2962,14 @@
     "GuestName": "Eric Lippert",
     "GuestHandle": "https://twitter.com/ericlippert",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "g4iX0BgaSRo",
     "Topic": "The Art of Designing Language",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Eric Lippert is a designer of fine programming languages; at Microsoft he worked on Visual Basic, VBScript, JScript and C#. At Facebook he worked on Hack (a gradually-typed PHP) and Bean Machine (a probabilistic extension of Python for data scientists). He is at present enjoying taking a break from corporate life.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6qtKpbpUzlqi8de3naC19g",
+    "APLink": "https://podcasts.apple.com/us/podcast/eric-lippert/id1589875016?i=1000654850878",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/3c8664f7-3de1-4cc2-b5a4-ad4a20a201fb/coffee-and-open-source-eric-lippert",
     "Socials": [
       {
         "Twitter": "https://twitter.com/ericlippert"
@@ -2979,6 +2979,11 @@
       },
       {
         "Blog": "https://ericlippert.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Programming Languages Design Stack Exchange": "https://langdev.stackexchange.com/"
       }
     ]
   },
