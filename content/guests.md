@@ -109,4 +109,7 @@ guests_refs:
 - eric-lippert
 - joe-guadagno
 - zach-wasserman
+- david-ebbo
+- april-yoho
+- april-speight
 ---

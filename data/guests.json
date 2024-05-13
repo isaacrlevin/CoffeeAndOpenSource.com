@@ -3062,5 +3062,92 @@
         "osquery":"https://www.osquery.io/"
       }
     ]
+  },
+  "david-ebbo": {
+    "PartitionKey": "david-ebbo",
+    "RowKey": 20240611,
+    "DateTimeAsString": "06/11/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-06-11T18:00:00.000Z",
+    "GuestName": "David Ebbo",
+    "GuestHandle": "https://twitter.com/davidebbo",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Tools for Open Source Developers",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/davidebbo"
+      },
+      {
+        "Blog": "https://blog.davidebbo.com/"
+      },
+      {
+        "GitHub": "https://github.com/davidebbo"
+      }
+    ]
+  },
+  "april-yoho": {
+    "PartitionKey": "april-yoho",
+    "RowKey": 20240618,
+    "DateTimeAsString": "06/18/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-06-18T18:00:00.000Z",
+    "GuestName": "April Yoho",
+    "GuestHandle": "https://twitter.com/TheAprilYoho",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Open Source DevOps and Cloud",
+    "GuestBio": "April is a senior developer advocate and DevOps practice lead at GitHub, specializing in application transformation and DevOps ways of working. Her focus is to take customers of a journey from legacy technology, to serverless and containers, where code comes first, while enabling them to take full advantage of DevOps practices.<br /><br />In April’s spare time she spends time outdoors hiking, skiing or scuba diving.  She is also a triathlete competing in Ironman and Half Ironman triathlons.<br /><br />April is often asked to present at events to showcase the latest GitHub and Microsoft technologies and also to present live demos that are industry specific and applicable to real life use cases.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/TheAprilYoho"
+      },
+      {
+        "Website": "https://azapril.dev/"
+      },
+      {
+        "GitHub": "https://github.com/scubaninja"
+      }
+    ]
+  },
+  "april-speight": {
+    "PartitionKey": "april-speight",
+    "RowKey": 20240716,
+    "DateTimeAsString": "07/16/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-07-16T18:00:00.000Z",
+    "GuestName": "April Speight",
+    "GuestHandle": "https://twitter.com/vogueandcode",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Open Source and Artificial Intelligence",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/vogueandcode"
+      },
+      {
+        "Website": "https://www.vogueandcode.com/"
+      },
+      {
+        "GitHub": "https://github.com/aprilspeight"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/aprilspeight"
+      }
+    ]
   }
 }
