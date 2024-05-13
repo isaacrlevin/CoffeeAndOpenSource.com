@@ -108,6 +108,5 @@ guests_refs:
 - marc-duiker
 - eric-lippert
 - joe-guadagno
-- laura-bell
 - zach-wasserman
 ---

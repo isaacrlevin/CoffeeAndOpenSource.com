@@ -3024,45 +3024,6 @@
       }
     ]
   },
-  "laura-bell": {
-    "PartitionKey": "laura-bell",
-    "RowKey": 20240514,
-    "DateTimeAsString": "05/14/2024, 2:00:00 PM",
-    "DateTimeUTC": "2024-05-14T21:00:00.000Z",
-    "GuestName": "Laura Bell Main",
-    "GuestHandle": "https://twitter.com/lady_nerd",
-    "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
-    "Topic": "The Security of Open Source",
-    "GuestBio": "Laura Bell Main is a global leader in developing secure software.<br /><br />With over twenty years of experience in software development and cyber security, she is the co-author of 'Agile Application Security' (O’Reilly Media)  and 'Security for Everyone' (Holloway). Her work has been featured in many international publications, including  WIRED and MIT Tech Review.<br /><br />She is an experienced keynote and conference speaker, presenting at BlackHat USA, RenderATL, and leading international software development and cyber security conferences.<br /><br />As the CEO of SafeStack, a leading secure development education platform, she helps software development leaders worldwide engage their entire team in building secure software.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "Twitter": "https://twitter.com/lady_nerd"
-      },
-      {
-        "Website": "https://www.laurabellmain.com/"
-      },
-      {
-        "LinkedIn": "https://www.linkedin.com/in/lauradbell/"
-      },
-      {
-        "YouTube": "https://www.youtube.com/channel/UC362_Rj5kWlwG0rmJINMYDQ"
-      },
-      {
-        "GitHub": "https://github.com/ladynerd"
-      }
-    ],
-    "Links": [
-      {
-        "SafeStack": "https://safestack.io/"
-      }
-    ]
-  },
   "zach-wasserman": {
     "PartitionKey": "zach-wasserman",
     "RowKey": 20240625,
