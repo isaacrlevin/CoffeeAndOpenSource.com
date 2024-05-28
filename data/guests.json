@@ -2995,14 +2995,14 @@
     "GuestName": "Joe Guadagno",
     "GuestHandle": "https://twitter.com/jguadagno",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "hKzN2RVFuMY",
     "Topic": "Open Source through the Years",
-    "GuestBio": "Joe Guadagno is a currently Vice President of IT for RT². He has been writing software for over 20 years, has been an active member of the .NET community, serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years. He has spoken through the United States and international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer, Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Twitter at @jguadagno, Facebook at JosephGuadagnoNet, and on his blog at https://www.josephguadagno.net.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Joe Guadagno is a currently Vice President of IT for RT². He has been writing software for over 20 years, has been an active member of the .NET community, serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years. He has spoken through the United States and international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer, Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6A0M9a5s6qiWQwLK5dLv7n",
+    "APLink": "https://podcasts.apple.com/us/podcast/joe-guadagno/id1589875016?i=1000657079251",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/b39d8baf-bd8e-40f4-b196-130559573e9a/coffee-and-open-source-joe-guadagno",
     "Socials": [
       {
         "Twitter": "https://twitter.com/jguadagno"
