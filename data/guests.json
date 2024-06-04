@@ -2917,7 +2917,7 @@
     "IsPublished": false,
     "YouTubeVideoId": "",
     "Topic": "OSS with Dapr",
-    "GuestBio": "",
+    "GuestBio": "Marc is a Sr Developer Advocate at Diagrid with a strong focus on event-driven architectures. He loves helping developers to achieve more every day.<br /><br />You might have seen Marc at a developer meetup or conference, since he's a regular speaker and event-organizer in the area of Dapr, Azure cloud, and serverless technologies. From 2019 to 2024 Marc received the Microsoft Azure MVP award for his community contributions.<br /><br />In his spare time, Marc likes to give attention to the creative part of his brain. He likes to create pixel art (check out VSCode Pets), code visuals & music, and create an occasional retro game.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "APLink": "",
@@ -2947,7 +2947,7 @@
     ],
     "Links": [
       {
-        "Dapr": "https://github.com/JasperFx"
+        "Diagrid": "https://www.diagrid.io/"
       },
       {
         "Marc's Pixel Art": "https://www.bonfire.com/store/pixelart/"
