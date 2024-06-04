@@ -3149,5 +3149,101 @@
         "LinkedIn": "https://www.linkedin.com/in/aprilspeight"
       }
     ]
+  },
+  "jamie-taylor": {
+    "PartitionKey": "jamie-taylor",
+    "RowKey": 20240706,
+    "DateTimeAsString": "07/06/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-07-06T18:00:00.000Z",
+    "GuestName": "Jamie Taylor",
+    "GuestHandle": "https://twitter.com/podcasterJay",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Doing an Open Source Podcast",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/podcasterJay"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@gaprogman"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/jamie-taylor-rjj-software/"
+      }
+    ],
+    "Links": [
+      {
+        "The Modern .NET Show": "https://dotnetcore.show/"
+      }
+    ]
+  },
+  "david-giard": {
+    "PartitionKey": "david-giard",
+    "RowKey": 20240709,
+    "DateTimeAsString": "07/09/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-07-09T18:00:00.000Z",
+    "GuestName": "David Giard",
+    "GuestHandle": "https://twitter.com/DavidGiard",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Being a friend in tech",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/DavidGiard"
+      }
+    ],
+    "Links": [
+      {
+        "Technology and Friends Podcast": "https://www.youtube.com/@technologyandfriends2860"
+      }
+    ]
+  },
+  "emily-freeman": {
+    "PartitionKey": "emily-freeman",
+    "RowKey": 20240723,
+    "DateTimeAsString": "07/23/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-07-23T18:00:00.000Z",
+    "GuestName": "Emily Freeman",
+    "GuestHandle": "https://twitter.com/editingemily",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "",
+    "GuestBio": "DevRel as a Business",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/editingemily"
+      },
+      {
+        "Website": "https://emilyfreeman.io/"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@emilyfreeman"
+      }
+    ],
+    "Links": [
+      {
+        "Giving a Tech Talk": "https://givingatechtalk.com/"
+      },
+      {
+        "DevOps for Dummies": "https://www.amazon.com/DevOps-Dummies-Computer-Tech/dp/1119552222/ref=as_li_ss_tl"
+      }
+    ]
   }
 }

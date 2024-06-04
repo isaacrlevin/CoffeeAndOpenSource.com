@@ -112,4 +112,7 @@ guests_refs:
 - david-ebbo
 - april-yoho
 - april-speight
+- david-giard
+- emily-freeman
+- jamie-taylor
 ---
