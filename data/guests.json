@@ -3065,9 +3065,9 @@
   },
   "david-ebbo": {
     "PartitionKey": "david-ebbo",
-    "RowKey": 20240611,
-    "DateTimeAsString": "06/11/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-06-11T18:00:00.000Z",
+    "RowKey": 20240806,
+    "DateTimeAsString": "08/06/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-08-06T18:00:00.000Z",
     "GuestName": "David Ebbo",
     "GuestHandle": "https://twitter.com/davidebbo",
     "GuestLink": "",
