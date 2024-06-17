@@ -3093,9 +3093,9 @@
   },
   "april-yoho": {
     "PartitionKey": "april-yoho",
-    "RowKey": 20240618,
-    "DateTimeAsString": "06/18/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-06-18T18:00:00.000Z",
+    "RowKey": 20240813,
+    "DateTimeAsString": "08/13/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-08-13T18:00:00.000Z",
     "GuestName": "April Yoho",
     "GuestHandle": "https://twitter.com/TheAprilYoho",
     "GuestLink": "",
