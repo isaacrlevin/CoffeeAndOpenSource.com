@@ -3150,39 +3150,6 @@
       }
     ]
   },
-  "jamie-taylor": {
-    "PartitionKey": "jamie-taylor",
-    "RowKey": 20240706,
-    "DateTimeAsString": "07/06/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-07-06T18:00:00.000Z",
-    "GuestName": "Jamie Taylor",
-    "GuestHandle": "https://twitter.com/podcasterJay",
-    "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
-    "Topic": "Doing an Open Source Podcast",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "Twitter": "https://twitter.com/podcasterJay"
-      },
-      {
-        "Mastodon": "https://hachyderm.io/@gaprogman"
-      },
-      {
-        "LinkedIn": "https://www.linkedin.com/in/jamie-taylor-rjj-software/"
-      }
-    ],
-    "Links": [
-      {
-        "The Modern .NET Show": "https://dotnetcore.show/"
-      }
-    ]
-  },
   "david-giard": {
     "PartitionKey": "david-giard",
     "RowKey": 20240709,
