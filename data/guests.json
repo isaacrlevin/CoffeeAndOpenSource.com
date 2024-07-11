@@ -3121,9 +3121,9 @@
   },
   "april-speight": {
     "PartitionKey": "april-speight",
-    "RowKey": 20240716,
-    "DateTimeAsString": "07/16/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-07-16T18:00:00.000Z",
+    "RowKey": 20240821,
+    "DateTimeAsString": "08/21/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-08-21T18:00:00.000Z",
     "GuestName": "April Speight",
     "GuestHandle": "https://twitter.com/vogueandcode",
     "GuestLink": "",
@@ -3194,7 +3194,7 @@
     "IsPublished": false,
     "YouTubeVideoId": "",
     "Topic": "Being a friend in tech",
-    "GuestBio": "",
+    "GuestBio": "David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over three decades. Currently, David helps people design and build solutions in his role as a Partner Solution Architect at Microsoft. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups around the world; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV shows Technology and Friends and GCast. He is the co-author of the Wrox book Real World .NET, C#, and Silverlight. You can read his latest thoughts at DavidGiard.com. His hobbies include video, photography, sports, and embarrassing his sons.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "APLink": "",
@@ -3202,6 +3202,12 @@
     "Socials": [
       {
         "Twitter": "https://twitter.com/DavidGiard"
+      },
+      {
+        "Website": "https://davidgiard.com/"
+      },
+      {
+        "GitHub": "https://github.com/DavidGiard/"
       }
     ],
     "Links": [
