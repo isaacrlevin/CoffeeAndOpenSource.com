@@ -3032,14 +3032,14 @@
     "GuestName": "Zach Wasserman",
     "GuestHandle": "https://twitter.com/thezachw",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "7Ud6sI4uBTc",
     "Topic": "Open Source Security Tools",
     "GuestBio": "Zach is a serial entrepreneur, engineer, and cofounder of Fleet, where he works to unlock the full potential of osquery for enterprise and open-source customers. He brings the vision and experience of co-creating and working with osquery since the earliest design documents at Facebook in 2014. He has served as a member of the Linux Foundation osquery Technical Steering Committee since its inception in 2019. Prior to Fleet, Zach founded open-source security consultancy Dactiv,  and co-founded endpoint security company Kolide. Zach graduated Summa Cum Laude with a BSE in computer science from the University of Pennsylvania where he conducted wireless security research and lectured on the Python programming language.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7HF5LsXxLOX5MTOIAWQKm2",
+    "APLink": "https://podcasts.apple.com/us/podcast/zach-wasserman/id1589875016?i=1000660224507",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a04c7863-8a9c-4ada-93b8-88190292941f/coffee-and-open-source-zach-wasserman",
     "Socials": [
       {
         "Twitter": "https://twitter.com/thezachw"
@@ -3147,39 +3147,6 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/aprilspeight"
-      }
-    ]
-  },
-  "jamie-taylor": {
-    "PartitionKey": "jamie-taylor",
-    "RowKey": 20240706,
-    "DateTimeAsString": "07/06/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-07-06T18:00:00.000Z",
-    "GuestName": "Jamie Taylor",
-    "GuestHandle": "https://twitter.com/podcasterJay",
-    "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
-    "Topic": "Doing an Open Source Podcast",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "Twitter": "https://twitter.com/podcasterJay"
-      },
-      {
-        "Mastodon": "https://hachyderm.io/@gaprogman"
-      },
-      {
-        "LinkedIn": "https://www.linkedin.com/in/jamie-taylor-rjj-software/"
-      }
-    ],
-    "Links": [
-      {
-        "The Modern .NET Show": "https://dotnetcore.show/"
       }
     ]
   },
