@@ -3191,14 +3191,14 @@
     "GuestName": "Emily Freeman",
     "GuestHandle": "https://twitter.com/editingemily",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "Hac0O8aXvi8",
     "Topic": "DevRel as a Business",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Emily Freeman believes the greatest challenges we face aren’t technical, but human. She is a bestselling author of two books, DevOps for Dummies and 97 Things Every Cloud Engineer Should Know, and a prolific speaker, traveling across the globe to educate executives and engineers on the best approaches to AI, DevOps, and cloud engineering. <br /><br />Emily has been studying, leading, and shaping the developer journey for the last 15 years. She has led developer relations and product marketing at AWS, Microsoft, and cutting-edge startups. Her mission is to transform technology organizations by creating company cultures in which diverse, collaborative teams can thrive.<br /><br />Emily’s work has been featured in outlets such as Bloomberg, SiliconANGLE, and the New Stack. She is widely recognized as a thoughtful, entertaining, and professional keynote speaker. Emily is best known for her creative approach to identifying and solving the human challenges of software engineering. It is rare in the technology industry to find individuals equally adept with code and words, but her career has been defined by precisely that combination.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7Jmz3Bzej71Nnk7NIKosAr",
+    "APLink": "https://podcasts.apple.com/us/podcast/emily-freeman/id1589875016?i=1000663128443",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/5b085259-663e-4cf5-a15e-3504cb3051e5/coffee-and-open-source-emily-freeman",
     "Socials": [
       {
         "Twitter": "https://twitter.com/editingemily"
