@@ -3218,5 +3218,38 @@
         "DevOps for Dummies": "https://www.amazon.com/DevOps-Dummies-Computer-Tech/dp/1119552222/ref=as_li_ss_tl"
       }
     ]
+  },
+  "jamie-taylor": {
+    "PartitionKey": "jamie-taylor",
+    "RowKey": 20240827,
+    "DateTimeAsString": "08/27/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-08-27T18:00:00.000Z",
+    "GuestName": "Jamie Taylor",
+    "GuestHandle": "https://twitter.com/podcasterJay",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Podcasting about Open Source",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/podcasterJay"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@gaprogman"
+      },
+      {
+        "GitHub": "https://github.com/GaProgMan"
+      }
+    ],
+    "Links": [
+      {
+        "Modern .NET Show": "https://dotnetcore.show/"
+      }
+    ]
   }
 }
