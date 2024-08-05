@@ -3121,9 +3121,9 @@
   },
   "april-speight": {
     "PartitionKey": "april-speight",
-    "RowKey": 20240821,
-    "DateTimeAsString": "08/21/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-08-21T18:00:00.000Z",
+    "RowKey": 20240919,
+    "DateTimeAsString": "09/19/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-09-19T18:00:00.000Z",
     "GuestName": "April Speight",
     "GuestHandle": "https://twitter.com/vogueandcode",
     "GuestLink": "",
