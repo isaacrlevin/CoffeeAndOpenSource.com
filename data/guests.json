@@ -3059,7 +3059,7 @@
         "Fleet": "https://fleetdm.com/"
       },
       {
-        "osquery":"https://www.osquery.io/"
+        "osquery": "https://www.osquery.io/"
       }
     ]
   },
@@ -3071,14 +3071,14 @@
     "GuestName": "David Ebbo",
     "GuestHandle": "https://twitter.com/davidebbo",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "f_f3-Z8VwYE",
     "Topic": "Building Tools for Open Source Developers",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "David is a software engineer who spent most of his career in the Seattle area, working at Microsoft and Google. He has contributed to a range of products over the years, including ASP.NET, NuGet, Azure App Service, Azure Functions, Microsoft Office and Google Cloud infrastructure.<br /><br />He now lives in Paris, near where he grew up, and is currently taking a break from corporate life. In addition to family life, he spends his time trail running, playing pickleball, and contributing to various OSS projects to keep his coding skills sharp!",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4Tk5ipfhai9awO3hyQy4eH",
+    "APLink": "https://podcasts.apple.com/us/podcast/david-ebbo/id1589875016?i=1000664528498",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/d4955c0e-7958-4de8-8b45-57fdb742ce5d/coffee-and-open-source-david-ebbo",
     "Socials": [
       {
         "Twitter": "https://twitter.com/davidebbo"
@@ -3088,6 +3088,9 @@
       },
       {
         "GitHub": "https://github.com/davidebbo"
+      },
+      {
+        "Mastodon": "https://infosec.exchange/@DavidEbbo"
       }
     ]
   },
@@ -3121,9 +3124,9 @@
   },
   "april-speight": {
     "PartitionKey": "april-speight",
-    "RowKey": 20240919,
-    "DateTimeAsString": "09/19/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-09-19T18:00:00.000Z",
+    "RowKey": 20240926,
+    "DateTimeAsString": "09/26/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-09-26T18:00:00.000Z",
     "GuestName": "April Speight",
     "GuestHandle": "https://twitter.com/vogueandcode",
     "GuestLink": "",
