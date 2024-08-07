@@ -115,4 +115,5 @@ guests_refs:
 - david-giard
 - emily-freeman
 - jamie-taylor
+- chris-demars
 ---

@@ -3254,5 +3254,33 @@
         "Modern .NET Show": "https://dotnetcore.show/"
       }
     ]
+  },
+  "chris-demars": {
+    "PartitionKey": "chris-demars",
+    "RowKey": 20240903,
+    "DateTimeAsString": "09/03/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-09-03T18:00:00.000Z",
+    "GuestName": "Chris DeMars",
+    "GuestHandle": "https://twitter.com/saltnburnem",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Open Source Accessibility",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/saltnburnem"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/chrisdemars/"
+      },
+      {
+        "GitHub": "https://github.com/chrisdemars"
+      }
+    ]
   }
 }
