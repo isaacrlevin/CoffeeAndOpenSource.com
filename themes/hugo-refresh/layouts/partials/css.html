@@ -2,7 +2,7 @@
 {{- $scss      := "style.scss" -}}
 {{- $cssTarget := "css/style.css" -}}
 
-{{- $cssOpts   := cond (.Site.IsServer) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") -}}
+{{- $cssOpts   := cond (hugo.IsServer) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") -}}
 {{- $font1     := replace .Site.Params.mainPage.fontFamily " " "+" -}}
 {{- $font2     := replace .Site.Params.sidebar.fontFamily " " "+" -}}
 {{- $font3     := replace .Site.Params.navbar.fontFamily " " "+" -}}
