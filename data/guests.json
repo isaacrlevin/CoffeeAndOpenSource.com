@@ -3102,14 +3102,14 @@
     "GuestName": "April Yoho",
     "GuestHandle": "https://twitter.com/TheAprilYoho",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "3a_U_2R_mr4",
     "Topic": "Open Source DevOps and Cloud",
     "GuestBio": "April is a senior developer advocate and DevOps practice lead at GitHub, specializing in application transformation and DevOps ways of working. Her focus is to take customers of a journey from legacy technology, to serverless and containers, where code comes first, while enabling them to take full advantage of DevOps practices.<br /><br />In April’s spare time she spends time outdoors hiking, skiing or scuba diving.  She is also a triathlete competing in Ironman and Half Ironman triathlons.<br /><br />April is often asked to present at events to showcase the latest GitHub and Microsoft technologies and also to present live demos that are industry specific and applicable to real life use cases.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/52rDe3hB8ShEPER0TzMYzX",
+    "APLink": "https://podcasts.apple.com/us/podcast/april-yoho/id1589875016?i=1000665188012",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/e7a42c62-92f6-4810-8377-4d85ce1ce5b3/coffee-and-open-source-april-yoho",
     "Socials": [
       {
         "Twitter": "https://twitter.com/TheAprilYoho"
