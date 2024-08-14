@@ -69,8 +69,9 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_MANGO_STONE_0F92CBF1E }}
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
           action: "upload"
-          app_location: "/" # App source code path
-          app_artifact_location: "public" # Built app content directory - optional
+          output_location: ''
+          app_location: "public" # App source code path
+          skip_app_build: true
 
       - uses: smapiot/send-tweet-v2-action@v1
         name: Send Tweet
