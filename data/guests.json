@@ -3282,5 +3282,38 @@
         "GitHub": "https://github.com/chrisdemars"
       }
     ]
+  },
+  "lukas-gentele": {
+    "PartitionKey": "lukas-gentele",
+    "RowKey": 20240910,
+    "DateTimeAsString": "09/10/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-09-10T18:00:00.000Z",
+    "GuestName": "Lukas Gentele",
+    "GuestHandle": "https://twitter.com/LukasGentele",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Anyone can use Kubernetes",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/LukasGentele"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/gentele/"
+      }
+    ],
+    "Links": [
+      {
+        "Loft Labs": "https://www.loft.sh/"
+      },
+      {
+        "DevSpace": "https://www.devspace.sh/"
+      }
+    ]
   }
 }
