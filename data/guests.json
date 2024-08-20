@@ -3315,5 +3315,32 @@
         "DevSpace": "https://www.devspace.sh/"
       }
     ]
+  },
+  "tanmai-gopal": {
+    "PartitionKey": "tanmai-gopal",
+    "RowKey": 20241001,
+    "DateTimeAsString": "10/01/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-10-01T18:00:00.000Z",
+    "GuestName": "Tanmai Gopal",
+    "GuestHandle": "https://twitter.com/tanmaigo",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Making the API Developer Experience Better",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/tanmaigo"
+      }
+    ],
+    "Links": [
+      {
+        "Hasura": "https://hasura.io/"
+      }
+    ]
   }
 }
