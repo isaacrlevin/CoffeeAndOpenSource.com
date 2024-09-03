@@ -3263,14 +3263,14 @@
     "GuestName": "Chris DeMars",
     "GuestHandle": "https://twitter.com/saltnburnem",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "LJ8oUEzZHxs",
     "Topic": "Open Source Accessibility",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Chris DeMars is a Senior Developer Advocate at DigitalOcean. He has over 20 years of technical experience and speaks globally on various frontend topics and has received accolades for his community contributions, including the prestigious Microsoft MVP and Progress Champion awards. Chris is passionate about enhancing web development and helping developers achieve their goals. In his free time, he enjoys writing blog posts, rating Detroit-style pizza, and investigating UFO's.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1BOFEMR9QqyvD506DdWoqa",
+    "APLink": "https://podcasts.apple.com/us/podcast/chris-demars/id1589875016?i=1000668219831",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/303b1ca4-caf0-4ebf-b171-7a4f9cec4a25/coffee-and-open-source-chris-demars",
     "Socials": [
       {
         "Twitter": "https://twitter.com/saltnburnem"
