@@ -3291,14 +3291,14 @@
     "GuestName": "Lukas Gentele",
     "GuestHandle": "https://twitter.com/LukasGentele",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "Ggt_njQmXvM",
     "Topic": "Anyone can use Kubernetes",
     "GuestBio": "Lukas Gentele is the co-founder and CEO of Loft Labs. Loft delivers Kubernetes-native tools, functionality and frameworks purpose-built for platform engineers to manage, activate and optimize their platform stack. Gentele is an experienced platform engineering innovator, committed to delivering solutions that empower platform teams to build seamlessly on Kubernetes. Prior to Loft, Gentele served as the co-founder and CEO at covexo GmbH and Webmans. He holds a Bachelor of Science in Computer Science and Information Systems, and a Master of Science, Computer Science & Management of Enterprise Information Systems, both from the University of Mannheim.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7AhtQhEulsQpbXdq4rpnAb",
+    "APLink": "https://podcasts.apple.com/us/podcast/lukas-gentele/id1589875016?i=1000669069348",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/f2d5a703-a885-4d57-a137-3d6558d2940c/coffee-and-open-source-lukas-gentele",
     "Socials": [
       {
         "Twitter": "https://twitter.com/LukasGentele"
