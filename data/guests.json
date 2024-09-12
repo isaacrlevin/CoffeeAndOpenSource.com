@@ -3224,9 +3224,9 @@
   },
   "jamie-taylor": {
     "PartitionKey": "jamie-taylor",
-    "RowKey": 20241008,
-    "DateTimeAsString": "10/08/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-10-08T18:00:00.000Z",
+    "RowKey": 20241015,
+    "DateTimeAsString": "10/15/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-10-15T18:00:00.000Z",
     "GuestName": "Jamie Taylor",
     "GuestHandle": "https://twitter.com/podcasterJay",
     "GuestLink": "",
