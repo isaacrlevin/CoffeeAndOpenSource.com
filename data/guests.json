@@ -3342,5 +3342,35 @@
         "Hasura": "https://hasura.io/"
       }
     ]
+  },
+  "tessa-kriesel": {
+    "PartitionKey": "tessa-kriesel",
+    "RowKey": 20241022,
+    "DateTimeAsString": "10/22/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-10-22T18:00:00.000Z",
+    "GuestName": "Tessa Kriesel",
+    "GuestHandle": "https://twitter.com/tessak22",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Developer Experience as a Business",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/tessak22"
+      },
+      {
+        "Website": "https://www.tessakriesel.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Built For Dev": "https://www.builtfor.dev/"
+      }
+    ]
   }
 }
