@@ -3130,14 +3130,14 @@
     "GuestName": "April Speight",
     "GuestHandle": "https://twitter.com/vogueandcode",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "LVtbUCL_3zk",
     "Topic": "Open Source and Artificial Intelligence",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "April Speight began her career as a menswear stylist and visual merchandiser for brands such as Club Monaco, Saks, and Neiman Marcus. She graduated with a BS in Global Business & Public Policy from the University of Maryland and subsequently embarked on a career transition into tech. To close out her former career in fashion, she completed her Masters in Luxury & Fashion Management at the Savannah College of Art and Design - with a focus on the luxury automobile and luxury marijuana sectors. <br /><br />In her spare time, she began to learn Python in hopes of becoming a data scientist. With a change of heart, she chose to focus on AI assistants, chat bots, and conversational design. <br /><br />Always curious and always learning, she witnessed a life changing demo at a Microsoft event that set her on a new path in Extended Reality (XR). In 2020, she joined the Cloud Advocacy organization at Microsoft as a Sr. Cloud Advocate for Spatial Computing.<br /><br />From 2020 - 2022, April became a thought leader in the XR space promoting safety, diversity, and inclusivity in the design of XR experiences. She served as the former Director of Community & Education for the XR Safety Initiative (XRSI), advising partners on XR curriculum.<br /><br />Internally at Microsoft, she worked alongside the former Mixed Reality and MRTK teams. She created various XR samples, technical learning content, and was part of the team that won Silver in the 2021 Telly Awards for Remote Production – Non-Broadcast for Microsoft One Dev Question with April Speight. Before her transition to the Cloud Advocacy leadership team, April hosted the 2022 Mixed Reality Dev Days and collaborated with the current Microsoft Mesh team. <br /><br />Today, she resides in Los Angeles as a Principal Cloud Advocate at Microsoft focused on Generative AI.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2ttQS7WuE9ymGt1USeCmBt",
+    "APLink": "https://podcasts.apple.com/us/podcast/april-speight/id1589875016?i=1000670832217",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/45bbeff6-9952-4762-8636-c67cdb5e5857/coffee-and-open-source-april-speight",
     "Socials": [
       {
         "Twitter": "https://twitter.com/vogueandcode"
@@ -3150,6 +3150,14 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/aprilspeight"
+      }
+    ],
+    "Links": [
+      {
+        "Bite-Size Python": "https://www.wiley.com/en-us/Bite+Size+Python%3A+An+Introduction+to+Python+Programming-p-9781119643814"
+      },
+      {
+        "Visual Studio Code for Python Programmers": "https://www.wiley.com/en-us/Visual+Studio+Code+for+Python+Programmers-p-9781119773368"
       }
     ]
   },
@@ -3354,7 +3362,7 @@
     "IsPublished": false,
     "YouTubeVideoId": "",
     "Topic": "Developer Experience as a Business",
-    "GuestBio": "",
+    "GuestBio": "Tessa Kriesel is the CEO of Built for Devs, where she fast-tracks developer tools from idea to essential. With over a decade in DevRel leadership at companies like Snap Inc. and Twitter, Tessa coaches early-stage startups and enterprises to build developer programs that drive adoption, innovation, and revenue. Her unique approach combines deep technical knowledge with strategic marketing, helping dev tools become indispensable parts of developers' workflows. A former engineering manager and self-taught open-source developer, Tessa bridges the gap between technical innovation and business success in the dev tools ecosystem.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "APLink": "",
