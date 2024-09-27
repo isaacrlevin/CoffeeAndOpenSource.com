@@ -3380,5 +3380,44 @@
         "Built For Dev": "https://www.builtfor.dev/"
       }
     ]
+  },
+  "mathias-buus-madsen": {
+    "PartitionKey": "mathias-buus-madsen",
+    "RowKey": 20241105,
+    "DateTimeAsString": "11/05/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-11-05T18:00:00.000Z",
+    "GuestName": "Mathias Buus Madsen",
+    "GuestHandle": "https://twitter.com/mafintosh",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Developer Experience as a Business",
+    "GuestBio": "As CEO of Holepunch, Mathias brings his passion and extensive expertise in open-source development to the fore, having published more than 1000 modules to npm, the Node.js package manager, totalling billions of downloads every month.<br /><br /><br />Mathias Buus is a self taught JavaScript hacker from Copenhagen. He works full time on open source projects and has been working with Node.js since the 0.2 days. Mathias likes to work with P2P and distributed systems and is the author of more than 550 modules on npm, including some of the most popular ones for working with streams. In addition he has spoken about “mad science” projects at various conferences around the world.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/mafintosh"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/mathiasbuus"
+      },
+      {
+        "GitHub": "https://github.com/mafintosh"
+      },
+      {
+        "Website": "https://mafinto.sh/"
+      }
+    ],
+    "Links": [
+      {
+        "Pear Runtime": "https://pears.com/"
+      },
+      {
+        "Keet": "https://keet.io/"
+      }
+    ]
   }
 }
