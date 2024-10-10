@@ -7,7 +7,7 @@
     </tr>
     </thead>
     <tbody>
-        {{ $dataJ := getJSON "/data/guests.json" }}
+        {{ $dataJ := .Site.Data.guests }}
         {{ $sortOrder := "asc"}}
         {{if (eq ($.Get 0) "previous" )}}
         {{ $sortOrder = "desc"}}

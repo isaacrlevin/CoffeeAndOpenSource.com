@@ -9,7 +9,7 @@
         <section class="section content has-text-justified">
           {{ $url := urls.Parse .Permalink}}
           {{ if eq $url.Path "/streams.html" }}
-          {{ $dataJ := getJSON "/data/guests.json" }}
+          {{ $dataJ := .Site.Data.guests }}
           <h2>
             <span id="guest"></span> - Recorded
             <span id="dt" class="formatdate"></span> on Twitch</h2>
