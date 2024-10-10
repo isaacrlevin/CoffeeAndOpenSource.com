@@ -3326,9 +3326,9 @@
   },
   "tanmai-gopal": {
     "PartitionKey": "tanmai-gopal",
-    "RowKey": 20241029,
-    "DateTimeAsString": "10/29/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-10-29T18:00:00.000Z",
+    "RowKey": 20241203,
+    "DateTimeAsString": "12/03/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-12-03T18:00:00.000Z",
     "GuestName": "Tanmai Gopal",
     "GuestHandle": "https://twitter.com/tanmaigo",
     "GuestLink": "",
