@@ -3238,14 +3238,14 @@
     "GuestName": "Jamie Taylor",
     "GuestHandle": "https://twitter.com/podcasterJay",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "9BIi1QtnVy0",
     "Topic": "Podcasting about Open Source",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Jamie is a software developer with 14 years' experience, a Microsoft MVP, 'Most Visionary Software Development & Consultancy Managing Director' awardee for 2023, and a skilled podcaster with 5 years in engaging content creation.<br /><br />With a versatile tech toolkit, Jamie crafts tailored solutions, while his MVP status showcases his community commitment. His visionary leadership drives excellence, and his podcasting journey reflects his prowess in relatable communication. An inspiring multi-faceted professional, Jamie embodies dedication, innovation, and impactful change.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4ic4dYaMLQ1DR0TRbNAAkX",
+    "APLink": "https://podcasts.apple.com/us/podcast/jamie-taylor/id1589875016?i=1000673214321",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/55379d5f-dba4-4005-915c-bdf8f2a6e34d/coffee-and-open-source-jamie-taylor",
     "Socials": [
       {
         "Twitter": "https://twitter.com/podcasterJay"
