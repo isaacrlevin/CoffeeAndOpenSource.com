@@ -3359,14 +3359,14 @@
     "GuestName": "Tessa Kriesel",
     "GuestHandle": "https://twitter.com/tessak22",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "n7ZjuLqEJJ8",
     "Topic": "Developer Experience as a Business",
     "GuestBio": "Tessa Kriesel is the CEO of Built for Devs, where she fast-tracks developer tools from idea to essential. With over a decade in DevRel leadership at companies like Snap Inc. and Twitter, Tessa coaches early-stage startups and enterprises to build developer programs that drive adoption, innovation, and revenue. Her unique approach combines deep technical knowledge with strategic marketing, helping dev tools become indispensable parts of developers' workflows. A former engineering manager and self-taught open-source developer, Tessa bridges the gap between technical innovation and business success in the dev tools ecosystem.",
-    "HaveAudio": false,
+    "HaveAudio": true,
     "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/tessa-kriesel/id1589875016?i=1000674052808",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/f58ecc93-0e88-434b-a35c-1f342f523a3c/coffee-and-open-source-tessa-kriesel",
     "Socials": [
       {
         "Twitter": "https://twitter.com/tessak22"
@@ -3417,6 +3417,37 @@
       },
       {
         "Keet": "https://keet.io/"
+      }
+    ]
+  },
+  "magnus-martensson": {
+    "PartitionKey": "magnus-martensson",
+    "RowKey": 20241126,
+    "DateTimeAsString": "11/26/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-11-26T18:00:00.000Z",
+    "GuestName": "Magnus Mårtensson",
+    "GuestHandle": "https://twitter.com/noopman",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Helping Customers with Technology",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Twitter": "https://twitter.com/noopman"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/noopman/"
+      },
+      {
+        "GitHub": "https://github.com/noopman"
+      },
+      {
+        "Website": "https://about.me/noopman"
       }
     ]
   }
