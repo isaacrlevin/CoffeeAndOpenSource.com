@@ -3383,9 +3383,9 @@
   },
   "mathias-buus-madsen": {
     "PartitionKey": "mathias-buus-madsen",
-    "RowKey": 20241105,
-    "DateTimeAsString": "11/05/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-11-05T18:00:00.000Z",
+    "RowKey": 20241119,
+    "DateTimeAsString": "11/19/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-11-19T18:00:00.000Z",
     "GuestName": "Mathias Buus Madsen",
     "GuestHandle": "https://twitter.com/mafintosh",
     "GuestLink": "",
