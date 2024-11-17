@@ -64,18 +64,24 @@
       </ul>
       {{ end }}
       {{ if .Socials }}
-      <p>
+        <p>
           You can find {{ index (split .GuestName " ") 0 }} on the following sites:
         </p>
         <ul>
-        {{ range $value := .Socials }}
+        <div style="text-align: center;">
+          {{ range $value := .Socials }}
           {{ range $elem_key, $elem_val := $value }}
-            <li>
-              <a href="{{ $elem_val }}" target="_blank">{{ $elem_key }}</a>
+            <li style="display: inline-block; margin-right: 10px;">
+              <a href="{{ $elem_val }}" target="_blank">
+              {{ if or (eq $elem_key "Blog") (eq $elem_key "Website") }}
+                <img src="/images/blog-icon.png" alt="{{ $elem_key }}" width="50px" title="{{ $elem_key }}">
+              {{ else }}
+                <img src="https://cdn.simpleicons.org/{{ $elem_key }}/black/white" alt="{{ $elem_key}}" width="50px" title="{{ $elem_key }}" onerror="this.style.display='none'">
+              {{ end }} </a>
             </li>
           {{ end }}
         {{ end }}
-      </ul>
+            </ul>
       {{ end }}
       <br />
       {{ if or (.SpotifyLink) (.YouTubeVideoId) (.APLink) (.AmazonLink) }}

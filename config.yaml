@@ -152,9 +152,9 @@ params:
     youtube:
       link: UCNalR7W6RGI0jVS_ZeIEQzA
       title: YouTube Channel
-    discord:
-      link: zGPSsY
-      title: Coffee & Open Source
+    # discord:
+    #   link: zGPSsY
+    #   title: Coffee & Open Source
     # option to specify your instagram username in the footer;
     # **uncomment** the below lines to show in footer
     # instagram:
