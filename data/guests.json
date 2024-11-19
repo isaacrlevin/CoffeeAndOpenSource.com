@@ -3389,14 +3389,14 @@
     "GuestName": "Mathias Buus Madsen",
     "GuestHandle": "https://twitter.com/mafintosh",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "p7cs3nKsFoo",
     "Topic": "Developer Experience as a Business",
-    "GuestBio": "As CEO of Holepunch, Mathias brings his passion and extensive expertise in open-source development to the fore, having published more than 1000 modules to npm, the Node.js package manager, totalling billions of downloads every month.<br /><br /><br />Mathias Buus is a self taught JavaScript hacker from Copenhagen. He works full time on open source projects and has been working with Node.js since the 0.2 days. Mathias likes to work with P2P and distributed systems and is the author of more than 550 modules on npm, including some of the most popular ones for working with streams. In addition he has spoken about “mad science” projects at various conferences around the world.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "As CEO of Holepunch, Mathias brings his passion and extensive expertise in open-source development to the fore, having published more than 1000 modules to npm, the Node.js package manager, totalling billions of downloads every month.<br /><br />Mathias Buus is a self taught JavaScript hacker from Copenhagen. He works full time on open source projects and has been working with Node.js since the 0.2 days. Mathias likes to work with P2P and distributed systems and is the author of more than 550 modules on npm, including some of the most popular ones for working with streams. In addition he has spoken about “mad science” projects at various conferences around the world.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2lhdLWeiBXwSeBc6gimAij",
+    "APLink": "https://podcasts.apple.com/us/podcast/mathias-buus-madsen/id1589875016?i=1000677531175",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/1265b567-91c0-4d82-842e-d605fc68bc87/coffee-and-open-source-mathias-buus-madsen",
     "Socials": [
       {
         "X": "https://twitter.com/mafintosh"
