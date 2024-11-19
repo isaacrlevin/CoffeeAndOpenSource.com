@@ -2,16 +2,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
-{{ $guest := index site.Data.guests .Page.Title }}
+{{ $guest := index site.Data.guests (lower .Page.Title) }}
+
+
 
     <meta property="og:url"  content="{{- .Permalink -}}" />
     <meta property="og:type" content="article" />
     {{- $title := replace .Title '"' ' ' -}}
-    {{ if $guest.Guest}}
-    <meta property="og:title" content="{{- $guest.Guest -}}" />
-    {{else}}
+    {{ if $guest.GuestName }}
+    <meta property="og:title" content="{{- $guest.GuestName -}}" />
+    {{ else }}
     <meta property="og:title" content="{{- $title -}}" />
-    {{end}}
+    {{ end }}
     {{- if $guest.GuestBio -}}
     <meta property="og:description" content="{{ $guest.GuestBio }}" />
     {{- else -}}
