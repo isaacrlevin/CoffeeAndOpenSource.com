@@ -3420,22 +3420,22 @@
       }
     ]
   },
-  "magnus-martensson": {
-    "PartitionKey": "magnus-martensson",
+  "magnus-mårtensson": {
+    "PartitionKey": "magnus-mårtensson",
     "RowKey": 20241126,
     "DateTimeAsString": "11/26/2024, 11:00:00 AM",
     "DateTimeUTC": "2024-11-26T18:00:00.000Z",
     "GuestName": "Magnus Mårtensson",
     "GuestHandle": "https://twitter.com/noopman",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "r27wFzQfEjY",
     "Topic": "Helping Customers with Technology",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Magnus Mårtensson is an entrepreneur, a Microsoft Most Valuable Professional (MVP) for Azure since the start of the cloud, and a Microsoft Regional Director (RD). He is a consultant, architect, product development lead, and he runs his own company Loftysoft. As an international speaker Magnus travels the world to teach, network, learn, and experience. His passions include connecting with audiences and organizing conferences such as CloudBurst and GlobalAzure. He is of course also very into good food, wine, and great company. Topping it all is mind-sharing, so when you see him at a conference, come over and say hi!",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/21lLYGSLMMrVGEen0OIBVk",
+    "APLink": "https://podcasts.apple.com/us/podcast/magnus-m%C3%A5rtensson/id1589875016?i=1000678326019",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a0e8762e-a3c8-4204-95ef-aee12dece170/coffee-and-open-source-magnus-m%C3%A5rtensson",
     "Socials": [
       {
         "X": "https://twitter.com/noopman"

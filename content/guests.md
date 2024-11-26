@@ -120,6 +120,6 @@ guests_refs:
 - tanmai-gopal
 - tessa-kriesel
 - mathias-buus-madsen
-- magnus-martensson
+- magnus-mårtensson
 - giorgi-dalakishvili
 ---
