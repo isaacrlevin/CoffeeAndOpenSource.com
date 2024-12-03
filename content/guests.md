@@ -122,4 +122,6 @@ guests_refs:
 - mathias-buus-madsen
 - magnus-mårtensson
 - giorgi-dalakishvili
+- jeramiah-dooley
+- michelle-sandford
 ---

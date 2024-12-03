@@ -3326,9 +3326,9 @@
   },
   "tanmai-gopal": {
     "PartitionKey": "tanmai-gopal",
-    "RowKey": 20241203,
-    "DateTimeAsString": "12/03/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-12-03T18:00:00.000Z",
+    "RowKey": 20250114,
+    "DateTimeAsString": "01/14/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-01-14T18:00:00.000Z",
     "GuestName": "Tanmai Gopal",
     "GuestHandle": "https://twitter.com/tanmaigo",
     "GuestLink": "",
@@ -3479,6 +3479,73 @@
       },
       {
         "Website": "https://www.giorgi.dev/"
+      }
+    ]
+  },
+  "jeramiah-dooley": {
+    "PartitionKey": "jeramiah-dooley",
+    "RowKey": 20241217,
+    "DateTimeAsString": "12/17/2024, 11:00:00 AM",
+    "DateTimeUTC": "2024-12-17T18:00:00.000Z",
+    "GuestName": "Jeramiah Dooley",
+    "GuestHandle": "https://bsky.app/profile/jeramiah.net",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Open Source and Trains",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/jeramiah.net"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/jeramiah/"
+      },
+      {
+        "GitHub": "https://github.com/jdooley-clt"
+      }
+    ]
+  },
+  "michelle-sandford": {
+    "PartitionKey": "michelle-sandford",
+    "RowKey": 20250107,
+    "DateTimeAsString": "01/07/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-01-07T18:00:00.000Z",
+    "GuestName": "Michelle Sandford",
+    "GuestHandle": "https://bsky.app/profile/codess-aus.bsky.social",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Open Source and Trains",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "X": "https://x.com/codess_aus"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/codess-aus.bsky.social"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/michellesandford"
+      },
+      {
+        "GitHub": "https://github.com/codess-aus/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/c/MichelleSandford"
+      }
+    ],
+    "Links": [
+      {
+        "Tech Outsiders": "https://techoutsiders.com.au/"
       }
     ]
   }
