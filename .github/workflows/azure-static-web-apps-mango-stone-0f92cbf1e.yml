@@ -104,6 +104,7 @@ jobs:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
 
       - name: Post to Bluesky
+        if: env.FUNCTION == 'PUBLISH' && always()
         uses: myConsciousness/bluesky-post@v5
         with:
           text: "Had a great time chatting with ${{ env.BLUESKY }} on @coffeeandopensource.com today about all kinds of #tech topics. Video is live on #youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/guest/${{ env.LINK }}.html"
