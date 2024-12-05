@@ -24,11 +24,13 @@ jobs:
           link=$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
           twitter=$(awk 'BEGIN{FS=OFS="|"} {print $3}' <<< ${commit})
           mastodon=$(awk 'BEGIN{FS=OFS="|"} {print $4}' <<< ${commit})
-          name=$(awk 'BEGIN{FS=OFS="|"} {print $5}' <<< ${commit})
+          bluesky=$(awk 'BEGIN{FS=OFS="|"} {print $5}' <<< ${commit})
+          name=$(awk 'BEGIN{FS=OFS="|"} {print $6}' <<< ${commit})
 
           echo "FUNCTION=$function" >> $GITHUB_ENV
           echo "TWITTER=$twitter" >> $GITHUB_ENV
           echo "MASTODON=$mastodon" >> $GITHUB_ENV
+          echo "BLUESKY=$bluesky" >> $GITHUB_ENV
           echo "LINK=$link" >> $GITHUB_ENV
           echo "NAME=$name" >> $GITHUB_ENV
 
@@ -37,6 +39,7 @@ jobs:
           echo "Name: ${{ env.NAME}}"
           echo "Twitter: ${{ env.TWITTER}}"
           echo "Mastodon: ${{ env.MASTODON}}"
+          echo "Bluesky: ${{ env.BLUESKY}}"
           echo "Link: ${{ env.LINK}}"
 
       - name: Check Twitter Handle
@@ -50,6 +53,12 @@ jobs:
         run: |
           echo "MASTODON=${{ env.NAME }}" >> $GITHUB_ENV
           echo "Mastodon is ${{ env.MASTODON }}"
+
+      - name: Check Bluesky Handle
+        if: env.BLUESKY == ''
+        run: |
+          echo "BLUESKY=${{ env.NAME }}" >> $GITHUB_ENV
+          echo "Bluesky is ${{ env.BLUESKY }}"
 
       - uses: actions/checkout@v2
 
@@ -93,6 +102,14 @@ jobs:
         env:
           MASTODON_URL: "https://fosstodon.org/" # https://example.social
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
+
+      - name: Post to Bluesky
+        uses: myConsciousness/bluesky-post@v5
+        with:
+          text: "Had a great time chatting with ${{ env.BLUESKY }} on @coffeeandopensource.com today about all kinds of #tech topics. Video is live on #youtube and podcast is available wherever you find them. Take a look/listen and thanks! https://www.coffeeandopensource.com/guest/${{ env.LINK }}.html"
+          link-preview-url: "https://www.coffeeandopensource.com/guest/${{ env.LINK }}.html"
+          identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
+          password: ${{ secrets.BLUESKY_PASSWORD }}
 
       - name: Post to LinkedIn
         if: env.FUNCTION == 'PUBLISH' && always()
