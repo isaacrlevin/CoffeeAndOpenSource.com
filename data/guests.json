@@ -3453,9 +3453,9 @@
   },
   "giorgi-dalakishvili": {
     "PartitionKey": "giorgi-dalakishvili",
-    "RowKey": 20241210,
-    "DateTimeAsString": "12/10/2024, 11:00:00 AM",
-    "DateTimeUTC": "2024-12-10T18:00:00.000Z",
+    "RowKey": 20250127,
+    "DateTimeAsString": "01/27/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-01-27T18:00:00.000Z",
     "GuestName": "Giorgi Dalakishvili",
     "GuestHandle": "https://twitter.com/GioDalakishvili",
     "GuestLink": "",
