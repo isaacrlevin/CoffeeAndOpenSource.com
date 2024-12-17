@@ -3490,14 +3490,14 @@
     "GuestName": "Jeramiah Dooley",
     "GuestHandle": "https://bsky.app/profile/jeramiah.net",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "gOJkIletFt4",
     "Topic": "Open Source and Trains",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Jeramiah Dooley (he/him) leads the advocacy team focused on Enterprise customers, making sure that the product and content are aligned for organizations who are using GitHub every day. For more than 19 years he has spent his career at the intersection of 'enterprise' and 'what's next' and is excited to focus on bringing the best experience possible to developers and platform teams.<br /><br />Prior to GitHub, Jeramiah led the advocacy efforts around serverless container services at AWS, and was a Principal Cloud Advocate in Azure Engineering, leading the team that supported Enterprise Platforms and Tools. Jeramiah was also the Manager of NetApp’s Global Technical Pursuit team, focusing on helping customers and partners architect next generation solutions using their entire portfolio, focusing on VMware, OpenStack, and container integrations.<br /><br />Jeramiah also has worked in the healthcare, legal and service provider industries.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7G8nPOxJYZ2YofRpJzqjtd",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeramiah-dooley/id1589875016?i=1000680743747",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/540a2f09-2b30-4c76-a08c-7deb07bd2bc8/coffee-and-open-source-jeramiah-dooley",
     "Socials": [
       {
         "Bluesky": "https://bsky.app/profile/jeramiah.net"
@@ -3546,6 +3546,45 @@
     "Links": [
       {
         "Tech Outsiders": "https://techoutsiders.com.au/"
+      }
+    ]
+  },
+  "dennis-doomen": {
+    "PartitionKey": "dennis-doomen",
+    "RowKey": 20250107,
+    "DateTimeAsString": "02/03/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-02-03T18:00:00.000Z",
+    "GuestName": "Dennis Doomen",
+    "GuestHandle": "https://bsky.app/profile/dennisdoomen.com",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Popular OSS Projects",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "X": "https://twitter.com/ddoomen"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/dennisdoomen.com"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/dennisdoomen"
+      },
+      {
+        "GitHub": "https://github.com/dennisdoomen"
+      },
+      {
+        "Blog": "https://www.dennisdoomen.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Fluent Assertions": "https://www.fluentassertions.com/"
       }
     ]
   }
