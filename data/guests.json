@@ -3538,11 +3538,20 @@
       },
       {
         "YouTube": "https://www.youtube.com/c/MichelleSandford"
+      },
+      {
+        "Linktree": "https://linktr.ee/codess_aus"
       }
     ],
     "Links": [
       {
-        "Tech Outsiders": "https://techoutsiders.com.au/"
+        "Microsoft Training": "https://learn.microsoft.com/en-us/training/"
+      },
+      {
+        "Code; Without Barriers": "https://www.microsoft.com/en-sg/codewithoutbarriers/"
+      },
+      {
+        "Responsible AI": "https://www.microsoft.com/en-us/ai/responsible-ai"
       }
     ]
   },
