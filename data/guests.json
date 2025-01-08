@@ -3518,18 +3518,15 @@
     "GuestName": "Michelle Sandford",
     "GuestHandle": "https://bsky.app/profile/codess-aus.bsky.social",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "jHT0_oLZfTI",
     "Topic": "Building Open Source Community",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "This is Michelle in her own words.<br /><br />I am the Developer Engagement Lead for Microsoft in Asia as well as a Tedx Speaker, developer community mentor, Microsoftie and international conference Speaker. I live at the heart of the coding community and help drive awareness and engagement as a developer advocate and technology evangelist. I advocate for STEM, the Games Industry and Developers",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/14hMABBH0u3qzCA3QKlcOp",
+    "APLink": "https://podcasts.apple.com/us/podcast/michelle-sandford/id1589875016?i=1000683073893",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c8b1fecc-ae2b-49cb-9d0d-8cb8e1c0cc26/coffee-and-open-source-michelle-sandford",
     "Socials": [
-      {
-        "X": "https://x.com/codess_aus"
-      },
       {
         "Bluesky": "https://bsky.app/profile/codess-aus.bsky.social"
       },
