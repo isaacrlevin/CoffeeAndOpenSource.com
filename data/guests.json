@@ -3557,7 +3557,7 @@
   },
   "dennis-doomen": {
     "PartitionKey": "dennis-doomen",
-    "RowKey": 20250107,
+    "RowKey": 20250203,
     "DateTimeAsString": "02/03/2025, 11:00:00 AM",
     "DateTimeUTC": "2025-02-03T18:00:00.000Z",
     "GuestName": "Dennis Doomen",
@@ -3591,6 +3591,78 @@
     "Links": [
       {
         "Fluent Assertions": "https://www.fluentassertions.com/"
+      }
+    ]
+  },
+  "misty-miller": {
+    "PartitionKey": "misty-miller",
+    "RowKey": 20250218,
+    "DateTimeAsString": "02/18/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-02-18T18:00:00.000Z",
+    "GuestName": "Misty Miller",
+    "GuestHandle": "https://bsky.app/profile/mistymadonna.bsky.social",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Open Source Tools",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/mistymadonna.bsky.social"
+      },
+      {
+        "Linktree": "https://linktr.ee/mistymadonna"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@computersagain"
+      },
+      {
+        "Substack": "https://mistymadonna.substack.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Retro Tech Show": "https://learn.microsoft.com/en-us/shows/retro-tech/"
+      },
+      {
+        "Interview with Encarta Developer Lead": "https://medium.com/@mistymadonna/q-a-my-interview-with-microsoft-encarta-developer-lead-56d1ff054ec6"
+      }
+    ]
+  },
+  "keith-pitt": {
+    "PartitionKey": "keith-pitt",
+    "RowKey": 20250401,
+    "DateTimeAsString": "04/01/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-04-01T18:00:00.000Z",
+    "GuestName": "Misty Miller",
+    "GuestHandle": "@keithpitt",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Evolving CI/CD Platforms",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/keithpitt"
+      },
+      {
+        "X": "https://x.com/keithpitt"
+      },
+      {
+        "GitHub": "https://github.com/keithpitt"
+      }
+    ],
+    "Links": [
+      {
+        "Buildkite": "https://buildkite.com/"
       }
     ]
   }

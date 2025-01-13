@@ -125,4 +125,6 @@ guests_refs:
 - jeramiah-dooley
 - michelle-sandford
 - dennis-doomen
+- misty-miller
+- keith-pitt
 ---
