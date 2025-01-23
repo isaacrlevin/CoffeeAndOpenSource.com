@@ -3698,5 +3698,38 @@
         "Session": "https://getsession.org/"
       }
     ]
+  },
+  "maxim-fateev": {
+    "PartitionKey": "maxim-fateev",
+    "RowKey": 20250318,
+    "DateTimeAsString": "03/18/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-03-18T18:00:00.000Z",
+    "GuestName": "Maxim Fateev",
+    "GuestHandle": "@mfateev",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Invincible Applications",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/fateev/"
+      },
+      {
+        "X": "https://x.com/mfateev"
+      },
+      {
+        "GitHub": "https://github.com/mfateev"
+      }
+    ],
+    "Links": [
+      {
+        "Temporal": "https://temporal.io/"
+      }
+    ]
   }
 }
