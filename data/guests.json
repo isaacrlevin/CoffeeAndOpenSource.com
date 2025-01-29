@@ -3453,9 +3453,9 @@
   },
   "giorgi-dalakishvili": {
     "PartitionKey": "giorgi-dalakishvili",
-    "RowKey": 20250127,
-    "DateTimeAsString": "01/27/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-01-27T18:00:00.000Z",
+    "RowKey": 20250211,
+    "DateTimeAsString": "02/11/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-02-11T18:00:00.000Z",
     "GuestName": "Giorgi Dalakishvili",
     "GuestHandle": "https://twitter.com/GioDalakishvili",
     "GuestLink": "",
@@ -3479,6 +3479,11 @@
       },
       {
         "Website": "https://www.giorgi.dev/"
+      }
+    ],
+    "Links": [
+      {
+        "EFCore.Visualizer": "https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer"
       }
     ]
   },
