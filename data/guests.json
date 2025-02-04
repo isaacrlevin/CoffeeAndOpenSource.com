@@ -3562,9 +3562,9 @@
   },
   "dennis-doomen": {
     "PartitionKey": "dennis-doomen",
-    "RowKey": 20250222,
-    "DateTimeAsString": "02/22/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-02-22T18:00:00.000Z",
+    "RowKey": 20250303,
+    "DateTimeAsString": "03/03/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-03-03T18:00:00.000Z",
     "GuestName": "Dennis Doomen",
     "GuestHandle": "https://bsky.app/profile/dennisdoomen.com",
     "GuestLink": "",
