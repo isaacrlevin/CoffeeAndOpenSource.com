@@ -3459,14 +3459,14 @@
     "GuestName": "Giorgi Dalakishvili",
     "GuestHandle": "https://twitter.com/GioDalakishvili",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "V5zokS3esss",
     "Topic": "Open Source and Data Sources",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Giorgi is a software developer with almost two decades of experience. He works mainly with C#, ASP.NET Core, Entity Framework Core and .NET MAUI.<br /><br />Giorgi is an open-source author and contributor on GitHub, a Microsoft MVP, and a member of the .NET Foundation.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0Kiw6jfyCXL2XCyi5J45Bw",
+    "APLink": "https://podcasts.apple.com/us/podcast/giorgi-dalakishvili/id1589875016?i=1000691202306",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c52285dd-b0c7-48b0-8fd7-de4ecaf70ef8/coffee-and-open-source-giorgi-dalakishvili",
     "Socials": [
       {
         "X": "https://twitter.com/GioDalakishvili"
@@ -3484,6 +3484,12 @@
     "Links": [
       {
         "EFCore.Visualizer": "https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer"
+      },
+      {
+        "EFCore.Visualizer Repo":"https://github.com/Giorgi/EFCore.Visualizer"
+      },
+      {
+        "EntityFramework.Exceptions Repo":"https://github.com/Giorgi/EntityFramework.Exceptions/"
       }
     ]
   },
