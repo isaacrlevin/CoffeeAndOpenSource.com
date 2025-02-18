@@ -3680,8 +3680,8 @@
   "kee-jefferys": {
     "PartitionKey": "kee-jefferys",
     "RowKey": 20250226,
-    "DateTimeAsString": "02/26/2025, 3:00:00 PM",
-    "DateTimeUTC": "2025-02-26T22:00:00.000Z",
+    "DateTimeAsString": "02/26/2025, 4:00:00 PM",
+    "DateTimeUTC": "2025-02-26T23:00:00.000Z",
     "GuestName": "Kee Jefferys",
     "GuestHandle": "@JefferysKee",
     "GuestLink": "",
