@@ -3607,9 +3607,9 @@
   },
   "misty-miller": {
     "PartitionKey": "misty-miller",
-    "RowKey": 20250218,
-    "DateTimeAsString": "02/18/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-02-18T18:00:00.000Z",
+    "RowKey": 20250618,
+    "DateTimeAsString": "06/18/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-06-18T18:00:00.000Z",
     "GuestName": "Misty Miller",
     "GuestHandle": "https://bsky.app/profile/mistymadonna.bsky.social",
     "GuestLink": "",
@@ -3740,6 +3740,28 @@
     "Links": [
       {
         "Temporal": "https://temporal.io/"
+      }
+    ]
+  },
+  "ralph-squillace": {
+    "PartitionKey": "ralph-squillace",
+    "RowKey": 20250408,
+    "DateTimeAsString": "04/08/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-04-08T18:00:00.000Z",
+    "GuestName": "Ralph Squillace",
+    "GuestHandle": "@squillace.bsky.social",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Open Source on Azure",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/squillace.bsky.social"
       }
     ]
   }
