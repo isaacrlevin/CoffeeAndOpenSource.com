@@ -126,8 +126,8 @@ guests_refs:
 - michelle-sandford
 - dennis-doomen
 - misty-miller
-- keith-pitt
 - kee-jefferys
 - maxim-fateev
 - ralph-squillace
+- spriha-tucker
 ---

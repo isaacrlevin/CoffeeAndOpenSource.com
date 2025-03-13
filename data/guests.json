@@ -3644,39 +3644,6 @@
       }
     ]
   },
-  "keith-pitt": {
-    "PartitionKey": "keith-pitt",
-    "RowKey": 20250401,
-    "DateTimeAsString": "04/01/2025, 4:00:00 PM",
-    "DateTimeUTC": "2025-04-01T23:00:00.000Z",
-    "GuestName": "Keith Pitt",
-    "GuestHandle": "@keithpitt",
-    "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
-    "Topic": "Evolving CI/CD Platforms",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "LinkedIn": "https://www.linkedin.com/in/keithpitt"
-      },
-      {
-        "X": "https://x.com/keithpitt"
-      },
-      {
-        "GitHub": "https://github.com/keithpitt"
-      }
-    ],
-    "Links": [
-      {
-        "Buildkite": "https://buildkite.com/"
-      }
-    ]
-  },
   "kee-jefferys": {
     "PartitionKey": "kee-jefferys",
     "RowKey": 20250226,
@@ -3762,6 +3729,39 @@
     "Socials": [
       {
         "Bluesky": "https://bsky.app/profile/squillace.bsky.social"
+      }
+    ]
+  },
+  "spriha-tucker": {
+    "PartitionKey": "spriha-tucker",
+    "RowKey": 20250429,
+    "DateTimeAsString": "04/29/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-04-29T18:00:00.000Z",
+    "GuestName": "Spriha Tucker",
+    "GuestHandle": "@SprihaTucker",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Invincible Applications",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/spriha-tucker/"
+      },
+      {
+        "X": "https://x.com/SprihaTucker"
+      },
+      {
+        "GitHub": "https://github.com/sprihatucker"
+      }
+    ],
+    "Links": [
+      {
+        "Buildkit": "https://buildkite.com/"
       }
     ]
   }
