@@ -3685,14 +3685,14 @@
     "GuestName": "Maxim Fateev",
     "GuestHandle": "@mfateev",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "tvWLontpmls",
     "Topic": "Building Invincible Applications",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Maxim has spent the last 25 years building massive distributed systems for Amazon, Microsoft, Google, and Uber. Among other things, he led the design and development of the AWS SQS backend, and AWS Simple Workflow Service. At Uber, Maxim led the effort on open source projects Cherami and Cadence Workflow.<br /><br />Since October of 2019, Maxim has been the CEO/Cofounder of Temporal Technologies. Its flagship open source project temporal.io is redefining the way large-scale reliable applications are developed and operated.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3SWJstR36W4Gfdnq6N5oi7?si=dfe67bf740e844b6",
+    "APLink": "https://podcasts.apple.com/us/podcast/maxim-fateev/id1589875016?i=1000699706650",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/fccc5543-08bf-4542-8aca-bf6bbb37e194/coffee-and-open-source-maxim-fateev",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/fateev/"

@@ -61,6 +61,7 @@ jobs:
           method: POST
           contentType: "application/json"
           data: "${{ env.LINK }}"
+          timeout: 12000
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
