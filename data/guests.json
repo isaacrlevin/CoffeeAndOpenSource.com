@@ -3720,5 +3720,69 @@
         "Buildkit": "https://buildkite.com/"
       }
     ]
+  },
+  "maddy-montaquila": {
+    "PartitionKey": "maddy-montaquila",
+    "RowKey": 20250422,
+    "DateTimeAsString": "04/22/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-04-22T18:00:00.000Z",
+    "GuestName": "Maddy Montaquila",
+    "GuestHandle": "@maddymontaquila.net",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": ".NET Aspire is Open Source",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/maddymontaquila.net"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/maddyleger1/"
+      },
+      {
+        "X": "https://x.com/maddymontaquila"
+      },
+      {
+        "GitHub": "https://github.com/maddymontaquila"
+      }
+    ]
+  },
+  "paul-stack": {
+    "PartitionKey": "paul-stack",
+    "RowKey": 20250513,
+    "DateTimeAsString": "05/13/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-05-13T18:00:00.000Z",
+    "GuestName": "Paul Stack",
+    "GuestHandle": "@stack72",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "DevOps and Systems Thinking",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/stack72/"
+      },
+      {
+        "X": "https://x.com/stack72"
+      },
+      {
+        "GitHub": "https://github.com/maddymontaquila"
+      }
+    ],
+    "Links": [
+      {
+        "System Initiative": "https://www.systeminit.com/"
+      }
+    ]
   }
 }

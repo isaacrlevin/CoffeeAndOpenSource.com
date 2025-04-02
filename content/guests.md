@@ -129,4 +129,6 @@ guests_refs:
 - maxim-fateev
 - ralph-squillace
 - spriha-tucker
+- maddy-montaquila
+- paul-stack
 ---
