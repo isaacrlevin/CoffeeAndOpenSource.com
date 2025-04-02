@@ -3600,45 +3600,6 @@
       }
     ]
   },
-  "misty-miller": {
-    "PartitionKey": "misty-miller",
-    "RowKey": 20250618,
-    "DateTimeAsString": "06/18/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-06-18T18:00:00.000Z",
-    "GuestName": "Misty Miller",
-    "GuestHandle": "https://bsky.app/profile/mistymadonna.bsky.social",
-    "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
-    "Topic": "Building Open Source Tools",
-    "GuestBio": "Misty Miller is a seasoned software engineer with 17 years of experience in the tech industry, currently shaping the future of developer tools at Microsoft. Over her nearly seven-year tenure at the company, she has contributed to key projects, including Visual Studio, profiling tools, and VisualStudio.com. Today, she focuses on building Azure tools for Visual Studio Code and GitHub Copilot, enhancing the developer experience with cutting-edge AI and cloud technologies.<br /><br />A self-proclaimed problem solver, Misty thrives on tackling ambiguous challenges. Her career has spanned a diverse range of roles—from writing JavaScript as a web developer to mobile app development, then moving into microservices, API development, and writing Go. Her curiosity and adaptability have also led her to exciting opportunities in machine learning, robotics, and even space technology.<br /><br />Beyond her work at Microsoft, Misty has left her mark across various industries. At Nordstrom, she used machine learning to recommend items from Nordstrom based on trending outfit suggestions from Pinterest. She also programmed a BB-8 droid using Gobot/Golang to interact with customers in Nordstrom stores. Her career path includes software engineering roles at Apple, General Electric, and AT&T, and she even built websites for multi–Grammy Award-winning music producer Timbaland.<br /><br /><br /><br />Misty’s technical expertise isn’t limited to modern software—she has a deep love for retro computers and is the host of Retro Tech, a show exploring nostalgic tech topics like Encarta and Windows Phone. She also has an upcoming podcast that will further dive into technology’s past, present, and future.<br /><br />Her passion for creative technology extends to the world of hackathons, where she was part of a team that won Best Use of Hardware, the Intel Award, and People’s Choice Global Nominee in the NASA Space Apps Hackathon in Seattle. Their project focused on gamifying exercise for astronauts in space.<br /><br />Misty holds a master’s degree in design, blending her technical skills with a keen eye for user experience and creativity. Whether she’s building the future of developer tools, geeking out over vintage tech, or finding new ways to push the boundaries of software engineering, Misty Miller is always on the hunt for the next big challenge.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
-    "Socials": [
-      {
-        "Bluesky": "https://bsky.app/profile/mistymadonna.bsky.social"
-      },
-      {
-        "Linktree": "https://linktr.ee/mistymadonna"
-      },
-      {
-        "YouTube": "https://www.youtube.com/@computersagain"
-      },
-      {
-        "Substack": "https://mistymadonna.substack.com/"
-      }
-    ],
-    "Links": [
-      {
-        "Retro Tech Show": "https://learn.microsoft.com/en-us/shows/retro-tech/"
-      },
-      {
-        "Interview with Encarta Developer Lead": "https://medium.com/@mistymadonna/q-a-my-interview-with-microsoft-encarta-developer-lead-56d1ff054ec6"
-      }
-    ]
-  },
   "kee-jefferys": {
     "PartitionKey": "kee-jefferys",
     "RowKey": 20250226,
@@ -3729,9 +3690,9 @@
   },
   "spriha-tucker": {
     "PartitionKey": "spriha-tucker",
-    "RowKey": 20250429,
-    "DateTimeAsString": "04/29/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-04-29T18:00:00.000Z",
+    "RowKey": 20250802,
+    "DateTimeAsString": "08/05/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-08-05T18:00:00.000Z",
     "GuestName": "Spriha Tucker",
     "GuestHandle": "@SprihaTucker",
     "GuestLink": "",

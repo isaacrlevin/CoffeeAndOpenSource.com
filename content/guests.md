@@ -125,7 +125,6 @@ guests_refs:
 - jeramiah-dooley
 - michelle-sandford
 - dennis-doomen
-- misty-miller
 - kee-jefferys
 - maxim-fateev
 - ralph-squillace
