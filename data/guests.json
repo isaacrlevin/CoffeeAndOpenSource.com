@@ -3784,5 +3784,28 @@
         "System Initiative": "https://www.systeminit.com/"
       }
     ]
+  },
+  "dave-grundgeiger": {
+    "PartitionKey": "dave-grundgeiger",
+    "RowKey": 20250415,
+    "DateTimeAsString": "04/15/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-04-15T18:00:00.000Z",
+    "GuestName": "Dave Grundgeiger",
+    "GuestHandle": "",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building Software for a Living",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/davegrundgeiger/"
+      }
+
+    ]
   }
 }
