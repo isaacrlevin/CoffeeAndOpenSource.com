@@ -3807,5 +3807,39 @@
       }
 
     ]
+  },
+  "david-whitney": {
+    "PartitionKey": "david-whitney",
+    "RowKey": 20250429,
+    "DateTimeAsString": "04/29/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-04-29T18:00:00.000Z",
+    "GuestName": "David Whitney",
+    "GuestHandle": "",
+    "GuestLink": "davidwhitney.co.uk",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Open Source is Metal",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/davidwhitney.co.uk"
+      },
+      {
+        "X": "http://twitter.com/david_whitney"
+      },
+      {
+        "Mastodon": "https://mastodon.social/@david_whitney"
+      },
+      {
+        "Threads":"https://threads.net/@davidwhitneycouk"
+      },
+      {
+        "GitHub": "http://github.com/davidwhitney"
+      }
+    ]
   }
 }
