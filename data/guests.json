@@ -3815,14 +3815,14 @@
     "GuestName": "David Whitney",
     "GuestHandle": "",
     "GuestLink": "davidwhitney.co.uk",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "FK6DdD5ke9Y",
     "Topic": "Open Source is Metal",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "David is the Director of Architecture for NewDay, and the founder of Electric Head Software. Focusing on iterative software delivery, developer mentoring and cultural change - mostly working with London-based organisations.<br /><br />He speaks about software design, culture, and ethics in technology - rounded out by an assortment of talks about software that probably doesn't need to exist but makes the world a little more fun. David has previously served as the chief coding technical architect for JustGiving and helped market-leading organisations including JUST-EAT, Trainline and Vodafone improve their technical capabilities.<br /><br />David is a Microsoft MVP, has been part of the OpenUK Honours list for open-source advocacy, and is a twice bestselling author of children's books about programming.<br /><br />There's a chance you've seen him talk at a spread of conferences, user groups and code-dojos around the UK over the last decade or indulged in bar-room programming debates after one.<br /><br />You can find his open-source projects on NuGet, npm and GitHub, follow him on BlueSky @davidwhitney.co.uk, or check out his technical blog at www.davidwhitney.co.uk/Blog.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5c0cu2nEX28R08J7cNiOnu",
+    "APLink": "https://podcasts.apple.com/us/podcast/david-whitney/id1589875016?i=1000705450245",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/7c6b92a7-f202-468a-aa5f-cd0aafd77e7b/coffee-and-open-source-david-whitney",
     "Socials": [
       {
         "Bluesky": "https://bsky.app/profile/davidwhitney.co.uk"
