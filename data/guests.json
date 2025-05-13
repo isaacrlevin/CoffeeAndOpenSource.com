@@ -3763,23 +3763,20 @@
     "GuestName": "Paul Stack",
     "GuestHandle": "@stack72",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "mlTPSKHeiyU",
     "Topic": "DevOps and Systems Thinking",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Paul Stack is an infrastructure coder and has spoken at various events throughout the world about his passion for continuous integration, continuous delivery and good operational procedures and why they should be part of what developers and system administrators do on a day to day basis. He believes that reliably delivering software is more important as its development. Paul’s passions are the DevOps and Continuous Delivery movements and how they help the entire business and its customers.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5STMmO7dJJehXvL6k1LYOH?si=KAT8vIauRuCMwnm0pm3UNQ",
+    "APLink": "https://podcasts.apple.com/us/podcast/paul-stack/id1589875016?i=1000708369614",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/eeeaf7e8-7fe8-4b7d-93f3-d414a709c691/coffee-and-open-source-paul-stack",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/stack72/"
       },
       {
         "X": "https://x.com/stack72"
-      },
-      {
-        "GitHub": "https://github.com/maddymontaquila"
       }
     ],
     "Links": [
