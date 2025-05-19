@@ -135,4 +135,6 @@ guests_refs:
 - david-whitney
 - aravind-putrevu
 - ralph-squillace
+- shawn-wildermuth
+- chris-woodruff
 ---

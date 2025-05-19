@@ -3841,17 +3841,17 @@
       }
     ]
   },
-  "aravind-putrevu": {
-    "PartitionKey": "aravind-putrevu",
-    "RowKey": 20250520,
-    "DateTimeAsString": "05/20/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-05-20T18:00:00.000Z",
-    "GuestName": "Aravind Putrevu",
-    "GuestHandle": "@aravindputrevu",
+  "shawn-wildermuth": {
+    "PartitionKey": "shawn-wildermuth",
+    "RowKey": 20250610,
+    "DateTimeAsString": "06/10/2025, 03:00:00 PM",
+    "DateTimeUTC": "2025-06-10T22:00:00.000Z",
+    "GuestName": "Shawn Wildermuth",
+    "GuestHandle": "@shawnwildermuth",
     "GuestLink": "",
     "IsPublished": false,
     "YouTubeVideoId": "",
-    "Topic": "",
+    "Topic": "Consulting and Open Source",
     "GuestBio": "",
     "HaveAudio": false,
     "SpotifyLink": "",
@@ -3859,19 +3859,62 @@
     "AmazonLink": "",
     "Socials": [
       {
-        "Blog": "https://aravindputrevu.in/"
+        "Website": "https://wildermuth.com/en/"
       },
       {
-        "X": "https://twitter.com/aravindputrevu"
+        "X": "https://twitter.com/shawnwildermuth"
       },
       {
-        "LinkedIn": "https://linkedin.com/in/aravindputrevu"
+        "LinkedIn": "https://linkedin.com/in/shawnwildermuth"
       },
       {
-        "YouTube":"https://www.youtube.com/aravindputrevuhd"
+        "YouTube":"https://shawnl.ink/yt"
       },
       {
-        "GitHub": "https://github.com/aravindputrevu"
+        "GitHub": "https://github.com/shawnwildermuth"
+      },
+      {
+        "Bluesky": "https://shawnl.ink/bluesky"
+      },
+      {
+        "Mastodon": "https://shawnl.ink/mastodon"
+      }
+    ]
+  },
+  "chris-woodruff": {
+    "PartitionKey": "chris-woodruff",
+    "RowKey": 20250610,
+    "DateTimeAsString": "06/03/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-06-03T18:00:00.000Z",
+    "GuestName": "Chris Woody Woodruff",
+    "GuestHandle": "@cwoodruff",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Learning New Languages with Open Source",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Website": "https://woodruff.dev/"
+      },
+      {
+        "X": "https://twitter.com/cwoodruff"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/chriswoodruff/"
+      },
+      {
+        "GitHub": "https://github.com/cwoodruff"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/woodruff.dev"
+      },
+      {
+        "Mastodon": "https://mastodon.social/@cwoodruff"
       }
     ]
   }
