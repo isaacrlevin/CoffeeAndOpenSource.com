@@ -3917,5 +3917,50 @@
         "Mastodon": "https://mastodon.social/@cwoodruff"
       }
     ]
+  },
+  "aravind-putrevu": {
+    "PartitionKey": "aravind-putrevu",
+    "RowKey": 20250520,
+    "DateTimeAsString": "05/20/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-05-20T18:00:00.000Z",
+    "GuestName": "Aravind Putrevu",
+    "GuestHandle": "@aravindputrevu",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Teaching New Ways to Build Software",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Website": "https://aravindputrevu.in/"
+      },
+      {
+        "X": "https://twitter.com/aravindputrevu"
+      },
+      {
+        "LinkedIn": "https://linkedin.com/in/aravindputrevu"
+      },
+      {
+        "GitHub": "https://github.com/aravindputrevu"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/aravind.dev"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UCcxBSw-7uEhwIWew4kXzwPQ"
+      }
+    ],
+    "Links": [
+      {
+        "CodeRabbit": "https://www.coderabbit.ai/"
+      },
+      {
+        "CodeRabbit GitHub": "https://github.com/coderabbitai"
+      }
+    ]
   }
 }
