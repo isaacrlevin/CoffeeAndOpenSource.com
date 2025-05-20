@@ -3926,14 +3926,14 @@
     "GuestName": "Aravind Putrevu",
     "GuestHandle": "@aravindputrevu",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "1xJ3Js6sgYs",
     "Topic": "Teaching New Ways to Build Software",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Aravind is Director of Developer GTM at CodeRabbit, a lifelong learner and passionate technologist who transforms complex challenges into clear, engaging narratives.<br /><br />As a mentor, speaker, and open-source advocate, he champions community-driven innovation and hands-on experimentation.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6v4vjcWZkvkAn6ZAGvfEoV",
+    "APLink": "https://podcasts.apple.com/us/podcast/aravind-putrevu/id1589875016?i=1000709181162",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/8b770564-d7d4-442c-ad8a-241a0cd54b53/coffee-and-open-source-aravind-putrevu",
     "Socials": [
       {
         "Website": "https://aravindputrevu.in/"
