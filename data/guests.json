@@ -3732,14 +3732,14 @@
     "GuestName": "Maddy Montaquila",
     "GuestHandle": "@maddymontaquila.net",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "UFOhOvaHtIA",
     "Topic": ".NET Aspire is Open Source",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Maddy Montaquila (formerly Leger) is a Senior Product Manager at Microsoft and the product lead for Aspire. She’s been building dev tools at Microsoft since 2018, working across the .NET mobile stack and helping bring .NET MAUI to life. Maddy has been obsessed with making developers’ lives easier ever since her first dev tools internship, where she realized it perfectly combined her tech background with her passion for product development.<br /><br />These days, she’s focused on making modern distributed app development suck a whole lot less. Maddy’s an experienced speaker who’s presented everywhere from local user groups to major keynotes, known for bringing great energy and a genuine love for dev tools to every talk.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/6atLK38B5LCQpeOOyjnb3W",
+    "APLink": "https://podcasts.apple.com/us/podcast/maddy-montaquila/id1589875016?i=1000710161870",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/8f3211f0-aa62-4f12-b1d1-194ce5f5605b/coffee-and-open-source-maddy-montaquila",
     "Socials": [
       {
         "Bluesky": "https://bsky.app/profile/maddymontaquila.net"
