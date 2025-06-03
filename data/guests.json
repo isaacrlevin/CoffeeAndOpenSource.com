@@ -3887,22 +3887,19 @@
     "DateTimeAsString": "06/03/2025, 11:00:00 AM",
     "DateTimeUTC": "2025-06-03T18:00:00.000Z",
     "GuestName": "Chris Woody Woodruff",
-    "GuestHandle": "@cwoodruff",
+    "GuestHandle": "@woodruff.dev",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "RH8XjV52pXI",
     "Topic": "Learning New Languages with Open Source",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Chris Woodruff has been at the forefront of software development since before the first.COM boom, building a career that spans enterprise web development, cloud solutions, software analytics, and developer relations. As an Architect at Real Time Technologies, he applies his deep technical expertise to tackle complex challenges, with a particular focus on API design and scalable architectures. He is recognized as a Microsoft MVP specializing in .NET and Web Development.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3XG0sxUoKyls1UGARRlEEl?si=k6U1bdRkThi0EtsxLipa-A",
+    "APLink": "https://podcasts.apple.com/us/podcast/chris-woody-woodruff/id1589875016?i=1000711067457",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/ecf6a0aa-69cb-4b84-8a83-61517a8bf398/coffee-and-open-source-chris-woody-woodruff",
     "Socials": [
       {
         "Website": "https://woodruff.dev/"
-      },
-      {
-        "X": "https://twitter.com/cwoodruff"
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/chriswoodruff/"
