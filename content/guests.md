@@ -137,4 +137,5 @@ guests_refs:
 - ralph-squillace
 - shawn-wildermuth
 - chris-woodruff
+- kohsuke-kawaguchi
 ---

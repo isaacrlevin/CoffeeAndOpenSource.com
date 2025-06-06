@@ -3959,5 +3959,41 @@
         "CodeRabbit GitHub": "https://github.com/coderabbitai"
       }
     ]
+  },
+  "kohsuke-kawaguchi": {
+    "PartitionKey": "kohsuke-kawaguchi",
+    "RowKey": 20250812,
+    "DateTimeAsString": "08/12/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-08-12T18:00:00.000Z",
+    "GuestName": "Kohsuke Kawaguchi",
+    "GuestHandle": "@kohsukekawa",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "The Next Wave of DevOps",
+    "GuestBio": "Kohsuke Kawaguchi is a prominent software engineer, best known as the creator of Jenkins, an open-source automation server that is widely used for continuous integration and continuous delivery (CI/CD). He is currently the Co-Head of AI at leading DevOps provider, CloudBees and the former Co-CEO of Launchable, an AI platform that speeds up testing to help teams expedite their continuous integration (CI) and delivery pipelines, which was acquired by CloudBees in 2024.<br /><br /><br /><br />Kawaguchi developed Jenkins as a side project when working at Sun Microsystems in 2011. Since then, it has become an essential tool for developers and DevOps professionals around the world helping teams automate parts of software development, testing, and deployment.<br /><br />In addition to his work on Jenkins, Kawaguchi has contributed to the broader open-source community and has worked with various technologies related to software development, automation, and cloud computing. He is also known for his contributions to the world of Java and DevOps.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Website": "https://kohsuke.org/"
+      },
+      {
+        "X": "https://x.com/kohsukekawa"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/kohsukekawaguchi/"
+      },
+      {
+        "GitHub": "https://github.com/kohsuke"
+      }
+    ],
+    "Links": [
+      {
+        "CLoudBees": "https://www.cloudbees.com/"
+      }
+    ]
   }
 }
