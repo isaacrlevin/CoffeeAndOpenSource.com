@@ -3843,9 +3843,9 @@
   },
   "shawn-wildermuth": {
     "PartitionKey": "shawn-wildermuth",
-    "RowKey": 20250610,
-    "DateTimeAsString": "06/10/2025, 03:00:00 PM",
-    "DateTimeUTC": "2025-06-10T22:00:00.000Z",
+    "RowKey": 20250609,
+    "DateTimeAsString": "06/09/2025, 03:00:00 PM",
+    "DateTimeUTC": "2025-06-09T22:00:00.000Z",
     "GuestName": "Shawn Wildermuth",
     "GuestHandle": "@shawnwildermuth",
     "GuestLink": "",
