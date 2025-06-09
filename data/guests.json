@@ -3849,14 +3849,14 @@
     "GuestName": "Shawn Wildermuth",
     "GuestHandle": "@shawnwildermuth",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "ke5jsJuPVTA",
     "Topic": "Consulting and Open Source",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early '80s. He has been a Microsoft MVP since 2003. You may have taken one of his more than twenty-five courses on Pluralsight. He's authored eight books and innumerable articles on software development. You can also see him at one of the local and international conferences he's spoken at including Techorama, KCDC, Stir Trek, TechBash, DevSum, and DevConnections. ",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3s45lsxqqpr8LLrdsu17RN",
+    "APLink": "https://podcasts.apple.com/us/podcast/shawn-wildermuth/id1589875016?i=1000712169616",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/f42d9542-c064-47da-a924-7453b144f3b7/coffee-and-open-source-shawn-wildermuth",
     "Socials": [
       {
         "Website": "https://wildermuth.com/en/"
@@ -3877,13 +3877,13 @@
         "Bluesky": "https://bsky.app/profile/wildermuth.com"
       },
       {
-        "Mastodon": "@shawnwildermuth@fosstodon.org"
+        "Mastodon": "https://fosstodon.org/@shawnwildermuth"
       }
     ]
   },
   "chris-woodruff": {
     "PartitionKey": "chris-woodruff",
-    "RowKey": 20250610,
+    "RowKey": 20250603,
     "DateTimeAsString": "06/03/2025, 11:00:00 AM",
     "DateTimeUTC": "2025-06-03T18:00:00.000Z",
     "GuestName": "Chris Woody Woodruff",
