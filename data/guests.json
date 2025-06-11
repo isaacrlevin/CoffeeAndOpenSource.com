@@ -3995,5 +3995,39 @@
         "CLoudBees": "https://www.cloudbees.com/"
       }
     ]
+  },
+  "patrik-svensson": {
+    "PartitionKey": "patrik-svensson",
+    "RowKey": 20250708,
+    "DateTimeAsString": "07/08/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-07-08T18:00:00.000Z",
+    "GuestName": "Patrik Svensson",
+    "GuestHandle": "@patriksvensson.se",
+    "GuestLink": "",
+    "IsPublished": false,
+    "YouTubeVideoId": "",
+    "Topic": "Building all kinds of Open Source",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "APLink": "",
+    "AmazonLink": "",
+    "Socials": [
+      {
+        "Website": "https://patriksvensson.se/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/psvensson82/"
+      },
+      {
+        "GitHub": "https://github.com/patriksvensson"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/patriksvensson.sev"
+      },
+      {
+        "Mastodon": "https://mstdn.social/@patriksvensson"
+      }
+    ]
   }
 }

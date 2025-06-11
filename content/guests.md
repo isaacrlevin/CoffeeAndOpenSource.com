@@ -138,4 +138,5 @@ guests_refs:
 - shawn-wildermuth
 - chris-woodruff
 - kohsuke-kawaguchi
+- patrik-svensson
 ---
