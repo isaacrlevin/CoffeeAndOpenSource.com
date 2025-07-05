@@ -3998,9 +3998,9 @@
   },
   "patrik-svensson": {
     "PartitionKey": "patrik-svensson",
-    "RowKey": 20250708,
-    "DateTimeAsString": "07/08/2025, 11:00:00 AM",
-    "DateTimeUTC": "2025-07-08T18:00:00.000Z",
+    "RowKey": 20250826,
+    "DateTimeAsString": "08/26/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-08-26T18:00:00.000Z",
     "GuestName": "Patrik Svensson",
     "GuestHandle": "@patriksvensson.se",
     "GuestLink": "",
