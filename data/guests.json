@@ -4075,7 +4075,7 @@
     "IsPublished": false,
     "Topic": "The Last 5 Years of AI",
     "YouTubeVideoId": "",
-    "GuestBio": "",
+    "GuestBio": "Noelle Russell is a multi-award-winning speaker, author, and AI Executive who specializes in transforming businesses through strategic AI adoption. She is a revenue growth + cost optimization expert, 4x Microsoft Responsible AI MVP, and named the #1 Agentic AI Leader in 2025. She has led teams at NPR, Microsoft, IBM, AWS and Amazon Alexa, and is a consistent champion for Data and AI literacy and is the founder of the 'I ❤️ AI' Community teaching responsible AI for everyone.<br /><br />She is the founder of the AI Leadership Institute and empowers business owners to grow and scale with AI. In the last year, she has been named an awardee of the AI and Cyber Leadership Award from DCALive,  the #1 Thought Leader in Agentic AI and a Top 10 Global Thought Leader in Generative AI by Thinkers360.",
     "HaveAudio": false,
     "SpotifyLink": "",
     "GPLink": "",
@@ -4092,6 +4092,14 @@
       },
       {
         "X": "https://x.com/noellerussell_"
+      }
+    ],
+    "Links": [
+      {
+        "Scaling Responsible AI: From Enthusiasm to Execution": "https://www.amazon.com/Scaling-Responsible-AI-Enthusiasm-Execution/dp/1394289642"
+      },
+      {
+        "AI Leadership Institute": "https://www.skool.com/aili/about"
       }
     ]
   }
