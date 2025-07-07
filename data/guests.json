@@ -4063,5 +4063,36 @@
         "Mastodon": "https://hachyderm.io/@alvinashcraft"
       }
     ]
+  },
+  "noelle-russell": {
+    "PartitionKey": "noelle-russell",
+    "RowKey": 20250902,
+    "DateTimeAsString": "09/02/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-09-02T18:00:00.000Z",
+    "GuestName": "Noelle Russell Returns",
+    "GuestHandle": "@NoelleRussell_",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "The Last 5 Years of AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://noelle.ai/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/noelleai/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@noelleai"
+      },
+      {
+        "X": "https://x.com/noellerussell_"
+      }
+    ]
   }
 }

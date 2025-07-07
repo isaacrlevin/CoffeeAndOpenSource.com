@@ -140,4 +140,5 @@ guests_refs:
 - kohsuke-kawaguchi
 - patrik-svensson
 - alvin-ashcraft
+- noelle-russell
 ---
