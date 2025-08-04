@@ -4102,5 +4102,36 @@
         "AI Leadership Institute": "https://www.skool.com/aili/about"
       }
     ]
+  },
+  "dan-wahlin": {
+    "PartitionKey": "dan-wahlin",
+    "RowKey": 20250923,
+    "DateTimeAsString": "09/23/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-09-23T18:00:00.000Z",
+    "GuestName": "Dan Wahlin",
+    "GuestHandle": "https://x.com/DanWahlin",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://blog.codewithdan.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/danwahlin/"
+      },
+      {
+        "GitHub": "https://github.com/DanWahlin"
+      },
+      {
+        "X": "https://x.com/DanWahlin"
+      }
+    ]
   }
 }
