@@ -3699,14 +3699,14 @@
     "GuestName": "Spriha Tucker",
     "GuestHandle": "https://x.com/SprihaTucker",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "vi9heA3Q8R4",
     "Topic": "Building Invincible Applications",
     "GuestBio": "Spriha Tucker is the Field CTO at Buildkite, where she plays a pivotal role in bridging the gap between Buildkite's engineering teams and its clients. A two-time Y-Combinator founder, Spriha previously co-founded Aviator, a developer productivity platform, which served customers like Slack, Figma, Doordash, Bosch, and others. Her prior experience includes Product Management at Google on developer tools, data, infrastructure and search ads, and at Microsoft, on platform tooling. Spriha also taught as an instructor at General Assembly and spent time as a Quantitative Trader at Morgan Stanley, focusing on developing trading models and trade execution algorithms for equities. She holds a Bachelor's degree in Econometrics and a Master's in Computer Science from the University of Pennsylvania.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4PwRwhMcThunzsxRh6gAqj",
+    "APLink": "https://podcasts.apple.com/us/podcast/spriha-tucker/id1589875016?i=1000720788360",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/5c73140c-e8e2-4525-80fb-be8377ae1f07/coffee-and-open-source-spriha-tucker",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/spriha-tucker/"
