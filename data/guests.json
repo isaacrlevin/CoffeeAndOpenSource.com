@@ -4002,13 +4002,13 @@
     "DateTimeAsString": "08/26/2025, 11:00:00 AM",
     "DateTimeUTC": "2025-08-26T18:00:00.000Z",
     "GuestName": "Patrik Svensson",
-    "GuestHandle": "https://bsky.app/profile/patriksvensson.sev",
+    "GuestHandle": "https://bsky.app/profile/patriksvensson.se",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "UtqCic7TZhY",
     "Topic": "Building all kinds of Open Source",
-    "GuestBio": "",
-    "HaveAudio": false,
+    "GuestBio": "Patrik is a programmer from Sweden with over 20 years of experience, starting his journey at the age of 7 on an ABC-800 and later exploring platforms like the Commodore 64, Amiga, and PC. He has been active in the open source community since 2010 and is the creator of tools such as Cake and Spectre.Console, along with several other open source projects.</br /><br />He has a strong interest in developer tooling and devops, and enjoys working with languages like C#, Rust, and Swift. His contributions have somehow been recognized with three GitHub Star awards and seven Microsoft MVP awards (suggesting a possible clerical error or that bribes actually work).</br /><br />Outside of tech, he enjoys spending time with his family, playing guitar, and working on home improvement projects.",
+    "HaveAudio": true,
     "SpotifyLink": "",
     "APLink": "",
     "AmazonLink": "",
@@ -4023,10 +4023,13 @@
         "GitHub": "https://github.com/patriksvensson"
       },
       {
-        "Bluesky": "https://bsky.app/profile/patriksvensson.sev"
+        "Bluesky": "https://bsky.app/profile/patriksvensson.se"
       },
       {
         "Mastodon": "https://mstdn.social/@patriksvensson"
+      },
+      {
+        "X": "https://twitter.com/firstdrafthell"
       }
     ]
   },
