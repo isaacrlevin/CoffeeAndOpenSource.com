@@ -15,7 +15,7 @@ guests_refs:
 - matt-bierner
 - michael-crump
 - michelle-mannering
-- mislaz-marohnić
+- mislav-marohnić
 - mordechai-zuber
 - richard-campbell
 - roshan-jossey
@@ -136,7 +136,7 @@ guests_refs:
 - aravind-putrevu
 - ralph-squillace
 - shawn-wildermuth
-- chris-woodruff
+- chris-woody-woodruff
 - kohsuke-kawaguchi
 - patrik-svensson
 - alvin-ashcraft

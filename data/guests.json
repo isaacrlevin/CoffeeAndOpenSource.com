@@ -359,7 +359,7 @@
       }
     ]
   },
-  "mislaz-marohnić": {
+  "mislav-marohnić": {
     "PartitionKey": "mislav-marohnić",
     "RowKey": 20210203,
     "DateTimeAsString": "2/3/2021, 9:00:00 AM",
@@ -479,7 +479,7 @@
     "RowKey": 20210407,
     "DateTimeAsString": "4/07/2021, 9:00:00 AM",
     "DateTimeUTC": "2021-04-07T17:00:00.000Z",
-    "GuestName": "Jeff Bankenburg",
+    "GuestName": "Jeff Blankenburg",
     "GuestHandle": "https://x.com/jeffblankenburg",
     "GuestLink": "",
     "IsPublished": true,
@@ -3881,8 +3881,8 @@
       }
     ]
   },
-  "chris-woodruff": {
-    "PartitionKey": "chris-woodruff",
+  "chris-woody-woodruff": {
+    "PartitionKey": "chris-woody-woodruff",
     "RowKey": 20250603,
     "DateTimeAsString": "06/03/2025, 11:00:00 AM",
     "DateTimeUTC": "2025-06-03T18:00:00.000Z",
@@ -4009,9 +4009,9 @@
     "Topic": "Building all kinds of Open Source",
     "GuestBio": "Patrik is a programmer from Sweden with over 20 years of experience, starting his journey at the age of 7 on an ABC-800 and later exploring platforms like the Commodore 64, Amiga, and PC. He has been active in the open source community since 2010 and is the creator of tools such as Cake and Spectre.Console, along with several other open source projects.</br /><br />He has a strong interest in developer tooling and devops, and enjoys working with languages like C#, Rust, and Swift. His contributions have somehow been recognized with three GitHub Star awards and seven Microsoft MVP awards (suggesting a possible clerical error or that bribes actually work).</br /><br />Outside of tech, he enjoys spending time with his family, playing guitar, and working on home improvement projects.",
     "HaveAudio": true,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "SpotifyLink": "https://open.spotify.com/episode/6QyG4TdcUsN6ir2bf91R8T",
+    "APLink": "https://podcasts.apple.com/us/podcast/patrik-svensson/id1589875016?i=1000723635312",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/93902a28-3030-4227-84ae-d1bf98413559/coffee-and-open-source-patrik-svensson",
     "Socials": [
       {
         "Website": "https://patriksvensson.se/"
@@ -4075,14 +4075,14 @@
     "GuestName": "Noelle Russell Returns",
     "GuestHandle": "https://x.com/noellerussell_",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "The Last 5 Years of AI",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "EHl8Dn2kLVM",
     "GuestBio": "Noelle Russell is a multi-award-winning speaker, author, and AI Executive who specializes in transforming businesses through strategic AI adoption. She is a revenue growth + cost optimization expert, 4x Microsoft Responsible AI MVP, and named the #1 Agentic AI Leader in 2025. She has led teams at NPR, Microsoft, IBM, AWS and Amazon Alexa, and is a consistent champion for Data and AI literacy and is the founder of the 'I ❤️ AI' Community teaching responsible AI for everyone.<br /><br />She is the founder of the AI Leadership Institute and empowers business owners to grow and scale with AI. In the last year, she has been named an awardee of the AI and Cyber Leadership Award from DCALive,  the #1 Thought Leader in Agentic AI and a Top 10 Global Thought Leader in Generative AI by Thinkers360.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1CIFEFXjrlyfTQTQjz34pM",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/457194d9-0cbc-41b4-828e-b2a3e30f115d/coffee-and-open-source-noelle-russell",
+    "APLink": "https://podcasts.apple.com/us/podcast/noelle-russell/id1589875016?i=1000724636218",
     "Socials": [
       {
         "Website": "https://noelle.ai/"
