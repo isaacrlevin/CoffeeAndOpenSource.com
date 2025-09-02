@@ -51,7 +51,7 @@
       {{ end }}
       {{ if .Links }}
       <p>
-          Here are some links provided by {{ index (split .GuestName " ") 0 }}:
+          Here are some links provided by {{ index (split (title .PartitionKey) "-") 0 }}:
         </p>
         <ul>
         {{ range $value := .Links }}
@@ -65,7 +65,7 @@
       {{ end }}
       {{ if .Socials }}
         <p>
-          You can find {{ index (split .GuestName " ") 0 }} on the following sites:
+          You can find {{ index (split (title .PartitionKey) "-") 0 }} on the following sites:
         </p>
         <ul>
         <div style="text-align: center;">
@@ -135,12 +135,12 @@
     <div style="display: none;">
 {{ if .GuestBio }}{{safeHTML .GuestBio }}{{ end }}
 <br />{{ if .Socials }}
-You can find {{ index (split .GuestName " ") 0 }} on the following sites:<ul>{{ range $value := .Socials }}{{ range $elem_key, $elem_val := $value }}
+You can find {{ index (split (title .PartitionKey) "-") 0 }} on the following sites:<ul>{{ range $value := .Socials }}{{ range $elem_key, $elem_val := $value }}
   <li>
     <a href="{{ $elem_val }}" target="_blank">{{ $elem_key }}</a>
   </li>{{ end }}{{ end }}
 </ul>{{ end }}{{ if .Links }}
-Here are some links provided by {{ index (split .GuestName " ") 0 }}:<ul>
+Here are some links provided by {{ index (split (title .PartitionKey) "-") 0 }}:<ul>
         {{ range $value := .Links }}
           {{ range $elem_key, $elem_val := $value }}
   <li>
