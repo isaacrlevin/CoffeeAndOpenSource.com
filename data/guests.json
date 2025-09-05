@@ -30,7 +30,7 @@
       }
     ]
   },
-  
+
   "noelle-silver": {
     "PartitionKey": "noelle-silver",
     "RowKey": 20200722,
@@ -4135,6 +4135,40 @@
       },
       {
         "X": "https://x.com/DanWahlin"
+      }
+    ]
+  },
+  "adriana-villela": {
+    "PartitionKey": "adriana-villela",
+    "RowKey": 20251118,
+    "DateTimeAsString": "11/18/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-11-18T18:00:00.000Z",
+    "GuestName": "Adriana Villela",
+    "GuestHandle": "@adrianamvillela@hachyderm.io",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Adriana is a CNCF Ambassador, blogger, host of the Geeking Out Podcast, and a maintainer of the OpenTelemetry End User SIG. By day, she's a Principal Developer Advocate at Dynatrace, focusing on Observability and OpenTelemetry. By night, she climbs walls. She also loves capybaras, because they make her happy.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://adri-v.medium.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/adrianavillela"
+      },
+      {
+        "GitHub": "https://github.com/avillela"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@adrianamvillela"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@adrianamvillela"
       }
     ]
   }
