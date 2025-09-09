@@ -4042,14 +4042,14 @@
     "GuestName": "Alvin Ashcraft",
     "GuestHandle": "https://bsky.app/profile/alvinashcraft.com",
     "GuestLink": "",
-    "IsPublished": false,
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "YouTubeVideoId": "irKZqi56F9U",
     "Topic": "Writing Docs and Building Community",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "APLink": "",
-    "AmazonLink": "",
+    "GuestBio": "Alvin is a technical writer and software developer specializing in Microsoft technologies, specifically .NET, C#, and XAML. He has over 30 years of experience developing applications for Windows, mobile, and the web. He has authored two books for Packt Publishing and is a full-time content developer on the Windows developer docs on Microsoft Learn. His published books are 'Learn WinUI 3' and 'Parallel Programming and Concurrency with C# 10 and .NET 6'.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3SgUWBQ68ixsyJcebAAOtY",
+    "APLink": "https://podcasts.apple.com/us/podcast/alvin-ashcraft/id1589875016?i=1000725772945",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/04697484-8da9-49b1-918b-cd546e837e72/coffee-and-open-source-alvin-ashcraft",
     "Socials": [
       {
         "Website": "https://alvinashcraft.com/"
