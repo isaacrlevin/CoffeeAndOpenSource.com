@@ -4171,5 +4171,38 @@
         "YouTube": "https://www.youtube.com/@adrianamvillela"
       }
     ]
+  },
+  "brian-pontarelli": {
+    "PartitionKey": "brian-pontarelli",
+    "RowKey": 20251014,
+    "DateTimeAsString": "10/14/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-10-14T18:00:00.000Z",
+    "GuestName": "Brian Pontarelli",
+    "GuestHandle": "@bpontarelli",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Brian Pontarelli is a technology entrepreneur currently solving login, registration, and user management challenges with FusionAuth. Brian started programming at the age of 8 and studied Computer Engineering at CU Boulder. During his early career, Brian worked as a software engineer at companies such as BEA and Orbitz. He started working on his own products nights and weekends and quit his day job after selling to a few large companies. He bootstrapped the company for 16 years before selling a majority share to Updata Partners. Brian still codes, but spends most of his time focusing on growing FusionAuth and helping customers solve their auth problems.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "bpontarelli"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/voidmain/"
+      },
+      {
+        "GitHub": "https://github.com/voidmain"
+      }
+    ],
+        "Links": [
+      {
+        "FusionAuth": "https://fusionauth.io/"
+      }
+    ]
   }
 }
