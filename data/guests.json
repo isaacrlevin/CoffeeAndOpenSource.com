@@ -30,7 +30,6 @@
       }
     ]
   },
-
   "noelle-silver": {
     "PartitionKey": "noelle-silver",
     "RowKey": 20200722,
@@ -3487,10 +3486,10 @@
         "EFCore.Visualizer": "https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer"
       },
       {
-        "EFCore.Visualizer Repo":"https://github.com/Giorgi/EFCore.Visualizer"
+        "EFCore.Visualizer Repo": "https://github.com/Giorgi/EFCore.Visualizer"
       },
       {
-        "EntityFramework.Exceptions Repo":"https://github.com/Giorgi/EntityFramework.Exceptions/"
+        "EntityFramework.Exceptions Repo": "https://github.com/Giorgi/EntityFramework.Exceptions/"
       }
     ]
   },
@@ -3835,7 +3834,7 @@
         "Mastodon": "https://mastodon.social/@david_whitney"
       },
       {
-        "Threads":"https://threads.net/@davidwhitneycouk"
+        "Threads": "https://threads.net/@davidwhitneycouk"
       },
       {
         "GitHub": "http://github.com/davidwhitney"
@@ -3869,7 +3868,7 @@
         "LinkedIn": "https://linkedin.com/in/shawnwildermuth"
       },
       {
-        "YouTube":"https://www.youtube.com/c/swildermuth"
+        "YouTube": "https://www.youtube.com/c/swildermuth"
       },
       {
         "GitHub": "https://github.com/shawnwildermuth"
@@ -4199,9 +4198,45 @@
         "GitHub": "https://github.com/voidmain"
       }
     ],
-        "Links": [
+    "Links": [
       {
         "FusionAuth": "https://fusionauth.io/"
+      }
+    ]
+  },
+  "don-mackinnon": {
+    "PartitionKey": "don-mackinnon",
+    "RowKey": 20250930,
+    "DateTimeAsString": "09/30/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-09-30T18:00:00.000Z",
+    "GuestName": "Don Mackinnon",
+    "GuestHandle": "@donmackinnon.dev",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Don is the CTO and Co-Founder at Searchcraft, a developer-centric platform focused on re-imagining content search for applications. Don has spent nearly 30 years in software engineering, building applications for both startups and enterprise-scale companies.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://donmackinnon.dev/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/dmackinnon/"
+      },
+      {
+        "GitHub": "https://github.com/dmackinn"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/donmackinnon.dev"
+      }
+    ],
+    "Links": [
+      {
+        "Searchcraft": "https://searchcraft.io/"
       }
     ]
   }
