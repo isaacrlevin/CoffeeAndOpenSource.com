@@ -4114,14 +4114,14 @@
     "GuestName": "Dan Wahlin",
     "GuestHandle": "https://x.com/DanWahlin",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
+    "YouTubeVideoId": "1-fJebC2ha8",
+    "GuestBio": "Dan Wahlin is a Principal Cloud Developer Advocate at Microsoft working with developers to leverage the capabilities available in Azure, Microsoft 365, and Power Platform. In addition to his work at Microsoft, Dan creates training courses for Pluralsight, speaks at conferences and meetups around the world, and offers webinars on a variety of technical topics. Prior to joining Microsoft, Dan was CEO of a consulting, architecture, and training company for 20 years helping enterprises build great software.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/3rMihblfQktRxmZO6vjdcG",
     "APLink": "",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/d69e36e0-f0f1-4a33-aaa7-a2f26e7eaa21/coffee-and-open-source-dan-wahlin",
     "Socials": [
       {
         "Blog": "https://blog.codewithdan.com/"
@@ -4134,6 +4134,9 @@
       },
       {
         "X": "https://x.com/DanWahlin"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/danwahlin.bsky.social"
       }
     ]
   },
