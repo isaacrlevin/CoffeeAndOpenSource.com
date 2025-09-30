@@ -4154,7 +4154,7 @@
     "GuestBio": "Adriana is a CNCF Ambassador, blogger, host of the Geeking Out Podcast, and a maintainer of the OpenTelemetry End User SIG. By day, she's a Principal Developer Advocate at Dynatrace, focusing on Observability and OpenTelemetry. By night, she climbs walls. She also loves capybaras, because they make her happy.",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
+    "AmazonLink": "",
     "APLink": "",
     "Socials": [
       {
@@ -4188,7 +4188,7 @@
     "GuestBio": "Brian Pontarelli is a technology entrepreneur currently solving login, registration, and user management challenges with FusionAuth. Brian started programming at the age of 8 and studied Computer Engineering at CU Boulder. During his early career, Brian worked as a software engineer at companies such as BEA and Orbitz. He started working on his own products nights and weekends and quit his day job after selling to a few large companies. He bootstrapped the company for 16 years before selling a majority share to Updata Partners. Brian still codes, but spends most of his time focusing on growing FusionAuth and helping customers solve their auth problems.",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
+    "AmazonLink": "",
     "APLink": "",
     "Socials": [
       {
@@ -4215,14 +4215,14 @@
     "GuestName": "Don Mackinnon",
     "GuestHandle": "@donmackinnon.dev",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "0V0_ltmgzhA",
     "GuestBio": "Don is the CTO and Co-Founder at Searchcraft, a developer-centric platform focused on re-imagining content search for applications. Don has spent nearly 30 years in software engineering, building applications for both startups and enterprise-scale companies.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/57wPiE4VcGklELugfwJupT",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c0a2a3e2-75ec-43af-b9d5-f038ccd13c0d/coffee-and-open-source-don-mackinnon",
+    "APLink": "https://podcasts.apple.com/us/podcast/don-mackinnon/id1589875016?i=1000729389296",
     "Socials": [
       {
         "Website": "https://donmackinnon.dev/"
