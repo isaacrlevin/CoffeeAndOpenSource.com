@@ -4242,5 +4242,76 @@
         "Searchcraft": "https://searchcraft.io/"
       }
     ]
+  },
+  "mark-techson": {
+    "PartitionKey": "mark-techson",
+    "RowKey": 20251021,
+    "DateTimeAsString": "10/21/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-10-21T18:00:00.000Z",
+    "GuestName": "Mark Techson",
+    "GuestHandle": "@marktechson",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://marktechson.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/marktechson/"
+      },
+      {
+        "GitHub": "https://github.com/marktechson"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/marktechson.com"
+      },
+      {
+        "X": "https://x.com/marktechson"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@marktechson"
+      }
+    ]
+  },
+  "sarah-young": {
+    "PartitionKey": "sarah-young",
+    "RowKey": 20251209,
+    "DateTimeAsString": "12/09/2025, 12:00:00 PM",
+    "DateTimeUTC": "2025-12-09T19:00:00.000Z",
+    "GuestName": "Sarah Young",
+    "GuestHandle": "@sarahyo.com",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Sarah is a cyber security advocate working at Microsoft who engages with individuals and organizations worldwide to share her knowledge and experience in cyber security.<br /><br />As a cloud security expert, Sarah's mission is to educate and empower communities to do the right things securely with the technology they implement. She has also authored white papers and books on various cyber security topics and is a co-host of the popular Microsoft Azure Security Podcast.<br /><br />Sarah is an accomplished public speaker and has delivered presentations at various industry events including Black Hat. She is passionate about supporting the security communities across the globe and promoting diversity and inclusion in IT.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://sarahyoung.io/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/sarahyo16/"
+      },
+      {
+        "GitHub": "https://github.com/sarah-yo"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/sarahyo.com"
+      },
+      {
+        "X": "https://x.com/_sarahyo"
+      }
+    ]
   }
 }
