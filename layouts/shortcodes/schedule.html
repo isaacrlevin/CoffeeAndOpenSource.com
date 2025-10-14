@@ -1,37 +1,29 @@
-<table style="width: 100%;">
-    <thead>
+<table style="width: 100%">
+  <thead>
     <tr>
-    <th style="width: 25%;">Date</th>
-    <th style="width: 50%;">Topic</th>
-    <th style="width: 25%;">Guest</th>
+      <th style="width: 25%">Date</th>
+      <th style="width: 50%">Topic</th>
+      <th style="width: 25%">Guest</th>
     </tr>
-    </thead>
-    <tbody>
-        {{ $dataJ := .Site.Data.guests }}
-        {{ $sortOrder := "asc"}}
-        {{if (eq ($.Get 0) "previous" )}}
-        {{ $sortOrder = "desc"}}
-        {{end}}
-        {{ range sort $dataJ ".DateTimeUTC" $sortOrder  }}
-        {{ $t := (time .DateTimeUTC) }}
-        {{ $show := false}}
-        {{ if and (eq ($.Get 0) "upcoming" ) ($t.After now) }}
-        {{ $show = true}}
-        {{end}}
-        {{ if and (eq ($.Get 0) "previous" ) ($t.Before now) }}
-        {{ $show = true}}
-        {{end}}
-        {{ if $show}}
-  <tr>
-  <td><span class="formatdatetime">{{ .DateTimeAsString }}</span></td>
-  {{ if ne .YouTubeVideoId ""  }}
-  <td><a href="/guest/{{ .PartitionKey }}.html">{{ .Topic }}</a></td>
-  {{ else }}
-  <td><a href="https://twitch.tv/isaacrlevin" target="_blank">{{ .Topic }}</a></td>
-  {{ end }}
-  <td><a href="{{ .GuestHandle }}" target="_blank">{{ .GuestName }}</a></td>
-</tr>
-{{end}}
-{{ end }}
-
-</tbody></table>
+  </thead>
+  <tbody>
+    {{ $dataJ := .Site.Data.guests }} {{ $sortOrder := "asc"}} {{if (eq ($.Get
+    0) "previous" )}} {{ $sortOrder = "desc"}} {{end}} {{ range sort $dataJ
+    ".DateTimeUTC" $sortOrder }} {{ $t := (time .DateTimeUTC) }} {{ $show :=
+    false}} {{ if and (eq ($.Get 0) "upcoming" ) ($t.After now) }} {{ $show =
+    true}} {{end}} {{ if and (eq ($.Get 0) "previous" ) ($t.Before now) }} {{
+    $show = true}} {{end}} {{ if $show}}
+    <tr>
+      <td><span class="formatdatetime">{{ .DateTimeAsString }}</span></td>
+      {{ if ne .YouTubeVideoId "" }}
+      <td><a href="/guest/{{ .PartitionKey }}.html">{{ .Topic }}</a></td>
+      {{ else }}
+      <td>
+        <a href="https://twitch.tv/isaacrlevin" target="_blank">{{ .Topic }}</a>
+      </td>
+      {{ end }}
+      <td><a href="{{ .GuestHandle }}" target="_blank">{{ .GuestName }}</a></td>
+    </tr>
+    {{end}} {{ end }}
+  </tbody>
+</table>
