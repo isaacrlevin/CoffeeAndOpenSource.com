@@ -4313,5 +4313,39 @@
         "X": "https://x.com/_sarahyo"
       }
     ]
+  },
+  "phil-nash": {
+    "PartitionKey": "phil-nash",
+    "RowKey": 20251104,
+    "DateTimeAsString": "111/04/2025, 12:00:00 PM",
+    "DateTimeUTC": "2025-11-04T19:00:00.000Z",
+    "GuestName": "Phil Nash",
+    "GuestHandle": "https://bsky.app/profile/philna.sh",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "AI, LLM, MCP and Open Source, Oh My",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://philnash.sh/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/philnash/"
+      },
+      {
+        "GitHub": "https://github.com/philnash"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/philna.sh"
+      },
+      {
+        "X": "https://twitter.com/philnash"
+      }
+    ]
   }
 }
