@@ -4251,14 +4251,14 @@
     "GuestName": "Mark Techson",
     "GuestHandle": "https://bsky.app/profile/marktechson.com",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Javascript Frameworks for all",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "iPMfTDk6D3I",
+    "GuestBio": "Mark Techson, an award-winning university instructor and senior software engineer, has two decades of experience developing tech solutions. Passionate about creating meaningful learning experiences and demystifying coding, he currently works as DevRel Lead on the Angular Team at Google.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0hwO0OBLMYi2PsSSBqiERP",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/01a6bffa-8fbb-439b-a5c0-ead837b6cdf9/coffee-and-open-source-mark-techson",
+    "APLink": "https://podcasts.apple.com/us/podcast/mark-techson/id1589875016?i=1000732863939",
     "Socials": [
       {
         "Website": "https://marktechson.com/"
@@ -4317,7 +4317,7 @@
   "phil-nash": {
     "PartitionKey": "phil-nash",
     "RowKey": 20251104,
-    "DateTimeAsString": "111/04/2025, 12:00:00 PM",
+    "DateTimeAsString": "11/04/2025, 12:00:00 PM",
     "DateTimeUTC": "2025-11-04T19:00:00.000Z",
     "GuestName": "Phil Nash",
     "GuestHandle": "https://bsky.app/profile/philna.sh",
