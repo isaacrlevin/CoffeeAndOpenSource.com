@@ -4348,4 +4348,27 @@
       }
     ]
   }
+  ,
+  "sydnee-mayers": {
+    "PartitionKey": "sydnee-mayers",
+    "RowKey": 20251104,
+    "DateTimeAsString": "11/25/2025, 11:00:00 PM",
+    "DateTimeUTC": "2025-11-25T18:00:00.000Z",
+    "GuestName": "Sydnee Mayers",
+    "GuestHandle": "https://www.linkedin.com/in/sydneemayers/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building AI Products",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/sydneemayers/"
+      }
+    ]
+  }
 }
