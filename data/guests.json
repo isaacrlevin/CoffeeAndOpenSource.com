@@ -4374,5 +4374,35 @@
         "LinkedIn": "https://www.linkedin.com/in/sydneemayers/"
       }
     ]
+  },
+  "jeff-williams": {
+    "PartitionKey": "jeff-williams",
+    "RowKey": 20251202,
+    "DateTimeAsString": "12/02/2025, 11:00:00 PM",
+    "DateTimeUTC": "2025-12-02T18:00:00.000Z",
+    "GuestName": "Jeff Williams",
+    "GuestHandle": "https://x.com/planetlevel",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Managing Security in an AI World",
+    "YouTubeVideoId": "",
+    "GuestBio": "Jeff brings more than 20 years of security leadership experience as Co-Founder and Chief Technology Officer of Contrast. Previously, Jeff was Co-Founder and Chief Executive Officer of Aspect Security, a successful and innovative application security consulting company acquired by Ernst & Young. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for eight years and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many other widely adopted free and open projects. Jeff has a BA from the University of Virginia, an MA from George Mason, and a JD from Georgetown.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/planetlevel/"
+      },
+      {
+        "X": "https://x.com/planetlevel"
+      }
+    ],
+    "Links": [
+      {
+        "Contrast Security": "https://www.contrastsecurity.com/"
+      }
+    ]
   }
 }
