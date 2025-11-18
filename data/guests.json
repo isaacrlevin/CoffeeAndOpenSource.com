@@ -4148,15 +4148,18 @@
     "GuestName": "Adriana Villela",
     "GuestHandle": "https://hachyderm.io/@adrianamvillela",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Cloud Native Open Source",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "9NLgAH7zFlE",
     "GuestBio": "Adriana is a CNCF Ambassador, blogger, host of the Geeking Out Podcast, and a maintainer of the OpenTelemetry End User SIG. By day, she's a Principal Developer Advocate at Dynatrace, focusing on Observability and OpenTelemetry. By night, she climbs walls. She also loves capybaras, because they make her happy.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5y5oiYcEsvB6chcABM47bj",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a233c416-ab44-46da-a630-141d34bc541c/coffee-and-open-source-adriana-villela",
+    "APLink": "https://podcasts.apple.com/us/podcast/adriana-villela/id1589875016?i=1000737312490",
     "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/adrianamvillela.bsky.social"
+      },
       {
         "Blog": "https://adri-v.medium.com/"
       },
