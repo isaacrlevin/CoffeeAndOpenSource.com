@@ -150,4 +150,6 @@ guests_refs:
 - phil-nash
 - sydnee-mayers
 - jeff-williams
+- kat-cosgrove-2
+- michael-stahnke
 ---

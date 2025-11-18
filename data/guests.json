@@ -4404,5 +4404,65 @@
         "Contrast Security": "https://www.contrastsecurity.com/"
       }
     ]
+  },
+  "kat-cosgrove-2": {
+    "PartitionKey": "kat-cosgrove-2",
+    "RowKey": 20251216,
+    "DateTimeAsString": "12/16/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-12-16T19:00:00.000Z",
+    "GuestName": "Kat Cosgrove Returns!",
+    "GuestHandle": "https://bsky.app/profile/kat.lol",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Teaching the Next Generation of Open Source developers",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/katcosgrove"
+      }
+    ],
+    "Links": [
+      {
+        "Minimus": "https://www.minimus.io/"
+      }
+    ]
+  },
+  "michael-stahnke": {
+    "PartitionKey": "michael-stahnke",
+    "RowKey": 20260116,
+    "DateTimeAsString": "01/16/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-01-16T19:00:00.000Z",
+    "GuestName": "Michael Stahnke",
+    "GuestHandle": "https://bsky.app/profile/stahnma.us",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Setting Developer Teams up for Success",
+    "YouTubeVideoId": "",
+    "GuestBio": "Michael Stahnke is a seasoned technology leader and open-source advocate, currently serving as the VP of Engineering Flox. With experience in leading operations and engineering departments, Michael has played a pivotal role in shaping DevOps practices and automation in software development. Prior to joining Flox he held senior leadership positions at CircleCI and Puppet, where he built and led engineering teams solving problems for developers and operations. He is a regular speaker at technology conferences, sharing insights on DevOps transformations, scalability challenges, and the future of automated workflows. He’s obsessed with measurements of engineering performance and finding a great night of karaoke.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/mstahnke/"
+      },
+      {
+        "GitHub": "https://github.com/stahnma"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/stahnma.us"
+      }
+    ],
+    "Links": [
+      {
+        "Flox": "https://flox.dev/"
+      }
+    ]
   }
 }
