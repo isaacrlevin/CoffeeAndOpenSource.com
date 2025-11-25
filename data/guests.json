@@ -4358,20 +4358,20 @@
   },
   "sydnee-mayers": {
     "PartitionKey": "sydnee-mayers",
-    "RowKey": 20251104,
+    "RowKey": 20251125,
     "DateTimeAsString": "11/25/2025, 11:00:00 PM",
     "DateTimeUTC": "2025-11-25T18:00:00.000Z",
     "GuestName": "Sydnee Mayers",
     "GuestHandle": "https://www.linkedin.com/in/sydneemayers/",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Building AI Products",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "eG_e6qNxbX8",
+    "GuestBio": "Sydnee leads AI product initiatives at Cribl, the data engine for IT & Security. Prior to joining Cribl, Sydnee was leading hyperscale inference within the CoreAI group at Microsoft. Sydnee is passionate about helping individuals learn and adopt AI safely and responsibly.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2ag1uzSrYWcgBxP5fdNPsj",
+    "AmazonLink": "https://podcasts.apple.com/us/podcast/sydnee-mayers/id1589875016?i=1000738423839",
+    "APLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/0b9dc245-0613-4532-9710-d3925818f9bf/coffee-and-open-source-sydnee-mayers",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/sydneemayers/"
