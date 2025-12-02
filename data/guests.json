@@ -4386,14 +4386,14 @@
     "GuestName": "Jeff Williams",
     "GuestHandle": "https://x.com/planetlevel",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Managing Security in an AI World",
-    "YouTubeVideoId": "",
-    "GuestBio": "Jeff brings more than 20 years of security leadership experience as Co-Founder and Chief Technology Officer of Contrast. Previously, Jeff was Co-Founder and Chief Executive Officer of Aspect Security, a successful and innovative application security consulting company acquired by Ernst & Young. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for eight years and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many other widely adopted free and open projects. Jeff has a BA from the University of Virginia, an MA from George Mason, and a JD from Georgetown.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "1owuPOuAWoY",
+    "GuestBio": "Jeff Williams is the Co-Founder and CTO of Contrast Security, where he leads innovation in runtime-based application security. A pioneer in modern AppSec and co-founder of OWASP, Jeff has spent more than two decades helping organizations understand and manage software risk through instrumentation, context, and continuous learning.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/22gyQGZSiTxobRbgiuBwvq",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/8cc02b25-c613-4afb-b45d-a63667de536a/coffee-and-open-source-jeff-williams",
+    "APLink": "https://podcasts.apple.com/us/podcast/jeff-williams/id1589875016?i=1000739376616",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/planetlevel/"
@@ -4405,6 +4405,9 @@
     "Links": [
       {
         "Contrast Security": "https://www.contrastsecurity.com/"
+      },
+      {
+        "Contrast Security X": "https://x.com/ContrastSec"
       }
     ]
   },
