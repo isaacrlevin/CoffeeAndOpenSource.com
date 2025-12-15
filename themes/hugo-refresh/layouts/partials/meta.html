@@ -4,8 +4,6 @@
 
 {{ $guest := index site.Data.guests (lower .Page.Title) }}
 
-
-
     <meta property="og:url"  content="{{- .Permalink -}}" />
     <meta property="og:type" content="article" />
     {{- $title := replace .Title '"' ' ' -}}
@@ -20,11 +18,18 @@
     <meta property="og:description" content="{{ $title }}" />
     {{- end -}}
 
-    {{if $guest.YouTubeVideoId}}
-    <meta property="og:image" content="https://i.ytimg.com/vi/{{ $guest.YouTubeVideoId }}/maxresdefault.jpg" />
-{{else}}
-<meta property="og:image" content="https://www.coffeeandopensource.com/images/logo.png" />
-{{end }}
+    {{/* Prefer a page-provided social image, then guest video thumb, else default. */}}
+    {{- $ogImage := "" -}}
+    {{- if .Params.og_image -}}
+        {{- $ogImage = (.Params.og_image | absURL) -}}
+    {{- else if $guest.YouTubeVideoId -}}
+        {{- $ogImage = printf "https://i.ytimg.com/vi/%s/maxresdefault.jpg" $guest.YouTubeVideoId -}}
+    {{- else -}}
+        {{- $ogImage = "https://www.coffeeandopensource.com/images/logo.jpg" -}}
+    {{- end -}}
+    <meta property="og:image" content="{{ $ogImage }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ $ogImage }}" />
 
     <title>
         {{- if .IsHome -}}
