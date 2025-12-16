@@ -1,5 +1,5 @@
 {
-  
+
   "claire-novotny": {
     "PartitionKey": "claire-novotny",
     "RowKey": 20200715,
@@ -4420,15 +4420,18 @@
     "GuestName": "Kat Cosgrove Returns!",
     "GuestHandle": "https://bsky.app/profile/kat.lol",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Teaching the Next Generation of Open Source developers",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "7EgRqMDvblc",
+    "GuestBio": "Kat is the Head of Developer Advocacy at Minimus, focused on the growth and nurturing of open source through authentic contribution. In particular, her specialties are approachable 101-level content and deep dives on the history of technology, with a focus on DevOps and cloud native. She was the Kubernetes Release Lead for 1.30 Uwubernetes, and currently serves as a member of the Kubernetes Steering Committee, the Release Team Subproject Lead, and a SIG Docs Tech Lead.<br /><br />When she’s not at a conference, she spends her time playing video games, watching horror movies, or reading science fiction, but her current hyperfixation is film photography. She lives in Colorado with her cat, Espresso, who is the real brains behind the operation and actually ghostwriting all of her posts.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7AbNzGMRvH7Cpc9sMFKBvL",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/d8f7a3ff-248f-4a65-8784-b0e4235d98cd/coffee-and-open-source-kat-cosgrove-returns",
+    "APLink": "https://podcasts.apple.com/us/podcast/kat-cosgrove-returns/id1589875016?i=1000741586607",
     "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/kat.lol"
+      },
       {
         "Linktree": "https://linktr.ee/katcosgrove"
       }
