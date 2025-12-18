@@ -152,4 +152,6 @@ guests_refs:
 - jeff-williams
 - kat-cosgrove-2
 - michael-stahnke
+- gerald-versluis
+- jan-de-dobbeleer
 ---

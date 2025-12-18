@@ -1,5 +1,4 @@
 {
-
   "claire-novotny": {
     "PartitionKey": "claire-novotny",
     "RowKey": 20200715,
@@ -4472,6 +4471,76 @@
     "Links": [
       {
         "Flox": "https://flox.dev/"
+      }
+    ]
+  },
+  "jan-de-dobbeleer": {
+    "PartitionKey": "jan-de-dobbeleer",
+    "RowKey": 20251230,
+    "DateTimeAsString": "12/30/2025, 11:00:00 AM",
+    "DateTimeUTC": "2025-12-30T19:00:00.000Z",
+    "GuestName": "Jan De Dobbeleer",
+    "GuestHandle": "https://bsky.app/profile/jan.ohmyposh.dev",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Terminal Tools",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/jandedobbeleer"
+      },
+      {
+        "GitHub": "https://github.com/JanDeDobbeleer"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/jan.ohmyposh.dev"
+      }
+    ],
+    "Links": [
+      {
+        "Oh My Posh": "https://ohmyposh.dev/"
+      }
+    ]
+  },
+  "gerald-versluis": {
+    "PartitionKey": "gerald-versluis",
+    "RowKey": 20260120,
+    "DateTimeAsString": "01/20/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-01-20T19:00:00.000Z",
+    "GuestName": "Gerald Versluis",
+    "GuestHandle": "https://bsky.app/profile/jfversluis.dev",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Apps for Desktop",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://jfversluis.dev/"
+      },
+      {
+        "GitHub": "https://github.com/jfversluis"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/jfversluis.dev"
+      },
+      {
+        "LinkedIn": "https://linkedin.com/in/jfversluis"
+      },
+      {
+        "X": "https://twitter.com/jfversluis"
+      },
+      {
+        "Mastodon": "https://mas.to/@jfversluis"
       }
     ]
   }
