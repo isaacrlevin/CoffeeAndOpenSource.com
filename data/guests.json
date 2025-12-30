@@ -4455,7 +4455,7 @@
     "GuestBio": "Michael Stahnke is a seasoned technology leader and open-source advocate, currently serving as the VP of Engineering Flox. With experience in leading operations and engineering departments, Michael has played a pivotal role in shaping DevOps practices and automation in software development. Prior to joining Flox he held senior leadership positions at CircleCI and Puppet, where he built and led engineering teams solving problems for developers and operations. He is a regular speaker at technology conferences, sharing insights on DevOps transformations, scalability challenges, and the future of automated workflows. He’s obsessed with measurements of engineering performance and finding a great night of karaoke.",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
+    "AmazonLink": "",
     "APLink": "",
     "Socials": [
       {
@@ -4482,14 +4482,14 @@
     "GuestName": "Jan De Dobbeleer",
     "GuestHandle": "https://bsky.app/profile/jan.ohmyposh.dev",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Terminal Tools",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "GPLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "L4XctMiS0Vk",
+    "GuestBio": "Jan combines the precision of his background in luxury watchmaking with deep experience in platform engineering and open source. As a GitHub Star and Microsoft MVP, he has demonstrated impact in the community and with companies worldwide. He led teams of dozens of engineers at NIKE EMEA, built the popular cross-platform prompt theme engine Oh My Posh, and guides organizations in their transformation toward AI-native software development. Jan helps companies scale, modernize, and align their technical strategy with business goals—always with craftsmanship and attention to detail.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5cHOFBF0KUsLUCv4vXfRDM",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/e28c55d9-2344-49fd-b647-8d6d87000949/coffee-and-open-source-jan-de-dobbeleer",
+    "APLink": "https://podcasts.apple.com/us/podcast/jan-de-dobbeleer/id1589875016?i=1000743226488",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/jandedobbeleer"
@@ -4521,7 +4521,7 @@
     "GuestBio": "",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
+    "AmazonLink": "",
     "APLink": "",
     "Socials": [
       {
@@ -4558,7 +4558,7 @@
     "GuestBio": "Known globally as DThompsonDev, Danny Thompson is a software engineer driven by a single mission: helping developers grow. He is the founder of the Commit Your Code Conference and community, leader of the Dallas Software Developers Meetup, the largest and most active dev group in North Texas, and co-host of The Programming Podcast. An expert in public speaking and AI, Danny is the author of The Developer’s Guide to AI. When he isn't on stage or coding, you can find him on the pickleball court or helping the next generation of speakers through his 'Commit Your Talk' initiative.",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
+    "AmazonLink": "",
     "APLink": "",
     "Socials": [
       {
@@ -4592,7 +4592,7 @@
     "GuestBio": "",
     "HaveAudio": false,
     "SpotifyLink": "",
-    "GPLink": "",
+    "AmazonLink": "",
     "APLink": "",
     "Socials": [
       {
