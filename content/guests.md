@@ -154,4 +154,6 @@ guests_refs:
 - michael-stahnke
 - gerald-versluis
 - jan-de-dobbeleer
+- danny-thompson
+- keith-townsend
 ---

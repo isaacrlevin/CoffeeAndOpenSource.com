@@ -4543,5 +4543,70 @@
         "Mastodon": "https://mas.to/@jfversluis"
       }
     ]
+  },
+  "danny-thompson": {
+    "PartitionKey": "danny-thompson",
+    "RowKey": 20260127,
+    "DateTimeAsString": "01/27/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-01-27T19:00:00.000Z",
+    "GuestName": "Danny Thompson",
+    "GuestHandle": "@DThompsonDev",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Mentoring in Tech",
+    "YouTubeVideoId": "",
+    "GuestBio": "Known globally as DThompsonDev, Danny Thompson is a software engineer driven by a single mission: helping developers grow. He is the founder of the Commit Your Code Conference and community, leader of the Dallas Software Developers Meetup, the largest and most active dev group in North Texas, and co-host of The Programming Podcast. An expert in public speaking and AI, Danny is the author of The Developer’s Guide to AI. When he isn't on stage or coding, you can find him on the pickleball court or helping the next generation of speakers through his 'Commit Your Talk' initiative.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://www.dthompsondev.com/"
+      },
+      {
+        "YouTube": "https://youtube.com/@DThompsonDev"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/dthompsondev.bsky.social"
+      },
+      {
+        "LinkedIn": "https://linkedin.com/in/DThompsonDev"
+      },
+      {
+        "X": "https://twitter.com/DThompsonDev"
+      }
+    ]
+  },
+  "keith-townsend": {
+    "PartitionKey": "keith-townsend",
+    "RowKey": 20260106,
+    "DateTimeAsString": "01/06/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-01-06T19:00:00.000Z",
+    "GuestName": "Keith Townsend",
+    "GuestHandle": "@CTOAdvisor",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Advising in Tech",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://thectoadvisor.com/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UCn73v-dZndutgl4s46fJwWw"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/kltownsend"
+      },
+      {
+        "X": "https://twitter.com/CTOAdvisor"
+      }
+    ]
   }
 }
