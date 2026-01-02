@@ -1,10 +1,10 @@
 <nav id="navbar-clone" class="navbar is-fresh is-transparent" role="navigation" aria-label="main navigation">
   <div class="container">
       <div class="navbar-brand">
-  
+
         <!-- <div class="navbar-start"> -->
         <!-- <div class="columns"> -->
-        
+
         <a class="navbar-item">
           <div class="menu-icon-wrapper left-menu-icon-wrapper" style="visibility: visible;">
             <svg width="1000px" height="1000px">
@@ -14,13 +14,11 @@
             </svg>
             <button id="menu-icon-trigger" class="menu-icon-trigger"></button>
           </div>
-          <div class="navbar-item left-menu-icon-wrapper">
-            {{ i18n "tags" }}
-          </div>
+
         </a>
-  
+
         <div class="navbar-item is-expanded"></div>
-        <a class="navbar-item is-hidden-desktop">  
+        <a class="navbar-item is-hidden-desktop">
           <div data-target="cloned-navbar-menu" class="navbar-item right-menu-icon-wrapper is-hidden-desktop">
             {{ i18n "mainMenu" }}
           </div>
@@ -34,9 +32,9 @@
           </div>
         </a>
       </div>
-  
-      
-  
+
+
+
       <div id="cloned-navbar-menu" class="navbar-menu is-static">
         <div class="navbar-end">
           {{- $home    := .Site.Params.homepage.linkPosition -}}
@@ -84,9 +82,9 @@
           {{- end -}}
         </div>
       </div>
-  
-  
-  
-  
+
+
+
+
     </div>
   </nav>

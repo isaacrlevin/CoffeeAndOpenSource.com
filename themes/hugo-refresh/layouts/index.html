@@ -10,9 +10,27 @@
         {{- $image      := index $homepage "image" -}}
 
         {{ $dataJ := .Site.Data.guests }}
-        <section class="section is-medium">
+
+        {{ $totalGuests := len $dataJ }}
+        {{ $pageSize := 4 }}
+
+        {{ $needsPaging := gt $totalGuests $pageSize }}
+        {{ $uniqueId := printf "list" }}
+    <section class="section is-medium">
         <div class="container">
-                <div class="section is-small">
+                <div id="list" class="section is-small" data-page-size="{{ $pageSize }}" data-total="{{ $totalGuests }}">
+
+                  {{ if $needsPaging }}
+                  <div class="pagination-controls pagination-top" style="margin-bottom: 20px; text-align: center;">
+                    <div style="display: inline-block;">
+                      <button class="page-btn prev-btn" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; background: white; cursor: pointer;">&laquo; Previous</button>
+                      <span class="page-numbers"></span>
+                      <button class="page-btn next-btn" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; background: white; cursor: pointer;">Next &raquo;</button>
+                    </div>
+                    <div class="page-info" style="margin-top: 10px; font-size: 0.9em; color: #666;"></div>
+                  </div>
+                  {{ end }}
+
                   {{- $articlesPerRow := .Site.Params.articlesPerRow -}}
                   <div class="columns">
                     {{ $art := -1 }}
@@ -26,12 +44,93 @@
                         {{ if $show}}
                           {{- if and (eq (mod $art $articlesPerRow) 0 ) (not (eq $index 0)) -}}
                             </div>
-                            <div class="columns">
+                            <div class="columns schedule-row">
                           {{- end -}}
                           {{- partial "guest.html" . -}}
                       {{end}}
                     {{ end }}
                    </div>
+
+
+        {{ if $needsPaging }}
+<div class="pagination-controls pagination-bottom" style="margin-top: 20px; text-align: center;">
+  <div style="display: inline-block;">
+    <button class="page-btn prev-btn" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; background: white; cursor: pointer;">&laquo; Previous</button>
+    <span class="page-numbers"></span>
+    <button class="page-btn next-btn" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; background: white; cursor: pointer;">Next &raquo;</button>
+  </div>
+  <div class="page-info" style="margin-top: 10px; font-size: 0.9em; color: #666;"></div>
+</div>
+
+<script>
+(function() {
+  const container = document.getElementById('{{ $uniqueId }}');
+  const rows = container.querySelectorAll('.schedule-row');
+  const pageSize = parseInt(container.dataset.pageSize);
+  const total = parseInt(container.dataset.total);
+  const totalPages = Math.ceil(total / (pageSize* 3));
+  let currentPage = 1;
+
+  // Get all pagination controls
+  const paginationControls = container.querySelectorAll('.pagination-controls');
+
+  function showPage(page) {
+    currentPage = Math.max(1, Math.min(page, totalPages));
+    const start = (currentPage - 1) * pageSize;
+    const end = start + pageSize;
+
+    rows.forEach((row, index) => {
+      row.style.display = (index >= start && index < end) ? '' : 'none';
+    });
+
+    // Update all pagination controls
+    paginationControls.forEach(control => {
+      const prevBtn = control.querySelector('.prev-btn');
+      const nextBtn = control.querySelector('.next-btn');
+      const pageNumbers = control.querySelector('.page-numbers');
+      const pageInfo = control.querySelector('.page-info');
+
+      prevBtn.disabled = currentPage === 1;
+      prevBtn.style.opacity = currentPage === 1 ? '0.5' : '1';
+      prevBtn.style.cursor = currentPage === 1 ? 'not-allowed' : 'pointer';
+
+      nextBtn.disabled = currentPage === totalPages;
+      nextBtn.style.opacity = currentPage === totalPages ? '0.5' : '1';
+      nextBtn.style.cursor = currentPage === totalPages ? 'not-allowed' : 'pointer';
+
+      pageNumbers.innerHTML = '';
+      for (let i = 1; i <= totalPages; i++) {
+        const pageBtn = document.createElement(i === currentPage ? 'span' : 'a');
+        pageBtn.textContent = i;
+        pageBtn.style.cssText = 'margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; text-decoration: none; cursor: pointer; display: inline-block;';
+
+        if (i === currentPage) {
+          pageBtn.style.backgroundColor = '#007bff';
+          pageBtn.style.color = 'white';
+        } else {
+          pageBtn.href = '#';
+          pageBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            showPage(i);
+          });
+        }
+        pageNumbers.appendChild(pageBtn);
+      }
+
+      pageInfo.textContent = `Showing ${start + 1} to ${Math.min(end, total)} of ${total} guests`;
+    });
+  }
+
+  // Attach event listeners to all prev/next buttons
+  paginationControls.forEach(control => {
+    control.querySelector('.prev-btn').addEventListener('click', () => showPage(currentPage - 1));
+    control.querySelector('.next-btn').addEventListener('click', () => showPage(currentPage + 1));
+  });
+
+  showPage(1);
+})();
+</script>
+{{ end }}
               </div>
         </div>
         <div class="modal fade" id="upcomingModal"

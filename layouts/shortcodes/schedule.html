@@ -1,3 +1,31 @@
+{{ $dataJ := .Site.Data.guests }}
+{{ $sortOrder := "asc"}}
+{{if (eq ($.Get 0) "previous" )}}
+  {{ $sortOrder = "desc"}}
+{{end}}
+
+{{ $filteredGuests := slice }}
+{{ range sort $dataJ ".DateTimeUTC" $sortOrder }}
+  {{ $t := (time .DateTimeUTC) }}
+  {{ $show := false}}
+  {{ if and (eq ($.Get 0) "upcoming" ) ($t.After now) }}
+    {{ $show = true}}
+  {{end}}
+  {{ if and (eq ($.Get 0) "previous" ) ($t.Before now) }}
+    {{ $show = true}}
+  {{end}}
+  {{ if $show}}
+    {{ $filteredGuests = $filteredGuests | append . }}
+  {{end}}
+{{ end }}
+
+{{ $totalGuests := len $filteredGuests }}
+{{ $pageSize := 15 }}
+
+{{ $needsPaging := gt $totalGuests $pageSize }}
+{{ $uniqueId := printf "schedule-%s" ($.Get 0) }}
+
+<div id="{{ $uniqueId }}" data-page-size="{{ $pageSize }}" data-total="{{ $totalGuests }}">
 <table style="width: 100%">
   <thead>
     <tr>
@@ -6,15 +34,10 @@
       <th style="width: 25%">Guest</th>
     </tr>
   </thead>
-  <tbody>
-    {{ $dataJ := .Site.Data.guests }} {{ $sortOrder := "asc"}} {{if (eq ($.Get
-    0) "previous" )}} {{ $sortOrder = "desc"}} {{end}} {{ range sort $dataJ
-    ".DateTimeUTC" $sortOrder }} {{ $t := (time .DateTimeUTC) }} {{ $show :=
-    false}} {{ if and (eq ($.Get 0) "upcoming" ) ($t.After now) }} {{ $show =
-    true}} {{end}} {{ if and (eq ($.Get 0) "previous" ) ($t.Before now) }} {{
-    $show = true}} {{end}} {{ if $show}}
-    <tr>
-      <td><span class="formatdatetime">{{ .DateTimeAsString }}</span></td>
+  <tbody class="schedule-tbody">
+    {{ range $filteredGuests }}
+    <tr class="schedule-row">
+      <td><span class="formatdate">{{ .DateTimeAsString }}</span></td>
       {{ if ne .YouTubeVideoId "" }}
       <td><a href="/guest/{{ .PartitionKey }}.html">{{ .Topic }}</a></td>
       {{ else }}
@@ -24,6 +47,78 @@
       {{ end }}
       <td><a href="{{ .GuestHandle }}" target="_blank">{{ .GuestName }}</a></td>
     </tr>
-    {{end}} {{ end }}
+    {{ end }}
   </tbody>
 </table>
+
+{{ if $needsPaging }}
+<div class="pagination-controls" style="margin-top: 20px; text-align: center;">
+  <div style="display: inline-block;">
+    <button class="page-btn prev-btn" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; background: white; cursor: pointer;">&laquo; Previous</button>
+    <span class="page-numbers"></span>
+    <button class="page-btn next-btn" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; background: white; cursor: pointer;">Next &raquo;</button>
+  </div>
+  <div class="page-info" style="margin-top: 10px; font-size: 0.9em; color: #666;"></div>
+</div>
+
+<script>
+(function() {
+  const container = document.getElementById('{{ $uniqueId }}');
+  const rows = container.querySelectorAll('.schedule-row');
+  const pageSize = parseInt(container.dataset.pageSize);
+  const total = parseInt(container.dataset.total);
+  const totalPages = Math.ceil(total / pageSize);
+  let currentPage = 1;
+
+  const prevBtn = container.querySelector('.prev-btn');
+  const nextBtn = container.querySelector('.next-btn');
+  const pageNumbers = container.querySelector('.page-numbers');
+  const pageInfo = container.querySelector('.page-info');
+
+  function showPage(page) {
+    currentPage = Math.max(1, Math.min(page, totalPages));
+    const start = (currentPage - 1) * pageSize;
+    const end = start + pageSize;
+
+    rows.forEach((row, index) => {
+      row.style.display = (index >= start && index < end) ? '' : 'none';
+    });
+
+    prevBtn.disabled = currentPage === 1;
+    prevBtn.style.opacity = currentPage === 1 ? '0.5' : '1';
+    prevBtn.style.cursor = currentPage === 1 ? 'not-allowed' : 'pointer';
+
+    nextBtn.disabled = currentPage === totalPages;
+    nextBtn.style.opacity = currentPage === totalPages ? '0.5' : '1';
+    nextBtn.style.cursor = currentPage === totalPages ? 'not-allowed' : 'pointer';
+
+    pageNumbers.innerHTML = '';
+    for (let i = 1; i <= totalPages; i++) {
+      const pageBtn = document.createElement(i === currentPage ? 'span' : 'a');
+      pageBtn.textContent = i;
+      pageBtn.style.cssText = 'margin: 0 5px; padding: 5px 10px; border: 1px solid #ccc; text-decoration: none; cursor: pointer; display: inline-block;';
+
+      if (i === currentPage) {
+        pageBtn.style.backgroundColor = '#007bff';
+        pageBtn.style.color = 'white';
+      } else {
+        pageBtn.href = '#';
+        pageBtn.addEventListener('click', (e) => {
+          e.preventDefault();
+          showPage(i);
+        });
+      }
+      pageNumbers.appendChild(pageBtn);
+    }
+
+    pageInfo.textContent = `Showing ${start + 1} to ${Math.min(end, total)} of ${total} guests`;
+  }
+
+  prevBtn.addEventListener('click', () => showPage(currentPage - 1));
+  nextBtn.addEventListener('click', () => showPage(currentPage + 1));
+
+  showPage(1);
+})();
+</script>
+{{ end }}
+</div>

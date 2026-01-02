@@ -6352,3 +6352,205 @@ a:hover {
 footer {
   border-bottom: var(--border-width) solid #004777;
 }
+
+@media screen and (max-width: 1024px) {
+  /* Hide cloned sticky navbar on tablet/phone to avoid double menus */
+  #navbar-clone {
+    display: none !important;
+  }
+
+  /* Keep navbar content from overlapping the page title on tablets/medium screens */
+  nav.navbar .container,
+  nav#navbar-clone .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  nav.navbar .image,
+  nav#navbar-clone .image {
+    margin: 0 auto 8px;
+    padding: 0;
+  }
+
+  nav.navbar .image img,
+  nav#navbar-clone .image img {
+    width: 200px !important;
+    max-width: 60vw;
+    height: auto;
+  }
+
+  nav.navbar .navbar-brand,
+  nav#navbar-clone .navbar-brand {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  /* Center the page heading and add breathing room below the navbar */
+  .section-title {
+    text-align: center;
+    margin-top: 12px;
+  }
+
+  .section.is-medium {
+    padding-top: 2.5rem;
+  }
+}
+
+/* Mobile responsive improvements */
+@media screen and (max-width: 768px) {
+  /* Tighter navbar layout for phones */
+  nav.navbar .container,
+  nav#navbar-clone .container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  nav.navbar,
+  nav#navbar-clone {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 2;
+  }
+
+  nav.navbar .image img,
+  nav#navbar-clone .image img {
+    width: 150px !important;
+    max-width: 50vw;
+  }
+
+  nav.navbar .navbar-brand,
+  nav#navbar-clone .navbar-brand {
+    width: 100%;
+    justify-content: center;
+    margin-top: 6px;
+  }
+
+  nav.navbar .navbar-menu,
+  nav#navbar-clone .navbar-menu {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 6px;
+  }
+
+  nav.navbar .navbar-end .navbar-item,
+  nav#navbar-clone .navbar-end .navbar-item {
+    padding: 10px 12px;
+    display: inline-block;
+  }
+
+  /* Give the heading more breathing room below the navbar */
+  .section-title {
+    margin-top: 28px;
+  }
+
+  .section.is-medium {
+    padding-top: 3.5rem;
+  }
+
+  /* Fix pagination controls on mobile */
+  .pagination-controls {
+    padding: 10px;
+  }
+
+  .pagination-controls > div {
+    display: block !important;
+    width: 100%;
+  }
+
+  .page-btn {
+    font-size: 14px !important;
+    padding: 8px 12px !important;
+  }
+
+  .page-numbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0;
+  }
+
+  .page-numbers a,
+  .page-numbers span {
+    margin: 2px !important;
+    padding: 8px 12px !important;
+    font-size: 14px;
+  }
+
+  .page-info {
+    font-size: 0.85em !important;
+    margin-top: 10px !important;
+  }
+
+  /* Ensure guest cards stack properly */
+  .columns {
+    flex-direction: column;
+  }
+
+  .column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Modal improvements */
+  .modal-dialog {
+    margin: 10px;
+  }
+
+  .modal-content {
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+
+  /* Upcoming streams sidebar */
+  .sidenav a {
+    padding: 10px 8px;
+    font-size: 14px;
+    word-wrap: break-word;
+  }
+
+  /* Section padding adjustments */
+  .section.is-medium {
+    padding: 1.5rem 0.75rem;
+  }
+
+  /* Hero section improvements */
+  .hero.is-fullheight {
+    min-height: auto;
+  }
+
+  /* Container improvements */
+  .container {
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    max-width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* Extra small screens */
+  .page-btn {
+    padding: 6px 8px !important;
+    font-size: 12px !important;
+  }
+
+  nav.navbar .image img,
+  nav#navbar-clone .image img {
+    width: 135px !important;
+    max-width: 48vw;
+  }
+
+  .page-numbers a,
+  .page-numbers span {
+    padding: 6px 8px !important;
+    font-size: 12px;
+  }
+
+  .sidenav a {
+    font-size: 13px;
+  }
+}
