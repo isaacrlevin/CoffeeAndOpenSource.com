@@ -4608,5 +4608,33 @@
         "X": "https://twitter.com/CTOAdvisor"
       }
     ]
+  },
+  "tim-heuer": {
+    "PartitionKey": "tim-heuer",
+    "RowKey": 20260203,
+    "DateTimeAsString": "02/03/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-02-03T19:00:00.000Z",
+    "GuestName": "Tim Heuer",
+    "GuestHandle": "@timheuer",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Developer Tools in an AI World",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://timheuer.com/blog"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/timheuer/"
+      },
+      {
+        "X": "https://twitter.com/timheuer"
+      }
+    ]
   }
 }
