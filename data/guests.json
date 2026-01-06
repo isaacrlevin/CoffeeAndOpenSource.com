@@ -4586,14 +4586,14 @@
     "GuestName": "Keith Townsend",
     "GuestHandle": "@CTOAdvisor",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Advising in Tech",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "7m1S-pIRT3w",
+    "GuestBio": "Keith Townsend is an independent CTO advisor and infrastructure practitioner focused on how enterprises actually adopt AI, cloud, and open-source platforms at scale. He’s the founder of The Advisor Bench and the voice behind The CTO Advisor, where he helps CIOs and CTOs navigate hard infrastructure decisions around hybrid cloud, AI systems, and platform architecture.<br /><br />Keith has spent his career inside large enterprises and alongside vendors—working as an enterprise architect, consultant, and analyst—bridging the gap between engineering reality and executive decision-making. He’s known for translating complex systems into plain English and for challenging hype with operational truth.<br /><br />Today, Keith advises enterprise IT leaders, moderates closed-door executive forums, and builds real AI systems himself—using open source not as ideology, but as a practical tool for control, portability, and long-term leverage.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1uTFobpbmWhrizIqIZJ3hS",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/066e3e03-f996-42d5-8145-9befa24db17d/coffee-and-open-source-keith-townsend",
+    "APLink": "https://podcasts.apple.com/us/podcast/keith-townsend/id1589875016?i=1000744026478",
     "Socials": [
       {
         "Blog": "https://thectoadvisor.com/"
