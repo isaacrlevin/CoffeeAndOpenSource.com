@@ -4636,5 +4636,42 @@
         "X": "https://twitter.com/timheuer"
       }
     ]
+  },
+  "steve-smith": {
+    "PartitionKey": "steve-smith",
+    "RowKey": 20260217,
+    "DateTimeAsString": "02/17/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-02-17T19:00:00.000Z",
+    "GuestName": "Steve Smith",
+    "GuestHandle": "@ardalis",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "An Software Artisan's View on AI and Open Source",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://ardalis.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/stevenandrewsmith"
+      },
+      {
+        "X": "https://twitter.com/ardalis"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/ardalis.com"
+      },
+      {
+        "YouTube": "https://www.youtube.com/ardalis/"
+      },
+      {
+        "GitHub": "https://github.com/ardalis"
+      }
+    ]
   }
 }

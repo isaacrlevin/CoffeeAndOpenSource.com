@@ -157,4 +157,5 @@ guests_refs:
 - danny-thompson
 - keith-townsend
 - tim-heuer
+- steve-smith
 ---
