@@ -4673,5 +4673,67 @@
         "GitHub": "https://github.com/ardalis"
       }
     ]
+  },
+  "helen-hou-sandi": {
+    "PartitionKey": "helen-hou-sandi",
+    "RowKey": 20260224,
+    "DateTimeAsString": "02/24/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-02-24T19:00:00.000Z",
+    "GuestName": "Helen Hou-Sandi",
+    "GuestHandle": "@helenhousandi",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Healing Developer Papercuts",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://helen.blog/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/helenhousandi/"
+      },
+      {
+        "X": "https://twitter.com/helenhousandi"
+      },
+      {
+        "GitHub": "https://github.com/helen"
+      }
+    ]
+  },
+  "courtney-yatteau": {
+    "PartitionKey": "courtney-yatteau",
+    "RowKey": 20260407,
+    "DateTimeAsString": "04/07/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-04-07T19:00:00.000Z",
+    "GuestName": "Courtney Yatteau",
+    "GuestHandle": "@c_yatteau",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "From High School Math to Developer Advocacy",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "YouTube": "http://youtube.com/@c_yatteau"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/cyatteau.bsky.social"
+      },
+      {
+        "X": "https://x.com/c_yatteau"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/courtneyyatteau/"
+      }
+    ]
   }
 }
