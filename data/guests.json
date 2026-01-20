@@ -4449,14 +4449,14 @@
     "GuestName": "Michael Stahnke",
     "GuestHandle": "https://bsky.app/profile/stahnma.us",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Setting Developer Teams up for Success",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "nxx3Z1UEfgA",
     "GuestBio": "Michael Stahnke is a seasoned technology leader and open-source advocate, currently serving as the VP of Engineering Flox. With experience in leading operations and engineering departments, Michael has played a pivotal role in shaping DevOps practices and automation in software development. Prior to joining Flox he held senior leadership positions at CircleCI and Puppet, where he built and led engineering teams solving problems for developers and operations. He is a regular speaker at technology conferences, sharing insights on DevOps transformations, scalability challenges, and the future of automated workflows. He’s obsessed with measurements of engineering performance and finding a great night of karaoke.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5O7z4agHTifMZHbj7ZWzc9",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/b178bcb0-afa7-4f15-98d2-ff8d0507f6ed/coffee-and-open-source-michael-stahnke",
+    "APLink": "https://podcasts.apple.com/us/podcast/michael-stahnke/id1589875016?i=1000745948500",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/mstahnke/"
