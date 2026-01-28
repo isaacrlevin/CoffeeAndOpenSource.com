@@ -4552,14 +4552,14 @@
     "GuestName": "Danny Thompson",
     "GuestHandle": "@DThompsonDev",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Mentoring in Tech",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "udJ2u7qDCc8",
     "GuestBio": "Known globally as DThompsonDev, Danny Thompson is a software engineer driven by a single mission: helping developers grow. He is the founder of the Commit Your Code Conference and community, leader of the Dallas Software Developers Meetup, the largest and most active dev group in North Texas, and co-host of The Programming Podcast. An expert in public speaking and AI, Danny is the author of The Developer’s Guide to AI. When he isn't on stage or coding, you can find him on the pickleball court or helping the next generation of speakers through his 'Commit Your Talk' initiative.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4gsR6rn30KDZxMh7HUqNl0",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/11340f6d-65b3-4656-bd0d-6784a9bfb759/coffee-and-open-source-danny-thompson",
+    "APLink": "https://podcasts.apple.com/us/podcast/danny-thompson/id1589875016?i=1000746938815",
     "Socials": [
       {
         "Blog": "https://www.dthompsondev.com/"
@@ -4575,6 +4575,14 @@
       },
       {
         "X": "https://twitter.com/DThompsonDev"
+      }
+    ],
+    "Links": [
+      {
+        "Commit Your Code": "https://www.commityourcode.com/"
+      },
+      {
+       "The Programming Podcast": "https://www.dthompsondev.com/podcast"
       }
     ]
   },
