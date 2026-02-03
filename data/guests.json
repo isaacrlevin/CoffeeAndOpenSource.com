@@ -4684,9 +4684,9 @@
   },
   "helen-hou-sandi": {
     "PartitionKey": "helen-hou-sandi",
-    "RowKey": 20260224,
-    "DateTimeAsString": "02/24/2026, 11:00:00 AM",
-    "DateTimeUTC": "2026-02-24T19:00:00.000Z",
+    "RowKey": 20260310,
+    "DateTimeAsString": "03/10/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-03-10T19:00:00.000Z",
     "GuestName": "Helen Hou-Sandi",
     "GuestHandle": "@helenhousandi",
     "GuestLink": "",
@@ -4741,6 +4741,37 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/courtneyyatteau/"
+      }
+    ]
+  },
+  "jeffrey-snover": {
+    "PartitionKey": "jeffrey-snover",
+    "RowKey": 20260303,
+    "DateTimeAsString": "03/03/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-03-03T19:00:00.000Z",
+    "GuestName": "Jeffrey Snover",
+    "GuestHandle": "@jsnover",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building PowerShell",
+    "YouTubeVideoId": "",
+    "GuestBio": "Jeffrey Snover is retired and spending his time as a Philosopher-Errant, attending Science & Technology conferences and giving public talks. Prior to retiring in 2026, he was a Distinguished Engineer at Google and a Technical Fellow at Microsoft where he was an AI Architect in Office, the Chief Architect for Windows Server Azure Stack.   Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell.<br /><br />Snover joined Microsoft in 1999 as divisional architect for the Management and Services Division, providing technical direction across Microsoft’s management technologies and products.<br /><br />Snover held 8 patents prior to joining Microsoft, and has registered over 30 patents since. He is a frequent speaker at industry and research conferences on a variety of management and language topics.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://www.jsnover.com/"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/jsnover.com"
+      },
+      {
+        "X": "https://x.com/jsnover"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/jeffreysnover/"
       }
     ]
   }
