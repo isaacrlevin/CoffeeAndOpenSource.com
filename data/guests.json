@@ -4625,14 +4625,14 @@
     "GuestName": "Tim Heuer",
     "GuestHandle": "@timheuer",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Developer Tools in an AI World",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "f9nYvMslvU4",
+    "GuestBio": "Tim is a program manager at Microsoft, working on .NET and developer tools (formerly UI frameworks including WPF, Silverlight, UWP, and WinUI). In the past Tim worked as software developer for various healthcare and consulting companies building client and web applications. Personally Tim is an avid cyclist.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/34RuIC5hapMUPD7VtbnQOA",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/8a99a1c8-60e7-426e-a075-ceb816374317/coffee-and-open-source-tim-heuer",
+    "APLink": "https://podcasts.apple.com/us/podcast/tim-heuer/id1589875016?i=1000747918886",
     "Socials": [
       {
         "Blog": "https://timheuer.com/blog"
