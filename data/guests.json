@@ -4582,7 +4582,7 @@
         "Commit Your Code": "https://www.commityourcode.com/"
       },
       {
-       "The Programming Podcast": "https://www.dthompsondev.com/podcast"
+        "The Programming Podcast": "https://www.dthompsondev.com/podcast"
       }
     ]
   },
@@ -4772,6 +4772,37 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/jeffreysnover/"
+      }
+    ]
+  },
+  "nir-valtman": {
+    "PartitionKey": "nir-valtman",
+    "RowKey": 20260317,
+    "DateTimeAsString": "03/17/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-03-17T19:00:00.000Z",
+    "GuestName": "Nir Valtman",
+    "GuestHandle": "@ValtmaNir",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Embedding Security in Developer Workflows",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://valtman.org/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/valtmanir/"
+      },
+      {
+        "X": "https://twitter.com/ValtmaNir"
+      },
+      {
+        "YouTube": "https://www.youtube.com/channel/UCMnqQ3knmdua_o0GYlNlouA"
       }
     ]
   }
