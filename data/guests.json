@@ -4509,9 +4509,9 @@
   },
   "gerald-versluis": {
     "PartitionKey": "gerald-versluis",
-    "RowKey": 20260210,
-    "DateTimeAsString": "02/10/2026, 11:00:00 AM",
-    "DateTimeUTC": "2026-02-10T19:00:00.000Z",
+    "RowKey": 20260414,
+    "DateTimeAsString": "04/14/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-04-14T19:00:00.000Z",
     "GuestName": "Gerald Versluis",
     "GuestHandle": "https://bsky.app/profile/jfversluis.dev",
     "GuestLink": "",
