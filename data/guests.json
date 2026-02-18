@@ -4653,14 +4653,14 @@
     "GuestName": "Steve Smith",
     "GuestHandle": "@ardalis",
     "GuestLink": "",
-    "IsPublished": false,
-    "Topic": "An Software Artisan's View on AI and Open Source",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "IsPublished": true,
+    "Topic": "A Software Engineer's View on AI and Open Source",
+    "YouTubeVideoId": "Lr8fOOHySqw",
+    "GuestBio": "Ardalis (Steve Smith) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Ardalis has published DOZENS of courses on Pluralsight and Dometrain, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP, a frequent speaker at developer conferences, an author, and a trainer.<br /<br />Ardalis works with companies through NimblePros, the boutique consulting company he runs with his wife, Michelle. They help teams who want to avoid the trap of technical debt to deliver better software, faster. Ardalis and his team have been described by clients as a 'force multiplier', amplifying the value of existing development teams.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5JD6l8fpmrRpQHPVHKVt92",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/c87a481e-522a-47e2-bb0b-cde2ec35ff40/coffee-and-open-source-steve-smith",
+    "APLink": "https://podcasts.apple.com/us/podcast/steve-smith/id1589875016?i=1000750216627",
     "Socials": [
       {
         "Blog": "https://ardalis.com/"
@@ -4679,6 +4679,14 @@
       },
       {
         "GitHub": "https://github.com/ardalis"
+      }
+    ],
+    "Links": [
+      {
+        "NimblePros": "https://nimblepros.com/"
+      },
+      {
+        "devBetter": "https://devbetter.com/"
       }
     ]
   },
