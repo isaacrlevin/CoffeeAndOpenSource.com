@@ -4814,16 +4814,16 @@
       }
     ]
   },
-  "william-morgan": {
-    "PartitionKey": "william-morgan",
-    "RowKey": 20260331,
+  "brian-alvey": {
+    "PartitionKey": "brian-alvey",
+    "RowKey": 20260324,
     "DateTimeAsString": "03/24/2026, 12:30:00 PM",
     "DateTimeUTC": "2026-03-24T20:30:00.000Z",
-    "GuestName": "William Morgan",
-    "GuestHandle": "@ValtmaNir",
+    "GuestName": "Brian Alvey",
+    "GuestHandle": "@brianalvey",
     "GuestLink": "",
     "IsPublished": false,
-    "Topic": "Embedding Security in Developer Workflows",
+    "Topic": "Developers in an AI First World",
     "YouTubeVideoId": "",
     "GuestBio": "",
     "HaveAudio": false,
@@ -4832,16 +4832,13 @@
     "APLink": "",
     "Socials": [
       {
-        "Blog": "https://valtman.org/"
+        "Blog": "https://brianalvey.com/"
       },
       {
-        "LinkedIn": "https://www.linkedin.com/in/valtmanir/"
+        "LinkedIn": "https://www.linkedin.com/in/brianalvey/"
       },
       {
-        "X": "https://twitter.com/ValtmaNir"
-      },
-      {
-        "YouTube": "https://www.youtube.com/channel/UCMnqQ3knmdua_o0GYlNlouA"
+        "X": "https://twitter.com/brianalvey"
       }
     ]
   }
