@@ -4841,5 +4841,35 @@
         "X": "https://twitter.com/brianalvey"
       }
     ]
+  },
+  "william-morgan": {
+    "PartitionKey": "william-morgan",
+    "RowKey": 20260331,
+    "DateTimeAsString": "03/31/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-03-31T19:00:00.000Z",
+    "GuestName": "William Morgan",
+    "GuestHandle": "@williammorgan.me",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Operationally Sane Kubernetes",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/williammorgan.me"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/wmorgan/"
+      }
+    ],
+    "Links": [
+      {
+        "Buoyant": "https://buoyant.io/"
+      }
+    ]
   }
 }
