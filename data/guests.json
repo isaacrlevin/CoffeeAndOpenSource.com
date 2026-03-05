@@ -4871,5 +4871,39 @@
         "Buoyant": "https://buoyant.io/"
       }
     ]
+  },
+    "joe-finney": {
+    "PartitionKey": "joe-finney",
+    "RowKey": 20260428,
+    "DateTimeAsString": "04/28/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-04-28T19:00:00.000Z",
+    "GuestName": "Joe Finney",
+    "GuestHandle": "@thejoefin.com",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source Windows Apps=",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/thejoefin.com"
+      },
+      {
+        "Blog": "https://joefinapps.com/"
+      },
+      {
+        "X": "https://www.twitter.com/TheJoeFin"
+      },
+      {
+        "GitHub": "https://github.com/TheJoeFin"
+      },
+      {
+        "Mastodon": "https://mastodon.social/@TheJoeFin"
+      }
+    ]
   }
 }
