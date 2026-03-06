@@ -4881,7 +4881,7 @@
     "GuestHandle": "@thejoefin.com",
     "GuestLink": "",
     "IsPublished": false,
-    "Topic": "Open Source Windows Apps=",
+    "Topic": "Open Source Windows Apps",
     "YouTubeVideoId": "",
     "GuestBio": "",
     "HaveAudio": false,
@@ -4903,6 +4903,40 @@
       },
       {
         "Mastodon": "https://mastodon.social/@TheJoeFin"
+      }
+    ]
+  },
+    "brittany-ellich": {
+    "PartitionKey": "brittany-ellich",
+    "RowKey": 20260505,
+    "DateTimeAsString": "05/05/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-05-05T19:00:00.000Z",
+    "GuestName": "Brittany Ellich",
+    "GuestHandle": "@brittanyellich.com",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "How AI helps an engineer's productivity",
+    "YouTubeVideoId": "",
+    "GuestBio": "Brittany is a Staff Software Engineer at GitHub, helping build the platform millions of developers rely on every day. She hosts the Overcommitted podcast, writes The Balanced Engineer newsletter, and speaks at conferences about AI, accessibility, developer productivity, and building a software engineering career.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/brittanyellich.com"
+      },
+      {
+        "Blog": "https://brittanyellich.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/brittanyellich/"
+      },
+      {
+        "GitHub": "https://github.com/brittanyellich"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@brittanyellich"
       }
     ]
   }
