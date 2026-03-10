@@ -4695,17 +4695,17 @@
     "RowKey": 20260310,
     "DateTimeAsString": "03/10/2026, 11:00:00 AM",
     "DateTimeUTC": "2026-03-10T19:00:00.000Z",
-    "GuestName": "Helen Hou-Sandi",
+    "GuestName": "Helen Hou-Sandí",
     "GuestHandle": "@helenhousandi",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Healing Developer Papercuts",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "4mwwupoB674",
+    "GuestBio": "Helen Hou-Sandí is a Staff Software Engineering Manager for Accessibility at GitHub and a WordPress Lead Developer. As a technologist, she is a leader in open source software and management, and caree deeply about building great user experiences. She am also a classically-trained pianist who’s performed extensively worldwide.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4cLXzjuhrPsm1S6cY7ETRX",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/234aa22a-4fa6-4470-b5a2-4d7293cf1fd3/coffee-and-open-source-helen-hou-sand%C3%AD",
+    "APLink": "https://podcasts.apple.com/us/podcast/helen-hou-sand%C3%AD/id1589875016?i=1000754550465",
     "Socials": [
       {
         "Blog": "https://helen.blog/"
@@ -4718,6 +4718,10 @@
       },
       {
         "GitHub": "https://github.com/helen"
+      }
+      ,
+      {
+        "BlueSky": "https://bsky.app/profile/helen.blog"
       }
     ]
   },
