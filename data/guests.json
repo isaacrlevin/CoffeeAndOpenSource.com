@@ -4718,8 +4718,7 @@
       },
       {
         "GitHub": "https://github.com/helen"
-      }
-      ,
+      },
       {
         "BlueSky": "https://bsky.app/profile/helen.blog"
       }
@@ -4881,7 +4880,7 @@
       }
     ]
   },
-    "joe-finney": {
+  "joe-finney": {
     "PartitionKey": "joe-finney",
     "RowKey": 20260428,
     "DateTimeAsString": "04/28/2026, 11:00:00 AM",
@@ -4915,7 +4914,7 @@
       }
     ]
   },
-    "brittany-ellich": {
+  "brittany-ellich": {
     "PartitionKey": "brittany-ellich",
     "RowKey": 20260505,
     "DateTimeAsString": "05/05/2026, 11:00:00 AM",
@@ -4946,6 +4945,43 @@
       },
       {
         "YouTube": "https://www.youtube.com/@brittanyellich"
+      }
+    ]
+  },
+  "debbie-o-brien": {
+    "PartitionKey": "debbie-o-brien",
+    "RowKey": 20260512,
+    "DateTimeAsString": "05/12/2026, 11:30:00 AM",
+    "DateTimeUTC": "2026-05-12T19:30:00.000Z",
+    "GuestName": "Debbie O'Brien",
+    "GuestHandle": "@debbie.codes",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "The Developer Community and AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Bluesky": "https://bsky.app/profile/debbie.codes"
+      },
+      {
+        "Blog": "https://debbie.codes/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/debbie-o-brien-1a199975/"
+      },
+      {
+        "GitHub": "https://github.com/debs-obrien"
+      },
+      {
+        "YouTube": "https://www.youtube.com/c/DebbieOBrien"
+      },
+      {
+        "X": "https://x.com/debs_obrien"
       }
     ]
   }
