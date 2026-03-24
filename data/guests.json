@@ -4830,14 +4830,14 @@
     "GuestName": "Brian Alvey",
     "GuestHandle": "@brianalvey",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Developers in an AI First World",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "sPA9n3xdmW4",
+    "GuestBio": "Brian Alvey is CTO at WordPress VIP, the enterprise platform trusted by brands such as CNN, Salesforce, Bloomberg, and NBCUniversal (and built on WordPress Open Source, which powers nearly 45% of the internet). Brian is also one of the internet’s original builders and leaders in online publishing - from founding Engadget to creating software used by global brands like AOL, Gucci, BusinessWeek, Netscape, Huffington Post, and more.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2tCxRxN7yeQRE0Ar0cvGwC",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/d61a9c1b-8169-4398-b058-e6d01bb92c2d/coffee-and-open-source-brian-alvey",
+    "APLink": "https://podcasts.apple.com/us/podcast/brian-alvey/id1589875016?i=1000757127938",
     "Socials": [
       {
         "Blog": "https://brianalvey.com/"
@@ -4847,6 +4847,11 @@
       },
       {
         "X": "https://twitter.com/brianalvey"
+      }
+    ],
+    "Links": [
+      {
+        "WordPress VIP": "https://wpvip.com/"
       }
     ]
   },
