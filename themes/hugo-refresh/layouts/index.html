@@ -9,7 +9,10 @@
         {{- $subtitle   := index $homepage "subtitle" -}}
         {{- $image      := index $homepage "image" -}}
 
-        {{ $dataJ := .hugo.Data.guests }}
+        {{ $dataJ := slice }}
+        {{ range hugo.Data.guests }}
+          {{ $dataJ = $dataJ | append . }}
+        {{ end }}
 
         {{ $totalGuests := len $dataJ }}
         {{ $pageSize := 4 }}

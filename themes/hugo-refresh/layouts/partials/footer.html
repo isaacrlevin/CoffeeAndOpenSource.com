@@ -1,4 +1,5 @@
 <footer class="footer footer-dark">
+  {{ $footer := .Site.Params.footer }}
   <div class="container">
     <div class="columns">
       <div class="column">
@@ -15,91 +16,91 @@
         <!-- </div> -->
       </div>
 
-      {{ if  (or (or (or (isset .Site.Params.footer "linkedin") (isset .Site.Params.footer "email")) (isset .Site.Params.footer "twitter")) (isset .Site.Params.footer "github")) }}
+      {{ if and $footer (or (or (or (isset $footer "linkedin") (isset $footer "email")) (isset $footer "twitter")) (isset $footer "github")) }}
       <div class="column">
         <div class="footer-column">
           <div class="footer-header">
               <h3>Social</h3>
           </div>
           <ul class="link-list">
-            {{ if isset .Site.Params.footer.linkedin "link" }}
+            {{ if and (isset $footer "linkedin") (isset $footer.linkedin "link") }}
             <li>
-              <a href="https://www.linkedin.com/in/{{ .Site.Params.footer.linkedin.link }}" target="_blank">
+              <a href="https://www.linkedin.com/in/{{ $footer.linkedin.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-linkedin"></i></span>
-                {{ if isset .Site.Params.footer.linkedin "title" }}
-                  {{ .Site.Params.footer.linkedin.title }}
+                {{ if isset $footer.linkedin "title" }}
+                  {{ $footer.linkedin.title }}
                 {{ else }}
                   LinkedIn
                 {{ end }}
               </a>
             </li>
             {{ end }}
-            {{ if isset .Site.Params.footer.github "link" }}
+            {{ if and (isset $footer "github") (isset $footer.github "link") }}
             <li>
-              <a href="https://github.com/{{ .Site.Params.footer.github.link }}" target="_blank">
+              <a href="https://github.com/{{ $footer.github.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-github"></i></span>
-                {{ if isset .Site.Params.footer.github "title" }}
-                  {{ .Site.Params.footer.github.title }}
+                {{ if isset $footer.github "title" }}
+                  {{ $footer.github.title }}
                 {{ else }}
                   Github
                 {{ end }}
               </a>
             </li>
             {{ end }}
-            {{ if isset .Site.Params.footer.email "link" }}
+            {{ if and (isset $footer "email") (isset $footer.email "link") }}
             <li>
-              <a href="mailto:{{ .Site.Params.footer.email.link }}" target="_blank">
+              <a href="mailto:{{ $footer.email.link }}" target="_blank">
                 <span class="icon"><i class="fa fa-envelope"></i></span>
-                {{ if isset .Site.Params.footer.email "title" }}
-                  {{ .Site.Params.footer.email.title }}
+                {{ if isset $footer.email "title" }}
+                  {{ $footer.email.title }}
                 {{ else }}
                   Email
                 {{ end }}
               </a>
             </li>
             {{ end }}
-            {{ if isset .Site.Params.footer.twitter "link" }}
+            {{ if and (isset $footer "twitter") (isset $footer.twitter "link") }}
             <li>
-              <a href="https://twitter.com/{{ .Site.Params.footer.twitter.link }}" target="_blank">
+              <a href="https://twitter.com/{{ $footer.twitter.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-twitter"></i></span>
-                {{ if isset .Site.Params.footer.twitter "title" }}
-                  {{ .Site.Params.footer.twitter.title }}
+                {{ if isset $footer.twitter "title" }}
+                  {{ $footer.twitter.title }}
                 {{ else }}
                   Twitter
                 {{ end }}
               </a>
             </li>
             {{ end }}
-            {{ if isset .Site.Params.footer.twitch "link" }}
+            {{ if and (isset $footer "twitch") (isset $footer.twitch "link") }}
             <li>
-              <a href="https://www.twitch.tv/{{ .Site.Params.footer.twitch.link }}" target="_blank">
+              <a href="https://www.twitch.tv/{{ $footer.twitch.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-twitch"></i></span>
-                {{ if isset .Site.Params.footer.twitch "title" }}
-                  {{ .Site.Params.footer.twitch.title }}
+                {{ if isset $footer.twitch "title" }}
+                  {{ $footer.twitch.title }}
                 {{ else }}
                 Twitch
                 {{ end }}
               </a>
             </li>
             {{ end }}
-            {{ if isset .Site.Params.footer.youtube "link" }}
+            {{ if and (isset $footer "youtube") (isset $footer.youtube "link") }}
             <li>
-              <a href="https://www.youtube.com/channel/{{ .Site.Params.footer.youtube.link }}" target="_blank">
+              <a href="https://www.youtube.com/channel/{{ $footer.youtube.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-youtube"></i></span>
-                {{ if isset .Site.Params.footer.youtube "title" }}
-                  {{ .Site.Params.footer.youtube.title }}
+                {{ if isset $footer.youtube "title" }}
+                  {{ $footer.youtube.title }}
                 {{ else }}
                 YouYube
                 {{ end }}
               </a>
             </li>
             {{ end }}
-            {{ if isset .Site.Params.footer.discord "link" }}
+            {{ if and (isset $footer "discord") (isset $footer.discord "link") }}
             <li>
-              <a href="https://discord.gg/{{ .Site.Params.footer.discord.link }}" target="_blank">
+              <a href="https://discord.gg/{{ $footer.discord.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-discord"></i></span>
-                {{ if isset .Site.Params.footer.discord "title" }}
-                  {{ .Site.Params.footer.discord.title }}
+                {{ if isset $footer.discord "title" }}
+                  {{ $footer.discord.title }}
                 {{ else }}
                   Discord
                 {{ end }}
@@ -151,7 +152,7 @@
         </div>
       </div>
 
-      {{ if isset .Site.Params.footer "copyright" }}
+      {{ if and $footer (isset $footer "copyright") }}
       <div class="column">
         <div class="footer-column">
           <div class="footer-header">
@@ -161,7 +162,7 @@
             <li>
               <a>
                 <span class="icon"><i class="fa fa-copyright"></i></span>
-                {{ .Site.Params.footer.copyright }}
+                {{ $footer.copyright }}
               </a>
             </li>
           </ul>

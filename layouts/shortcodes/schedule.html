@@ -1,4 +1,7 @@
-{{ $dataJ := .hugo.Data.guests }}
+{{ $dataJ := slice }}
+{{ range hugo.Data.guests }}
+  {{ $dataJ = $dataJ | append . }}
+{{ end }}
 {{ $sortOrder := "asc"}}
 {{if (eq ($.Get 0) "previous" )}}
   {{ $sortOrder = "desc"}}
