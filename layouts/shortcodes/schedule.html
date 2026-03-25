@@ -1,4 +1,4 @@
-{{ $dataJ := .Site.Data.guests }}
+{{ $dataJ := .hugo.Data.guests }}
 {{ $sortOrder := "asc"}}
 {{if (eq ($.Get 0) "previous" )}}
   {{ $sortOrder = "desc"}}

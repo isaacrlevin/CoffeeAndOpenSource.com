@@ -20,7 +20,7 @@
     {{ end }}
 */}}
 {{ $guest := dict }}
-{{ with index site.Data.guests . }}
+{{ with index hugo.Data.guests . }}
   {{ $guest = . }}
 {{ end }}
 
