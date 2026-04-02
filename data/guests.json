@@ -4992,5 +4992,67 @@
         "X": "https://x.com/debs_obrien"
       }
     ]
+  },
+  "paige-bailey-2": {
+    "PartitionKey": "paige-bailey-2",
+    "RowKey": 20260526,
+    "DateTimeAsString": "05/26/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-05-26T19:00:00.000Z",
+    "GuestName": "Paige Bailey Returns!",
+    "GuestHandle": "https://twitter.com/DynamicWebPaige",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "AI is Popular Now",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://webpaige.dev/"
+      },
+      {
+        "X": "https://twitter.com/DynamicWebPaige"
+      },
+      {
+        "GitHub": "https://github.com/dynamicwebpaige"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/dynamicwebpaige"
+      }
+    ]
+  },
+  "pierce-boggan": {
+    "PartitionKey": "pierce-boggan",
+    "RowKey": 20260421,
+    "DateTimeAsString": "04/21/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-04-21T19:00:00.000Z",
+    "GuestName": "Pierce Boggan",
+    "GuestHandle": "https://twitter.com/pierceboggan",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "GitHub Copilot and VS Code",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "GPLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://pierceboggan.dev/"
+      },
+      {
+        "X": "https://twitter.com/pierceboggan"
+      },
+      {
+        "GitHub": "https://github.com/pierceboggan"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/pierceboggan"
+      }
+    ]
   }
 }
