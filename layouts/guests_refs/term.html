@@ -33,48 +33,17 @@
       <h2 id="the-show">
         Live Stream Recording
       </h2>
-      <div id="yt-container-{{ .YouTubeVideoId }}" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden">
-        <div id="yt-player-{{ .YouTubeVideoId }}" style="position:absolute;top:0;left:0;width:100%;height:100%;"></div>
+      <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/{{ .YouTubeVideoId }}"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+          style="position:absolute;top:0;left:0;width:100%;height:100%;">
+        </iframe>
       </div>
-      <p id="yt-fallback-{{ .YouTubeVideoId }}" style="display:none">
-        This video cannot be played here. <a href="https://www.youtube.com/watch?v={{ .YouTubeVideoId }}" target="_blank" rel="noopener">Watch on YouTube ↗</a>
-      </p>
-      <script>
-        (function() {
-          var videoId = '{{ .YouTubeVideoId }}';
-          function createPlayer() {
-            new YT.Player('yt-player-' + videoId, {
-              videoId: videoId,
-              host: 'https://www.youtube-nocookie.com',
-              width: '100%',
-              height: '100%',
-              events: {
-                'onError': function(event) {
-                  var container = document.getElementById('yt-container-' + videoId);
-                  var fallback = document.getElementById('yt-fallback-' + videoId);
-                  if (container) container.style.display = 'none';
-                  if (fallback) fallback.style.display = '';
-                }
-              }
-            });
-          }
-          if (window.YT && window.YT.Player) {
-            createPlayer();
-          } else {
-            var prevCallback = window.onYouTubeIframeAPIReady;
-            window.onYouTubeIframeAPIReady = function() {
-              if (prevCallback) prevCallback();
-              createPlayer();
-            };
-            if (!document.getElementById('youtube-iframe-api')) {
-              var tag = document.createElement('script');
-              tag.id = 'youtube-iframe-api';
-              tag.src = 'https://www.youtube.com/iframe_api';
-              document.head.appendChild(tag);
-            }
-          }
-        })();
-      </script>
       <br>
       {{ end }}
       {{ if .HaveAudio}}
