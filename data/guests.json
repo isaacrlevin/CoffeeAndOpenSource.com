@@ -4732,11 +4732,11 @@
     "GuestName": "Courtney Yatteau",
     "GuestHandle": "@c_yatteau",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "From High School Math to Developer Advocacy",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
+    "YouTubeVideoId": "rfZ35A6ohuY",
+    "GuestBio": "Courtney Yatteau is a Developer Advocate on Esri's Developer Experience Team, where she helps developers build better web applications with modern JavaScript tools, libraries, and mapping technology. Before Esri, she taught computer science and mathematics, which shaped her approach to making technical concepts clear, approachable, and visual.",
+    "HaveAudio": true,
     "SpotifyLink": "",
     "AmazonLink": "",
     "APLink": "",
@@ -4752,6 +4752,9 @@
       },
       {
         "LinkedIn": "https://www.linkedin.com/in/courtneyyatteau/"
+      },
+      {
+        "Github": "https://github.com/cyatteau"
       }
     ]
   },
