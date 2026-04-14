@@ -4516,14 +4516,14 @@
     "GuestName": "Gerald Versluis",
     "GuestHandle": "https://bsky.app/profile/jfversluis.dev",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source Apps for Desktop",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "_TRWeZguJBU",
+    "GuestBio": "Gerald Versluis is a software engineer at Microsoft, who wields the power of .NET to conquer any project that comes his way. With a career spanning over a decade, he's tackled it all, from frontend to backend and everything in between, using .NET MAUI, Azure, ASP.NET, and all the other .NET goodies. And these days of course; AI and Copilot.<br /><br />But it wasn't until he discovered the magic of Xamarin that he truly fell in love with mobile and cross-platform development, becoming an active community member and sharing his knowledge through writing, tweeting, and presentations.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/031lzEy57pur3hIrYNIBD0",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a97e7d48-3e25-4f09-b0d8-f48978f3e3e2/coffee-and-open-source-gerald-versluis",
+    "APLink": "https://podcasts.apple.com/us/podcast/gerald-versluis/id1589875016?i=1000761382436",
     "Socials": [
       {
         "Blog": "https://jfversluis.dev/"
