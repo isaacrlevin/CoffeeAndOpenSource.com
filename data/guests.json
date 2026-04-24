@@ -5058,5 +5058,35 @@
         "LinkedIn": "https://www.linkedin.com/in/pierceboggan"
       }
     ]
+  },
+  "pavlo-baron": {
+    "PartitionKey": "pavlo-baron",
+    "RowKey": 20260602,
+    "DateTimeAsString": "06/02/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-02T19:00:00.000Z",
+    "GuestName": "Pavlo Baron",
+    "GuestHandle": "https://www.linkedin.com/in/pavlobaron/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://pavlobaron.medium.com/"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/pavlobaron/"
+      }
+    ],
+    "Links": [
+      {
+        "Platform Engineering Labs": "https://platform.engineering/"
+      }
+    ]
   }
 }
