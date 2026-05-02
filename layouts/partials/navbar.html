@@ -5,11 +5,11 @@
     {{- $subtitle   := index $homepage "subtitle" -}}
     {{- $image      := index $homepage "image" -}}
 
-    <figure class="image" style="margin-left: 20px;" >
+    <figure class="image" style="margin-left: 20px;">
       {{- $img := resources.Get $image -}}
       <img src="{{- $img.Permalink | relURL -}}"
           style="width:{{- .Site.Params.homepage.imageWidth -}}" alt="Myself">
-      </figure>
+    </figure>
     <div class="navbar-brand">
 
      <div class="navbar-item is-expanded"></div>
@@ -167,15 +167,11 @@
 
 <script>
 (function () {
-  var guests = [
-    {{- range $key, $guest := hugo.Data.guests }}
-    {
-      name: {{ $guest.GuestName | jsonify }},
-      handle: {{ $guest.GuestHandle | jsonify }},
-      key: {{ $guest.PartitionKey | jsonify }}
-    },
-    {{- end }}
-  ];
+  {{- $guestData := slice -}}
+  {{- range hugo.Data.guests -}}
+    {{- $guestData = $guestData | append (dict "name" .GuestName "handle" .GuestHandle "key" .PartitionKey) -}}
+  {{- end -}}
+  var guests = {{ $guestData | jsonify }};
 
   function getHandleUsername(url) {
     if (!url) return '';
@@ -183,10 +179,8 @@
     return '@' + parts[parts.length - 1];
   }
 
-  function fuzzyMatch(query, text) {
-    query = query.toLowerCase();
-    text = text.toLowerCase();
-    return text.indexOf(query) !== -1;
+  function containsMatch(query, text) {
+    return text.toLowerCase().indexOf(query.toLowerCase()) !== -1;
   }
 
   function searchGuests(query) {
@@ -194,7 +188,7 @@
     for (var i = 0; i < guests.length; i++) {
       var g = guests[i];
       var handle = getHandleUsername(g.handle);
-      if (fuzzyMatch(query, g.name) || fuzzyMatch(query, handle)) {
+      if (containsMatch(query, g.name) || containsMatch(query, handle)) {
         results.push(g);
         if (results.length >= 5) break;
       }
