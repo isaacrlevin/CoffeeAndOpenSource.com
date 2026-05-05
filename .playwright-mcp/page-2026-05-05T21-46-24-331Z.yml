@@ -1,0 +1,4 @@
+- generic [ref=e2]:
+  - img "logo" [ref=e4]
+  - heading "Tuning in" [level=4] [ref=e6]
+  - img [ref=e9]

@@ -1,32 +1,33 @@
 [CmdletBinding()]
 param(
     [Parameter(Mandatory = $true)]
-    [string]$FilePath,
-
-    [Parameter(Mandatory = $true)]
     [string]$GuestSlug,
 
     [string]$ContainerName = "interviews",
-    [string]$BlobName,
     [string]$StorageAccountName,
     [string]$BaseUrl = "https://podcasts.coffeeandopensource.com",
     [switch]$UseConnectedAccount
 )
 
-$resolvedFile = Resolve-Path -Path $FilePath -ErrorAction Stop
+$desktopPath = [System.IO.Path]::Combine($env:USERPROFILE, "Desktop")
+$fileSearch = Get-ChildItem -Path $desktopPath -Filter "$GuestSlug*" -ErrorAction Stop | Select-Object -First 1
+
+if ($null -eq $fileSearch) {
+    throw "No file matching '$GuestSlug*' found on desktop at $desktopPath"
+}
+
+$resolvedFile = $fileSearch
 
 if (-not (Get-Command az -ErrorAction SilentlyContinue)) {
     throw "Azure CLI ('az') is required but was not found on PATH."
 }
 
-if ([string]::IsNullOrWhiteSpace($BlobName)) {
-    $BlobName = "$GuestSlug.mp3"
-}
+$BlobName = $resolvedFile.Name
 
-$connectionString = $env:AZURE_STORAGE_CONNECTION_STRING
+$connectionString = "DefaultEndpointsProtocol=https;AccountName=coffeeandopensource;AccountKey=TM/9QZNN5gCW92pwBjzHpro/KRLzoACI8suf26IFGbX2SNTKJMUxS8uMu4TzGnqJSmLvWYdPY7/k2AqLABMAOQ==;EndpointSuffix=core.windows.net"
 
 if ([string]::IsNullOrWhiteSpace($StorageAccountName)) {
-    $StorageAccountName = $env:AZURE_STORAGE_ACCOUNT_NAME
+    $StorageAccountName = "coffeeandopensource"
 }
 
 $uploadArgs = @(
@@ -35,7 +36,7 @@ $uploadArgs = @(
     "--only-show-errors",
     "--container-name", $ContainerName,
     "--name", $BlobName,
-    "--file", $resolvedFile.Path,
+    "--file", $resolvedFile.FullName,
     "--content-type", "audio/mpeg"
 )
 
@@ -57,7 +58,7 @@ if ($LASTEXITCODE -ne 0) {
 
 $result = [pscustomobject]@{
     GuestSlug = $GuestSlug
-    FilePath = $resolvedFile.Path
+    FilePath = $resolvedFile.FullName
     ContainerName = $ContainerName
     BlobName = $BlobName
     PublicUrl = ("{0}/{1}/{2}" -f $BaseUrl.TrimEnd('/'), $ContainerName, $BlobName)
