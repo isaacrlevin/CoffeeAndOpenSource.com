@@ -4934,14 +4934,14 @@
     "GuestName": "Brittany Ellich",
     "GuestHandle": "@brittanyellich.com",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "How AI helps an engineer's productivity",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "_VpyPRcCc2Q",
     "GuestBio": "Brittany is a Staff Software Engineer at GitHub, helping build the platform millions of developers rely on every day. She hosts the Overcommitted podcast, writes The Balanced Engineer newsletter, and speaks at conferences about AI, accessibility, developer productivity, and building a software engineering career.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5b8vj6sFe270bt0kwxY1Js",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a240ba84-67fa-4de6-a6e6-be426bd047d7/coffee-and-open-source-brittany-ellich",
+    "APLink": "https://podcasts.apple.com/us/podcast/brittany-ellich/id1589875016?i=1000766308088",
     "Socials": [
       {
         "Bluesky": "https://bsky.app/profile/brittanyellich.com"
@@ -4957,6 +4957,11 @@
       },
       {
         "YouTube": "https://www.youtube.com/@brittanyellich"
+      }
+    ],
+    "Links": [
+      {
+        "Overcommitted Podcast": "https://overcommitted.dev/"
       }
     ]
   },
