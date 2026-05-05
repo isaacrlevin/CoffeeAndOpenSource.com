@@ -171,7 +171,7 @@
   {{- range hugo.Data.guests -}}
     {{- $guestData = $guestData | append (dict "name" .GuestName "handle" .GuestHandle "key" .PartitionKey) -}}
   {{- end -}}
-  var guests = {{ $guestData | jsonify }};
+  var guests = {{ $guestData | jsonify | safeJS }};
 
   function getHandleUsername(url) {
     if (!url) return '';
