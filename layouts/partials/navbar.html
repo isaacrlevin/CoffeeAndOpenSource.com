@@ -1,0 +1,272 @@
+<nav class="navbar is-fresh is-transparent no-shadow" role="navigation" aria-label="main navigation">
+  <div class="container">
+    {{- $homepage   := .Site.Params.homepage -}}
+    {{- $title      := index $homepage "title" -}}
+    {{- $subtitle   := index $homepage "subtitle" -}}
+    {{- $image      := index $homepage "image" -}}
+
+    <figure class="image" style="margin-left: 20px;">
+      {{- $img := resources.Get $image -}}
+      <img src="{{- $img.Permalink | relURL -}}"
+          style="width:{{- .Site.Params.homepage.imageWidth -}}" alt="Myself">
+    </figure>
+    <div class="navbar-brand">
+
+     <div class="navbar-item is-expanded"></div>
+      <a class="navbar-item is-hidden-desktop">
+        <div data-target="navbar-menu" class="navbar-item right-menu-icon-wrapper is-hidden-desktop">
+          {{ i18n "mainMenu" }}
+        </div>
+        <div data-target="navbar-menu" class="menu-icon-wrapper right-menu-icon-wrapper" style="visibility: visible;">
+          <svg width="1000px" height="1000px">
+            <path class="path1" d="M 300 400 L 700 400 C 900 400 900 750 600 850 A 400 400 0 0 1 200 200 L 800 800"></path>
+            <path class="path2" d="M 300 500 L 700 500"></path>
+            <path class="path3" d="M 700 600 L 300 600 C 100 600 100 200 400 150 A 400 380 0 1 1 200 800 L 800 200"></path>
+          </svg>
+          <button id="menu-icon-trigger" class="menu-icon-trigger"></button>
+        </div>
+      </a>
+    </div>
+
+
+
+    <div id="navbar-menu" class="navbar-menu is-static">
+      <!-- <div class="navbar-start"></div> -->
+      <div class="navbar-end">
+        {{- $home    := .Site.Params.homepage.linkPosition -}}
+        {{/*  {{- if or (eq $home "menu") (eq $home "menu+footer") -}}  */}}
+        {{ if or (eq $home "menu") (eq $home "menu+footer") }}
+          <a href="{{ "/" | relLangURL }}" class="navbar-item is-secondary">
+            {{- if .Site.Params.homepage.linkText -}}
+              {{- print .Site.Params.homepage.linkText -}}
+            {{- else -}}
+              {{ i18n "homepage" }}
+            {{- end -}}
+          </a>
+        {{- end -}}
+        {{ range .Site.RegularPages }}
+          {{- if eq .Params.showInMenu true -}}
+          <a href="{{- .Permalink | relURL -}}" class="navbar-item is-secondary">
+            {{- .Title -}}
+          </a>
+          {{- end -}}
+        {{- end -}}
+        {{- range .Site.Sections -}}
+          {{- if not (eq .Title "singles") -}}
+          {{- $secCount := len .Sections -}}
+          {{- if (ne $secCount 0) }}
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a href="{{- .Permalink | relURL -}}" class="navbar-link">
+              {{- .Title -}}
+            </a>
+            <div class="navbar-dropdown">
+              <!-- <a href="{{- .Permalink -}}" class="navbar-item">
+                > All
+              </a> -->
+              {{- range .Sections -}}
+              <a href="{{- .Permalink | relURL -}}" class="navbar-item">
+                {{- .Title -}}
+              </a>
+              {{- end -}}
+            </div>
+          </div>
+          {{- else -}}
+          <!-- <a href="{{- .Permalink | relURL -}}" class="navbar-item is-secondary">
+            {{- .Title -}}
+          </a> -->
+          {{- end -}}
+        {{- end -}}
+        {{- end -}}
+
+        <!-- Guest Search -->
+        <div class="navbar-item guest-search-wrapper" style="position: relative;">
+          <div class="control has-icons-left">
+            <input
+              id="guest-search-input"
+              class="input is-small guest-search-input"
+              type="text"
+              placeholder="Search guests..."
+              autocomplete="off"
+              aria-label="Search guests"
+              aria-expanded="false"
+              aria-haspopup="listbox"
+              role="combobox"
+            >
+            <span class="icon is-left is-small">
+              <i class="fas fa-search"></i>
+            </span>
+          </div>
+          <ul
+            id="guest-search-results"
+            class="guest-search-dropdown"
+            role="listbox"
+            aria-label="Guest search results"
+            style="display: none;"
+          ></ul>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+<style>
+  .guest-search-wrapper {
+    align-items: center;
+  }
+  .guest-search-input {
+    width: 180px;
+    border-radius: 4px;
+    transition: width 0.2s ease;
+  }
+  .guest-search-input:focus {
+    width: 220px;
+  }
+  .guest-search-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    list-style: none;
+    margin: 4px 0 0 0;
+    padding: 4px 0;
+    min-width: 220px;
+    max-width: 320px;
+    z-index: 9999;
+    text-align: left;
+  }
+  .guest-search-dropdown li a {
+    display: block;
+    padding: 8px 14px;
+    color: #363636;
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .guest-search-dropdown li a:hover,
+  .guest-search-dropdown li a:focus {
+    background-color: #f5f5f5;
+    color: #000;
+    outline: none;
+  }
+  .guest-search-dropdown li a .guest-handle {
+    display: block;
+    font-size: 0.8em;
+    color: #888;
+  }
+  .guest-search-no-results {
+    padding: 8px 14px;
+    color: #888;
+    font-size: 0.9em;
+  }
+</style>
+
+<script>
+(function () {
+  {{- $guestData := slice -}}
+  {{- range hugo.Data.guests -}}
+    {{- $guestData = $guestData | append (dict "name" .GuestName "handle" .GuestHandle "key" .PartitionKey) -}}
+  {{- end -}}
+  var guests = {{ $guestData | jsonify | safeJS }};
+
+  function getHandleUsername(url) {
+    if (!url) return '';
+    var parts = url.replace(/\/$/, '').split('/');
+    return '@' + parts[parts.length - 1];
+  }
+
+  function containsMatch(query, text) {
+    return text.toLowerCase().indexOf(query.toLowerCase()) !== -1;
+  }
+
+  function searchGuests(query) {
+    var results = [];
+    for (var i = 0; i < guests.length; i++) {
+      var g = guests[i];
+      var handle = getHandleUsername(g.handle);
+      if (containsMatch(query, g.name) || containsMatch(query, handle)) {
+        results.push(g);
+        if (results.length >= 5) break;
+      }
+    }
+    return results;
+  }
+
+  function renderResults(results, query) {
+    var dropdown = document.getElementById('guest-search-results');
+    dropdown.innerHTML = '';
+    if (results.length === 0) {
+      var li = document.createElement('li');
+      li.className = 'guest-search-no-results';
+      li.textContent = 'No guests found';
+      dropdown.appendChild(li);
+    } else {
+      results.forEach(function (g) {
+        var li = document.createElement('li');
+        li.setAttribute('role', 'option');
+        var a = document.createElement('a');
+        a.href = '/guest/' + g.key + '.html';
+        var nameSpan = document.createElement('span');
+        nameSpan.textContent = g.name;
+        a.appendChild(nameSpan);
+        if (g.handle) {
+          var handleSpan = document.createElement('span');
+          handleSpan.className = 'guest-handle';
+          handleSpan.textContent = getHandleUsername(g.handle);
+          a.appendChild(handleSpan);
+        }
+        li.appendChild(a);
+        dropdown.appendChild(li);
+      });
+    }
+    dropdown.style.display = '';
+  }
+
+  function hideDropdown() {
+    var dropdown = document.getElementById('guest-search-results');
+    if (dropdown) {
+      dropdown.style.display = 'none';
+      dropdown.innerHTML = '';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var input = document.getElementById('guest-search-input');
+    if (!input) return;
+
+    input.addEventListener('input', function () {
+      var query = this.value.trim();
+      if (query.length < 3) {
+        hideDropdown();
+        this.setAttribute('aria-expanded', 'false');
+        return;
+      }
+      var results = searchGuests(query);
+      renderResults(results, query);
+      this.setAttribute('aria-expanded', 'true');
+    });
+
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        hideDropdown();
+        this.setAttribute('aria-expanded', 'false');
+        this.value = '';
+      }
+    });
+
+    document.addEventListener('click', function (e) {
+      var wrapper = document.querySelector('.guest-search-wrapper');
+      if (wrapper && !wrapper.contains(e.target)) {
+        hideDropdown();
+        var inp = document.getElementById('guest-search-input');
+        if (inp) inp.setAttribute('aria-expanded', 'false');
+      }
+    });
+  });
+})();
+</script>
