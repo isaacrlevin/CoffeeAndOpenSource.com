@@ -169,4 +169,6 @@ guests_refs:
 - debbie-o-brien
 - pierce-boggan
 - pavlo-baron
+- michael-washington
+- martin-finkel
 ---
