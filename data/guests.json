@@ -5073,7 +5073,7 @@
     "GuestHandle": "https://www.linkedin.com/in/pavlobaron/",
     "GuestLink": "",
     "IsPublished": false,
-    "Topic": "",
+    "Topic": "Open Source IaC",
     "YouTubeVideoId": "",
     "GuestBio": "",
     "HaveAudio": false,
@@ -5091,6 +5091,68 @@
     "Links": [
       {
         "Platform Engineering Labs": "https://platform.engineering/"
+      }
+    ]
+  },
+  "michael-washington": {
+    "PartitionKey": "michael-washington",
+    "RowKey": 20260714,
+    "DateTimeAsString": "07/14/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-07-14T19:00:00.000Z",
+    "GuestName": "Michael Washington",
+    "GuestHandle": "https://twitter.com/ADefWebserver",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Being a .NET Developer Today",
+    "YouTubeVideoId": "",
+    "GuestBio": "Michael Washington is an ASP.NET and C# programmer with experience in process improvement, billing systems, and student information systems. He is the founder of AiHelpWebsite.com and BlazorHelpWebsite.com.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://blazorhelpwebsite.com/"
+      },
+      {
+        "GitHub": "https://github.com/ADefWebserver"
+      },
+      {
+        "X": "https://twitter.com/ADefWebserver"
+      },
+      {
+        "YouTube": "https://www.youtube.com/user/adefwebserver"
+      }
+    ]
+  },
+  "martin-finkel": {
+    "PartitionKey": "martin-finkel",
+    "RowKey": 20260616,
+    "DateTimeAsString": "06/16/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-16T19:00:00.000Z",
+    "GuestName": "Martin Finkel",
+    "GuestHandle": "https://github.com/mfkl",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Building Open Source .NET Media Tools",
+    "YouTubeVideoId": "",
+    "GuestBio": "Martin Finkel works on .NET projects at VideoLAN and contributes to open-source developer tools including LibVLCSharp and VLC for Unity. He also writes about .NET and media development on his blog.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://mfkl.github.io/"
+      },
+      {
+        "GitHub": "https://github.com/mfkl"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/martin-finkel"
+      },
+      {
+        "X": "https://twitter.com/martz2804"
       }
     ]
   }
