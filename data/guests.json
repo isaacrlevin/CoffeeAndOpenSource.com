@@ -5155,5 +5155,42 @@
         "X": "https://twitter.com/martz2804"
       }
     ]
+  },
+  "rizel-scarlett-2": {
+    "PartitionKey": "rizel-scarlett-2",
+    "RowKey": 20260609,
+    "DateTimeAsString": "06/09/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-09T19:00:00.000Z",
+    "GuestName": "Rizel Scarlett Returns!",
+    "GuestHandle": "https://x.com/blackgirlbytes",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Developers in the Agentic Loop",
+    "YouTubeVideoId": "",
+    "GuestBio": "Rizel Scarlett is a Principal Developer Advocate at Entire and a software engineer and community builder. She previously worked in developer advocacy roles at Block and GitHub and shares content about open source and AI agents.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://x.com/blackgirlbytes"
+      },
+      {
+        "GitHub": "https://github.com/blackgirlbytes"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/rizel-bobb-semple/"
+      },
+      {
+        "Mastodon": "https://hachyderm.io/@blackgirlbytes"
+      },
+      {
+        "Blog": "https://blackgirlbytes.dev/"
+      },
+      {
+        "Twitch": "https://www.twitch.tv/blackgirlbytes1"
+      }
+    ]
   }
 }
