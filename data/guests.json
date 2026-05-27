@@ -5192,5 +5192,39 @@
         "Twitch": "https://www.twitch.tv/blackgirlbytes1"
       }
     ]
+  },
+  "jimmy-bogard": {
+    "PartitionKey": "jimmy-bogard",
+    "RowKey": 20260707,
+    "DateTimeAsString": "07/07/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-07-07T19:00:00.000Z",
+    "GuestName": "Jimmy Bogard",
+    "GuestHandle": "https://www.jimmybogard.com/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Open Source .NET Architecture",
+    "YouTubeVideoId": "",
+    "GuestBio": "Jimmy Bogard is a software architect and consultant who created the OSS libraries AutoMapper, MediatR, and Respawn. He helps teams build systems faster, better, and more maintainable.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://www.jimmybogard.com/"
+      },
+      {
+        "X": "https://twitter.com/jbogard"
+      },
+      {
+        "GitHub": "https://github.com/jbogard"
+      },
+      {
+        "LinkedIn": "https://linkedin.com/in/jimmybogard"
+      },
+      {
+        "YouTube": "https://www.youtube.com/playlist?list=PLd-Kkce6KA23xB_EJuxSw8cmFD62BsMFR"
+      }
+    ]
   }
 }
