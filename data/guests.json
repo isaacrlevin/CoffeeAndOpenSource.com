@@ -5095,9 +5095,9 @@
   },
   "michael-washington": {
     "PartitionKey": "michael-washington",
-    "RowKey": 20260714,
-    "DateTimeAsString": "07/14/2026, 11:00:00 AM",
-    "DateTimeUTC": "2026-07-14T19:00:00.000Z",
+    "RowKey": 20260721,
+    "DateTimeAsString": "07/21/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-07-21T19:00:00.000Z",
     "GuestName": "Michael Washington",
     "GuestHandle": "https://twitter.com/ADefWebserver",
     "GuestLink": "",
