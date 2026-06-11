@@ -5066,9 +5066,9 @@
   },
   "pavlo-baron": {
     "PartitionKey": "pavlo-baron",
-    "RowKey": 20260602,
-    "DateTimeAsString": "06/02/2026, 11:00:00 AM",
-    "DateTimeUTC": "2026-06-02T19:00:00.000Z",
+    "RowKey": 20260630,
+    "DateTimeAsString": "06/30/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-30T19:00:00.000Z",
     "GuestName": "Pavlo Baron",
     "GuestHandle": "https://www.linkedin.com/in/pavlobaron/",
     "GuestLink": "",
@@ -5224,6 +5224,45 @@
       },
       {
         "YouTube": "https://www.youtube.com/playlist?list=PLd-Kkce6KA23xB_EJuxSw8cmFD62BsMFR"
+      }
+    ]
+  },
+  "stacy-cashmore": {
+    "PartitionKey": "stacy-cashmore",
+    "RowKey": 20260623,
+    "DateTimeAsString": "06/23/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-23T18:00:00.000Z",
+    "GuestName": "Stacy Cashmore",
+    "GuestHandle": "https://x.com/Stacy_Cash",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Real World Productivity Using AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "Speaker, author, and software developer recognized with a Microsoft MVP Award for Developer Technologies. Stacy has been developing solutions since the mid-1990s across various industries. She authored Beginning Azure Static Web Apps and is passionate about Azure, DevOps, and empowering developers.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://x.com/Stacy_Cash"
+      },
+      {
+        "Blog": "https://www.stacy-clouds.net"
+      },
+      {
+        "LinkedIn": "https://nl.linkedin.com/in/stacycash"
+      },
+      {
+        "Mastodon": "https://tech.lgbt/@stacyclouds"
+      }
+    ],
+    "Links": [
+      {
+        "MVP Profile": "https://mvp.microsoft.com/en-US/MVP/profile/97f359d1-37e8-ea11-a813-000d3a8ccaf5"
+      },
+      {
+        "Sessionize": "https://sessionize.com/stacy-cashmore/"
       }
     ]
   }
