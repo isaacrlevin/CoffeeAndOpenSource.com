@@ -5133,14 +5133,14 @@
     "GuestName": "Martin Finkel",
     "GuestHandle": "https://github.com/mfkl",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Building Open Source .NET Media Tools",
-    "YouTubeVideoId": "",
-    "GuestBio": "Martin Finkel works on .NET projects at VideoLAN and contributes to open-source developer tools including LibVLCSharp and VLC for Unity. He also writes about .NET and media development on his blog.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "ngW9exERq44",
+    "GuestBio": "Martin builds cross-platform multimedia infrastructure and developer tools. Since 2017, he has maintained major LibVLC ecosystem projects including LibVLCSharp and VLC for Unity, used by developers worldwide to build media applications. He is also the founder of pkgstore.io and regularly shares his expertise through consulting, speaking, and technical writing.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1N6QjGO0QyLtIGEZ8rlovH",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/9269b12a-0d5a-47b2-a622-395079214140/coffee-and-open-source-martin-finkel",
+    "APLink": "https://podcasts.apple.com/us/podcast/martin-finkel/id1589875016?i=1000773025914",
     "Socials": [
       {
         "Blog": "https://mfkl.github.io/"
@@ -5153,6 +5153,17 @@
       },
       {
         "X": "https://twitter.com/martz2804"
+      }
+    ],
+    "Links": [
+      {
+        "pkgstore.io": "https://www.pkgstore.io/"
+      },
+      {
+        "LibVLCSharp Samples": "https://github.com//mfkl/libvlcsharp-samples"
+      },
+      {
+        "dav1d": "https://code.videolan.org/videolan/dav1d"
       }
     ]
   },
