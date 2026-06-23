@@ -5246,14 +5246,14 @@
     "GuestName": "Stacy Cashmore",
     "GuestHandle": "https://x.com/Stacy_Cash",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Real World Productivity Using AI",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "xiaAvNsi4h4",
     "GuestBio": "Speaker, author, and software developer recognized with a Microsoft MVP Award for Developer Technologies. Stacy has been developing solutions since the mid-1990s across various industries. She authored Beginning Azure Static Web Apps and is passionate about Azure, DevOps, and empowering developers.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0o5Ffw2bjF1KSYI9YwUPQB",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/6c864778-737b-4a54-abfe-625bcbd43edc/coffee-and-open-source-stacy-cashmore",
+    "APLink": "https://podcasts.apple.com/us/podcast/stacy-cashmore/id1589875016?i=1000773932452",
     "Socials": [
       {
         "X": "https://x.com/Stacy_Cash"
@@ -5266,6 +5266,9 @@
       },
       {
         "Mastodon": "https://tech.lgbt/@stacyclouds"
+      },
+      {
+        "BlueSky": "https://bsky.app/profile/stacy-clouds.net"
       }
     ],
     "Links": [
