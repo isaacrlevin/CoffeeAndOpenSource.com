@@ -2,6 +2,54 @@
 
 Two PowerShell scripts to automate parts of the Coffee & Open Source episode publishing pipeline.
 
+## Security: Environment Variables
+
+All scripts use environment variables for credentials. **Never commit secrets to version control.**
+
+### Local Development Setup
+
+1. Copy `.env.local.example` to `.env.local` (already in `.gitignore`):
+   ```bash
+   cp .env.local.example .env.local
+   ```
+
+2. Fill in your values in `.env.local`:
+   ```
+   AZURE_STORAGE_CONNECTION_STRING=your-connection-string-here
+   YOUTUBE_API_KEY=your-api-key-here
+   YOUTUBE_CHANNEL_ID=your-channel-id-here
+   ```
+
+3. Load before running scripts:
+   ```powershell
+   # Windows PowerShell: Add to your $PROFILE or run manually
+   if (Test-Path ".env.local") {
+       Get-Content ".env.local" | ForEach-Object {
+           if ($_ -and -not $_.StartsWith("#")) {
+               $key, $value = $_ -split "=", 2
+               [Environment]::SetEnvironmentVariable($key, $value, "Process")
+           }
+       }
+   }
+   ```
+
+### GitHub Actions Setup
+
+Store secrets in **Settings → Secrets and variables → Actions**:
+- `AZURE_STORAGE_CONNECTION_STRING`
+- `YOUTUBE_API_KEY`
+- `YOUTUBE_CHANNEL_ID`
+
+Then in workflow YAML, expose them:
+```yaml
+env:
+  AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+  YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+```
+
+---
+
 ## `upload-mp3.ps1`
 
 Upload an MP3 file to Azure Blob Storage in the `interviews` container.
@@ -9,36 +57,19 @@ Upload an MP3 file to Azure Blob Storage in the `interviews` container.
 ### Prerequisites
 
 - Azure CLI (`az` command)
-- Either:
-  - An Azure Storage connection string in `AZURE_STORAGE_CONNECTION_STRING` env var, OR
-  - Azure CLI signed in with `az login` and an account name in `AZURE_STORAGE_ACCOUNT_NAME` env var
+- `AZURE_STORAGE_CONNECTION_STRING` environment variable set
 
 ### Usage
 
 ```powershell
-# Using connection string
-.\upload-mp3.ps1 -FilePath "C:\path\to\episode.mp3" -GuestSlug "guest-name"
-
-# Using az login (default behavior)
-$env:AZURE_STORAGE_ACCOUNT_NAME = "your-storage-account"
-.\upload-mp3.ps1 -FilePath "C:\path\to\episode.mp3" -GuestSlug "guest-name"
+# Searches Desktop for files matching the guest slug pattern
+.\upload-mp3.ps1 -GuestSlug "guest-name"
 ```
 
-### Output
-
-Returns a JSON object with:
-- `PublicUrl`: The full CDN URL where the MP3 is now accessible
-
-Example:
-```json
-{
-  "GuestSlug": "guest-name",
-  "FilePath": "C:\\path\\to\\episode.mp3",
-  "ContainerName": "interviews",
-  "BlobName": "guest-name.mp3",
-  "PublicUrl": "https://podcasts.coffeeandopensource.com/interviews/guest-name.mp3"
-}
-```
+The script automatically:
+1. Searches your Desktop for files matching `guest-name*`
+2. Uses the first match found
+3. Uploads to Azure Blob Storage in the `interviews` container
 
 ---
 

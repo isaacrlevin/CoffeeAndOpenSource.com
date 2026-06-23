@@ -44,4 +44,7 @@ $RECYCLE.BIN/
 deploy-stage.bat
 deploy-stage.ps1
 
+# Local environment variables - never commit secrets
+.env.local
+
 resources/

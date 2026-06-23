@@ -24,7 +24,7 @@ if (-not (Get-Command az -ErrorAction SilentlyContinue)) {
 
 $BlobName = $resolvedFile.Name
 
-$connectionString = "DefaultEndpointsProtocol=https;AccountName=coffeeandopensource;AccountKey=TM/9QZNN5gCW92pwBjzHpro/KRLzoACI8suf26IFGbX2SNTKJMUxS8uMu4TzGnqJSmLvWYdPY7/k2AqLABMAOQ==;EndpointSuffix=core.windows.net"
+$connectionString = $env:AZURE_STORAGE_CONNECTION_STRING
 
 if ([string]::IsNullOrWhiteSpace($StorageAccountName)) {
     $StorageAccountName = "coffeeandopensource"
@@ -40,14 +40,16 @@ $uploadArgs = @(
     "--content-type", "audio/mpeg"
 )
 
-if (-not [string]::IsNullOrWhiteSpace($connectionString)) {
-    $uploadArgs += @("--connection-string", $connectionString)
-} elseif (-not [string]::IsNullOrWhiteSpace($StorageAccountName)) {
-    $uploadArgs += @("--account-name", $StorageAccountName, "--auth-mode", "login")
-} elseif ($UseConnectedAccount) {
-    throw "-UseConnectedAccount requires -StorageAccountName or AZURE_STORAGE_ACCOUNT_NAME."
+if ([string]::IsNullOrWhiteSpace($connectionString)) {
+    if (-not [string]::IsNullOrWhiteSpace($StorageAccountName)) {
+        $uploadArgs += @("--account-name", $StorageAccountName, "--auth-mode", "login")
+    } elseif ($UseConnectedAccount) {
+        throw "-UseConnectedAccount requires AZURE_STORAGE_CONNECTION_STRING or -StorageAccountName with 'az login'."
+    } else {
+        throw "Set AZURE_STORAGE_CONNECTION_STRING environment variable or provide -StorageAccountName and sign in with 'az login'."
+    }
 } else {
-    throw "Provide AZURE_STORAGE_CONNECTION_STRING or set AZURE_STORAGE_ACCOUNT_NAME and sign in with 'az login'."
+    $uploadArgs += @("--connection-string", $connectionString)
 }
 
 $null = & az @uploadArgs

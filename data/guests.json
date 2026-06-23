@@ -5066,9 +5066,9 @@
   },
   "pavlo-baron": {
     "PartitionKey": "pavlo-baron",
-    "RowKey": 20260602,
-    "DateTimeAsString": "06/02/2026, 11:00:00 AM",
-    "DateTimeUTC": "2026-06-02T19:00:00.000Z",
+    "RowKey": 20260630,
+    "DateTimeAsString": "06/30/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-30T19:00:00.000Z",
     "GuestName": "Pavlo Baron",
     "GuestHandle": "https://www.linkedin.com/in/pavlobaron/",
     "GuestLink": "",
@@ -5133,14 +5133,14 @@
     "GuestName": "Martin Finkel",
     "GuestHandle": "https://github.com/mfkl",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Building Open Source .NET Media Tools",
-    "YouTubeVideoId": "",
-    "GuestBio": "Martin Finkel works on .NET projects at VideoLAN and contributes to open-source developer tools including LibVLCSharp and VLC for Unity. He also writes about .NET and media development on his blog.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "ngW9exERq44",
+    "GuestBio": "Martin builds cross-platform multimedia infrastructure and developer tools. Since 2017, he has maintained major LibVLC ecosystem projects including LibVLCSharp and VLC for Unity, used by developers worldwide to build media applications. He is also the founder of pkgstore.io and regularly shares his expertise through consulting, speaking, and technical writing.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/1N6QjGO0QyLtIGEZ8rlovH",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/9269b12a-0d5a-47b2-a622-395079214140/coffee-and-open-source-martin-finkel",
+    "APLink": "https://podcasts.apple.com/us/podcast/martin-finkel/id1589875016?i=1000773025914",
     "Socials": [
       {
         "Blog": "https://mfkl.github.io/"
@@ -5154,6 +5154,17 @@
       {
         "X": "https://twitter.com/martz2804"
       }
+    ],
+    "Links": [
+      {
+        "pkgstore.io": "https://www.pkgstore.io/"
+      },
+      {
+        "LibVLCSharp Samples": "https://github.com//mfkl/libvlcsharp-samples"
+      },
+      {
+        "dav1d": "https://code.videolan.org/videolan/dav1d"
+      }
     ]
   },
   "rizel-scarlett-2": {
@@ -5164,14 +5175,14 @@
     "GuestName": "Rizel Scarlett Returns!",
     "GuestHandle": "https://x.com/blackgirlbytes",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Developers in the Agentic Loop",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "qgXY_n42JDk",
     "GuestBio": "Rizel Scarlett is a Principal Developer Advocate at Entire and a software engineer and community builder. She previously worked in developer advocacy roles at Block and GitHub and shares content about open source and AI agents.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/2hk8otRZdUuNXRaTBQpbOb",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/7aadf534-46d0-4243-972c-a13b6ccc604b/coffee-and-open-source-rizel-scarlett",
+    "APLink": "https://podcasts.apple.com/us/podcast/rizel-scarlett/id1589875016?i=1000771918818",
     "Socials": [
       {
         "X": "https://x.com/blackgirlbytes"
@@ -5224,6 +5235,48 @@
       },
       {
         "YouTube": "https://www.youtube.com/playlist?list=PLd-Kkce6KA23xB_EJuxSw8cmFD62BsMFR"
+      }
+    ]
+  },
+  "stacy-cashmore": {
+    "PartitionKey": "stacy-cashmore",
+    "RowKey": 20260623,
+    "DateTimeAsString": "06/23/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-06-23T18:00:00.000Z",
+    "GuestName": "Stacy Cashmore",
+    "GuestHandle": "https://x.com/Stacy_Cash",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Real World Productivity Using AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "Speaker, author, and software developer recognized with a Microsoft MVP Award for Developer Technologies. Stacy has been developing solutions since the mid-1990s across various industries. She authored Beginning Azure Static Web Apps and is passionate about Azure, DevOps, and empowering developers.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://x.com/Stacy_Cash"
+      },
+      {
+        "Blog": "https://www.stacy-clouds.net"
+      },
+      {
+        "LinkedIn": "https://nl.linkedin.com/in/stacycash"
+      },
+      {
+        "Mastodon": "https://tech.lgbt/@stacyclouds"
+      },
+      {
+        "BlueSky": "https://bsky.app/profile/stacy-clouds.net"
+      }
+    ],
+    "Links": [
+      {
+        "MVP Profile": "https://mvp.microsoft.com/en-US/MVP/profile/97f359d1-37e8-ea11-a813-000d3a8ccaf5"
+      },
+      {
+        "Sessionize": "https://sessionize.com/stacy-cashmore/"
       }
     ]
   }
