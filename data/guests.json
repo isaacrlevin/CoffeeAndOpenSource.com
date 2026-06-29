@@ -5279,5 +5279,33 @@
         "Sessionize": "https://sessionize.com/stacy-cashmore/"
       }
     ]
+  },
+  "golnaz-alibeigi": {
+    "PartitionKey": "golnaz-alibeigi",
+    "RowKey": 20260721,
+    "DateTimeAsString": "7/21/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-07-21T19:00:00.000Z",
+    "GuestName": "Golnaz Alibeigi",
+    "GuestHandle": "https://x.com/golnaz89",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Golnaz Alibeigi runs DevRel Studios at Microsoft and has spent 15 years producing video content for developers, from Channel 9 to Microsoft Developer on YouTube.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://x.com/golnaz89"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/golnaz89/"
+      },
+      {
+        "Blog": "https://golnazroughcut.com/"
+      }
+    ]
   }
 }
