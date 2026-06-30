@@ -5072,14 +5072,14 @@
     "GuestName": "Pavlo Baron",
     "GuestHandle": "https://www.linkedin.com/in/pavlobaron/",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Open Source IaC",
-    "YouTubeVideoId": "",
-    "GuestBio": "",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "LNJgcp6QEnI",
+    "GuestBio": "Pavlo Baron is co-founder and CEO of Platform Engineering Labs, creators of formae - Infrastructure-as-code made for humans in the AI era. Pavlo is looking back at a long career, having spent plenty of time on all sides of the table - in startups, enterprises and consulting. He was co-founder and CTO of Instana, that got acquired by IBM in 2020. Pavlo has spoken at many conferences and wrote 4 books.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://podcasters.spotify.com/pod/show/coffeandopensource/episodes/Pavlo-Baron-e3lg3n5",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/ac40f91f-7028-4205-a209-102e20ade2ab/coffee-and-open-source-pavlo-baron",
+    "APLink": "https://podcasts.apple.com/us/podcast/pavlo-baron/id1589875016?i=1000774897304",
     "Socials": [
       {
         "Blog": "https://pavlobaron.medium.com/"
