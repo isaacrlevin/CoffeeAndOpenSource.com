@@ -176,4 +176,6 @@ guests_refs:
 - jimmy-bogard
 - stacy-cashmore
 - golnaz-alibeigi
+- kevin-griffin
+- brady-gaster
 ---

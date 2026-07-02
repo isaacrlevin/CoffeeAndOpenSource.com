@@ -5289,7 +5289,7 @@
     "GuestHandle": "https://x.com/golnaz89",
     "GuestLink": "",
     "IsPublished": false,
-    "Topic": "",
+    "Topic": "Being non-technical in a technical world",
     "YouTubeVideoId": "",
     "GuestBio": "Golnaz Alibeigi runs DevRel Studios at Microsoft and has spent 15 years producing video content for developers, from Channel 9 to Microsoft Developer on YouTube.",
     "HaveAudio": false,
@@ -5305,6 +5305,80 @@
       },
       {
         "Blog": "https://golnazroughcut.com/"
+      }
+    ]
+  },
+  "kevin-griffin": {
+    "PartitionKey": "kevin-griffin",
+    "RowKey": 20260804,
+    "DateTimeAsString": "08/04/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-08-04T19:00:00.000Z",
+    "GuestName": "Kevin Griffin",
+    "GuestHandle": "https://consultwithgriff.com/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Kevin W. Griffin is an independent software consultant and 16-time Microsoft MVP specializing in ASP.NET Core, Microsoft Azure cloud architecture, SignalR real-time applications, and .NET modernization.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://twitter.com/1kevgriff"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/consultwithgriff.com"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/1kevgriff/"
+      },
+      {
+        "GitHub": "https://github.com/1kevgriff"
+      },
+      {
+        "YouTube": "https://youtube.com/swiftkick"
+      },
+      {
+        "Sessionize": "https://sessionize.com/kevingriffin/"
+      },
+      {
+        "Website": "https://consultwithgriff.com/"
+      }
+    ]
+  },
+  "brady-gaster": {
+    "PartitionKey": "brady-gaster",
+    "RowKey": 20260811,
+    "DateTimeAsString": "08/11/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-08-11T19:00:00.000Z",
+    "GuestName": "Brady Gaster",
+    "GuestHandle": "https://github.com/bradygaster",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Make AI Agents Work for You",
+    "YouTubeVideoId": "",
+    "GuestBio": "Brady Gaster is a PM Architect in the CoreAI division at Microsoft, where he works on apps, agents, MIDI, and Squad.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "GitHub": "https://github.com/bradygaster"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/bradygaster/"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/bradygaster.bsky.social"
+      },
+      {
+        "X": "https://x.com/t80chip"
+      },
+      {
+        "YouTube": "https://www.youtube.com/bradygaster"
       }
     ]
   }
