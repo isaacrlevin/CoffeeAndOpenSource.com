@@ -5381,5 +5381,42 @@
         "YouTube": "https://www.youtube.com/bradygaster"
       }
     ]
+  },
+  "ed-charbeneau": {
+    "PartitionKey": "ed-charbeneau",
+    "RowKey": 20260818,
+    "DateTimeAsString": "08/18/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-08-18T19:00:00.000Z",
+    "GuestName": "Ed Charbeneau",
+    "GuestHandle": "https://edcharbeneau.com/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "A Developer Advocate for Deepgram with over ten years of experience in advocacy, Ed Charbeneau focuses on fostering engagement with the developer community while supporting the development of innovative AI-Native  applications. With a diverse technical skill set, Ed contributes to building impactful solutions using a wide range of technologies including: C#, Asp.Net, HTML/CSS, JavaScript, Microsoft Extensions AI, RAG, and ML.NET technologies.  <br /><br />Ed leverages his role as a developer advocate to find new and innovative ways to expand the boundaries of product through customer feedback, research and hands-on development. Ed has built proof of concept frameworks, components, and SDKs that have gone on to production. These initiatives have future-proofed the Progress portfolio, empowered customers, and enabled product integration. <br /><br />Ed is passionate about empowering developers to explore opportunities in full-stack development, AI, machine learning, and prompt engineering. Ed facilitates discussions on emerging technology trends, fostering collaboration and knowledge-sharing within the tech community.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://edcharbeneau.com/"
+      },
+      {
+        "X": "https://twitter.com/edcharbeneau"
+      },
+      {
+        "GitHub": "https://github.com/EdCharbeneau"
+      },
+      {
+        "Mastodon": "https://fosstodon.org/@edcharbeneau"
+      },
+      {
+        "Twitch": "https://twitch.tv/edcharbeneau"
+      },
+      {
+        "YouTube": "https://www.youtube.com/edwardcharbeneau"
+      }
+    ]
   }
 }
