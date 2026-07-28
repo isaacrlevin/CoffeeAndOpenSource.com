@@ -5102,14 +5102,14 @@
     "GuestName": "Michael Washington",
     "GuestHandle": "https://twitter.com/ADefWebserver",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being a .NET Developer Today",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "8wI0qhxObzc",
     "GuestBio": "Michael Washington is an ASP.NET and C# programmer with experience in process improvement, billing systems, and student information systems. He is the founder of AiHelpWebsite.com and BlazorHelpWebsite.com.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/00Z6UkULSgfIOr8vjUkJN0",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/8feebfdd-74ef-4970-bf1b-296372f3445f/coffee-and-open-source-michael-washington",
+    "APLink": "https://podcasts.apple.com/us/podcast/michael-washington/id1589875016?i=1000778763715",
     "Socials": [
       {
         "Blog": "https://blazorhelpwebsite.com/"
@@ -5122,6 +5122,11 @@
       },
       {
         "YouTube": "https://www.youtube.com/user/adefwebserver"
+      }
+    ],
+    "Links": [
+      {
+        "BlazorDataOrchestrator": "https://blazordata.net/"
       }
     ]
   },
