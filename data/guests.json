@@ -5321,14 +5321,14 @@
     "GuestName": "Kevin Griffin",
     "GuestHandle": "https://consultwithgriff.com/",
     "GuestLink": "",
-    "IsPublished": false,
-    "Topic": "",
-    "YouTubeVideoId": "",
+    "IsPublished": true,
+    "Topic": "How AI actually works for developers",
+    "YouTubeVideoId": "Wms4XH0zL-o",
     "GuestBio": "Kevin W. Griffin is an independent software consultant and 16-time Microsoft MVP specializing in ASP.NET Core, Microsoft Azure cloud architecture, SignalR real-time applications, and .NET modernization.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/4hkurYHvvv2KVA850xCq4F",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/80ee6026-5106-4099-9962-111ea081e273/coffee-and-open-source-kevin-griffin",
+    "APLink": "https://podcasts.apple.com/us/podcast/kevin-griffin/id1589875016?i=1000779936909",
     "Socials": [
       {
         "X": "https://twitter.com/1kevgriff"

@@ -5,6 +5,7 @@ param(
 
     [string]$ContainerName = "interviews",
     [string]$StorageAccountName,
+    [string]$ConnectionString,
     [string]$BaseUrl = "https://podcasts.coffeeandopensource.com",
     [switch]$UseConnectedAccount
 )
@@ -24,7 +25,12 @@ if (-not (Get-Command az -ErrorAction SilentlyContinue)) {
 
 $BlobName = $resolvedFile.Name
 
-$connectionString = $env:AZURE_STORAGE_CONNECTION_STRING
+if ([string]::IsNullOrWhiteSpace($ConnectionString)) {
+    $processValue = [System.Environment]::GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING", "Process")
+    $userValue = [System.Environment]::GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING", "User")
+    $machineValue = [System.Environment]::GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING", "Machine")
+    $ConnectionString = @($processValue, $userValue, $machineValue) | Where-Object { -not [string]::IsNullOrWhiteSpace($_) } | Select-Object -First 1
+}
 
 if ([string]::IsNullOrWhiteSpace($StorageAccountName)) {
     $StorageAccountName = "coffeeandopensource"
@@ -40,7 +46,7 @@ $uploadArgs = @(
     "--content-type", "audio/mpeg"
 )
 
-if ([string]::IsNullOrWhiteSpace($connectionString)) {
+if ([string]::IsNullOrWhiteSpace($ConnectionString)) {
     if (-not [string]::IsNullOrWhiteSpace($StorageAccountName)) {
         $uploadArgs += @("--account-name", $StorageAccountName, "--auth-mode", "login")
     } elseif ($UseConnectedAccount) {
@@ -49,7 +55,7 @@ if ([string]::IsNullOrWhiteSpace($connectionString)) {
         throw "Set AZURE_STORAGE_CONNECTION_STRING environment variable or provide -StorageAccountName and sign in with 'az login'."
     }
 } else {
-    $uploadArgs += @("--connection-string", $connectionString)
+    $uploadArgs += @("--connection-string", $ConnectionString)
 }
 
 $null = & az @uploadArgs
