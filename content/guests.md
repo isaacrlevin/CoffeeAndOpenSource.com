@@ -148,6 +148,7 @@ guests_refs:
 - sarah-young
 - mark-techson
 - phil-nash
+- sam-basu
 - sydnee-mayers
 - jeff-williams
 - kat-cosgrove-2
@@ -157,6 +158,7 @@ guests_refs:
 - danny-thompson
 - keith-townsend
 - tim-heuer
+- mat-velloso
 - steve-smith
 - helen-hou-sandi
 - courtney-yatteau

@@ -5423,5 +5423,67 @@
         "YouTube": "https://www.youtube.com/edwardcharbeneau"
       }
     ]
+  },
+  "sam-basu": {
+    "PartitionKey": "sam-basu",
+    "RowKey": 20260901,
+    "DateTimeAsString": "09/01/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-09-01T18:00:00.000Z",
+    "GuestName": "Sam Basu",
+    "GuestHandle": "@samidip",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "AI-First Development",
+    "YouTubeVideoId": "",
+    "GuestBio": "Sam Basu is a developer advocate for Uno Platform, a 13-time Microsoft MVP, speaker, author, and streamer. He writes Modern Developer Ramblings about cross-platform development, AI, and developer productivity.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://samidipbasu.com/"
+      },
+      {
+        "X": "https://x.com/samidip"
+      },
+      {
+        "GitHub": "https://github.com/samidip"
+      },
+      {
+        "Twitch": "https://www.twitch.tv/codeitlive"
+      }
+    ]
+  },
+  "mat-velloso": {
+    "PartitionKey": "mat-velloso",
+    "RowKey": 20260908,
+    "DateTimeAsString": "09/08/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-09-08T18:00:00.000Z",
+    "GuestName": "Mat Velloso",
+    "GuestHandle": "https://www.linkedin.com/in/matvelloso/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "AI and the Future of Software Development",
+    "YouTubeVideoId": "",
+    "GuestBio": "Mat Velloso is the Chief Product Officer at Docker and an advisor and board member. He previously served as a vice president at Meta, Google DeepMind, and Microsoft.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/matvelloso/"
+      },
+      {
+        "GitHub": "https://github.com/matvelloso"
+      },
+      {
+        "X": "https://x.com/matvelloso"
+      },
+      {
+        "Website": "http://www.velloso.org"
+      }
+    ]
   }
 }
