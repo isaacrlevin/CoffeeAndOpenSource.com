@@ -1,4 +1,3 @@
-
 {
   "claire-novotny": {
     "PartitionKey": "claire-novotny",
@@ -5361,14 +5360,14 @@
     "GuestName": "Brady Gaster",
     "GuestHandle": "https://github.com/bradygaster",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Make AI Agents Work for You",
-    "YouTubeVideoId": "",
-    "GuestBio": "Brady Gaster is a PM Architect in the CoreAI division at Microsoft, where he works on apps, agents, MIDI, and Squad.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "YouTubeVideoId": "8XWxUAWeMJ4",
+    "GuestBio": "Based near Seattle, Brady Gaster aspires to make it easy for .NET developers to party in the cloud as the product manager behind Visual Studio’s Azure right-click publish and Connected Services features. He also helps with Aspire tooling support in Visual Studio and Visual Studio Code. When not designing new tooling features or building demos with teammates, he’s trail running 5Ks, parenting two teens, mixing new 174 BPM drum’n’bass sets, or producing his own electronic music.",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/7joG3tu4wk5Ppd3CrDrYTt",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/f9596fd8-d9f8-4754-bcb0-4373350f362a/coffee-and-open-source-brady-gaster",
+    "APLink": "https://podcasts.apple.com/us/podcast/brady-gaster/id1589875016?i=1000782811667",
     "Socials": [
       {
         "GitHub": "https://github.com/bradygaster"
@@ -5384,6 +5383,11 @@
       },
       {
         "YouTube": "https://www.youtube.com/bradygaster"
+      }
+    ],
+    "Links": [
+      {
+        "Squad": "https://bradygaster.github.io/squad/"
       }
     ]
   },

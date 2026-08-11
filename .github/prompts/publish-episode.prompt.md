@@ -5,7 +5,6 @@ Use this prompt when an episode already exists in `data/guests.json` and is read
 ## Inputs
 
 - Guest slug
-- YouTube video ID
 - Optional additional links or bio updates
 
 ## Goal
@@ -27,18 +26,18 @@ Mark the episode as published, fill in the platform links, and commit using the 
    - If there is an exact slug match or exact guest name match, copy that episode URL for that platform.
    - Do not use partial or fuzzy matches.
    - If no match is found for a platform, leave that platform link unchanged unless the user explicitly provided a verified replacement.
+4. Resolve the YouTube video ID:
+   - If the user provides a YouTube video ID, use that.
+   - If the user does not provide a YouTube video ID, attempt to find it by searching for the guest name and episode title on YouTube. Here is the url of the playlist where the episode is published: https://www.youtube.com/playlist?list=PL_IEvQa-oTVuHpV04ox9jVQbUUQT5V3zm
+   - If found, use that video ID. If not found, leave the `YouTubeVideoId` field unchanged unless the user explicitly provides a verified replacement.
 4. Set:
    - `IsPublished` to `true`
    - `HaveAudio` to `true`
-   - `YouTubeVideoId` to the supplied value
+   - `YouTubeVideoId` to the correct value (either user-supplied or discovered)
    - `SpotifyLink`, `AmazonLink`, and `APLink` using the matched URLs discovered in step 3 (or user-supplied verified links when explicitly provided)
 5. If the user provides other verified data such as a refined bio or additional links, update those fields too.
 6. Do not add `GPLink` unless the user explicitly provides it.
 7. If the user does not provide a YouTube video ID and wants help finding it, run `scripts/get-youtube-id.ps1` with the recording date and channel details from environment variables or explicit input.
-8. Stage only the files changed for this publish operation.
-9. If the user asked to publish, commit with the exact message `PUBLISH|guest-slug`.
-10. Push only when the user explicitly wants the workflow triggered immediately or the current branch is already `main`.
-11. If the worktree contains unrelated changes, avoid including them in the commit.
 
 ## Output expectations
 
