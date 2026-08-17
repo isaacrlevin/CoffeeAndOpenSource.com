@@ -5489,5 +5489,36 @@
         "Website": "http://www.velloso.org"
       }
     ]
+  },
+  "jason-torres": {
+    "PartitionKey": "jason-torres",
+    "RowKey": 20260922,
+    "DateTimeAsString": "09/22/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-09-22T18:00:00.000Z",
+    "GuestName": "Jason Torres",
+    "GuestHandle": "@TasonJorres",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "JavaScript, TypeScript and AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "Jason Torres is a London-based technology founder and CTO. He is the CTO and co-founder of Skillstore and the founder of BetterGov.ph, Mashup Garage, and Neon Playground, with experience building and scaling startups and open-source civic technology.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://twitter.com/TasonJorres"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/thejasontorres/"
+      },
+      {
+        "GitHub": "https://github.com/jasonetorres"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/jasontorres.bsky.social"
+      }
+    ]
   }
 }
