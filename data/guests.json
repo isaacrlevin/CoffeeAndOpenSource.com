@@ -5399,14 +5399,14 @@
     "GuestName": "Ed Charbeneau",
     "GuestHandle": "https://edcharbeneau.com/",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "0mmY5TsuvmQ",
     "GuestBio": "A Developer Advocate for Deepgram with over ten years of experience in advocacy, Ed Charbeneau focuses on fostering engagement with the developer community while supporting the development of innovative AI-Native  applications. With a diverse technical skill set, Ed contributes to building impactful solutions using a wide range of technologies including: C#, Asp.Net, HTML/CSS, JavaScript, Microsoft Extensions AI, RAG, and ML.NET technologies.  <br /><br />Ed leverages his role as a developer advocate to find new and innovative ways to expand the boundaries of product through customer feedback, research and hands-on development. Ed has built proof of concept frameworks, components, and SDKs that have gone on to production. These initiatives have future-proofed the Progress portfolio, empowered customers, and enabled product integration. <br /><br />Ed is passionate about empowering developers to explore opportunities in full-stack development, AI, machine learning, and prompt engineering. Ed facilitates discussions on emerging technology trends, fostering collaboration and knowledge-sharing within the tech community.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/0Uo0TbETK1Hc2aognbOjLx",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/a175636a-1717-4f3b-bdd3-ad6f4822dadc/coffee-and-open-source-ed-charbeneau",
+    "APLink": "https://podcasts.apple.com/us/podcast/ed-charbeneau/id1589875016?i=1000784165704",
     "Socials": [
       {
         "Website": "https://edcharbeneau.com/"
@@ -5425,6 +5425,11 @@
       },
       {
         "YouTube": "https://www.youtube.com/edwardcharbeneau"
+      }
+    ],
+    "Links": [
+      {
+        "Deepgram": "https://deepgram.com/"
       }
     ]
   },
