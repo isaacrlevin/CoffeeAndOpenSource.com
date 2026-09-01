@@ -5441,14 +5441,14 @@
     "GuestName": "Sam Basu",
     "GuestHandle": "@samidip",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "AI-First Development",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "BRIqZM1s7IE",
     "GuestBio": "Sam Basu is a developer advocate for Uno Platform, a 13-time Microsoft MVP, speaker, author, and streamer. He writes Modern Developer Ramblings about cross-platform development, AI, and developer productivity.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5gvMtNPbWOSsRHyvtE4pmP",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/5f626040-abbc-4fdb-b064-b24bee3a7369/coffee-and-open-source-sam-basu",
+    "APLink": "https://podcasts.apple.com/us/podcast/sam-basu/id1589875016?i=1000787255651",
     "Socials": [
       {
         "Blog": "https://samidipbasu.com/"
