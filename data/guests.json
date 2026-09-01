@@ -5465,6 +5465,11 @@
       {
         "BlueSky": "https://bsky.app/profile/samidip.bsky.social"
       }
+    ],
+    "Links": [
+      {
+        "Uno Platform": "https://platform.uno/"
+      }
     ]
   },
   "mat-velloso": {
