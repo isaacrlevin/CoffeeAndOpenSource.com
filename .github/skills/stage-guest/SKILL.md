@@ -1,6 +1,11 @@
+---
+name: stage-guest
+description: Stage a newly scheduled Coffee and Open Source guest in the site data. Use when asked to add, schedule, or stage a guest or an unpublished episode.
+---
+
 # Stage a New Guest
 
-Use this prompt when a new Coffee and Open Source episode is scheduled and needs to be staged in the site data.
+Use this skill when a new Coffee and Open Source episode is scheduled and needs to be staged in the site data.
 
 ## Inputs
 
