@@ -5533,5 +5533,36 @@
         "Bluesky": "https://bsky.app/profile/jasontorres.bsky.social"
       }
     ]
+  },
+  "carter-rabasa": {
+    "PartitionKey": "carter-rabasa",
+    "RowKey": 20260929,
+    "DateTimeAsString": "09/29/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-09-29T19:00:00.000Z",
+    "GuestName": "Carter Rabasa",
+    "GuestHandle": "@crtr0",
+    "GuestLink": "https://github.com/crtr0",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Carter Rabasa is a Seattle-based developer community organizer and investor in developer tool startups. He organizes SeattleJS and CascadiaJS.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "GitHub": "https://github.com/crtr0"
+      },
+      {
+        "X": "https://twitter.com/crtr0"
+      },
+      {
+        "SeattleJS": "https://seattlejs.com"
+      },
+      {
+        "CascadiaJS": "http://cascadiajs.com"
+      }
+    ]
   }
 }
