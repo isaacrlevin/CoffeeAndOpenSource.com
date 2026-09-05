@@ -5564,5 +5564,30 @@
         "CascadiaJS": "http://cascadiajs.com"
       }
     ]
+  },
+  "kevin-whinnery": {
+    "PartitionKey": "kevin-whinnery",
+    "RowKey": 20261013,
+    "DateTimeAsString": "10/13/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-10-13T19:00:00.000Z",
+    "GuestName": "Kevin Whinnery",
+    "GuestHandle": "https://www.kevin.mn/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Keeping Up with AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "Kevin Whinnery is a developer tools and developer experience leader who has worked in developer relations and engineering roles at companies including Stainless, OpenAI, Deno, Twilio, and Retool.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://www.kevin.mn/"
+      },
+      {
+        "GitHub": "https://github.com/kwhinnery"
+      }
+    ]
   }
 }
