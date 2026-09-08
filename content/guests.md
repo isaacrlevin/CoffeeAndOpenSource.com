@@ -183,4 +183,5 @@ guests_refs:
 - ed-charbeneau
 - jason-torres
 - carter-rabasa
+- kevin-whinnery
 ---
