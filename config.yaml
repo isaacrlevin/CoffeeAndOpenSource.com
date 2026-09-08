@@ -11,7 +11,6 @@ theme: hugo-refresh
 # The default value is the "asset" directory of this theme
 assetDir: "static"
 
-
 # Option to specify the default language of the theme
 # I.e., the landing language of your root
 DefaultContentLanguage: en
