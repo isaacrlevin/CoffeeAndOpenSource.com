@@ -5480,14 +5480,14 @@
     "GuestName": "Mat Velloso",
     "GuestHandle": "https://www.linkedin.com/in/matvelloso/",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "AI and the Future of Software Development",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "aroFutwcB3E",
     "GuestBio": "Mat Velloso is the Chief Product Officer at Docker and an advisor and board member. He previously served as a vice president at Meta, Google DeepMind, and Microsoft.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
-    "AmazonLink": "",
-    "APLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5x6gpxPMdBw5EMywIXUCS4",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/5c188d58-d845-4711-8853-24718e44ed80/coffee-and-open-source-mat-velloso",
+    "APLink": "https://podcasts.apple.com/us/podcast/mat-velloso/id1589875016?i=1000788531542",
     "Socials": [
       {
         "LinkedIn": "https://www.linkedin.com/in/matvelloso/"
