@@ -20,12 +20,11 @@ jobs:
 
       - name: Get Commit Info
         run: |
-          commit="${{ github.event.commits[0].message }}"
-          function=$(awk 'BEGIN{FS=OFS="|"} {print $1}' <<< ${commit})
-          link=$(awk 'BEGIN{FS=OFS="|"} {print $2}' <<< ${commit})
+          commit=$(jq -r '.head_commit.message // "" | split("\n")[0]' "$GITHUB_EVENT_PATH")
+          IFS='|' read -r function link <<< "$commit"
 
-          echo "FUNCTION=$function" >> $GITHUB_ENV
-          echo "LINK=$link" >> $GITHUB_ENV
+          printf 'FUNCTION=%s\n' "$function" >> "$GITHUB_ENV"
+          printf 'LINK=%s\n' "$link" >> "$GITHUB_ENV"
 
       - name: Show Commit Info
         run: |
