@@ -5588,5 +5588,38 @@
       "GitHub": "https://github.com/kwhinnery"
     }
   ]
-}
+  },
+  "jonathan-archer": {
+    "PartitionKey": "jonathan-archer",
+    "RowKey": 20261021,
+    "DateTimeAsString": "10/21/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-10-21T19:00:00.000Z",
+    "GuestName": "Jonathan Archer",
+    "GuestHandle": "https://www.linkedin.com/in/jonathan-archer1/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Jonathan Archer is co-founder and CEO of OpenLLM, an AI gateway that specializes in subscription routing. He specializes in go-to-market strategy and finding product-market fit.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/jonathan-archer1/"
+      },
+      {
+        "OpenLLM X": "https://x.com/OpenLLMsh"
+      },
+      {
+        "OpenLLM GitHub": "https://github.com/openllmsh"
+      }
+    ],
+    "Links": [
+      {
+        "OpenLLM": "https://www.openllm.sh/"
+      }
+    ]
+  }
 }
