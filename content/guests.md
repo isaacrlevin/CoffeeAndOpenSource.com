@@ -185,4 +185,5 @@ guests_refs:
 - carter-rabasa
 - kevin-whinnery
 - jonathan-archer
+- emily-lovell
 ---

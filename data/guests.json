@@ -5621,5 +5621,35 @@
         "OpenLLM": "https://www.openllm.sh/"
       }
     ]
+  },
+  "emily-lovell": {
+    "PartitionKey": "emily-lovell",
+    "RowKey": 20261103,
+    "DateTimeAsString": "11/03/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-11-03T19:00:00.000Z",
+    "GuestName": "Emily Lovell",
+    "GuestHandle": "https://www.linkedin.com/in/emilymarielovell/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Dr. Emily Lovell is Associate Director of the UC Santa Cruz Open Source Program Office and an Assistant Adjunct Professor of Computer Science and Engineering. She supports new open-source contributors through research, teaching, and mentorship. Previously on faculty at Berea College, she taught open-source contribution and computational craft, and designed LilyTiny, an open-source sewable microcontroller. She holds an S.M. in Media Arts and Sciences from the MIT Media Lab and a Ph.D. in Computer Science from UC Santa Cruz.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "LinkedIn": "https://www.linkedin.com/in/emilymarielovell/"
+      },
+      {
+        "GitHub": "https://github.com/emmet0r"
+      }
+    ],
+    "Links": [
+      {
+        "UCSC OSPO": "https://ucsc-ospo.github.io/author/emily-lovell/"
+      }
+    ]
   }
 }
