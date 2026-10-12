@@ -5651,5 +5651,44 @@
         "UCSC OSPO": "https://ucsc-ospo.github.io/author/emily-lovell/"
       }
     ]
+  },
+  "andrea-griffiths": {
+    "PartitionKey": "andrea-griffiths",
+    "RowKey": 20261201,
+    "DateTimeAsString": "12/01/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-12-01T19:00:00.000Z",
+    "GuestName": "Andrea Griffiths",
+    "GuestHandle": "https://andreagriffiths.dev/",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "From Army Veteran to GitHub: Building Inclusive Open Source Communities",
+    "YouTubeVideoId": "",
+    "GuestBio": "Andrea Griffiths is a Senior Developer Advocate at GitHub, an open-source advocate, and a U.S. Army veteran. She writes and speaks about developer tools, open source, and building inclusive technology communities.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "GitHub": "https://github.com/AndreaGriffiths11"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/andreagriffiths11"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/acolombiadev.bsky.social"
+      },
+      {
+        "X": "https://twitter.com/acolombiadev"
+      },
+      {
+        "DEV": "https://dev.to/andreagriffiths11"
+      }
+    ],
+    "Links": [
+      {
+        "Website": "https://andreagriffiths.dev/"
+      }
+    ]
   }
 }
