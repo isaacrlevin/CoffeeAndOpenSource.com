@@ -53,15 +53,17 @@ jobs:
           skip_app_build: true
 
       - name: Post to Socials
+        env:
+          MANAGEMENT_API_URL: ${{ vars.MANAGEMENT_API_URL }}
+          ADMIN_API_KEY: ${{ secrets.ADMIN_API_KEY }}
+          GUEST_KEY: ${{ env.LINK }}
         if: env.FUNCTION == 'PUBLISH' && always()
         id: socials
-        uses: fjogeleit/http-request-action@v1
-        with:
-          url: ${{ secrets.POST_API }}
-          method: POST
-          contentType: "application/json"
-          data: "${{ env.LINK }}"
-          timeout: 120000
+        run: |
+          curl --fail-with-body --request POST "$MANAGEMENT_API_URL/api/COSSPublishHttp" \
+            --header "X-Admin-Api-Key: $ADMIN_API_KEY" \
+            --header "Content-Type: application/json" \
+            --data "\"$GUEST_KEY\""
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
