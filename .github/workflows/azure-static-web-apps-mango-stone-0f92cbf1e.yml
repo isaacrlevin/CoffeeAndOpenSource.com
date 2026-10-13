@@ -60,7 +60,7 @@ jobs:
         if: env.FUNCTION == 'PUBLISH' && always()
         id: socials
         run: |
-          curl --fail-with-body --request POST "$MANAGEMENT_API_URL/api/COSSPublishHttp" \
+          curl --fail-with-body --request POST "$MANAGEMENT_API_URL/COSSPublishHttp" \
             --header "X-Admin-Api-Key: $ADMIN_API_KEY" \
             --header "Content-Type: application/json" \
             --data "\"$GUEST_KEY\""
