@@ -5609,7 +5609,7 @@
     "DateTimeAsString": "10/21/2026, 11:00:00 AM",
     "DateTimeUTC": "2026-10-21T19:00:00.000Z",
     "GuestName": "Jonathan Archer",
-    "GuestHandle": "https://www.linkedin.com/in/jonathan-archer1/",
+    "GuestHandle": "@apewithllm",
     "GuestLink": "",
     "IsPublished": true,
     "Topic": "",
@@ -5621,18 +5621,21 @@
     "APLink": "https://podcasts.apple.com/us/podcast/jonathan-archer/id1589875016?i=1000797497897",
     "Socials": [
       {
+        "X": "https://x.com/apewithllm"
+      },
+      {
         "LinkedIn": "https://www.linkedin.com/in/jonathan-archer1/"
+      }
+    ],
+    "Links": [
+      {
+        "OpenLLM": "https://www.openllm.sh/"
       },
       {
         "OpenLLM X": "https://x.com/OpenLLMsh"
       },
       {
         "OpenLLM GitHub": "https://github.com/openllmsh"
-      }
-    ],
-    "Links": [
-      {
-        "OpenLLM": "https://www.openllm.sh/"
       }
     ]
   },
@@ -5702,6 +5705,42 @@
     "Links": [
       {
         "Website": "https://andreagriffiths.dev/"
+      }
+    ]
+  },
+  "gwyneth-pena-siguenza": {
+    "PartitionKey": "gwyneth-pena-siguenza",
+    "RowKey": 20261208,
+    "DateTimeAsString": "12/08/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-12-08T19:00:00.000Z",
+    "GuestName": "Gwyneth Peña-Siguenza",
+    "GuestHandle": "https://x.com/madebygps",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Making Developer Experience a Team Sport",
+    "YouTubeVideoId": "",
+    "GuestBio": "Gwyneth Peña-Siguenza, known as GPS, works on GitHub's Developer Experience team, helping improve developer experience across GitHub.com through product feedback, conference talks, workshops, demos, and community engagement. GPS is also building Learn to Cloud, a cloud engineering learning resource.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://x.com/madebygps"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/madebygps"
+      },
+      {
+        "YouTube": "https://www.youtube.com/madebygps"
+      },
+        {
+        "Website": "https://www.madebygps.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Learn to Cloud": "https://learntocloud.guide/"
       }
     ]
   }
