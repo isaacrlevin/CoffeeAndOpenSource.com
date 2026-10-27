@@ -5292,14 +5292,14 @@
     "GuestName": "Golnaz Alibeigi",
     "GuestHandle": "https://x.com/golnaz89",
     "GuestLink": "",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being non-technical in a technical world",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "Jm6J7irAems",
     "GuestBio": "Golnaz Alibeigi runs DevRel Studios at Microsoft and has spent 15 years producing video content for developers, from Channel 9 to Microsoft Developer on YouTube.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/71ftwlS4dtJCX07yjylfL0",
     "AmazonLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/golnaz-alibeigi/id1589875016?i=1000798425983",
     "Socials": [
       {
         "X": "https://x.com/golnaz89"
