@@ -188,4 +188,6 @@ guests_refs:
 - emily-lovell
 - andrea-griffiths
 - gwyneth-pena-siguenza
+- mike-hartington
+- ran-aroussi
 ---

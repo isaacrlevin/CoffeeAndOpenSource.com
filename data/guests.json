@@ -5743,5 +5743,64 @@
         "Learn to Cloud": "https://learntocloud.guide/"
       }
     ]
+  },
+  "ran-aroussi": {
+    "PartitionKey": "ran-aroussi",
+    "RowKey": 20261117,
+    "DateTimeAsString": "11/17/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-11-17T19:00:00.000Z",
+    "GuestName": "Ran Aroussi",
+    "GuestHandle": "https://x.com/aroussi",
+    "GuestLink": "https://varops.com/",
+    "IsPublished": false,
+    "Topic": "",
+    "YouTubeVideoId": "",
+    "GuestBio": "Ran Aroussi is the founder of VarOps and Automaze and creator of yfinance, a widely used open-source financial data library. His work focuses on organizational memory, context engineering, local models, and agent infrastructure for enterprise AI.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Website": "https://varops.com/"
+      },
+      {
+        "X": "https://x.com/aroussi"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/aroussi/"
+      },
+      {
+        "YouTube": "https://www.youtube.com/playlist?list=PLWwTwUPfg-UU"
+      }
+    ]
+  },
+  "mike-hartington": {
+    "PartitionKey": "mike-hartington",
+    "RowKey": 20261215,
+    "DateTimeAsString": "12/15/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-12-15T19:00:00.000Z",
+    "GuestName": "Mike Hartington",
+    "GuestHandle": "https://twitter.com/mhartington",
+    "GuestLink": "https://mhartington.io/",
+    "IsPublished": false,
+    "Topic": "Building a reusable docs engine for Angular with Analog",
+    "YouTubeVideoId": "",
+    "GuestBio": "Mike Hartington is a developer, advocate, and teacher who writes about Angular and frontend development.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://twitter.com/mhartington"
+      },
+      {
+        "GitHub": "https://github.com/mhartington"
+      },
+      {
+        "Blog": "https://mhartington.io/"
+      }
+    ]
   }
 }
