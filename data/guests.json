@@ -5802,5 +5802,42 @@
         "Blog": "https://mhartington.io/"
       }
     ]
+  },
+  "karina-chow": {
+    "PartitionKey": "karina-chow",
+    "RowKey": 20261124,
+    "DateTimeAsString": "11/24/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-11-24T19:00:00.000Z",
+    "GuestName": "Karina Chow",
+    "GuestHandle": "https://bsky.app/profile/karinachowtime.com",
+    "GuestLink": "https://www.karinachowtime.com/",
+    "IsPublished": false,
+    "Topic": "Creative Technology at the Intersection of Art, Psychology, and Software",
+    "YouTubeVideoId": "",
+    "GuestBio": "Karina Chow is a creative technologist and engineering and design consultant who explores the intersection of art, psychology, and technology. Since 2020, she has run KACHOW! LLC, helping early-stage startups with software, product design, UX research, and animation. She also works part time as a New Media Exhibit Technician at San Francisco's Exploratorium. Previously, she spent over a decade in software engineering, including roles at Yammer, Honor, and Patreon.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Linktree": "https://linktr.ee/chowtime"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/karinachowtime.com"
+      },
+      {
+        "X": "https://twitter.com/karomancer"
+      },
+      {
+        "Instagram": "https://www.instagram.com/karinamakes/"
+      },
+      {
+        "Medium": "https://karomancer.medium.com/"
+      },
+      {
+        "Dribbble": "https://dribbble.com/karomancer"
+      }
+    ]
   }
 }
