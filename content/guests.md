@@ -191,4 +191,5 @@ guests_refs:
 - mike-hartington
 - ran-aroussi
 - karina-chow
+- elio-struyf
 ---

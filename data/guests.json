@@ -5839,5 +5839,53 @@
         "Dribbble": "https://dribbble.com/karomancer"
       }
     ]
+  },
+  "elio-struyf": {
+    "PartitionKey": "elio-struyf",
+    "RowKey": 20261222,
+    "DateTimeAsString": "12/22/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-12-22T19:00:00.000Z",
+    "GuestName": "Elio Struyf",
+    "GuestHandle": "https://bsky.app/profile/eliostruyf.com",
+    "GuestLink": "https://eliostruyf.com/",
+    "IsPublished": false,
+    "Topic": "Building Open Source Developer Tools in VS Code",
+    "YouTubeVideoId": "",
+    "GuestBio": "Elio Struyf is an independent Solutions Architect, blogger, and speaker who works with Microsoft 365, Azure, Visual Studio Code, and developer tooling. He creates open-source tools including Front Matter CMS and Demo Time, and shares his work through writing and talks.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "Blog": "https://eliostruyf.com/"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/eliostruyf.com"
+      },
+      {
+        "X": "https://twitter.com/eliostruyf"
+      },
+      {
+        "YouTube": "https://youtube.com/@eliostruyf"
+      },
+      {
+        "Instagram": "https://instagram.com/eliostruyf"
+      },
+      {
+        "LinkedIn": "http://be.linkedin.com/in/estruyf"
+      },
+      {
+        "GitHub": "https://github.com/estruyf"
+      }
+    ],
+    "Links": [
+      {
+        "Front Matter CMS": "https://frontmatter.codes/"
+      },
+      {
+        "Demo Time": "https://demotime.show/"
+      }
+    ]
   }
 }

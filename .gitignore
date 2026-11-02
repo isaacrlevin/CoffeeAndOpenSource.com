@@ -49,3 +49,4 @@ deploy-stage.ps1
 .playwright-mcp/
 
 resources/
+.idea/workspace.xml
