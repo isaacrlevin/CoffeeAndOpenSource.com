@@ -5887,5 +5887,35 @@
         "Demo Time": "https://demotime.show/"
       }
     ]
+  },
+  "vlad-ionescu-2": {
+    "PartitionKey": "vlad-ionescu-2",
+    "RowKey": 20270105,
+    "DateTimeAsString": "01/05/2027, 11:00:00 AM",
+    "DateTimeUTC": "2027-01-05T19:00:00.000Z",
+    "GuestName": "Vlad Ionescu Returns!",
+    "GuestHandle": "https://twitter.com/VladAIonescu",
+    "GuestLink": "",
+    "IsPublished": false,
+    "Topic": "Setting Standard for AI",
+    "YouTubeVideoId": "",
+    "GuestBio": "Founder of Earthly, Founder of ShiftLeft, exGoogle, exVMware engineer, early team member of RabbitMQ team.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "X": "https://twitter.com/VladAIonescu"
+      },
+      {
+        "Blog": "https://vladaionescu.com/"
+      }
+    ],
+    "Links": [
+      {
+        "Earthly": "https://earthly.dev/"
+      }
+    ]
   }
 }

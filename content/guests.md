@@ -192,4 +192,5 @@ guests_refs:
 - ran-aroussi
 - karina-chow
 - elio-struyf
+- vlad-ionescu-2
 ---
