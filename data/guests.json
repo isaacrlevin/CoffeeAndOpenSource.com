@@ -5758,7 +5758,7 @@
     "GuestBio": "Ran Aroussi is the founder of VarOps and Automaze and creator of yfinance, a widely used open-source financial data library. His work focuses on organizational memory, context engineering, local models, and agent infrastructure for enterprise AI.",
     "HaveAudio": true,
     "SpotifyLink": "https://open.spotify.com/episode/5UlrxGjCkTjQ9G5mL7K8Ld",
-    "AmazonLink": "",
+    "AmazonLink": "https://music.amazon.com/podcasts/a1654aba-248a-4780-add5-b49d6dabb3d4/episodes/cacc9ee8-6ae1-48a8-954c-33056459e8b5/coffee-and-open-source-ran-aroussi",
     "APLink": "https://podcasts.apple.com/us/podcast/ran-aroussi/id1589875016?i=1000802546212",
     "Socials": [
       {
@@ -5772,6 +5772,9 @@
       },
       {
         "YouTube": "https://www.youtube.com/playlist?list=PLWwTwUPfg-UU"
+      },
+      {
+        "GitHub": "https://github.com/ranaroussi"
       }
     ]
   },
