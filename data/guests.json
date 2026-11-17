@@ -5752,14 +5752,14 @@
     "GuestName": "Ran Aroussi",
     "GuestHandle": "https://x.com/aroussi",
     "GuestLink": "https://varops.com/",
-    "IsPublished": false,
+    "IsPublished": true,
     "Topic": "Being a Developer in the Middle",
-    "YouTubeVideoId": "",
+    "YouTubeVideoId": "SVN_QMNBvuQ",
     "GuestBio": "Ran Aroussi is the founder of VarOps and Automaze and creator of yfinance, a widely used open-source financial data library. His work focuses on organizational memory, context engineering, local models, and agent infrastructure for enterprise AI.",
-    "HaveAudio": false,
-    "SpotifyLink": "",
+    "HaveAudio": true,
+    "SpotifyLink": "https://open.spotify.com/episode/5UlrxGjCkTjQ9G5mL7K8Ld",
     "AmazonLink": "",
-    "APLink": "",
+    "APLink": "https://podcasts.apple.com/us/podcast/ran-aroussi/id1589875016?i=1000802546212",
     "Socials": [
       {
         "Website": "https://varops.com/"
