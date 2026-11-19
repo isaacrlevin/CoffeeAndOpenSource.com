@@ -193,4 +193,5 @@ guests_refs:
 - karina-chow
 - elio-struyf
 - vlad-ionescu-2
+- hassan-habib
 ---

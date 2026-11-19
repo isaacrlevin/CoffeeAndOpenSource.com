@@ -5920,5 +5920,50 @@
         "Earthly": "https://earthly.dev/"
       }
     ]
+  },
+  "hassan-habib": {
+    "PartitionKey": "hassan-habib",
+    "RowKey": 20261229,
+    "DateTimeAsString": "12/29/2026, 11:00:00 AM",
+    "DateTimeUTC": "2026-12-29T19:00:00.000Z",
+    "GuestName": "Hassan Habib",
+    "GuestHandle": "https://x.com/HassanRezkHabib",
+    "GuestLink": "https://www.hassanhabib.com/",
+    "IsPublished": false,
+    "Topic": "Decentralized AI and the Future of Community-Powered LLMs",
+    "YouTubeVideoId": "",
+    "GuestBio": "Hassan Habib is an engineer, author of The Standard, and open-source advocate. He founded a global open-source community focused on free education, free healthcare, and better software, and is building PeerLLM, a decentralized network for running open-source AI models on community hardware.",
+    "HaveAudio": false,
+    "SpotifyLink": "",
+    "AmazonLink": "",
+    "APLink": "",
+    "Socials": [
+      {
+        "GitHub": "https://github.com/hassanhabib"
+      },
+      {
+        "LinkedIn": "https://www.linkedin.com/in/hassanrezkhabib"
+      },
+      {
+        "X": "https://x.com/HassanRezkHabib"
+      },
+      {
+        "YouTube": "https://www.youtube.com/@HassanHabib"
+      },
+      {
+        "Bluesky": "https://bsky.app/profile/hassanhabib.bsky.social"
+      },
+      {
+        "Website": "https://www.hassanhabib.com/"
+      }
+    ],
+    "Links": [
+      {
+        "PeerLLM": "https://www.peerllm.com/"
+      },
+      {
+        "The Standard": "https://github.com/hassanhabib/The-Standard"
+      }
+    ]
   }
 }
